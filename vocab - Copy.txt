@@ -1,0 +1,19 @@
+NewWord "to arrest"
+Word "new guy" True
+NewWord "cleaning"
+Word "dirty, filthy" True
+Word "feeling" True
+NewWord "to leak a secret"
+NewWord "subtle, different"
+NewWord "department"
+NewWord "in charge"
+NewWord "subordinate"
+NewWord "to hold in one's mouth"
+Word "boss, company president" True
+NewWord "salary"
+Word "necessary" True
+NewWord "to educate"
+NewWord "end"
+NewWord "to start over"
+NewWord "idiot"
+NewWord "cleaning (2)"

@@ -1,0 +1,915 @@
+{
+    "name": "Genki Chapter 15 Vocabulary",
+    "vocab": [
+        {
+            "answer": "えいがかん (movie theater)",
+            "failed": 0,
+            "lastAsked": 1358358728.675668,
+            "question": "What is the pronunciation of \"映画館\"?",
+            "tried": 1
+        },
+        {
+            "answer": "映画館 (えいがかん)",
+            "failed": 1,
+            "lastAsked": 1358358703.038105,
+            "question": "Given the definition \"movie theater\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "to sell (うる)",
+            "failed": 0,
+            "lastAsked": 1358358720.333834,
+            "question": "What is the definition of \"売る\"?",
+            "tried": 1
+        },
+        {
+            "answer": "発表 (はっぴょう)",
+            "failed": 1,
+            "lastAsked": 1358359029.047702,
+            "question": "Given the definition \"presentation\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "to be visible (みえる)",
+            "failed": 0,
+            "lastAsked": 1358358707.971598,
+            "question": "What is the definition of \"見える\"?",
+            "tried": 1
+        },
+        {
+            "answer": "～番 (～ばん)",
+            "failed": 1,
+            "lastAsked": 1358358998.396637,
+            "question": "Given the definition \"number...\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "～目 (～め)",
+            "failed": 0,
+            "lastAsked": 1358358885.044303,
+            "question": "Given the definition \"-th\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "うる (to sell)",
+            "failed": 0,
+            "lastAsked": 1358358713.983199,
+            "question": "What is the pronunciation of \"売る\"?",
+            "tried": 1
+        },
+        {
+            "answer": "卒業式 (そつぎょうしき)",
+            "failed": 2,
+            "lastAsked": 1358359503.76758,
+            "question": "Given the definition \"graduation ceremony\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "番組 (ばんぐみ)",
+            "failed": 1,
+            "lastAsked": 1358359481.79458,
+            "question": "Given the definition \"broadcast program\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "庭 (にわ)",
+            "failed": 2,
+            "lastAsked": 1358359460.39058,
+            "question": "Given the definition \"garden\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "soba noodles",
+            "failed": 0,
+            "lastAsked": 1358359114.341231,
+            "question": "What is the definition of \"そば\"?",
+            "tried": 1
+        },
+        {
+            "answer": "観光 (かんこう)",
+            "failed": 2,
+            "lastAsked": 1358359523.07158,
+            "question": "Given the definition \"sightseeing\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "ひろい (spacious; wide)",
+            "failed": 0,
+            "lastAsked": 1358359119.667763,
+            "question": "What is the pronunciation of \"広い\"?",
+            "tried": 1
+        },
+        {
+            "answer": "しゅうかん (custom)",
+            "failed": 1,
+            "lastAsked": 1358359378.479642,
+            "question": "What is the pronunciation of \"習慣\"?",
+            "tried": 2
+        },
+        {
+            "answer": "かく",
+            "failed": 1,
+            "lastAsked": 1358359109.994796,
+            "question": "Given the definition \"to draw; to paint\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "swimming pool",
+            "failed": 0,
+            "lastAsked": 1358359564.28858,
+            "question": "What is the definition of \"プール\"?",
+            "tried": 1
+        },
+        {
+            "answer": "さいきん (recently)",
+            "failed": 0,
+            "lastAsked": 1358359529.37258,
+            "question": "What is the pronunciation of \"最近\"?",
+            "tried": 1
+        },
+        {
+            "answer": "でんち (battery)",
+            "failed": 0,
+            "lastAsked": 1358359541.10758,
+            "question": "What is the pronunciation of \"電池\"?",
+            "tried": 1
+        },
+        {
+            "answer": "広い (ひろい)",
+            "failed": 0,
+            "lastAsked": 1358359559.03058,
+            "question": "Given the definition \"spacious; wide\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "する",
+            "failed": 0,
+            "lastAsked": 1358359533.64158,
+            "question": "Given the definition \"to decide on an item (に)\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "にわ (garden)",
+            "failed": 0,
+            "lastAsked": 1358359569.03358,
+            "question": "What is the pronunciation of \"庭\"?",
+            "tried": 1
+        },
+        {
+            "answer": "おろす (to withdraw money)",
+            "failed": 0,
+            "lastAsked": 1358359581.62458,
+            "question": "What is the pronunciation of \"下ろす\"?",
+            "tried": 1
+        },
+        {
+            "answer": "しめきり (deadline)",
+            "failed": 0,
+            "lastAsked": 1358359577.53558,
+            "question": "What is the pronunciation of \"締め切り\"?",
+            "tried": 1
+        },
+        {
+            "answer": "かんこう (sightseeing)",
+            "failed": 0,
+            "lastAsked": 1358359725.67058,
+            "question": "What is the pronunciation of \"観光\"?",
+            "tried": 1
+        },
+        {
+            "answer": "最近 (さいきん)",
+            "failed": 1,
+            "lastAsked": 1358359763.22658,
+            "question": "Given the definition \"recently\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "to look for (さがす)",
+            "failed": 1,
+            "lastAsked": 1358359768.67858,
+            "question": "What is the definition of \"探す\"?",
+            "tried": 2
+        },
+        {
+            "answer": "よやくする (to reserve)",
+            "failed": 1,
+            "lastAsked": 1358359747.05158,
+            "question": "What is the pronunciation of \"予約する\"?",
+            "tried": 2
+        },
+        {
+            "answer": "furniture (かぐ)",
+            "failed": 0,
+            "lastAsked": 1358359592.14258,
+            "question": "What is the definition of \"家具\"?",
+            "tried": 1
+        },
+        {
+            "answer": "to withdraw money (おろす)",
+            "failed": 1,
+            "lastAsked": 1358359774.55458,
+            "question": "What is the definition of \"下ろす\"?",
+            "tried": 2
+        },
+        {
+            "answer": "foreigner (がいこくじん)",
+            "failed": 0,
+            "lastAsked": 1358359596.52958,
+            "question": "What is the definition of \"外国人\"?",
+            "tried": 1
+        },
+        {
+            "answer": "number... (～ばん)",
+            "failed": 0,
+            "lastAsked": 1358359666.17458,
+            "question": "What is the definition of \"～番\"?",
+            "tried": 1
+        },
+        {
+            "answer": "map (ちず)",
+            "failed": 0,
+            "lastAsked": 1358359789.95658,
+            "question": "What is the definition of \"地図\"?",
+            "tried": 1
+        },
+        {
+            "answer": "movie theater (えいがかん)",
+            "failed": 0,
+            "lastAsked": 1358359786.07958,
+            "question": "What is the definition of \"映画館\"?",
+            "tried": 1
+        },
+        {
+            "answer": "家具 (かぐ)",
+            "failed": 1,
+            "lastAsked": 1358360057.52758,
+            "question": "Given the definition \"furniture\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "schedule (よてい)",
+            "failed": 1,
+            "lastAsked": 1358360023.49758,
+            "question": "What is the definition of \"予定\"?",
+            "tried": 2
+        },
+        {
+            "answer": "地図 (ちず)",
+            "failed": 2,
+            "lastAsked": 1358360038.28958,
+            "question": "Given the definition \"map\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "そつぎょうする (to graduate from (を))",
+            "failed": 0,
+            "lastAsked": 1358359844.15858,
+            "question": "What is the pronunciation of \"卒業する\"?",
+            "tried": 1
+        },
+        {
+            "answer": "しらべる (to look into a matter (を))",
+            "failed": 0,
+            "lastAsked": 1358359781.28558,
+            "question": "What is the pronunciation of \"調べる\"?",
+            "tried": 1
+        },
+        {
+            "answer": "税金 (ぜいきん)",
+            "failed": 2,
+            "lastAsked": 1358360077.54958,
+            "question": "Given the definition \"tax\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "誘う (さそう)",
+            "failed": 1,
+            "lastAsked": 1358360629.887784,
+            "question": "Given the definition \"to invite\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "よてい (schedule)",
+            "failed": 0,
+            "lastAsked": 1358360088.78258,
+            "question": "What is the pronunciation of \"予定\"?",
+            "tried": 1
+        },
+        {
+            "answer": "すてる (to throw away)",
+            "failed": 0,
+            "lastAsked": 1358360155.78858,
+            "question": "What is the pronunciation of \"捨てる\"?",
+            "tried": 1
+        },
+        {
+            "answer": "電池 (でんち)",
+            "failed": 1,
+            "lastAsked": 1358360649.894785,
+            "question": "Given the definition \"battery\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "garden (にわ)",
+            "failed": 0,
+            "lastAsked": 1358360082.99658,
+            "question": "What is the definition of \"庭\"?",
+            "tried": 1
+        },
+        {
+            "answer": "earthquake (じしん)",
+            "failed": 1,
+            "lastAsked": 1358360654.436239,
+            "question": "What is the definition of \"自身\"?",
+            "tried": 2
+        },
+        {
+            "answer": "保険に入る (ほけんにはいる)",
+            "failed": 1,
+            "lastAsked": 1358360677.542549,
+            "question": "Given the definition \"to buy insurance\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "習慣 (しゅうかん)",
+            "failed": 2,
+            "lastAsked": 1358360763.523147,
+            "question": "Given the definition \"custom\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "to date someone (と), to keep company (に) (つきあう)",
+            "failed": 1,
+            "lastAsked": 1358360990.955888,
+            "question": "What is the definition of \"付き合う\"?",
+            "tried": 2
+        },
+        {
+            "answer": "to throw away (すてる)",
+            "failed": 0,
+            "lastAsked": 1358360837.245518,
+            "question": "What is the definition of \"捨てる\"?",
+            "tried": 1
+        },
+        {
+            "answer": "捨てる (すてる)",
+            "failed": 3,
+            "lastAsked": 1358360977.184511,
+            "question": "Given the definition \"to throw away\", what is the word?",
+            "tried": 5
+        },
+        {
+            "answer": "探す (さがす)",
+            "failed": 4,
+            "lastAsked": 1358361007.368529,
+            "question": "Given the definition \"to look for\", what is the word?",
+            "tried": 6
+        },
+        {
+            "answer": "discount coupon (わりびきけん)",
+            "failed": 2,
+            "lastAsked": 1358360778.552649,
+            "question": "What is the definition of \"割引券\"?",
+            "tried": 4
+        },
+        {
+            "answer": "custom (しゅうかん)",
+            "failed": 2,
+            "lastAsked": 1358360832.602054,
+            "question": "What is the definition of \"習慣\"?",
+            "tried": 4
+        },
+        {
+            "answer": "to decide on an item (に)",
+            "failed": 2,
+            "lastAsked": 1358360921.17591,
+            "question": "What is the definition of \"する\"?",
+            "tried": 4
+        },
+        {
+            "answer": "tax (ぜいきん)",
+            "failed": 1,
+            "lastAsked": 1358360915.820375,
+            "question": "What is the definition of \"税金\"?",
+            "tried": 3
+        },
+        {
+            "answer": "結婚式 (けっこんしき)",
+            "failed": 1,
+            "lastAsked": 1358186984.776822,
+            "question": "Given the definition \"wedding\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "旅館 (りょかん)",
+            "failed": 1,
+            "lastAsked": 1358273596.027168,
+            "question": "Given the definition \"inn\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "着く (つく)",
+            "failed": 1,
+            "lastAsked": 1358186891.470492,
+            "question": "Given the definition \"to arrive\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "to buy insurance (ほけんにはいる)",
+            "failed": 1,
+            "lastAsked": 1358274065.22181,
+            "question": "What is the definition of \"保険に入る\"?",
+            "tried": 2
+        },
+        {
+            "answer": "さがす (to look for)",
+            "failed": 1,
+            "lastAsked": 1358273516.512217,
+            "question": "What is the pronunciation of \"探す\"?",
+            "tried": 2
+        },
+        {
+            "answer": "売る (うる)",
+            "failed": 1,
+            "lastAsked": 1358272766.118185,
+            "question": "Given the definition \"to sell\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "卒業する (そつぎょうする)",
+            "failed": 1,
+            "lastAsked": 1358273542.109777,
+            "question": "Given the definition \"to graduate from (を)\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "painting, picture, drawing (え)",
+            "failed": 1,
+            "lastAsked": 1358272548.055018,
+            "question": "What is the definition of \"絵\"?",
+            "tried": 2
+        },
+        {
+            "answer": "きをつける (to be cautious/careful)",
+            "failed": 1,
+            "lastAsked": 1358272880.536626,
+            "question": "What is the pronunciation of \"気をつける\"?",
+            "tried": 2
+        },
+        {
+            "answer": "かぐ (furniture)",
+            "failed": 1,
+            "lastAsked": 1358273551.63973,
+            "question": "What is the pronunciation of \"家具\"?",
+            "tried": 2
+        },
+        {
+            "answer": "もう一度 (もういちど)",
+            "failed": 1,
+            "lastAsked": 1358272539.375018,
+            "question": "Given the definition \"one more time\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "sightseeing (かんこう)",
+            "failed": 1,
+            "lastAsked": 1358273751.26669,
+            "question": "What is the definition of \"観光\"?",
+            "tried": 2
+        },
+        {
+            "answer": "絵 (え)",
+            "failed": 1,
+            "lastAsked": 1358272748.131387,
+            "question": "Given the definition \"painting, picture, drawing\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "予定 (よてい)",
+            "failed": 1,
+            "lastAsked": 1358186948.336178,
+            "question": "Given the definition \"schedule\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "～について",
+            "failed": 1,
+            "lastAsked": 1358274074.67981,
+            "question": "Given the definition \"about...; concerning...\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "自身 (じしん)",
+            "failed": 1,
+            "lastAsked": 1358273908.77644,
+            "question": "Given the definition \"earthquake\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "つく (to arrive)",
+            "failed": 1,
+            "lastAsked": 1358272753.372911,
+            "question": "What is the pronunciation of \"着く\"?",
+            "tried": 2
+        },
+        {
+            "answer": "予約する (よやくする)",
+            "failed": 1,
+            "lastAsked": 1358273740.847648,
+            "question": "Given the definition \"to reserve\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "to reserve (よやくする)",
+            "failed": 1,
+            "lastAsked": 1358186908.997245,
+            "question": "What is the definition of \"予約する\"?",
+            "tried": 2
+        },
+        {
+            "answer": "to invite (さそう)",
+            "failed": 1,
+            "lastAsked": 1358272896.38221,
+            "question": "What is the definition of \"誘う\"?",
+            "tried": 2
+        },
+        {
+            "answer": "割引券 (わりびきけん)",
+            "failed": 1,
+            "lastAsked": 1358273574.705036,
+            "question": "Given the definition \"discount coupon\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "調べる (しらべる)",
+            "failed": 1,
+            "lastAsked": 1358272782.626836,
+            "question": "Given the definition \"to look into a matter (を)\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "presentation (はっぴょう)",
+            "failed": 1,
+            "lastAsked": 1358273882.506813,
+            "question": "What is the definition of \"発表\"?",
+            "tried": 2
+        },
+        {
+            "answer": "ばんぐみ (broadcast program)",
+            "failed": 1,
+            "lastAsked": 1358272902.601832,
+            "question": "What is the pronunciation of \"番組\"?",
+            "tried": 2
+        },
+        {
+            "answer": "～め (-th)",
+            "failed": 1,
+            "lastAsked": 1358186902.492595,
+            "question": "What is the pronunciation of \"～目\"?",
+            "tried": 2
+        },
+        {
+            "answer": "付き合う (つきあう)",
+            "failed": 1,
+            "lastAsked": 1358273446.93326,
+            "question": "Given the definition \"to date someone (と), to keep company (に)\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "about...; concerning...",
+            "failed": 1,
+            "lastAsked": 1358186925.735919,
+            "question": "What is the definition of \"～について\"?",
+            "tried": 2
+        },
+        {
+            "answer": "...but; ...so",
+            "failed": 1,
+            "lastAsked": 1358273877.724335,
+            "question": "What is the definition of \"～けど\"?",
+            "tried": 2
+        },
+        {
+            "answer": "締め切り (しめきり)",
+            "failed": 1,
+            "lastAsked": 1358272390.388018,
+            "question": "Given the definition \"deadline\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "つきあう (to date someone (と), to keep company (に))",
+            "failed": 0,
+            "lastAsked": 1358273855.947157,
+            "question": "What is the pronunciation of \"付き合う\"?",
+            "tried": 1
+        },
+        {
+            "answer": "-th (～め)",
+            "failed": 0,
+            "lastAsked": 1358272123.650018,
+            "question": "What is the definition of \"～目\"?",
+            "tried": 1
+        },
+        {
+            "answer": "一日中 (いちにちじゅう)",
+            "failed": 0,
+            "lastAsked": 1358272451.748018,
+            "question": "Given the definition \"all day long\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "りょかん (inn)",
+            "failed": 0,
+            "lastAsked": 1358274059.57381,
+            "question": "What is the pronunciation of \"旅館\"?",
+            "tried": 1
+        },
+        {
+            "answer": "気をつける (きをつける)",
+            "failed": 0,
+            "lastAsked": 1358272634.007976,
+            "question": "Given the definition \"to be cautious/careful\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "to graduate from (を) (そつぎょうする)",
+            "failed": 0,
+            "lastAsked": 1358272404.407018,
+            "question": "What is the definition of \"卒業する\"?",
+            "tried": 1
+        },
+        {
+            "answer": "ほけんにはいる (to buy insurance)",
+            "failed": 0,
+            "lastAsked": 1358274090.90581,
+            "question": "What is the pronunciation of \"保険に入る\"?",
+            "tried": 1
+        },
+        {
+            "answer": "～けど",
+            "failed": 0,
+            "lastAsked": 1358274034.97781,
+            "question": "Given the definition \"...but; ...so\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "deadline (しめきり)",
+            "failed": 0,
+            "lastAsked": 1358272840.023575,
+            "question": "What is the definition of \"締め切り\"?",
+            "tried": 1
+        },
+        {
+            "answer": "wedding (けっこんしき)",
+            "failed": 0,
+            "lastAsked": 1358187116.16796,
+            "question": "What is the definition of \"結婚式\"?",
+            "tried": 1
+        },
+        {
+            "answer": "graduation ceremony (そつぎょうしき)",
+            "failed": 0,
+            "lastAsked": 1358272516.644018,
+            "question": "What is the definition of \"卒業式\"?",
+            "tried": 1
+        },
+        {
+            "answer": "いちにちじゅう (all day long)",
+            "failed": 0,
+            "lastAsked": 1358272666.615236,
+            "question": "What is the pronunciation of \"一日中\"?",
+            "tried": 1
+        },
+        {
+            "answer": "ちず (map)",
+            "failed": 0,
+            "lastAsked": 1358273777.314295,
+            "question": "What is the pronunciation of \"地図\"?",
+            "tried": 1
+        },
+        {
+            "answer": "けっこんしき (wedding)",
+            "failed": 0,
+            "lastAsked": 1358272163.107018,
+            "question": "What is the pronunciation of \"結婚式\"?",
+            "tried": 1
+        },
+        {
+            "answer": "プール",
+            "failed": 0,
+            "lastAsked": 1358272653.126887,
+            "question": "Given the definition \"swimming pool\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "ペット",
+            "failed": 0,
+            "lastAsked": 1358274028.80781,
+            "question": "Given the definition \"pet\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "spacious; wide (ひろい)",
+            "failed": 0,
+            "lastAsked": 1358186830.045351,
+            "question": "What is the definition of \"広い\"?",
+            "tried": 1
+        },
+        {
+            "answer": "～ばん (number...)",
+            "failed": 0,
+            "lastAsked": 1358274106.62181,
+            "question": "What is the pronunciation of \"～番\"?",
+            "tried": 1
+        },
+        {
+            "answer": "one more time (もういちど)",
+            "failed": 0,
+            "lastAsked": 1358273716.636228,
+            "question": "What is the definition of \"もう一度\"?",
+            "tried": 1
+        },
+        {
+            "answer": "もういちど (one more time)",
+            "failed": 0,
+            "lastAsked": 1358274023.99181,
+            "question": "What is the pronunciation of \"もう一度\"?",
+            "tried": 1
+        },
+        {
+            "answer": "broadcast program (ばんぐみ)",
+            "failed": 0,
+            "lastAsked": 1358274082.53081,
+            "question": "What is the definition of \"番組\"?",
+            "tried": 1
+        },
+        {
+            "answer": "わりびきけん (discount coupon)",
+            "failed": 0,
+            "lastAsked": 1358272794.831056,
+            "question": "What is the pronunciation of \"割引券\"?",
+            "tried": 1
+        },
+        {
+            "answer": "jacket",
+            "failed": 0,
+            "lastAsked": 1358272312.896018,
+            "question": "What is the definition of \"ジャケット\"?",
+            "tried": 1
+        },
+        {
+            "answer": "下ろす (おろす)",
+            "failed": 0,
+            "lastAsked": 1358272153.260018,
+            "question": "Given the definition \"to withdraw money\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "battery (でんち)",
+            "failed": 0,
+            "lastAsked": 1358273917.933355,
+            "question": "What is the definition of \"電池\"?",
+            "tried": 1
+        },
+        {
+            "answer": "to look into a matter (を) (しらべる)",
+            "failed": 0,
+            "lastAsked": 1358274200.04981,
+            "question": "What is the definition of \"調べる\"?",
+            "tried": 1
+        },
+        {
+            "answer": "みえる (to be visible)",
+            "failed": 0,
+            "lastAsked": 1358273757.385302,
+            "question": "What is the pronunciation of \"見える\"?",
+            "tried": 1
+        },
+        {
+            "answer": "さそう (to invite)",
+            "failed": 0,
+            "lastAsked": 1358273637.705335,
+            "question": "What is the pronunciation of \"誘う\"?",
+            "tried": 1
+        },
+        {
+            "answer": "to be cautious/careful (きをつける)",
+            "failed": 0,
+            "lastAsked": 1358273711.102674,
+            "question": "What is the definition of \"気をつける\"?",
+            "tried": 1
+        },
+        {
+            "answer": "じしん (earthquake)",
+            "failed": 0,
+            "lastAsked": 1358273861.268689,
+            "question": "What is the pronunciation of \"自身\"?",
+            "tried": 1
+        },
+        {
+            "answer": "to draw; to paint",
+            "failed": 0,
+            "lastAsked": 1358274206.00981,
+            "question": "What is the definition of \"かく\"?",
+            "tried": 1
+        },
+        {
+            "answer": "そつぎょうしき (graduation ceremony)",
+            "failed": 0,
+            "lastAsked": 1358272462.550018,
+            "question": "What is the pronunciation of \"卒業式\"?",
+            "tried": 1
+        },
+        {
+            "answer": "all day long (いちにちじゅう)",
+            "failed": 0,
+            "lastAsked": 1358273626.472212,
+            "question": "What is the definition of \"一日中\"?",
+            "tried": 1
+        },
+        {
+            "answer": "pet",
+            "failed": 0,
+            "lastAsked": 1358273718.995463,
+            "question": "What is the definition of \"ペット\"?",
+            "tried": 1
+        },
+        {
+            "answer": "え (painting, picture, drawing)",
+            "failed": 0,
+            "lastAsked": 1358273782.444808,
+            "question": "What is the pronunciation of \"絵\"?",
+            "tried": 1
+        },
+        {
+            "answer": "recently (さいきん)",
+            "failed": 0,
+            "lastAsked": 1358272117.984018,
+            "question": "What is the definition of \"最近\"?",
+            "tried": 1
+        },
+        {
+            "answer": "はっぴょう (presentation)",
+            "failed": 0,
+            "lastAsked": 1358187303.950736,
+            "question": "What is the pronunciation of \"発表\"?",
+            "tried": 1
+        },
+        {
+            "answer": "外国人 (がいこくじん)",
+            "failed": 0,
+            "lastAsked": 1358186590.007797,
+            "question": "Given the definition \"foreigner\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "ぜいきん (tax)",
+            "failed": 0,
+            "lastAsked": 1358273655.126077,
+            "question": "What is the pronunciation of \"税金\"?",
+            "tried": 1
+        },
+        {
+            "answer": "がいこくじん (foreigner)",
+            "failed": 0,
+            "lastAsked": 1358272417.790018,
+            "question": "What is the pronunciation of \"外国人\"?",
+            "tried": 1
+        },
+        {
+            "answer": "ジャケット",
+            "failed": 0,
+            "lastAsked": 1358274053.41781,
+            "question": "Given the definition \"jacket\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "そば",
+            "failed": 0,
+            "lastAsked": 1358272409.737018,
+            "question": "Given the definition \"soba noodles\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "to arrive (つく)",
+            "failed": 0,
+            "lastAsked": 1358272658.699444,
+            "question": "What is the definition of \"着く\"?",
+            "tried": 1
+        },
+        {
+            "answer": "見える (みえる)",
+            "failed": 0,
+            "lastAsked": 1358272823.301903,
+            "question": "Given the definition \"to be visible\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "inn (りょかん)",
+            "failed": 0,
+            "lastAsked": 1358274112.03481,
+            "question": "What is the definition of \"旅館\"?",
+            "tried": 1
+        }
+    ]
+}

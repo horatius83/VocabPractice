@@ -1,0 +1,369 @@
+{
+    "name": "Bank Vocabulary", 
+    "vocab": [
+        {
+            "answer": "いちまんえんさつをせんえんさつじゅうまいにりょうがえできますか。 (Can you change a 10, 000-yen billl into ten 1, 000 yen bills?)", 
+            "failed": 1, 
+            "lastAsked": 1357235860.74805, 
+            "question": "What is the pronunciation of \"一万円札を千円札十枚に両替できますか。\"?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "キャッシュカード", 
+            "failed": 2, 
+            "lastAsked": 1358185140.934913, 
+            "question": "Given the definition \"bank card\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "利子 (りし)", 
+            "failed": 1, 
+            "lastAsked": 1358185348.970913, 
+            "question": "Given the definition \"interest\", what is the word?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "commission (てすうりょう)", 
+            "failed": 2, 
+            "lastAsked": 1358185312.881913, 
+            "question": "What is the definition of \"手数料\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ドルを円に変えてください。 (ドルをえんにかえてください。)", 
+            "failed": 1, 
+            "lastAsked": 1357582982.442249, 
+            "question": "Given the definition \"Please change dollars into yen.\", what is the word?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "savings (よきん)", 
+            "failed": 2, 
+            "lastAsked": 1358185165.871913, 
+            "question": "What is the definition of \"預金\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "アメリカに送金したいんですが。 (アメリカにそうきんしたいんですが。)", 
+            "failed": 6, 
+            "lastAsked": 1358185286.013913, 
+            "question": "Given the definition \"I would like to send the money to America.\", what is the word?", 
+            "tried": 7
+        }, 
+        {
+            "answer": "amount (きんがく)", 
+            "failed": 4, 
+            "lastAsked": 1357323374.159454, 
+            "question": "What is the definition of \"金額\"?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "小切手を現金にしたいんですけど。 (こぎってをげんきんにしたいんですけど。)", 
+            "failed": 4, 
+            "lastAsked": 1357322888.977454, 
+            "question": "Given the definition \"I would like to cash this check.\", what is the word?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "interest (りし)", 
+            "failed": 3, 
+            "lastAsked": 1357322117.072965, 
+            "question": "What is the definition of \"利子\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "暗証番号 (あんしょうばんごう)", 
+            "failed": 3, 
+            "lastAsked": 1357582756.357684, 
+            "question": "Given the definition \"personal identification number\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "りし (interest)", 
+            "failed": 2, 
+            "lastAsked": 1357322112.673405, 
+            "question": "What is the pronunciation of \"利子\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "I will withdraw money. (おかねをおろします。)", 
+            "failed": 2, 
+            "lastAsked": 1357581599.331858, 
+            "question": "What is the definition of \"お金を下ろします。\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "つうちょう (passbook)", 
+            "failed": 2, 
+            "lastAsked": 1357322107.791893, 
+            "question": "What is the pronunciation of \"通帳\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "トラベラーズチェック", 
+            "failed": 2, 
+            "lastAsked": 1357322830.012454, 
+            "question": "Given the definition \"traveler's check\", what is the word?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "I would like to cash this check. (こぎってをげんきんにしたいんですけど。)", 
+            "failed": 2, 
+            "lastAsked": 1357581609.088858, 
+            "question": "What is the definition of \"小切手を現金にしたいんですけど。\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "手数料 (てすうりょう)", 
+            "failed": 2, 
+            "lastAsked": 1357581634.887858, 
+            "question": "Given the definition \"commission\", what is the word?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "こうざをひらきたいんですが。 (I would like to open an account.)", 
+            "failed": 1, 
+            "lastAsked": 1357323284.718454, 
+            "question": "What is the pronunciation of \"口座を開きたいんですが。\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "よきん (savings)", 
+            "failed": 1, 
+            "lastAsked": 1357322019.091764, 
+            "question": "What is the pronunciation of \"預金\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "こうざをとじたいんですが。 (I would like to close an account.)", 
+            "failed": 1, 
+            "lastAsked": 1357321977.157957, 
+            "question": "What is the pronunciation of \"口座を閉じたいんですが。\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "きんがく (amount)", 
+            "failed": 1, 
+            "lastAsked": 1357582563.551406, 
+            "question": "What is the pronunciation of \"金額\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "アメリカにそうきんしたいんですが。 (I would like to send the money to America.)", 
+            "failed": 1, 
+            "lastAsked": 1357582849.348249, 
+            "question": "What is the pronunciation of \"アメリカに送金したいんですが。\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "一万円札を千円札十枚に両替できますか。 (いちまんえんさつをせんえんさつじゅうまいにりょうがえできますか。)", 
+            "failed": 1, 
+            "lastAsked": 1357582556.818732, 
+            "question": "Given the definition \"Can you change a 10, 000-yen billl into ten 1, 000 yen bills?\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "account (こうざ)", 
+            "failed": 1, 
+            "lastAsked": 1357582872.340249, 
+            "question": "What is the definition of \"口座\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "口座を閉じたいんですが。 (こうざをとじたいんですが。)", 
+            "failed": 1, 
+            "lastAsked": 1357581328.246858, 
+            "question": "Given the definition \"I would like to close an account.\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "こうざにおかねをふりこみたいんですが。 (I would like to deposit money into the account.)", 
+            "failed": 1, 
+            "lastAsked": 1357323315.136454, 
+            "question": "What is the pronunciation of \"口座にお金を振り込みたいんですが。\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "てすうりょう (commission)", 
+            "failed": 1, 
+            "lastAsked": 1357322586.894454, 
+            "question": "What is the pronunciation of \"手数料\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "口座にお金を振り込みたいんですが。 (こうざにおかねをふりこみたいんですが。)", 
+            "failed": 1, 
+            "lastAsked": 1357321962.561417, 
+            "question": "Given the definition \"I would like to deposit money into the account.\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "Can you change a 10, 000-yen billl into ten 1, 000 yen bills? (いちまんえんさつをせんえんさつじゅうまいにりょうがえできますか。)", 
+            "failed": 1, 
+            "lastAsked": 1357323351.522454, 
+            "question": "What is the definition of \"一万円札を千円札十枚に両替できますか。\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "預金 (よきん)", 
+            "failed": 1, 
+            "lastAsked": 1357322081.41853, 
+            "question": "Given the definition \"savings\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "おかねをおろします。 (I will withdraw money.)", 
+            "failed": 1, 
+            "lastAsked": 1357582798.291877, 
+            "question": "What is the pronunciation of \"お金を下ろします。\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ドルをえんにかえてください。 (Please change dollars into yen.)", 
+            "failed": 1, 
+            "lastAsked": 1357582662.547304, 
+            "question": "What is the pronunciation of \"ドルを円に変えてください。\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "百円玉 (ひゃくえんだま)", 
+            "failed": 1, 
+            "lastAsked": 1357322531.912454, 
+            "question": "Given the definition \"100-yen coin\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "通帳 (つうちょう)", 
+            "failed": 1, 
+            "lastAsked": 1357581589.820858, 
+            "question": "Given the definition \"passbook\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "口座を開きたいんですが。 (こうざをひらきたいんですが。)", 
+            "failed": 1, 
+            "lastAsked": 1357322056.813991, 
+            "question": "Given the definition \"I would like to open an account.\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "金額 (きんがく)", 
+            "failed": 1, 
+            "lastAsked": 1357582427.18377, 
+            "question": "Given the definition \"amount\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "あんしょうばんごう (personal identification number)", 
+            "failed": 1, 
+            "lastAsked": 1357323368.333454, 
+            "question": "What is the pronunciation of \"暗証番号\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "I would like to deposit money into the account. (こうざにおかねをふりこみたいんですが。)", 
+            "failed": 0, 
+            "lastAsked": 1357322405.950454, 
+            "question": "What is the definition of \"口座にお金を振り込みたいんですが。\"?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "personal identification number (あんしょうばんごう)", 
+            "failed": 0, 
+            "lastAsked": 1357322159.548717, 
+            "question": "What is the definition of \"暗証番号\"?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "こうざ (account)", 
+            "failed": 0, 
+            "lastAsked": 1357582205.036558, 
+            "question": "What is the pronunciation of \"口座\"?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "100-yen coin (ひゃくえんだま)", 
+            "failed": 0, 
+            "lastAsked": 1357235695.936571, 
+            "question": "What is the definition of \"百円玉\"?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "口座 (こうざ)", 
+            "failed": 0, 
+            "lastAsked": 1357581881.585216, 
+            "question": "Given the definition \"account\", what is the word?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "bank card", 
+            "failed": 0, 
+            "lastAsked": 1357323291.725454, 
+            "question": "What is the definition of \"キャッシュカード\"?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "I would like to close an account. (こうざをとじたいんですが。)", 
+            "failed": 0, 
+            "lastAsked": 1357323235.358454, 
+            "question": "What is the definition of \"口座を閉じたいんですが。\"?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "お金を下ろします。 (おかねをおろします。)", 
+            "failed": 0, 
+            "lastAsked": 1357582184.562511, 
+            "question": "Given the definition \"I will withdraw money.\", what is the word?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "I would like to open an account. (こうざをひらきたいんですが。)", 
+            "failed": 0, 
+            "lastAsked": 1357322424.258454, 
+            "question": "What is the definition of \"口座を開きたいんですが。\"?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "I would like to send the money to America. (アメリカにそうきんしたいんですが。)", 
+            "failed": 0, 
+            "lastAsked": 1357582815.809629, 
+            "question": "What is the definition of \"アメリカに送金したいんですが。\"?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "こぎってをげんきんにしたいんですけど。 (I would like to cash this check.)", 
+            "failed": 0, 
+            "lastAsked": 1357236259.768948, 
+            "question": "What is the pronunciation of \"小切手を現金にしたいんですけど。\"?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "traveler's check", 
+            "failed": 0, 
+            "lastAsked": 1357580725.871637, 
+            "question": "What is the definition of \"トラベラーズチェック\"?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "Please change dollars into yen. (ドルをえんにかえてください。)", 
+            "failed": 0, 
+            "lastAsked": 1357323269.778454, 
+            "question": "What is the definition of \"ドルを円に変えてください。\"?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "passbook (つうちょう)", 
+            "failed": 0, 
+            "lastAsked": 1357322413.710454, 
+            "question": "What is the definition of \"通帳\"?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "ひゃくえんだま (100-yen coin)", 
+            "failed": 0, 
+            "lastAsked": 1357581129.928858, 
+            "question": "What is the pronunciation of \"百円玉\"?", 
+            "tried": 1
+        }
+    ]
+}

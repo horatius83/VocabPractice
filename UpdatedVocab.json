@@ -1,0 +1,185 @@
+{
+    "name": "Read Real Japanese: Essays", 
+    "vocab": [
+        {
+            "answer": "(ひつよう) necessary", 
+            "failed": 0, 
+            "question": "必要", 
+            "tried": 1
+        }, 
+        {
+            "answer": "(舌打ち) したうち", 
+            "failed": 0, 
+            "question": "to cluck one's tongue", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(けっか) result", 
+            "failed": 0, 
+            "question": "結果", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(解決策) かいけつさく", 
+            "failed": 0, 
+            "question": "solution", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(焦がす) to burn", 
+            "failed": 0, 
+            "question": "こがす", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(したうち) to cluck one's tongue", 
+            "failed": 0, 
+            "question": "舌打ち", 
+            "tried": 0
+        }, 
+        {
+            "answer": "to adjust", 
+            "failed": 0, 
+            "question": "つくろう", 
+            "tried": 0
+        }, 
+        {
+            "answer": "あらげる", 
+            "failed": 0, 
+            "question": "to raise one's voice", 
+            "tried": 0
+        }, 
+        {
+            "answer": "to raise one's voice", 
+            "failed": 0, 
+            "question": "あらげる", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(必要) ひつよう", 
+            "failed": 0, 
+            "question": "necessary", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(納得が行く) to be satisfied", 
+            "failed": 0, 
+            "question": "なっとくがいく", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(なべ) sauce pan", 
+            "failed": 0, 
+            "question": "鍋", 
+            "tried": 0
+        }, 
+        {
+            "answer": "tremendous", 
+            "failed": 0, 
+            "question": "すきまじい", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(比例) ひれい", 
+            "failed": 0, 
+            "question": "proportion", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(解決策) solution", 
+            "failed": 0, 
+            "question": "かいけつさく", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(鍋) sauce pan", 
+            "failed": 0, 
+            "question": "なべ", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(結果) result", 
+            "failed": 0, 
+            "question": "けっか", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(必要) necessary", 
+            "failed": 0, 
+            "question": "ひつよう", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(焦がす) こがす", 
+            "failed": 0, 
+            "question": "to burn", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(ひれい) proportion", 
+            "failed": 0, 
+            "question": "比例", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(鍋) なべ", 
+            "failed": 0, 
+            "question": "sauce pan", 
+            "tried": 0
+        }, 
+        {
+            "answer": "つくろう", 
+            "failed": 0, 
+            "question": "to adjust", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(なっとくがいく) to be satisfied", 
+            "failed": 0, 
+            "question": "納得が行く", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(結果) けっか", 
+            "failed": 0, 
+            "question": "result", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(かいけつさく) solution", 
+            "failed": 0, 
+            "question": "解決策", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(納得が行く) なっとくがいく", 
+            "failed": 0, 
+            "question": "to be satisfied", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(舌打ち) to cluck one's tongue", 
+            "failed": 0, 
+            "question": "したうち", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(比例) proportion", 
+            "failed": 0, 
+            "question": "ひれい", 
+            "tried": 0
+        }, 
+        {
+            "answer": "すきまじい", 
+            "failed": 0, 
+            "question": "tremendous", 
+            "tried": 0
+        }, 
+        {
+            "answer": "(こがす) to burn", 
+            "failed": 0, 
+            "question": "焦がす", 
+            "tried": 0
+        }
+    ]
+}

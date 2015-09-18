@@ -1,0 +1,579 @@
+{
+    "name": "Italian 1",
+    "vocab": [
+        {
+            "answer": "Do you have?",
+            "failed": 3,
+            "lastAsked": 1442507991.85807,
+            "question": "Given the definition \"Ha?...\", what is the word?",
+            "tried": 5
+        },
+        {
+            "answer": "Apirte il libro.",
+            "failed": 9,
+            "lastAsked": 1442508226.78556,
+            "question": "Given the definition \"Open the book.\", what is the word?",
+            "tried": 12
+        },
+        {
+            "answer": "Come si scrive...?",
+            "failed": 4,
+            "lastAsked": 1442508094.841367,
+            "question": "Given the definition \"How do you spell...?\", what is the word?",
+            "tried": 6
+        },
+        {
+            "answer": "Cosa vuol dire?",
+            "failed": 5,
+            "lastAsked": 1442508195.525434,
+            "question": "Given the definition \"What does it mean?\", what is the word?",
+            "tried": 7
+        },
+        {
+            "answer": "non voglio...",
+            "failed": 6,
+            "lastAsked": 1442508232.08609,
+            "question": "What is the definition of \"I don't want...\"?",
+            "tried": 8
+        },
+        {
+            "answer": "Ripeta, per favore!",
+            "failed": 6,
+            "lastAsked": 1442508104.082291,
+            "question": "Given the definition \"Repeat, please!\", what is the word?",
+            "tried": 9
+        },
+        {
+            "answer": "Rispondete.",
+            "failed": 5,
+            "lastAsked": 1442507950.636948,
+            "question": "Given the definition \"Answer.\", what is the word?",
+            "tried": 8
+        },
+        {
+            "answer": "vorrei vedere...",
+            "failed": 6,
+            "lastAsked": 1442508205.505432,
+            "question": "What is the definition of \"I would like to see...\"?",
+            "tried": 9
+        },
+        {
+            "answer": "Alla lavagna.",
+            "failed": 5,
+            "lastAsked": 1442508332.769157,
+            "question": "Given the definition \"Go to the board.\", what is the word?",
+            "tried": 8
+        },
+        {
+            "answer": "Ascoltate.",
+            "failed": 6,
+            "lastAsked": 1442508353.870267,
+            "question": "Given the definition \"Listen.\", what is the word?",
+            "tried": 9
+        },
+        {
+            "answer": "dove sono i negozi?",
+            "failed": 4,
+            "lastAsked": 1442508312.689149,
+            "question": "What is the definition of \"Where are the shops?\"?",
+            "tried": 7
+        },
+        {
+            "answer": "vorrei andare a...",
+            "failed": 4,
+            "lastAsked": 1442508359.350815,
+            "question": "What is the definition of \"I would like to go to...\"?",
+            "tried": 6
+        },
+        {
+            "answer": "Scrivete.",
+            "failed": 3,
+            "lastAsked": 1442508295.968478,
+            "question": "Given the definition \"Write.\", what is the word?",
+            "tried": 6
+        },
+        {
+            "answer": "dove sono i gabinetti?",
+            "failed": 3,
+            "lastAsked": 1442508261.967078,
+            "question": "What is the definition of \"Where are the toilets?\"?",
+            "tried": 6
+        },
+        {
+            "answer": "What does it mean?",
+            "failed": 3,
+            "lastAsked": 1442508318.088689,
+            "question": "What is the definition of \"Cosa vuol dire?\"?",
+            "tried": 6
+        },
+        {
+            "answer": "I want...",
+            "failed": 3,
+            "lastAsked": 1442508289.427824,
+            "question": "Given the definition \"voglio...\", what is the word?",
+            "tried": 6
+        },
+        {
+            "answer": "Ecco...",
+            "failed": 2,
+            "lastAsked": 1442508466.674546,
+            "question": "Given the definition \"Here is/are..., There is/are...\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "vorrei...",
+            "failed": 2,
+            "lastAsked": 1442508476.634542,
+            "question": "What is the definition of \"I would like...\"?",
+            "tried": 4
+        },
+        {
+            "answer": "Capite?",
+            "failed": 3,
+            "lastAsked": 1442508502.692036,
+            "question": "Given the definition \"Do you understand?\", what is the word?",
+            "tried": 6
+        },
+        {
+            "answer": "Ha?...",
+            "failed": 1,
+            "lastAsked": 1442508421.112991,
+            "question": "What is the definition of \"Do you have?\"?",
+            "tried": 3
+        },
+        {
+            "answer": "Chiudete il libro.",
+            "failed": 2,
+            "lastAsked": 1442508463.594238,
+            "question": "Given the definition \"Close the book.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "dove c'e'...",
+            "failed": 3,
+            "lastAsked": 1442508497.994445,
+            "question": "What is the definition of \"Where is there...\"?",
+            "tried": 6
+        },
+        {
+            "answer": "non mi piace...",
+            "failed": 2,
+            "lastAsked": 1442508492.235102,
+            "question": "What is the definition of \"I don't like it...\"?",
+            "tried": 4
+        },
+        {
+            "answer": "Non capisco.",
+            "failed": 3,
+            "lastAsked": 1442508484.275306,
+            "question": "Given the definition \"I don't understand.\", what is the word?",
+            "tried": 6
+        },
+        {
+            "answer": "I would like to see...",
+            "failed": 2,
+            "lastAsked": 1442508587.241663,
+            "question": "Given the definition \"vorrei vedere...\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "quanto costa?",
+            "failed": 2,
+            "lastAsked": 1442508582.763007,
+            "question": "What is the definition of \"How much does it cost?\"?",
+            "tried": 4
+        },
+        {
+            "answer": "Ripetete.",
+            "failed": 1,
+            "lastAsked": 1442508508.870182,
+            "question": "Given the definition \"Repeat.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "Close the book.",
+            "failed": 1,
+            "lastAsked": 1442508568.968147,
+            "question": "What is the definition of \"Chiudete il libro.\"?",
+            "tried": 3
+        },
+        {
+            "answer": "How do you spell...?",
+            "failed": 2,
+            "lastAsked": 1442508522.844988,
+            "question": "What is the definition of \"Come si scrive...?\"?",
+            "tried": 5
+        },
+        {
+            "answer": "Come si pronuncia...?",
+            "failed": 1,
+            "lastAsked": 1442508557.432609,
+            "question": "Given the definition \"How do you pronounce...?\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "mi piace...",
+            "failed": 2,
+            "lastAsked": 1442508563.049923,
+            "question": "What is the definition of \"I like it...\"?",
+            "tried": 5
+        },
+        {
+            "answer": "How do you say...?",
+            "failed": 1,
+            "lastAsked": 1442508576.904765,
+            "question": "What is the definition of \"Come si dice...?\"?",
+            "tried": 3
+        },
+        {
+            "answer": "Here is/are..., There is/are...",
+            "failed": 2,
+            "lastAsked": 1442508646.619844,
+            "question": "What is the definition of \"Ecco...\"?",
+            "tried": 5
+        },
+        {
+            "answer": "e lei?",
+            "failed": 1,
+            "lastAsked": 1442508686.984731,
+            "question": "What is the definition of \"And you?\"?",
+            "tried": 3
+        },
+        {
+            "answer": "dov'e\" il bagno?",
+            "failed": 2,
+            "lastAsked": 1442508713.995626,
+            "question": "What is the definition of \"Where is the bathroom?\"?",
+            "tried": 4
+        },
+        {
+            "answer": "come stai?",
+            "failed": 1,
+            "lastAsked": 1442508596.677832,
+            "question": "What is the definition of \"How are you?\"?",
+            "tried": 3
+        },
+        {
+            "answer": "Come?",
+            "failed": 2,
+            "lastAsked": 1442508702.998926,
+            "question": "Given the definition \"What?\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "vorrei compare...",
+            "failed": 2,
+            "lastAsked": 1442508698.561257,
+            "question": "What is the definition of \"I would like to buy...\"?",
+            "tried": 5
+        },
+        {
+            "answer": "A posto.",
+            "failed": 2,
+            "lastAsked": 1442508690.883561,
+            "question": "Given the definition \"Go back to your seat.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "answer": "Where is there...",
+            "failed": 1,
+            "lastAsked": 1442508656.555863,
+            "question": "Given the definition \"dove c'e'...\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "Go back to your seat.",
+            "failed": 1,
+            "lastAsked": 1442508743.384806,
+            "question": "What is the definition of \"A posto.\"?",
+            "tried": 4
+        },
+        {
+            "answer": "Come si dice...?",
+            "failed": 1,
+            "lastAsked": 1442508723.691716,
+            "question": "Given the definition \"How do you say...?\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "I am...",
+            "failed": 2,
+            "lastAsked": 1442508781.850263,
+            "question": "Given the definition \"sono...\", what is the word?",
+            "tried": 5
+        },
+        {
+            "answer": "Capisco.",
+            "failed": 2,
+            "lastAsked": 1442508786.588841,
+            "question": "Given the definition \"I understand.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "answer": "voglio...",
+            "failed": 2,
+            "lastAsked": 1442508792.186161,
+            "question": "What is the definition of \"I want...\"?",
+            "tried": 5
+        },
+        {
+            "answer": "Do you understand?",
+            "failed": 1,
+            "lastAsked": 1442508766.195961,
+            "question": "What is the definition of \"Capite?\"?",
+            "tried": 4
+        },
+        {
+            "answer": "Listen.",
+            "failed": 2,
+            "lastAsked": 1442508778.571247,
+            "question": "What is the definition of \"Ascoltate.\"?",
+            "tried": 5
+        },
+        {
+            "answer": "I would like to buy...",
+            "failed": 1,
+            "lastAsked": 1442508776.231949,
+            "question": "Given the definition \"vorrei compare...\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "I understand.",
+            "failed": 1,
+            "lastAsked": 1442508822.180637,
+            "question": "What is the definition of \"Capisco.\"?",
+            "tried": 4
+        },
+        {
+            "answer": "I would like...",
+            "failed": 1,
+            "lastAsked": 1442508798.365019,
+            "question": "Given the definition \"vorrei...\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "How are you? (polite)",
+            "failed": 1,
+            "lastAsked": 1442508807.043151,
+            "question": "Given the definition \"come sta?\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "Where are the shops?",
+            "failed": 0,
+            "lastAsked": 1442508818.442011,
+            "question": "Given the definition \"dove sono i negozi?\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "Where are the toilets?",
+            "failed": 0,
+            "lastAsked": 1442508829.379917,
+            "question": "Given the definition \"dove sono i gabinetti?\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "Where is...",
+            "failed": 0,
+            "lastAsked": 1442508836.838172,
+            "question": "Given the definition \"dov'e'...\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "mi chiamo...",
+            "failed": 0,
+            "lastAsked": 1442508842.797576,
+            "question": "What is the definition of \"My name is...\"?",
+            "tried": 3
+        },
+        {
+            "answer": "Repeat.",
+            "failed": 0,
+            "lastAsked": 1442508809.742881,
+            "question": "What is the definition of \"Ripetete.\"?",
+            "tried": 3
+        },
+        {
+            "answer": "How are you?",
+            "failed": 0,
+            "lastAsked": 1442508871.212734,
+            "question": "Given the definition \"come stai?\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "scusi...",
+            "failed": 0,
+            "lastAsked": 1442508847.15714,
+            "question": "What is the definition of \"Excuse me...?\"?",
+            "tried": 3
+        },
+        {
+            "answer": "Excuse me...?",
+            "failed": 0,
+            "lastAsked": 1442508852.375618,
+            "question": "Given the definition \"scusi...\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "dov'e'...",
+            "failed": 0,
+            "lastAsked": 1442508862.594596,
+            "question": "What is the definition of \"Where is...\"?",
+            "tried": 2
+        },
+        {
+            "answer": "come sta?",
+            "failed": 0,
+            "lastAsked": 1442508867.713084,
+            "question": "What is the definition of \"How are you? (polite)\"?",
+            "tried": 3
+        },
+        {
+            "answer": "I don't like it...",
+            "failed": 0,
+            "lastAsked": 1442508886.970158,
+            "question": "Given the definition \"non mi piace...\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "scusi.",
+            "failed": 0,
+            "lastAsked": 1442508874.632392,
+            "question": "What is the definition of \"I am sorry.\"?",
+            "tried": 3
+        },
+        {
+            "answer": "Write.",
+            "failed": 0,
+            "lastAsked": 1442508877.95206,
+            "question": "What is the definition of \"Scrivete.\"?",
+            "tried": 3
+        },
+        {
+            "answer": "Where is the bathroom?",
+            "failed": 0,
+            "lastAsked": 1442508892.469608,
+            "question": "Given the definition \"dov'e\" il bagno?\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "I like it...",
+            "failed": 0,
+            "lastAsked": 1442508906.727182,
+            "question": "Given the definition \"mi piace...\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "I don't want...",
+            "failed": 0,
+            "lastAsked": 1442508922.124642,
+            "question": "Given the definition \"non voglio...\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "Go to the board.",
+            "failed": 0,
+            "lastAsked": 1442508910.566798,
+            "question": "What is the definition of \"Alla lavagna.\"?",
+            "tried": 3
+        },
+        {
+            "answer": "My name is...",
+            "failed": 0,
+            "lastAsked": 1442508900.267828,
+            "question": "Given the definition \"mi chiamo...\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "I am sorry.",
+            "failed": 0,
+            "lastAsked": 1442508897.168138,
+            "question": "Given the definition \"scusi.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "Open the book.",
+            "failed": 0,
+            "lastAsked": 1442508915.905264,
+            "question": "What is the definition of \"Apirte il libro.\"?",
+            "tried": 3
+        },
+        {
+            "answer": "sono...",
+            "failed": 1,
+            "lastAsked": 1442508932.04265,
+            "question": "What is the definition of \"I am...\"?",
+            "tried": 4
+        },
+        {
+            "answer": "And you? (2)",
+            "failed": 0,
+            "lastAsked": 1442508957.659088,
+            "question": "Given the definition \"e tu?\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "e tu?",
+            "failed": 0,
+            "lastAsked": 1442508937.602094,
+            "question": "What is the definition of \"And you? (2)\"?",
+            "tried": 3
+        },
+        {
+            "answer": "What?",
+            "failed": 0,
+            "lastAsked": 1442508959.93786,
+            "question": "What is the definition of \"Come?\"?",
+            "tried": 2
+        },
+        {
+            "answer": "I would like to go to...",
+            "failed": 1,
+            "lastAsked": 1442508975.315322,
+            "question": "Given the definition \"vorrei andare a...\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "And you?",
+            "failed": 0,
+            "lastAsked": 1442508967.157138,
+            "question": "Given the definition \"e lei?\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "How much does it cost?",
+            "failed": 0,
+            "lastAsked": 1442508964.397414,
+            "question": "Given the definition \"quanto costa?\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "Repeat, please!",
+            "failed": 0,
+            "lastAsked": 1442508943.44051,
+            "question": "What is the definition of \"Ripeta, per favore!\"?",
+            "tried": 3
+        },
+        {
+            "answer": "I don't understand.",
+            "failed": 0,
+            "lastAsked": 1442508970.976756,
+            "question": "What is the definition of \"Non capisco.\"?",
+            "tried": 3
+        },
+        {
+            "answer": "How do you pronounce...?",
+            "failed": 0,
+            "lastAsked": 1442508980.83477,
+            "question": "What is the definition of \"Come si pronuncia...?\"?",
+            "tried": 2
+        },
+        {
+            "answer": "Answer.",
+            "failed": 0,
+            "lastAsked": 1442508986.014252,
+            "question": "What is the definition of \"Rispondete.\"?",
+            "tried": 2
+        }
+    ]
+}

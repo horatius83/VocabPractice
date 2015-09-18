@@ -1,0 +1,18 @@
+﻿トラベラーズチェック	traveler's check
+口座	こうざ	account
+利子	りし	interest
+手数料	てすうりょう	commission
+キャッシュカード	bank card
+通帳	つうちょう	passbook
+預金	よきん	savings
+百円玉	ひゃくえんだま	100-yen coin
+金額	きんがく	amount
+暗証番号	あんしょうばんごう	personal identification number
+口座を開きたいんですが。	こうざをひらきたいんですが。	I would like to open an account.
+口座を閉じたいんですが。	こうざをとじたいんですが。	I would like to close an account.
+ドルを円に変えてください。	ドルをえんにかえてください。	Please change dollars into yen.
+小切手を現金にしたいんですけど。	こぎってをげんきんにしたいんですけど。	I would like to cash this check.
+口座にお金を振り込みたいんですが。	こうざにおかねをふりこみたいんですが。	I would like to deposit money into the account.
+アメリカに送金したいんですが。	アメリカにそうきんしたいんですが。	I would like to send the money to America.
+一万円札を千円札十枚に両替できますか。	いちまんえんさつをせんえんさつじゅうまいにりょうがえできますか。	Can you change a 10,000-yen billl into ten 1,000 yen bills?
+お金を下ろします。	おかねをおろします。	I will withdraw money.

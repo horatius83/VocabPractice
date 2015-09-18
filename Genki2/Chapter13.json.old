@@ -1,0 +1,1139 @@
+{
+    "name": "Genki Chapter 13 Vocab", 
+    "vocab": [
+        {
+            "answer": "募集 (ぼしゅう)", 
+            "failed": 5, 
+            "lastAsked": 1355334674.895429, 
+            "question": "Given the definition \"recruitment\", what is the word?", 
+            "tried": 8
+        }, 
+        {
+            "answer": "広告 (こうこく)", 
+            "failed": 6, 
+            "lastAsked": 1355334710.824022, 
+            "question": "Given the definition \"advertisement\", what is the word?", 
+            "tried": 9
+        }, 
+        {
+            "answer": "文法 (ぶんぽう)", 
+            "failed": 4, 
+            "lastAsked": 1355334694.515391, 
+            "question": "Given the definition \"grammar\", what is the word?", 
+            "tried": 7
+        }, 
+        {
+            "answer": "全部 (ぜんぶ)", 
+            "failed": 3, 
+            "lastAsked": 1355334476.605602, 
+            "question": "Given the definition \"all\", what is the word?", 
+            "tried": 7
+        }, 
+        {
+            "answer": "頑張る (がんばる)", 
+            "failed": 3, 
+            "lastAsked": 1355334594.921433, 
+            "question": "Given the definition \"to do one's best; to try hard\", what is the word?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "いらっしゃいます", 
+            "failed": 3, 
+            "lastAsked": 1355334654.99844, 
+            "question": "Given the definition \"(honorable) someone is present/home\", what is the word?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "紅茶 (こうちゃ)", 
+            "failed": 3, 
+            "lastAsked": 1355334250.333977, 
+            "question": "Given the definition \"black tea\", what is the word?", 
+            "tried": 7
+        }, 
+        {
+            "answer": "楽器 (がっき)", 
+            "failed": 2, 
+            "lastAsked": 1355334499.733915, 
+            "question": "Given the definition \"musical instrument\", what is the word?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "弁護士 (べんごし)", 
+            "failed": 4, 
+            "lastAsked": 1355335427.146647, 
+            "question": "Given the definition \"lawyer\", what is the word?", 
+            "tried": 8
+        }, 
+        {
+            "answer": "編む (あむ)", 
+            "failed": 4, 
+            "lastAsked": 1355335405.145447, 
+            "question": "Given the definition \"to knit\", what is the word?", 
+            "tried": 8
+        }, 
+        {
+            "answer": "厳しい (きびしい)", 
+            "failed": 3, 
+            "lastAsked": 1355335236.621596, 
+            "question": "Given the definition \"strict\", what is the word?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "よろしくお願いします (よろしくおねがいします)", 
+            "failed": 4, 
+            "lastAsked": 1355335457.202652, 
+            "question": "Given the definition \"Thank you (in advance)\", what is the word?", 
+            "tried": 7
+        }, 
+        {
+            "answer": "物価 (ぶっか)", 
+            "failed": 3, 
+            "lastAsked": 1355335272.932227, 
+            "question": "Given the definition \"consumer prices\", what is the word?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "お宅 (おたく)", 
+            "failed": 2, 
+            "lastAsked": 1355334948.453782, 
+            "question": "Given the definition \"(someone's) house/home\", what is the word?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "着物 (きもの)", 
+            "failed": 3, 
+            "lastAsked": 1355335256.222556, 
+            "question": "Given the definition \"kimono\", what is the word?", 
+            "tried": 7
+        }, 
+        {
+            "answer": "近い (ちかい)", 
+            "failed": 2, 
+            "lastAsked": 1355334815.224461, 
+            "question": "Given the definition \"close; near\", what is the word?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "磨く (みがく)", 
+            "failed": 3, 
+            "lastAsked": 1355335704.014582, 
+            "question": "Given the definition \"to brush teeth; to polish\", what is the word?", 
+            "tried": 7
+        }, 
+        {
+            "answer": "貸す (かす)", 
+            "failed": 3, 
+            "lastAsked": 1355335689.50888, 
+            "question": "Given the definition \"to lend; to rent\", what is the word?", 
+            "tried": 7
+        }, 
+        {
+            "answer": "promise; appointment (やくそく)", 
+            "failed": 3, 
+            "lastAsked": 1355335671.337063, 
+            "question": "What is the definition of \"約束\"?", 
+            "tried": 7
+        }, 
+        {
+            "answer": "ウエイター", 
+            "failed": 2, 
+            "lastAsked": 1355335664.056335, 
+            "question": "Given the definition \"waiter\", what is the word?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "バイオリン", 
+            "failed": 1, 
+            "lastAsked": 1355335655.278458, 
+            "question": "Given the definition \"violin\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "(honorable) someone is present/home", 
+            "failed": 1, 
+            "lastAsked": 1355335578.083739, 
+            "question": "What is the definition of \"いらっしゃいます\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "やくそく (promise; appointment)", 
+            "failed": 1, 
+            "lastAsked": 1355335645.289459, 
+            "question": "What is the pronunciation of \"約束\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "約束 (やくそく)", 
+            "failed": 2, 
+            "lastAsked": 1355335721.010882, 
+            "question": "Given the definition \"promise; appointment\", what is the word?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "to lend; to rent (かす)", 
+            "failed": 1, 
+            "lastAsked": 1355335780.72691, 
+            "question": "What is the definition of \"貸す\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "約束を守る (やくそくをまもる)", 
+            "failed": 1, 
+            "lastAsked": 1355335775.439439, 
+            "question": "Given the definition \"to keep a promise\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "像 (ぞう)", 
+            "failed": 1, 
+            "lastAsked": 1355335739.120071, 
+            "question": "Given the definition \"elephant\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "きびしい (strict)", 
+            "failed": 1, 
+            "lastAsked": 1355335815.473435, 
+            "question": "What is the pronunciation of \"厳しい\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "感動する (かんどうする)", 
+            "failed": 1, 
+            "lastAsked": 1355335806.52333, 
+            "question": "Given the definition \"to be moved/touched by\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "term paper", 
+            "failed": 1, 
+            "lastAsked": 1355335810.387944, 
+            "question": "What is the definition of \"レポート\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "言葉 (ことば)", 
+            "failed": 2, 
+            "lastAsked": 1355335874.644517, 
+            "question": "Given the definition \"language\", what is the word?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "一日 (いちにち)", 
+            "failed": 1, 
+            "lastAsked": 1355335747.837199, 
+            "question": "Given the definition \"one day\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "セーター", 
+            "failed": 2, 
+            "lastAsked": 1355335966.280353, 
+            "question": "Given the definition \"sweater\", what is the word?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "こうこく (advertisement)", 
+            "failed": 1, 
+            "lastAsked": 1355335924.229558, 
+            "question": "What is the pronunciation of \"広告\"?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "to brush teeth; to polish (みがく)", 
+            "failed": 1, 
+            "lastAsked": 1355335919.285053, 
+            "question": "What is the definition of \"磨く\"?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "四日 (よっか)", 
+            "failed": 1, 
+            "lastAsked": 1355335905.91839, 
+            "question": "Given the definition \"four days\", what is the word?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "hot and spicy; salty (からい)", 
+            "failed": 1, 
+            "lastAsked": 1355335899.41304, 
+            "question": "What is the definition of \"辛い\"?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "ぼしゅう (recruitment)", 
+            "failed": 1, 
+            "lastAsked": 1355335911.021879, 
+            "question": "What is the pronunciation of \"募集\"?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "幸せ (しあわせ（な）)", 
+            "failed": 1, 
+            "lastAsked": 1355335891.239858, 
+            "question": "Given the definition \"lasting happiness\", what is the word?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "わたくし (I (formal))", 
+            "failed": 1, 
+            "lastAsked": 1355335961.260855, 
+            "question": "What is the pronunciation of \"私\"?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "advertisement (こうこく)", 
+            "failed": 1, 
+            "lastAsked": 1355336013.096958, 
+            "question": "What is the definition of \"広告\"?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "辛い (からい)", 
+            "failed": 1, 
+            "lastAsked": 1355335987.573223, 
+            "question": "Given the definition \"hot and spicy; salty\", what is the word?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "grandfather; old man", 
+            "failed": 1, 
+            "lastAsked": 1355336024.393958, 
+            "question": "What is the definition of \"おじいさん\"?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "レポート", 
+            "failed": 1, 
+            "lastAsked": 1355335998.803958, 
+            "question": "Given the definition \"term paper\", what is the word?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "うれしい", 
+            "failed": 1, 
+            "lastAsked": 1355336006.355958, 
+            "question": "Given the definition \"glad\", what is the word?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "ゴルフ", 
+            "failed": 1, 
+            "lastAsked": 1355336002.396958, 
+            "question": "Given the definition \"golf\", what is the word?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "ぶんぽう (grammar)", 
+            "failed": 0, 
+            "lastAsked": 1355335974.698511, 
+            "question": "What is the pronunciation of \"文法\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "black tea (こうちゃ)", 
+            "failed": 0, 
+            "lastAsked": 1355335991.938958, 
+            "question": "What is the definition of \"紅茶\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "(someone's) house/home (おたく)", 
+            "failed": 0, 
+            "lastAsked": 1354904659.230166, 
+            "question": "What is the definition of \"お宅\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "みせ (store)", 
+            "failed": 0, 
+            "lastAsked": 1354904986.862926, 
+            "question": "What is the pronunciation of \"店\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "実は (じつは)", 
+            "failed": 0, 
+            "lastAsked": 1354904839.041146, 
+            "question": "Given the definition \"as a matter of fact...\", what is the word?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "～と申します (～ともうします)", 
+            "failed": 0, 
+            "lastAsked": 1354904884.277669, 
+            "question": "Given the definition \"my name is...\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "カレー", 
+            "failed": 0, 
+            "lastAsked": 1354904755.986841, 
+            "question": "Given the definition \"curry\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "nine days (ここのか)", 
+            "failed": 0, 
+            "lastAsked": 1354904650.786322, 
+            "question": "What is the definition of \"九日\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "eight days (ようか)", 
+            "failed": 0, 
+            "lastAsked": 1354904752.857528, 
+            "question": "What is the definition of \"八日\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "strict (きびしい)", 
+            "failed": 0, 
+            "lastAsked": 1354904572.689513, 
+            "question": "What is the definition of \"厳しい\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "three days (みっか)", 
+            "failed": 0, 
+            "lastAsked": 1354904749.163159, 
+            "question": "What is the definition of \"三日\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "いつか (five days)", 
+            "failed": 0, 
+            "lastAsked": 1354905301.664403, 
+            "question": "What is the pronunciation of \"五日\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "八日 (ようか)", 
+            "failed": 0, 
+            "lastAsked": 1354904858.165058, 
+            "question": "Given the definition \"eight days\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "sweater", 
+            "failed": 0, 
+            "lastAsked": 1354905326.077844, 
+            "question": "What is the definition of \"セーター\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "all (ぜんぶ)", 
+            "failed": 0, 
+            "lastAsked": 1354904851.231365, 
+            "question": "What is the definition of \"全部\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "おたく ((someone's) house/home)", 
+            "failed": 0, 
+            "lastAsked": 1354904973.512591, 
+            "question": "What is the pronunciation of \"お宅\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "よっか (four days)", 
+            "failed": 0, 
+            "lastAsked": 1354904867.661007, 
+            "question": "What is the pronunciation of \"四日\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ぞう (elephant)", 
+            "failed": 0, 
+            "lastAsked": 1354904907.378979, 
+            "question": "What is the pronunciation of \"像\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "大人 (おとな)", 
+            "failed": 0, 
+            "lastAsked": 1354905016.059846, 
+            "question": "Given the definition \"adult\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "as a matter of fact... (じつは)", 
+            "failed": 0, 
+            "lastAsked": 1354905296.253862, 
+            "question": "What is the definition of \"実は\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "泣く (なく)", 
+            "failed": 0, 
+            "lastAsked": 1354904599.96224, 
+            "question": "Given the definition \"to cry\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "to keep a promise (やくそくをまもる)", 
+            "failed": 0, 
+            "lastAsked": 1354905367.463111, 
+            "question": "What is the definition of \"約束を守る\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "とおか (ten days)", 
+            "failed": 0, 
+            "lastAsked": 1354904894.100651, 
+            "question": "What is the pronunciation of \"十日\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "kimono (きもの)", 
+            "failed": 0, 
+            "lastAsked": 1354905105.735812, 
+            "question": "What is the definition of \"着物\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "なのか (seven days)", 
+            "failed": 0, 
+            "lastAsked": 1354904679.733216, 
+            "question": "What is the pronunciation of \"七日\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "～かい (~times)", 
+            "failed": 0, 
+            "lastAsked": 1354905230.748312, 
+            "question": "What is the pronunciation of \"～回\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "gangster", 
+            "failed": 0, 
+            "lastAsked": 1354904568.35708, 
+            "question": "What is the definition of \"やくざ\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "~times (～かい)", 
+            "failed": 0, 
+            "lastAsked": 1354905154.81272, 
+            "question": "What is the definition of \"～回\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "なく (to cry)", 
+            "failed": 0, 
+            "lastAsked": 1354904609.795223, 
+            "question": "What is the pronunciation of \"泣く\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "空手 (からて)", 
+            "failed": 0, 
+            "lastAsked": 1354904773.545597, 
+            "question": "Given the definition \"karate\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "my name is... (～ともうします)", 
+            "failed": 0, 
+            "lastAsked": 1354905022.6025, 
+            "question": "What is the definition of \"～と申します\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ちかい (close; near)", 
+            "failed": 0, 
+            "lastAsked": 1354904563.269571, 
+            "question": "What is the pronunciation of \"近い\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "elephant (ぞう)", 
+            "failed": 0, 
+            "lastAsked": 1354904728.329076, 
+            "question": "What is the definition of \"像\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "I (formal) (わたくし)", 
+            "failed": 0, 
+            "lastAsked": 1354905057.948034, 
+            "question": "What is the definition of \"私\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "glad", 
+            "failed": 0, 
+            "lastAsked": 1354904965.865827, 
+            "question": "What is the definition of \"うれしい\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "curry", 
+            "failed": 0, 
+            "lastAsked": 1354905345.649801, 
+            "question": "What is the definition of \"カレー\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "七日 (なのか)", 
+            "failed": 0, 
+            "lastAsked": 1354905130.142253, 
+            "question": "Given the definition \"seven days\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "よろしくおねがいします (Thank you (in advance))", 
+            "failed": 0, 
+            "lastAsked": 1354905033.736613, 
+            "question": "What is the pronunciation of \"よろしくお願いします\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "きもの (kimono)", 
+            "failed": 0, 
+            "lastAsked": 1354905062.735513, 
+            "question": "What is the pronunciation of \"着物\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "one day (いちにち)", 
+            "failed": 0, 
+            "lastAsked": 1354904806.063848, 
+            "question": "What is the definition of \"一日\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "六日 (むいか)", 
+            "failed": 0, 
+            "lastAsked": 1354905283.992636, 
+            "question": "Given the definition \"six days\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "consumer prices (ぶっか)", 
+            "failed": 0, 
+            "lastAsked": 1354904810.733315, 
+            "question": "What is the definition of \"物価\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "no good", 
+            "failed": 0, 
+            "lastAsked": 1354905202.193457, 
+            "question": "What is the definition of \"だめ（な）\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "おとな (adult)", 
+            "failed": 0, 
+            "lastAsked": 1354904847.201962, 
+            "question": "What is the pronunciation of \"大人\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "various; different kinds of", 
+            "failed": 0, 
+            "lastAsked": 1354904691.36938, 
+            "question": "What is the definition of \"いろいろ（な）\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ようか (eight days)", 
+            "failed": 0, 
+            "lastAsked": 1354904941.888429, 
+            "question": "What is the pronunciation of \"八日\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "いちにち (one day)", 
+            "failed": 0, 
+            "lastAsked": 1354904862.811522, 
+            "question": "What is the pronunciation of \"一日\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "two days (ふつか)", 
+            "failed": 0, 
+            "lastAsked": 1354904647.06095, 
+            "question": "What is the definition of \"二日\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "九日 (ここのか)", 
+            "failed": 0, 
+            "lastAsked": 1354905185.955834, 
+            "question": "Given the definition \"nine days\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "language (ことば)", 
+            "failed": 0, 
+            "lastAsked": 1354904704.914734, 
+            "question": "What is the definition of \"言葉\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "みっか (three days)", 
+            "failed": 0, 
+            "lastAsked": 1354904668.532096, 
+            "question": "What is the pronunciation of \"三日\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "store (みせ)", 
+            "failed": 0, 
+            "lastAsked": 1354905138.868125, 
+            "question": "What is the definition of \"店\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "sad (かなしい)", 
+            "failed": 0, 
+            "lastAsked": 1354904534.823727, 
+            "question": "What is the definition of \"悲しい\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "私 (わたくし)", 
+            "failed": 0, 
+            "lastAsked": 1354905274.070644, 
+            "question": "Given the definition \"I (formal)\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ことば (language)", 
+            "failed": 0, 
+            "lastAsked": 1354905199.105148, 
+            "question": "What is the pronunciation of \"言葉\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "かす (to lend; to rent)", 
+            "failed": 0, 
+            "lastAsked": 1354904897.130954, 
+            "question": "What is the pronunciation of \"貸す\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "ふつか (two days)", 
+            "failed": 0, 
+            "lastAsked": 1354905039.997239, 
+            "question": "What is the pronunciation of \"二日\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ぶっか (consumer prices)", 
+            "failed": 0, 
+            "lastAsked": 1354905357.53999, 
+            "question": "What is the pronunciation of \"物価\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "店 (みせ)", 
+            "failed": 0, 
+            "lastAsked": 1354904630.36028, 
+            "question": "Given the definition \"store\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "かなしい (sad)", 
+            "failed": 0, 
+            "lastAsked": 1354904817.945036, 
+            "question": "What is the pronunciation of \"悲しい\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "べんごし (lawyer)", 
+            "failed": 0, 
+            "lastAsked": 1354904911.082349, 
+            "question": "What is the pronunciation of \"弁護士\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "recruitment (ぼしゅう)", 
+            "failed": 0, 
+            "lastAsked": 1354904617.037948, 
+            "question": "What is the definition of \"募集\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "to cry (なく)", 
+            "failed": 0, 
+            "lastAsked": 1354904545.5568, 
+            "question": "What is the definition of \"泣く\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "motorbike", 
+            "failed": 0, 
+            "lastAsked": 1354904780.469289, 
+            "question": "What is the definition of \"バイク\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "あむ (to knit)", 
+            "failed": 0, 
+            "lastAsked": 1354905144.150654, 
+            "question": "What is the pronunciation of \"編む\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "~kilometers; ~kilograms", 
+            "failed": 0, 
+            "lastAsked": 1354905334.805717, 
+            "question": "What is the definition of \"～キロ\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "五日 (いつか)", 
+            "failed": 0, 
+            "lastAsked": 1354904934.842725, 
+            "question": "Given the definition \"five days\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "がいこくご (foreign language)", 
+            "failed": 0, 
+            "lastAsked": 1354904822.838526, 
+            "question": "What is the pronunciation of \"外国語\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "いろいろ（な）", 
+            "failed": 0, 
+            "lastAsked": 1354905342.876524, 
+            "question": "Given the definition \"various; different kinds of\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "lawyer (べんごし)", 
+            "failed": 0, 
+            "lastAsked": 1354904542.144459, 
+            "question": "What is the definition of \"弁護士\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "バイク", 
+            "failed": 0, 
+            "lastAsked": 1354904552.041449, 
+            "question": "Given the definition \"motorbike\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "to knit (あむ)", 
+            "failed": 0, 
+            "lastAsked": 1354904538.119056, 
+            "question": "What is the definition of \"編む\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "外国語 (がいこくご)", 
+            "failed": 0, 
+            "lastAsked": 1354905052.466486, 
+            "question": "Given the definition \"foreign language\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "やくざ", 
+            "failed": 0, 
+            "lastAsked": 1354904928.607101, 
+            "question": "Given the definition \"gangster\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "foreign language (がいこくご)", 
+            "failed": 0, 
+            "lastAsked": 1354905351.157352, 
+            "question": "What is the definition of \"外国語\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "こうちゃ (black tea)", 
+            "failed": 0, 
+            "lastAsked": 1354904993.153555, 
+            "question": "What is the pronunciation of \"紅茶\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "～キロ", 
+            "failed": 0, 
+            "lastAsked": 1354904901.628404, 
+            "question": "Given the definition \"~kilometers; ~kilograms\", what is the word?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "lasting happiness (しあわせ（な）)", 
+            "failed": 0, 
+            "lastAsked": 1354904889.619203, 
+            "question": "What is the definition of \"幸せ\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "おじいさん", 
+            "failed": 0, 
+            "lastAsked": 1354904999.052145, 
+            "question": "Given the definition \"grandfather; old man\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "waiter", 
+            "failed": 0, 
+            "lastAsked": 1354904968.578098, 
+            "question": "What is the definition of \"ウエイター\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "かんどうする (to be moved/touched by)", 
+            "failed": 0, 
+            "lastAsked": 1354904673.533597, 
+            "question": "What is the pronunciation of \"感動する\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "six days (むいか)", 
+            "failed": 0, 
+            "lastAsked": 1354905211.200358, 
+            "question": "What is the definition of \"六日\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "four days (よっか)", 
+            "failed": 0, 
+            "lastAsked": 1354904662.599503, 
+            "question": "What is the definition of \"四日\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "二日 (ふつか)", 
+            "failed": 0, 
+            "lastAsked": 1354905010.916331, 
+            "question": "Given the definition \"two days\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ten days (とおか)", 
+            "failed": 0, 
+            "lastAsked": 1354905134.090648, 
+            "question": "What is the definition of \"十日\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "やくそくをまもる (to keep a promise)", 
+            "failed": 0, 
+            "lastAsked": 1354905309.080145, 
+            "question": "What is the pronunciation of \"約束を守る\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "ぜんぶ (all)", 
+            "failed": 0, 
+            "lastAsked": 1354904826.111853, 
+            "question": "What is the pronunciation of \"全部\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "じつは (as a matter of fact...)", 
+            "failed": 0, 
+            "lastAsked": 1354905255.515789, 
+            "question": "What is the pronunciation of \"実は\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "grammar (ぶんぽう)", 
+            "failed": 0, 
+            "lastAsked": 1354904963.756616, 
+            "question": "What is the definition of \"文法\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "five days (いつか)", 
+            "failed": 0, 
+            "lastAsked": 1354904654.227666, 
+            "question": "What is the definition of \"五日\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "がんばる (to do one's best; to try hard)", 
+            "failed": 0, 
+            "lastAsked": 1354905323.078545, 
+            "question": "What is the pronunciation of \"頑張る\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "しあわせ（な） (lasting happiness)", 
+            "failed": 0, 
+            "lastAsked": 1354904640.886332, 
+            "question": "What is the pronunciation of \"幸せ\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "悲しい (かなしい)", 
+            "failed": 0, 
+            "lastAsked": 1354905249.765214, 
+            "question": "Given the definition \"sad\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "むいか (six days)", 
+            "failed": 0, 
+            "lastAsked": 1354904606.453889, 
+            "question": "What is the pronunciation of \"六日\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "to be moved/touched by (かんどうする)", 
+            "failed": 0, 
+            "lastAsked": 1354904924.467687, 
+            "question": "What is the definition of \"感動する\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "みがく (to brush teeth; to polish)", 
+            "failed": 0, 
+            "lastAsked": 1354904814.68171, 
+            "question": "What is the pronunciation of \"磨く\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ケーキ", 
+            "failed": 0, 
+            "lastAsked": 1354904830.946336, 
+            "question": "Given the definition \"cake\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "Thank you (in advance) (よろしくおねがいします)", 
+            "failed": 0, 
+            "lastAsked": 1354905150.41328, 
+            "question": "What is the definition of \"よろしくお願いします\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "to do one's best; to try hard (がんばる)", 
+            "failed": 0, 
+            "lastAsked": 1354904983.788619, 
+            "question": "What is the definition of \"頑張る\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "karate (からて)", 
+            "failed": 0, 
+            "lastAsked": 1354904843.729614, 
+            "question": "What is the definition of \"空手\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "からて (karate)", 
+            "failed": 0, 
+            "lastAsked": 1354905371.075749, 
+            "question": "What is the pronunciation of \"空手\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "だめ（な）", 
+            "failed": 0, 
+            "lastAsked": 1354904723.967639, 
+            "question": "Given the definition \"no good\", what is the word?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "adult (おとな)", 
+            "failed": 0, 
+            "lastAsked": 1354905206.774915, 
+            "question": "What is the definition of \"大人\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "seven days (なのか)", 
+            "failed": 0, 
+            "lastAsked": 1354904872.080449, 
+            "question": "What is the definition of \"七日\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "～ともうします (my name is...)", 
+            "failed": 0, 
+            "lastAsked": 1354904790.259268, 
+            "question": "What is the pronunciation of \"～と申します\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "musical instrument (がっき)", 
+            "failed": 0, 
+            "lastAsked": 1354904577.435988, 
+            "question": "What is the definition of \"楽器\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "がっき (musical instrument)", 
+            "failed": 0, 
+            "lastAsked": 1354905043.430583, 
+            "question": "What is the pronunciation of \"楽器\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "～回 (～かい)", 
+            "failed": 0, 
+            "lastAsked": 1354904583.515596, 
+            "question": "Given the definition \"~times\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "からい (hot and spicy; salty)", 
+            "failed": 0, 
+            "lastAsked": 1354904635.378781, 
+            "question": "What is the pronunciation of \"辛い\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "cake", 
+            "failed": 0, 
+            "lastAsked": 1354904776.744917, 
+            "question": "What is the definition of \"ケーキ\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "golf", 
+            "failed": 0, 
+            "lastAsked": 1354905001.812421, 
+            "question": "What is the definition of \"ゴルフ\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "三日 (みっか)", 
+            "failed": 0, 
+            "lastAsked": 1354904796.346877, 
+            "question": "Given the definition \"three days\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "十日 (とおか)", 
+            "failed": 0, 
+            "lastAsked": 1354904917.773018, 
+            "question": "Given the definition \"ten days\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "violin", 
+            "failed": 0, 
+            "lastAsked": 1354905267.356973, 
+            "question": "What is the definition of \"バイオリン\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ここのか (nine days)", 
+            "failed": 0, 
+            "lastAsked": 1354905279.177155, 
+            "question": "What is the pronunciation of \"九日\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "close; near (ちかい)", 
+            "failed": 0, 
+            "lastAsked": 1354904802.398482, 
+            "question": "What is the definition of \"近い\"?", 
+            "tried": 3
+        }
+    ]
+}

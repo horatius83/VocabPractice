@@ -1,0 +1,3 @@
+NewWord "the environment"
+Word "allowance" False
+NewWord "saving"

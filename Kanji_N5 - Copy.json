@@ -1,0 +1,1739 @@
+{
+    "name": "Kanji N5", 
+    "vocab": [
+        {
+            "answer": "コウ キョ", 
+            "failed": 20, 
+            "question": "Given the kanji \"校\" what is the On reading(s)?", 
+            "tried": 24
+        }, 
+        {
+            "answer": "い.きる い.かす い.ける う.まれる う.まれ うまれ う.む お.う は.える は.やす き なま なま- な.る", 
+            "failed": 19, 
+            "question": "Given the kanji \"生\" what is the Kun reading(s)?", 
+            "tried": 23
+        }, 
+        {
+            "answer": "ニュウ ジュ ハイ.", 
+            "failed": 18, 
+            "question": "Given the kanji \"入\" what is the On reading(s)?", 
+            "tried": 22
+        }, 
+        {
+            "answer": "コン キン イ", 
+            "failed": 7, 
+            "question": "Given the kanji \"今\" what is the On reading(s)?", 
+            "tried": 9
+        }, 
+        {
+            "answer": "サン ゾウ ミッ.", 
+            "failed": 6, 
+            "question": "Given the kanji \"三\" what is the On reading(s)?", 
+            "tried": 8
+        }, 
+        {
+            "answer": "うえ -うえ うわ- かみ あ.げる -あ.げる あ.がる -あ.がる あ.がり -あ.がり のぼ.る のぼ.り のぼ.", 
+            "failed": 11, 
+            "question": "Given the kanji \"上\" what is the Kun reading(s)?", 
+            "tried": 14
+        }, 
+        {
+            "answer": "セイ ショウ -", 
+            "failed": 7, 
+            "question": "Given the kanji \"生\" what is the On reading(s)?", 
+            "tried": 9
+        }, 
+        {
+            "answer": "come, due, next, cause, become", 
+            "failed": 8, 
+            "question": "Given the kanji \"来\" what is the definition?", 
+            "tried": 10
+        }, 
+        {
+            "answer": "before, ahead, previous, future, precedence", 
+            "failed": 7, 
+            "question": "Given the kanji \"先\" what is the definition?", 
+            "tried": 9
+        }, 
+        {
+            "answer": "ゼン -マ", 
+            "failed": 16, 
+            "question": "Given the kanji \"前\" what is the On reading(s)?", 
+            "tried": 20
+        }, 
+        {
+            "answer": "book, present, main, true, real, counter for long things", 
+            "failed": 14, 
+            "question": "Given the kanji \"本\" what is the definition?", 
+            "tried": 18
+        }, 
+        {
+            "answer": "コウ ギョウ アン オコ.ナ", 
+            "failed": 12, 
+            "question": "Given the kanji \"行\" what is the On reading(s)?", 
+            "tried": 15
+        }, 
+        {
+            "answer": "チュウ アタ.", 
+            "failed": 10, 
+            "question": "Given the kanji \"中\" what is the On reading(s)?", 
+            "tried": 13
+        }, 
+        {
+            "answer": "exam, school, printing, proof, correction", 
+            "failed": 13, 
+            "question": "Given the kanji \"校\" what is the definition?", 
+            "tried": 16
+        }, 
+        {
+            "answer": "ショ -ガ", 
+            "failed": 14, 
+            "question": "Given the kanji \"書\" what is the On reading(s)?", 
+            "tried": 17
+        }, 
+        {
+            "answer": "した しも もと さ.げる さ.がる くだ.る くだ.り くだ.す -くだ.す くだ.さる お.ろす", 
+            "failed": 13, 
+            "question": "Given the kanji \"下\" what is the Kun reading(s)?", 
+            "tried": 17
+        }, 
+        {
+            "answer": "く.る きた.る きた.す き.たす き.たる き", 
+            "failed": 4, 
+            "question": "Given the kanji \"来\" what is the Kun reading(s)?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "あいだ ま あい", 
+            "failed": 4, 
+            "question": "Given the kanji \"間\" what is the Kun reading(s)?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "ロク リク ム", 
+            "failed": 4, 
+            "question": "Given the kanji \"六\" what is the On reading(s)?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "ゴ", 
+            "failed": 5, 
+            "question": "Given the kanji \"午\" what is the On reading(s)?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "メイ ミョウ -", 
+            "failed": 5, 
+            "question": "Given the kanji \"名\" what is the On reading(s)?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "see, hopes, chances, idea, opinion, look at, visible", 
+            "failed": 5, 
+            "question": "Given the kanji \"見\" what is the definition?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "ブン モン", 
+            "failed": 4, 
+            "question": "Given the kanji \"聞\" what is the On reading(s)?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "かね かな-", 
+            "failed": 4, 
+            "question": "Given the kanji \"金\" what is the Kun reading(s)?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "チョウ オ", 
+            "failed": 4, 
+            "question": "Given the kanji \"長\" what is the On reading(s)?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "そと ほか はず.す はず.れる と", 
+            "failed": 4, 
+            "question": "Given the kanji \"外\" what is the Kun reading(s)?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "コウ タカ.メ", 
+            "failed": 4, 
+            "question": "Given the kanji \"高\" what is the On reading(s)?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "ハチ ヨ", 
+            "failed": 4, 
+            "question": "Given the kanji \"八\" what is the On reading(s)?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "ジョウ ショウ シャン ヨ.", 
+            "failed": 11, 
+            "question": "Given the kanji \"上\" what is the On reading(s)?", 
+            "tried": 14
+        }, 
+        {
+            "answer": "かた.る かた.らう", 
+            "failed": 7, 
+            "question": "Given the kanji \"語\" what is the Kun reading(s)?", 
+            "tried": 9
+        }, 
+        {
+            "answer": "ショク ジキ ハ.", 
+            "failed": 7, 
+            "question": "Given the kanji \"食\" what is the On reading(s)?", 
+            "tried": 9
+        }, 
+        {
+            "answer": "カ ゲ オ.リ", 
+            "failed": 7, 
+            "question": "Given the kanji \"下\" what is the On reading(s)?", 
+            "tried": 9
+        }, 
+        {
+            "answer": "あまつ あめ あま", 
+            "failed": 3, 
+            "question": "Given the kanji \"天\" what is the Kun reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "time, hour", 
+            "failed": 3, 
+            "question": "Given the kanji \"時\" what is the definition?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "ガイ ゲ", 
+            "failed": 3, 
+            "question": "Given the kanji \"外\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "マン バン ヨロ", 
+            "failed": 3, 
+            "question": "Given the kanji \"万\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "い.く ゆ.く -ゆ.き -ゆき -い.き -いき おこな.う", 
+            "failed": 3, 
+            "question": "Given the kanji \"行\" what is the Kun reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "サ シャ ヒダ", 
+            "failed": 6, 
+            "question": "Given the kanji \"左\" what is the On reading(s)?", 
+            "tried": 8
+        }, 
+        {
+            "answer": "ヒャク ビャク モ", 
+            "failed": 3, 
+            "question": "Given the kanji \"百\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "シチ ナ", 
+            "failed": 3, 
+            "question": "Given the kanji \"七\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "たか.い たか -だか たか.まる", 
+            "failed": 3, 
+            "question": "Given the kanji \"高\" what is the Kun reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "ダン ナン", 
+            "failed": 3, 
+            "question": "Given the kanji \"男\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "キュウ", 
+            "failed": 3, 
+            "question": "Given the kanji \"休\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "セイ サイ ス ニ", 
+            "failed": 3, 
+            "question": "Given the kanji \"西\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "セン マ.", 
+            "failed": 6, 
+            "question": "Given the kanji \"先\" what is the On reading(s)?", 
+            "tried": 8
+        }, 
+        {
+            "answer": "ゴ コウ オク.レ", 
+            "failed": 3, 
+            "question": "Given the kanji \"後\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "なか うち", 
+            "failed": 3, 
+            "question": "Given the kanji \"中\" what is the Kun reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "name, noted, distinguished, reputation", 
+            "failed": 3, 
+            "question": "Given the kanji \"名\" what is the definition?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "シャ クル", 
+            "failed": 3, 
+            "question": "Given the kanji \"車\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "シ ス ツ", 
+            "failed": 3, 
+            "question": "Given the kanji \"子\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "ひ -び ほ-", 
+            "failed": 3, 
+            "question": "Given the kanji \"火\" what is the Kun reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "study, learning, science", 
+            "failed": 6, 
+            "question": "Given the kanji \"学\" what is the definition?", 
+            "tried": 8
+        }, 
+        {
+            "answer": "ド ト ツ", 
+            "failed": 3, 
+            "question": "Given the kanji \"土\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "トウ ヒガ", 
+            "failed": 3, 
+            "question": "Given the kanji \"東\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "ナン ナ ミナ", 
+            "failed": 3, 
+            "question": "Given the kanji \"南\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "はは も", 
+            "failed": 6, 
+            "question": "Given the kanji \"母\" what is the Kun reading(s)?", 
+            "tried": 8
+        }, 
+        {
+            "answer": "ひと -り", 
+            "failed": 3, 
+            "question": "Given the kanji \"人\" what is the Kun reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "ホク キ", 
+            "failed": 6, 
+            "question": "Given the kanji \"北\" what is the On reading(s)?", 
+            "tried": 8
+        }, 
+        {
+            "answer": "ウ ユウ ミ", 
+            "failed": 3, 
+            "question": "Given the kanji \"右\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "ちい.さい こ- お- さ", 
+            "failed": 3, 
+            "question": "Given the kanji \"小\" what is the Kun reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "マイ -ゴト.", 
+            "failed": 3, 
+            "question": "Given the kanji \"毎\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "ハン ナカ.", 
+            "failed": 3, 
+            "question": "Given the kanji \"半\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "シュツ スイ イ.ダ", 
+            "failed": 3, 
+            "question": "Given the kanji \"出\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "ニ ジ フタタ.", 
+            "failed": 3, 
+            "question": "Given the kanji \"二\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "ウ", 
+            "failed": 2, 
+            "question": "Given the kanji \"雨\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "エン マロ.ヤ", 
+            "failed": 2, 
+            "question": "Given the kanji \"円\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "ユウ ト", 
+            "failed": 2, 
+            "question": "Given the kanji \"友\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "み.る み.える み.せる", 
+            "failed": 2, 
+            "question": "Given the kanji \"見\" what is the Kun reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "あめ あま- -さめ", 
+            "failed": 2, 
+            "question": "Given the kanji \"雨\" what is the Kun reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "む む.つ むっ.つ", 
+            "failed": 2, 
+            "question": "Given the kanji \"六\" what is the Kun reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "み み.つ", 
+            "failed": 2, 
+            "question": "Given the kanji \"三\" what is the Kun reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "behind, back, later", 
+            "failed": 2, 
+            "question": "Given the kanji \"後\" what is the definition?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac", 
+            "failed": 2, 
+            "question": "Given the kanji \"午\" what is the definition?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "circle, yen, round", 
+            "failed": 2, 
+            "question": "Given the kanji \"円\" what is the definition?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "below, down, descend, give, low, inferior", 
+            "failed": 2, 
+            "question": "Given the kanji \"下\" what is the definition?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "ボク モク", 
+            "failed": 2, 
+            "question": "Given the kanji \"木\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "ドク トク トウ -ヨ.", 
+            "failed": 2, 
+            "question": "Given the kanji \"読\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "ライ タイ", 
+            "failed": 2, 
+            "question": "Given the kanji \"来\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "で.る -で だ.す -だ.す い.でる", 
+            "failed": 2, 
+            "question": "Given the kanji \"出\" what is the Kun reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "い.る -い.る -い.り い.れる -い.れ", 
+            "failed": 2, 
+            "question": "Given the kanji \"入\" what is the Kun reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "ネン ト", 
+            "failed": 2, 
+            "question": "Given the kanji \"年\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "く.う く.らう た.べる", 
+            "failed": 4, 
+            "question": "Given the kanji \"食\" what is the Kun reading(s)?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "spirit, mind", 
+            "failed": 2, 
+            "question": "Given the kanji \"気\" what is the definition?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "half, middle, odd number, semi-, part-", 
+            "failed": 2, 
+            "question": "Given the kanji \"半\" what is the definition?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "いき", 
+            "failed": 2, 
+            "question": "Given the kanji \"気\" what is the Kun reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "サン セン ヤ", 
+            "failed": 2, 
+            "question": "Given the kanji \"山\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "のち うし.ろ うしろ あと", 
+            "failed": 2, 
+            "question": "Given the kanji \"後\" what is the Kun reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "うま", 
+            "failed": 2, 
+            "question": "Given the kanji \"午\" what is the Kun reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "まる.い まる まど まど.か", 
+            "failed": 2, 
+            "question": "Given the kanji \"円\" what is the Kun reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac", 
+            "failed": 2, 
+            "question": "Given the kanji \"子\" what is the definition?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "ガク マナ.", 
+            "failed": 2, 
+            "question": "Given the kanji \"学\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "コク ク", 
+            "failed": 2, 
+            "question": "Given the kanji \"国\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "ダイ タイ -オオ.イ", 
+            "failed": 2, 
+            "question": "Given the kanji \"大\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "life, genuine, birth", 
+            "failed": 2, 
+            "question": "Given the kanji \"生\" what is the definition?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "tall, high, expensive", 
+            "failed": 2, 
+            "question": "Given the kanji \"高\" what is the definition?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "ハク ビャク シロ.", 
+            "failed": 2, 
+            "question": "Given the kanji \"白\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "hear, ask, listen", 
+            "failed": 2, 
+            "question": "Given the kanji \"聞\" what is the definition?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "キン コン ゴン -ガ", 
+            "failed": 2, 
+            "question": "Given the kanji \"金\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "か.く -が.き", 
+            "failed": 2, 
+            "question": "Given the kanji \"書\" what is the Kun reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "ジ -ド", 
+            "failed": 2, 
+            "question": "Given the kanji \"時\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "イチ イツ ヒト.", 
+            "failed": 2, 
+            "question": "Given the kanji \"一\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "セン カ", 
+            "failed": 2, 
+            "question": "Given the kanji \"川\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "ゲツ ガツ ツ", 
+            "failed": 2, 
+            "question": "Given the kanji \"月\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "カ", 
+            "failed": 2, 
+            "question": "Given the kanji \"何\" what is the On reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "読", 
+            "failed": 2, 
+            "question": "Given the definition \"read\" what is the kanji?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "や や.つ やっ.つ", 
+            "failed": 3, 
+            "question": "Given the kanji \"八\" what is the Kun reading(s)?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "キ ケ", 
+            "failed": 3, 
+            "question": "Given the kanji \"気\" what is the On reading(s)?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "カン ケン", 
+            "failed": 3, 
+            "question": "Given the kanji \"間\" what is the On reading(s)?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "interval, space", 
+            "failed": 4, 
+            "question": "Given the kanji \"間\" what is the definition?", 
+            "tried": 7
+        }, 
+        {
+            "answer": "ボ", 
+            "failed": 1, 
+            "question": "Given the kanji \"母\" what is the On reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "後", 
+            "failed": 1, 
+            "question": "Given the definition \"behind, back, later\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "おんな", 
+            "failed": 2, 
+            "question": "Given the kanji \"女\" what is the Kun reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "とお", 
+            "failed": 1, 
+            "question": "Given the kanji \"十\" what is the Kun reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "right", 
+            "failed": 1, 
+            "question": "Given the kanji \"右\" what is the definition?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "西", 
+            "failed": 1, 
+            "question": "Given the definition \"west, Spain\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "long, leader", 
+            "failed": 2, 
+            "question": "Given the kanji \"長\" what is the definition?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "ごと", 
+            "failed": 1, 
+            "question": "Given the kanji \"毎\" what is the Kun reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "毎", 
+            "failed": 1, 
+            "question": "Given the definition \"every\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "き こ", 
+            "failed": 1, 
+            "question": "Given the kanji \"木\" what is the Kun reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ここの", 
+            "failed": 1, 
+            "question": "Given the kanji \"九\" what is the Kun reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ジョ ニョ ニョウ", 
+            "failed": 1, 
+            "question": "Given the kanji \"女\" what is the On reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ケン", 
+            "failed": 1, 
+            "question": "Given the kanji \"見\" what is the On reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "tale, talk", 
+            "failed": 3, 
+            "question": "Given the kanji \"話\" what is the definition?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "なが.い", 
+            "failed": 1, 
+            "question": "Given the kanji \"長\" what is the Kun reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "千", 
+            "failed": 1, 
+            "question": "Given the definition \"thousand\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "半", 
+            "failed": 1, 
+            "question": "Given the definition \"half, middle, odd number, semi-, part-\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "フ", 
+            "failed": 1, 
+            "question": "Given the kanji \"父\" what is the On reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ゴ イツ.", 
+            "failed": 1, 
+            "question": "Given the kanji \"五\" what is the On reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "キュウ ク ココノ.", 
+            "failed": 2, 
+            "question": "Given the kanji \"九\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "ホン モ", 
+            "failed": 1, 
+            "question": "Given the kanji \"本\" what is the On reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "とき", 
+            "failed": 1, 
+            "question": "Given the kanji \"時\" what is the Kun reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "なに なん なに- なん", 
+            "failed": 1, 
+            "question": "Given the kanji \"何\" what is the Kun reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ショウ", 
+            "failed": 2, 
+            "question": "Given the kanji \"小\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "ひと-", 
+            "failed": 2, 
+            "question": "Given the kanji \"一\" what is the Kun reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "しろ しら-", 
+            "failed": 2, 
+            "question": "Given the kanji \"白\" what is the Kun reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "生", 
+            "failed": 1, 
+            "question": "Given the definition \"life, genuine, birth\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "語", 
+            "failed": 1, 
+            "question": "Given the definition \"word, speech, language\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "なな なな.つ", 
+            "failed": 1, 
+            "question": "Given the kanji \"七\" what is the Kun reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "eat, food", 
+            "failed": 2, 
+            "question": "Given the kanji \"食\" what is the definition?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "every", 
+            "failed": 1, 
+            "question": "Given the kanji \"毎\" what is the definition?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "above, up", 
+            "failed": 1, 
+            "question": "Given the kanji \"上\" what is the definition?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "カ", 
+            "failed": 1, 
+            "question": "Given the kanji \"火\" what is the On reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "シ ヨ", 
+            "failed": 1, 
+            "question": "Given the kanji \"四\" what is the On reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "やす.む やす.まる やす.める", 
+            "failed": 1, 
+            "question": "Given the kanji \"休\" what is the Kun reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "先", 
+            "failed": 2, 
+            "question": "Given the definition \"before, ahead, previous, future, precedence\" what is the kanji?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "west, Spain", 
+            "failed": 2, 
+            "question": "Given the kanji \"西\" what is the definition?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "in front, before", 
+            "failed": 1, 
+            "question": "Given the kanji \"前\" what is the definition?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "き.く き.こえる", 
+            "failed": 1, 
+            "question": "Given the kanji \"聞\" what is the Kun reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "南", 
+            "failed": 1, 
+            "question": "Given the definition \"south\" what is the kanji?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "よ よ.つ よっ.つ", 
+            "failed": 1, 
+            "question": "Given the kanji \"四\" what is the Kun reading(s)?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "what", 
+            "failed": 1, 
+            "question": "Given the kanji \"何\" what is the definition?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "デン", 
+            "failed": 1, 
+            "question": "Given the kanji \"電\" what is the On reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "fire", 
+            "failed": 1, 
+            "question": "Given the kanji \"火\" what is the definition?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "soil, earth, ground, Turkey", 
+            "failed": 1, 
+            "question": "Given the kanji \"土\" what is the definition?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "large, big", 
+            "failed": 0, 
+            "question": "Given the kanji \"大\" what is the definition?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "year", 
+            "failed": 0, 
+            "question": "Given the kanji \"年\" what is the definition?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "今", 
+            "failed": 0, 
+            "question": "Given the definition \"now\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "な", 
+            "failed": 0, 
+            "question": "Given the kanji \"名\" what is the Kun reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "火", 
+            "failed": 0, 
+            "question": "Given the definition \"fire\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "outside", 
+            "failed": 0, 
+            "question": "Given the kanji \"外\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "見", 
+            "failed": 0, 
+            "question": "Given the definition \"see, hopes, chances, idea, opinion, look at, visible\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "in, inside, middle, mean, center", 
+            "failed": 0, 
+            "question": "Given the kanji \"中\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "雨", 
+            "failed": 0, 
+            "question": "Given the definition \"rain\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "外", 
+            "failed": 0, 
+            "question": "Given the definition \"outside\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "天", 
+            "failed": 0, 
+            "question": "Given the definition \"heavens, sky, imperial\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "長", 
+            "failed": 0, 
+            "question": "Given the definition \"long, leader\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "month, moon", 
+            "failed": 0, 
+            "question": "Given the kanji \"月\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "聞", 
+            "failed": 0, 
+            "question": "Given the definition \"hear, ask, listen\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "water", 
+            "failed": 0, 
+            "question": "Given the kanji \"水\" what is the definition?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "四", 
+            "failed": 0, 
+            "question": "Given the definition \"four\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "万", 
+            "failed": 0, 
+            "question": "Given the definition \"ten thousand\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "小", 
+            "failed": 0, 
+            "question": "Given the definition \"little, small\" what is the kanji?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "十", 
+            "failed": 0, 
+            "question": "Given the definition \"ten\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "ワ", 
+            "failed": 0, 
+            "question": "Given the kanji \"話\" what is the On reading(s)?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "九", 
+            "failed": 0, 
+            "question": "Given the definition \"nine\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "父", 
+            "failed": 0, 
+            "question": "Given the definition \"father\" what is the kanji?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "gold", 
+            "failed": 0, 
+            "question": "Given the kanji \"金\" what is the definition?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "word, speech, language", 
+            "failed": 0, 
+            "question": "Given the kanji \"語\" what is the definition?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "百", 
+            "failed": 0, 
+            "question": "Given the definition \"hundred\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "nine", 
+            "failed": 0, 
+            "question": "Given the kanji \"九\" what is the definition?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "友", 
+            "failed": 0, 
+            "question": "Given the definition \"friend\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "人", 
+            "failed": 0, 
+            "question": "Given the definition \"person\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "woman, female", 
+            "failed": 0, 
+            "question": "Given the kanji \"女\" what is the definition?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "left", 
+            "failed": 0, 
+            "question": "Given the kanji \"左\" what is the definition?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "二", 
+            "failed": 0, 
+            "question": "Given the definition \"two\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "little, small", 
+            "failed": 0, 
+            "question": "Given the kanji \"小\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "five", 
+            "failed": 0, 
+            "question": "Given the kanji \"五\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "六", 
+            "failed": 0, 
+            "question": "Given the definition \"six\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "年", 
+            "failed": 0, 
+            "question": "Given the definition \"year\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "左", 
+            "failed": 0, 
+            "question": "Given the definition \"left\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "みず みず", 
+            "failed": 0, 
+            "question": "Given the kanji \"水\" what is the Kun reading(s)?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "まえ", 
+            "failed": 0, 
+            "question": "Given the kanji \"前\" what is the Kun reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "mama, mother", 
+            "failed": 0, 
+            "question": "Given the kanji \"母\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "write", 
+            "failed": 0, 
+            "question": "Given the kanji \"書\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "ちち", 
+            "failed": 0, 
+            "question": "Given the kanji \"父\" what is the Kun reading(s)?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "本", 
+            "failed": 0, 
+            "question": "Given the definition \"book, present, main, true, real, counter for long things\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "seven", 
+            "failed": 0, 
+            "question": "Given the kanji \"七\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "右", 
+            "failed": 0, 
+            "question": "Given the definition \"right\" what is the kanji?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "going, journey", 
+            "failed": 0, 
+            "question": "Given the kanji \"行\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "rest, day off, retire, sleep", 
+            "failed": 0, 
+            "question": "Given the kanji \"休\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "食", 
+            "failed": 0, 
+            "question": "Given the definition \"eat, food\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "一", 
+            "failed": 0, 
+            "question": "Given the definition \"one\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "three", 
+            "failed": 0, 
+            "question": "Given the kanji \"三\" what is the definition?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "男", 
+            "failed": 0, 
+            "question": "Given the definition \"male\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "east", 
+            "failed": 0, 
+            "question": "Given the kanji \"東\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "father", 
+            "failed": 0, 
+            "question": "Given the kanji \"父\" what is the definition?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "電", 
+            "failed": 0, 
+            "question": "Given the definition \"electricity\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "月", 
+            "failed": 0, 
+            "question": "Given the definition \"month, moon\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "セン", 
+            "failed": 0, 
+            "question": "Given the kanji \"千\" what is the On reading(s)?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "何", 
+            "failed": 0, 
+            "question": "Given the definition \"what\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "ジン ニン -", 
+            "failed": 0, 
+            "question": "Given the kanji \"人\" what is the On reading(s)?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "名", 
+            "failed": 0, 
+            "question": "Given the definition \"name, noted, distinguished, reputation\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "話", 
+            "failed": 0, 
+            "question": "Given the definition \"tale, talk\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "テン", 
+            "failed": 0, 
+            "question": "Given the kanji \"天\" what is the On reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "七", 
+            "failed": 0, 
+            "question": "Given the definition \"seven\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "friend", 
+            "failed": 0, 
+            "question": "Given the kanji \"友\" what is the definition?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "rain", 
+            "failed": 0, 
+            "question": "Given the kanji \"雨\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "north", 
+            "failed": 0, 
+            "question": "Given the kanji \"北\" what is the definition?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ふた ふた.つ", 
+            "failed": 0, 
+            "question": "Given the kanji \"二\" what is the Kun reading(s)?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "国", 
+            "failed": 0, 
+            "question": "Given the definition \"country\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "stream, river", 
+            "failed": 0, 
+            "question": "Given the kanji \"川\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "来", 
+            "failed": 0, 
+            "question": "Given the definition \"come, due, next, cause, become\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "six", 
+            "failed": 0, 
+            "question": "Given the kanji \"六\" what is the definition?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "大", 
+            "failed": 0, 
+            "question": "Given the definition \"large, big\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "女", 
+            "failed": 0, 
+            "question": "Given the definition \"woman, female\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "one", 
+            "failed": 0, 
+            "question": "Given the kanji \"一\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "時", 
+            "failed": 0, 
+            "question": "Given the definition \"time, hour\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "ten", 
+            "failed": 0, 
+            "question": "Given the kanji \"十\" what is the definition?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "はな.す はなし", 
+            "failed": 0, 
+            "question": "Given the kanji \"話\" what is the Kun reading(s)?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "母", 
+            "failed": 0, 
+            "question": "Given the definition \"mama, mother\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "thousand", 
+            "failed": 0, 
+            "question": "Given the kanji \"千\" what is the definition?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "五", 
+            "failed": 0, 
+            "question": "Given the definition \"five\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "中", 
+            "failed": 0, 
+            "question": "Given the definition \"in, inside, middle, mean, center\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "male", 
+            "failed": 0, 
+            "question": "Given the kanji \"男\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "こ -こ", 
+            "failed": 0, 
+            "question": "Given the kanji \"子\" what is the Kun reading(s)?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "heavens, sky, imperial", 
+            "failed": 0, 
+            "question": "Given the kanji \"天\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "木", 
+            "failed": 0, 
+            "question": "Given the definition \"tree, wood\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "下", 
+            "failed": 0, 
+            "question": "Given the definition \"below, down, descend, give, low, inferior\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "円", 
+            "failed": 0, 
+            "question": "Given the definition \"circle, yen, round\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "eight", 
+            "failed": 0, 
+            "question": "Given the kanji \"八\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "校", 
+            "failed": 0, 
+            "question": "Given the definition \"exam, school, printing, proof, correction\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "country", 
+            "failed": 0, 
+            "question": "Given the kanji \"国\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "土", 
+            "failed": 0, 
+            "question": "Given the definition \"soil, earth, ground, Turkey\" what is the kanji?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "さき", 
+            "failed": 0, 
+            "question": "Given the kanji \"先\" what is the Kun reading(s)?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "read", 
+            "failed": 0, 
+            "question": "Given the kanji \"読\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "学", 
+            "failed": 0, 
+            "question": "Given the definition \"study, learning, science\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "exit, leave", 
+            "failed": 0, 
+            "question": "Given the kanji \"出\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "おお- おお.きい", 
+            "failed": 0, 
+            "question": "Given the kanji \"大\" what is the Kun reading(s)?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "ゴ", 
+            "failed": 0, 
+            "question": "Given the kanji \"語\" what is the On reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "two", 
+            "failed": 0, 
+            "question": "Given the kanji \"二\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "person", 
+            "failed": 0, 
+            "question": "Given the kanji \"人\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "tree, wood", 
+            "failed": 0, 
+            "question": "Given the kanji \"木\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "いつ", 
+            "failed": 0, 
+            "question": "Given the kanji \"五\" what is the Kun reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "スイ", 
+            "failed": 0, 
+            "question": "Given the kanji \"水\" what is the On reading(s)?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "北", 
+            "failed": 0, 
+            "question": "Given the definition \"north\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "書", 
+            "failed": 0, 
+            "question": "Given the definition \"write\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "行", 
+            "failed": 0, 
+            "question": "Given the definition \"going, journey\" what is the kanji?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "enter, insert", 
+            "failed": 0, 
+            "question": "Given the kanji \"入\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "car", 
+            "failed": 0, 
+            "question": "Given the kanji \"車\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "八", 
+            "failed": 0, 
+            "question": "Given the definition \"eight\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ジュウ ジッ ジュッ", 
+            "failed": 0, 
+            "question": "Given the kanji \"十\" what is the On reading(s)?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "間", 
+            "failed": 0, 
+            "question": "Given the definition \"interval, space\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "車", 
+            "failed": 0, 
+            "question": "Given the definition \"car\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "now", 
+            "failed": 0, 
+            "question": "Given the kanji \"今\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "electricity", 
+            "failed": 0, 
+            "question": "Given the kanji \"電\" what is the definition?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "hundred", 
+            "failed": 0, 
+            "question": "Given the kanji \"百\" what is the definition?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "よ.む", 
+            "failed": 0, 
+            "question": "Given the kanji \"読\" what is the Kun reading(s)?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "川", 
+            "failed": 0, 
+            "question": "Given the definition \"stream, river\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "four", 
+            "failed": 0, 
+            "question": "Given the kanji \"四\" what is the definition?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "おとこ", 
+            "failed": 0, 
+            "question": "Given the kanji \"男\" what is the Kun reading(s)?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "休", 
+            "failed": 0, 
+            "question": "Given the definition \"rest, day off, retire, sleep\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "午", 
+            "failed": 0, 
+            "question": "Given the definition \"noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "東", 
+            "failed": 0, 
+            "question": "Given the definition \"east\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "金", 
+            "failed": 0, 
+            "question": "Given the definition \"gold\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "出", 
+            "failed": 0, 
+            "question": "Given the definition \"exit, leave\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "白", 
+            "failed": 0, 
+            "question": "Given the definition \"white\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "mountain", 
+            "failed": 0, 
+            "question": "Given the kanji \"山\" what is the definition?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "山", 
+            "failed": 0, 
+            "question": "Given the definition \"mountain\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "三", 
+            "failed": 0, 
+            "question": "Given the definition \"three\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "white", 
+            "failed": 0, 
+            "question": "Given the kanji \"白\" what is the definition?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "子", 
+            "failed": 0, 
+            "question": "Given the definition \"child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "south", 
+            "failed": 0, 
+            "question": "Given the kanji \"南\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "気", 
+            "failed": 0, 
+            "question": "Given the definition \"spirit, mind\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "上", 
+            "failed": 0, 
+            "question": "Given the definition \"above, up\" what is the kanji?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "水", 
+            "failed": 0, 
+            "question": "Given the definition \"water\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "入", 
+            "failed": 0, 
+            "question": "Given the definition \"enter, insert\" what is the kanji?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "ten thousand", 
+            "failed": 0, 
+            "question": "Given the kanji \"万\" what is the definition?", 
+            "tried": 1
+        }, 
+        {
+            "answer": "前", 
+            "failed": 0, 
+            "question": "Given the definition \"in front, before\" what is the kanji?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "高", 
+            "failed": 0, 
+            "question": "Given the definition \"tall, high, expensive\" what is the kanji?", 
+            "tried": 1
+        }
+    ]
+}

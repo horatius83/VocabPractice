@@ -1,0 +1,3585 @@
+[
+    {
+        "frequency": "1054", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "す.う"
+        ], 
+        "literal": "吸", 
+        "meaning": [
+            "suck", 
+            "imbibe", 
+            "inhale", 
+            "sip"
+        ], 
+        "on": [
+            "キュウ"
+        ], 
+        "stroke_count": "6"
+    }, 
+    {
+        "frequency": "594", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "のぞ.く", 
+            "-よ.け"
+        ], 
+        "literal": "除", 
+        "meaning": [
+            "exclude", 
+            "division (x/3)", 
+            "remove", 
+            "abolish", 
+            "cancel", 
+            "except"
+        ], 
+        "on": [
+            "ジョ", 
+            "ジ"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "1583", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "きさき"
+        ], 
+        "literal": "后", 
+        "meaning": [
+            "empress", 
+            "queen", 
+            "after", 
+            "behind", 
+            "back", 
+            "later"
+        ], 
+        "on": [
+            "コウ", 
+            "ゴ"
+        ], 
+        "stroke_count": "6"
+    }, 
+    {
+        "frequency": "970", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "たっと.い", 
+            "とうと.い", 
+            "たっと.ぶ", 
+            "とうと.ぶ"
+        ], 
+        "literal": "貴", 
+        "meaning": [
+            "precious", 
+            "value", 
+            "prize", 
+            "esteem", 
+            "honor"
+        ], 
+        "on": [
+            "キ"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "1137", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "俳", 
+        "meaning": [
+            "haiku", 
+            "actor"
+        ], 
+        "on": [
+            "ハイ"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "588", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "すわ.る"
+        ], 
+        "literal": "座", 
+        "meaning": [
+            "squat", 
+            "seat", 
+            "cushion", 
+            "gathering", 
+            "sit"
+        ], 
+        "on": [
+            "ザ"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "830", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "つと.める", 
+            "-づと.め", 
+            "つと.まる", 
+            "いそ.しむ"
+        ], 
+        "literal": "勤", 
+        "meaning": [
+            "diligence", 
+            "become employed", 
+            "serve"
+        ], 
+        "on": [
+            "キン", 
+            "ゴン"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "944", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "ま.く", 
+            "まき", 
+            "ま.き"
+        ], 
+        "literal": "巻", 
+        "meaning": [
+            "scroll", 
+            "volume", 
+            "book", 
+            "part", 
+            "roll up", 
+            "wind up", 
+            "tie", 
+            "coil", 
+            "counter for texts (or book scrolls)"
+        ], 
+        "on": [
+            "カン", 
+            "ケン"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "596", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "お.りる", 
+            "お.ろす", 
+            "ふ.る", 
+            "ふ.り", 
+            "くだ.る", 
+            "くだ.す"
+        ], 
+        "literal": "降", 
+        "meaning": [
+            "descend", 
+            "precipitate", 
+            "fall", 
+            "surrender"
+        ], 
+        "on": [
+            "コウ", 
+            "ゴ"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "313", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "そな.える", 
+            "とも", 
+            "-ども"
+        ], 
+        "literal": "供", 
+        "meaning": [
+            "submit", 
+            "offer", 
+            "present", 
+            "serve (meal)", 
+            "accompany"
+        ], 
+        "on": [
+            "キョウ", 
+            "ク", 
+            "クウ", 
+            "グ"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "1258", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "たて"
+        ], 
+        "literal": "縦", 
+        "meaning": [
+            "vertical", 
+            "length", 
+            "height", 
+            "self-indulgent", 
+            "wayward"
+        ], 
+        "on": [
+            "ジュウ"
+        ], 
+        "stroke_count": "16"
+    }, 
+    {
+        "frequency": "441", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "すがた"
+        ], 
+        "literal": "姿", 
+        "meaning": [
+            "figure", 
+            "form", 
+            "shape"
+        ], 
+        "on": [
+            "シ"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "1060", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "み.る"
+        ], 
+        "literal": "看", 
+        "meaning": [
+            "watch over", 
+            "see"
+        ], 
+        "on": [
+            "カン"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "755", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "みだ.れる", 
+            "みだ.る", 
+            "みだ.す", 
+            "みだ", 
+            "おさ.める", 
+            "わた.る"
+        ], 
+        "literal": "乱", 
+        "meaning": [
+            "riot", 
+            "war", 
+            "disorder", 
+            "disturb"
+        ], 
+        "on": [
+            "ラン", 
+            "ロン"
+        ], 
+        "stroke_count": "7"
+    }, 
+    {
+        "frequency": "961", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "賃", 
+        "meaning": [
+            "fare", 
+            "fee", 
+            "hire", 
+            "rent", 
+            "wages", 
+            "charge"
+        ], 
+        "on": [
+            "チン"
+        ], 
+        "stroke_count": "13"
+    }, 
+    {
+        "frequency": "1443", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "おが.む", 
+            "おろが.む"
+        ], 
+        "literal": "拝", 
+        "meaning": [
+            "worship", 
+            "adore", 
+            "pray to"
+        ], 
+        "on": [
+            "ハイ"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "1231", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "しお", 
+            "うしお"
+        ], 
+        "literal": "潮", 
+        "meaning": [
+            "tide", 
+            "salt water", 
+            "opportunity"
+        ], 
+        "on": [
+            "チョウ"
+        ], 
+        "stroke_count": "15"
+    }, 
+    {
+        "frequency": "227", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "論", 
+        "meaning": [
+            "argument", 
+            "discourse"
+        ], 
+        "on": [
+            "ロン"
+        ], 
+        "stroke_count": "15"
+    }, 
+    {
+        "frequency": "283", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "うたが.う"
+        ], 
+        "literal": "疑", 
+        "meaning": [
+            "doubt", 
+            "distrust", 
+            "be suspicious", 
+            "question"
+        ], 
+        "on": [
+            "ギ"
+        ], 
+        "stroke_count": "14"
+    }, 
+    {
+        "frequency": "695", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "のたま.う"
+        ], 
+        "literal": "宣", 
+        "meaning": [
+            "proclaim", 
+            "say", 
+            "announce"
+        ], 
+        "on": [
+            "セン"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "1332", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "仁", 
+        "meaning": [
+            "humanity", 
+            "virtue", 
+            "benevolence", 
+            "charity", 
+            "man", 
+            "kernel"
+        ], 
+        "on": [
+            "ジン", 
+            "ニ", 
+            "ニン"
+        ], 
+        "stroke_count": "4"
+    }, 
+    {
+        "frequency": "1067", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "かな.でる"
+        ], 
+        "literal": "奏", 
+        "meaning": [
+            "play music", 
+            "speak to a ruler", 
+            "complete"
+        ], 
+        "on": [
+            "ソウ"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "1113", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "忠", 
+        "meaning": [
+            "loyalty", 
+            "fidelity", 
+            "faithfulness"
+        ], 
+        "on": [
+            "チュウ"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "1552", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "む.す", 
+            "む.れる", 
+            "む.らす"
+        ], 
+        "literal": "蒸", 
+        "meaning": [
+            "steam", 
+            "heat", 
+            "sultry", 
+            "foment", 
+            "get musty"
+        ], 
+        "on": [
+            "ジョウ", 
+            "セイ"
+        ], 
+        "stroke_count": "13"
+    }, 
+    {
+        "frequency": "1121", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "そ.う", 
+            "-ぞ.い"
+        ], 
+        "literal": "沿", 
+        "meaning": [
+            "run alongside", 
+            "follow along", 
+            "run along", 
+            "lie along"
+        ], 
+        "on": [
+            "エン"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "1181", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "たっと.い", 
+            "とうと.い", 
+            "たっと.ぶ", 
+            "とうと.ぶ"
+        ], 
+        "literal": "尊", 
+        "meaning": [
+            "revered", 
+            "valuable", 
+            "precious", 
+            "noble", 
+            "exalted"
+        ], 
+        "on": [
+            "ソン"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "611", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "ひろ.がる", 
+            "ひろ.げる", 
+            "ひろ.める"
+        ], 
+        "literal": "拡", 
+        "meaning": [
+            "broaden", 
+            "extend", 
+            "expand", 
+            "enlarge"
+        ], 
+        "on": [
+            "カク", 
+            "コウ"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "765", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "よ.い", 
+            "い.い", 
+            "よ.く", 
+            "よし.とする"
+        ], 
+        "literal": "善", 
+        "meaning": [
+            "virtuous", 
+            "good", 
+            "goodness"
+        ], 
+        "on": [
+            "ゼン"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "1455", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "棒", 
+        "meaning": [
+            "rod", 
+            "stick", 
+            "cane", 
+            "pole", 
+            "club", 
+            "line"
+        ], 
+        "on": [
+            "ボウ"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "725", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "署", 
+        "meaning": [
+            "signature", 
+            "govt office", 
+            "police station"
+        ], 
+        "on": [
+            "ショ"
+        ], 
+        "stroke_count": "13"
+    }, 
+    {
+        "frequency": "634", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "まさ.に", 
+            "はた", 
+            "まさ", 
+            "ひきい.る", 
+            "もって"
+        ], 
+        "literal": "将", 
+        "meaning": [
+            "leader", 
+            "commander", 
+            "general", 
+            "admiral", 
+            "or", 
+            "and again", 
+            "soon", 
+            "from now on", 
+            "just about"
+        ], 
+        "on": [
+            "ショウ", 
+            "ソウ"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "39", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "なかま", 
+            "むら"
+        ], 
+        "literal": "党", 
+        "meaning": [
+            "party", 
+            "faction", 
+            "clique"
+        ], 
+        "on": [
+            "トウ"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "432", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "かぶ"
+        ], 
+        "literal": "株", 
+        "meaning": [
+            "stocks", 
+            "stump", 
+            "shares", 
+            "stock", 
+            "counter for small plants"
+        ], 
+        "on": [
+            "シュ"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "997", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "むね"
+        ], 
+        "literal": "宗", 
+        "meaning": [
+            "religion", 
+            "sect", 
+            "denomination", 
+            "main point", 
+            "origin", 
+            "essence"
+        ], 
+        "on": [
+            "シュウ", 
+            "ソウ"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "1744", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "穀", 
+        "meaning": [
+            "cereals", 
+            "grain"
+        ], 
+        "on": [
+            "コク"
+        ], 
+        "stroke_count": "14"
+    }, 
+    {
+        "frequency": "606", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "あぶ.ない", 
+            "あや.うい", 
+            "あや.ぶむ"
+        ], 
+        "literal": "危", 
+        "meaning": [
+            "dangerous", 
+            "fear", 
+            "uneasy"
+        ], 
+        "on": [
+            "キ"
+        ], 
+        "stroke_count": "6"
+    }, 
+    {
+        "frequency": "1129", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "わす.れる"
+        ], 
+        "literal": "忘", 
+        "meaning": [
+            "forget"
+        ], 
+        "on": [
+            "ボウ"
+        ], 
+        "stroke_count": "7"
+    }, 
+    {
+        "frequency": "1342", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "たまご"
+        ], 
+        "literal": "卵", 
+        "meaning": [
+            "egg", 
+            "ovum", 
+            "spawn", 
+            "roe"
+        ], 
+        "on": [
+            "ラン"
+        ], 
+        "stroke_count": "7"
+    }, 
+    {
+        "frequency": "991", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "はらわた"
+        ], 
+        "literal": "臓", 
+        "meaning": [
+            "entrails", 
+            "viscera", 
+            "bowels"
+        ], 
+        "on": [
+            "ゾウ"
+        ], 
+        "stroke_count": "19"
+    }, 
+    {
+        "frequency": "741", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "つく.る", 
+            "はじ.める", 
+            "きず", 
+            "けず.しける"
+        ], 
+        "literal": "創", 
+        "meaning": [
+            "genesis", 
+            "wound", 
+            "injury", 
+            "hurt", 
+            "start", 
+            "originate"
+        ], 
+        "on": [
+            "ソウ", 
+            "ショウ"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "812", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "うら"
+        ], 
+        "literal": "裏", 
+        "meaning": [
+            "back", 
+            "amidst", 
+            "in", 
+            "reverse", 
+            "inside", 
+            "palm", 
+            "sole", 
+            "rear", 
+            "lining", 
+            "wrong side"
+        ], 
+        "on": [
+            "リ"
+        ], 
+        "stroke_count": "13"
+    }, 
+    {
+        "frequency": "506", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "もっぱ.ら"
+        ], 
+        "literal": "専", 
+        "meaning": [
+            "specialty", 
+            "exclusive", 
+            "mainly", 
+            "solely"
+        ], 
+        "on": [
+            "セン"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "917", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "郵", 
+        "meaning": [
+            "mail", 
+            "stagecoach stop"
+        ], 
+        "on": [
+            "ユウ"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "507", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "お.す"
+        ], 
+        "literal": "推", 
+        "meaning": [
+            "conjecture", 
+            "infer", 
+            "guess", 
+            "suppose", 
+            "support", 
+            "push (for)"
+        ], 
+        "on": [
+            "スイ"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "988", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "き"
+        ], 
+        "literal": "樹", 
+        "meaning": [
+            "timber", 
+            "trees", 
+            "wood", 
+            "establish", 
+            "set up"
+        ], 
+        "on": [
+            "ジュ"
+        ], 
+        "stroke_count": "16"
+    }, 
+    {
+        "frequency": "450", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "おお.い"
+        ], 
+        "literal": "衆", 
+        "meaning": [
+            "masses", 
+            "great numbers", 
+            "multitude", 
+            "populace"
+        ], 
+        "on": [
+            "シュウ", 
+            "シュ"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "1086", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "いずみ"
+        ], 
+        "literal": "泉", 
+        "meaning": [
+            "spring", 
+            "fountain"
+        ], 
+        "on": [
+            "セン"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "845", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "きず", 
+            "いた.む", 
+            "いた.める"
+        ], 
+        "literal": "傷", 
+        "meaning": [
+            "wound", 
+            "hurt", 
+            "injure", 
+            "impair", 
+            "pain", 
+            "injury", 
+            "cut", 
+            "gash", 
+            "scar", 
+            "weak point"
+        ], 
+        "on": [
+            "ショウ"
+        ], 
+        "stroke_count": "13"
+    }, 
+    {
+        "frequency": "330", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "かた.い", 
+            "-がた.い", 
+            "むずか.しい", 
+            "むづか.しい", 
+            "むつか.しい", 
+            "-にく.い"
+        ], 
+        "literal": "難", 
+        "meaning": [
+            "difficult", 
+            "impossible", 
+            "trouble", 
+            "accident", 
+            "defect"
+        ], 
+        "on": [
+            "ナン"
+        ], 
+        "stroke_count": "18"
+    }, 
+    {
+        "frequency": "795", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "しろ"
+        ], 
+        "literal": "城", 
+        "meaning": [
+            "castle"
+        ], 
+        "on": [
+            "ジョウ"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "978", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "く.れる", 
+            "く.らす"
+        ], 
+        "literal": "暮", 
+        "meaning": [
+            "livelihood", 
+            "make a living", 
+            "spend time"
+        ], 
+        "on": [
+            "ボ"
+        ], 
+        "stroke_count": "14"
+    }, 
+    {
+        "frequency": "567", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "系", 
+        "meaning": [
+            "lineage", 
+            "system"
+        ], 
+        "on": [
+            "ケイ"
+        ], 
+        "stroke_count": "7"
+    }, 
+    {
+        "frequency": "422", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "かつ.ぐ", 
+            "にな.う"
+        ], 
+        "literal": "担", 
+        "meaning": [
+            "shouldering", 
+            "carry", 
+            "raise", 
+            "bear"
+        ], 
+        "on": [
+            "タン"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "1050", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "わけ"
+        ], 
+        "literal": "訳", 
+        "meaning": [
+            "translate", 
+            "reason", 
+            "circumstance", 
+            "case"
+        ], 
+        "on": [
+            "ヤク"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "337", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "おさ.める", 
+            "おさ.まる"
+        ], 
+        "literal": "収", 
+        "meaning": [
+            "income", 
+            "obtain", 
+            "reap", 
+            "pay", 
+            "supply", 
+            "store"
+        ], 
+        "on": [
+            "シュウ"
+        ], 
+        "stroke_count": "4"
+    }, 
+    {
+        "frequency": "362", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "み.る"
+        ], 
+        "literal": "視", 
+        "meaning": [
+            "inspection", 
+            "regard as", 
+            "see", 
+            "look at"
+        ], 
+        "on": [
+            "シ"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "1916", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "きぬ"
+        ], 
+        "literal": "絹", 
+        "meaning": [
+            "silk"
+        ], 
+        "on": [
+            "ケン"
+        ], 
+        "stroke_count": "13"
+    }, 
+    {
+        "frequency": "551", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "憲", 
+        "meaning": [
+            "constitution", 
+            "law"
+        ], 
+        "on": [
+            "ケン"
+        ], 
+        "stroke_count": "16"
+    }, 
+    {
+        "frequency": "249", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "かわ"
+        ], 
+        "literal": "革", 
+        "meaning": [
+            "leather", 
+            "skin", 
+            "reform", 
+            "become serious"
+        ], 
+        "on": [
+            "カク"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "744", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "すじ"
+        ], 
+        "literal": "筋", 
+        "meaning": [
+            "muscle", 
+            "sinew", 
+            "tendon", 
+            "fiber", 
+            "plot", 
+            "plan", 
+            "descent"
+        ], 
+        "on": [
+            "キン"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "561", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "いな", 
+            "いや"
+        ], 
+        "literal": "否", 
+        "meaning": [
+            "negate", 
+            "no", 
+            "noes", 
+            "refuse", 
+            "decline", 
+            "deny"
+        ], 
+        "on": [
+            "ヒ"
+        ], 
+        "stroke_count": "7"
+    }, 
+    {
+        "frequency": "983", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "簡", 
+        "meaning": [
+            "simplicity", 
+            "brevity"
+        ], 
+        "on": [
+            "カン"
+        ], 
+        "stroke_count": "18"
+    }, 
+    {
+        "frequency": "459", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "のうずる"
+        ], 
+        "literal": "脳", 
+        "meaning": [
+            "brain", 
+            "memory"
+        ], 
+        "on": [
+            "ノウ", 
+            "ドウ"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "334", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "やさ.しい", 
+            "すぐ.れる", 
+            "まさ.る"
+        ], 
+        "literal": "優", 
+        "meaning": [
+            "tenderness", 
+            "excel", 
+            "surpass", 
+            "actor", 
+            "superiority", 
+            "gentleness"
+        ], 
+        "on": [
+            "ユウ", 
+            "ウ"
+        ], 
+        "stroke_count": "17"
+    }, 
+    {
+        "frequency": "1669", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "寸", 
+        "meaning": [
+            "measurement", 
+            "foot/10"
+        ], 
+        "on": [
+            "スン"
+        ], 
+        "stroke_count": "3"
+    }, 
+    {
+        "frequency": "815", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "ひそ.か"
+        ], 
+        "literal": "密", 
+        "meaning": [
+            "secrecy", 
+            "density (pop)", 
+            "minuteness", 
+            "carefulness"
+        ], 
+        "on": [
+            "ミツ"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "696", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "せ", 
+            "せい", 
+            "そむ.く", 
+            "そむ.ける"
+        ], 
+        "literal": "背", 
+        "meaning": [
+            "stature", 
+            "height", 
+            "back", 
+            "behind", 
+            "disobey", 
+            "defy", 
+            "go back on", 
+            "rebel"
+        ], 
+        "on": [
+            "ハイ"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "1349", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "ほ.す", 
+            "ほ.し-", 
+            "-ぼ.し", 
+            "ひ.る"
+        ], 
+        "literal": "干", 
+        "meaning": [
+            "dry", 
+            "parch"
+        ], 
+        "on": [
+            "カン"
+        ], 
+        "stroke_count": "3"
+    }, 
+    {
+        "frequency": "624", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "つ.く", 
+            "つ.ける"
+        ], 
+        "literal": "就", 
+        "meaning": [
+            "concerning", 
+            "settle", 
+            "take position", 
+            "depart", 
+            "study", 
+            "per"
+        ], 
+        "on": [
+            "シュウ", 
+            "ジュ"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "738", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "みなもと"
+        ], 
+        "literal": "源", 
+        "meaning": [
+            "source", 
+            "origin"
+        ], 
+        "on": [
+            "ゲン"
+        ], 
+        "stroke_count": "13"
+    }, 
+    {
+        "frequency": "599", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "な.み", 
+            "なみ", 
+            "なら.べる", 
+            "なら.ぶ", 
+            "なら.びに"
+        ], 
+        "literal": "並", 
+        "meaning": [
+            "row", 
+            "and", 
+            "besides", 
+            "as well as", 
+            "line up", 
+            "rank with", 
+            "rival", 
+            "equal"
+        ], 
+        "on": [
+            "ヘイ", 
+            "ホウ"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "1016", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "みさお", 
+            "あやつ.る"
+        ], 
+        "literal": "操", 
+        "meaning": [
+            "maneuver", 
+            "manipulate", 
+            "operate", 
+            "steer", 
+            "chastity", 
+            "virginity", 
+            "fidelity"
+        ], 
+        "on": [
+            "ソウ", 
+            "サン"
+        ], 
+        "stroke_count": "16"
+    }, 
+    {
+        "frequency": "156", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "おもり", 
+            "かり", 
+            "はか.る"
+        ], 
+        "literal": "権", 
+        "meaning": [
+            "authority", 
+            "power", 
+            "rights"
+        ], 
+        "on": [
+            "ケン", 
+            "ゴン"
+        ], 
+        "stroke_count": "15"
+    }, 
+    {
+        "frequency": "568", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "批", 
+        "meaning": [
+            "criticism", 
+            "strike"
+        ], 
+        "on": [
+            "ヒ"
+        ], 
+        "stroke_count": "7"
+    }, 
+    {
+        "frequency": "242", 
+        "grade": "6", 
+        "jlpt_level": "3", 
+        "kun": [
+            "わたくし", 
+            "わたし"
+        ], 
+        "literal": "私", 
+        "meaning": [
+            "private", 
+            "I", 
+            "me"
+        ], 
+        "on": [
+            "シ"
+        ], 
+        "stroke_count": "7"
+    }, 
+    {
+        "frequency": "1076", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "かた-", 
+            "かた"
+        ], 
+        "literal": "片", 
+        "meaning": [
+            "one-sided", 
+            "leaf", 
+            "sheet", 
+            "right-side kata radical (no. 91)"
+        ], 
+        "on": [
+            "ヘン"
+        ], 
+        "stroke_count": "4"
+    }, 
+    {
+        "frequency": "1686", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "磁", 
+        "meaning": [
+            "magnet", 
+            "porcelain"
+        ], 
+        "on": [
+            "ジ"
+        ], 
+        "stroke_count": "14"
+    }, 
+    {
+        "frequency": "318", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "わ.る", 
+            "わり", 
+            "わ.り", 
+            "わ.れる", 
+            "さ.く"
+        ], 
+        "literal": "割", 
+        "meaning": [
+            "proportion", 
+            "comparatively", 
+            "divide", 
+            "cut", 
+            "separate", 
+            "split"
+        ], 
+        "on": [
+            "カツ"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "209", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "策", 
+        "meaning": [
+            "scheme", 
+            "plan", 
+            "policy", 
+            "step", 
+            "means"
+        ], 
+        "on": [
+            "サク"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "1146", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "すな"
+        ], 
+        "literal": "砂", 
+        "meaning": [
+            "sand"
+        ], 
+        "on": [
+            "サ", 
+            "シャ"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "668", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "模", 
+        "meaning": [
+            "imitation", 
+            "copy", 
+            "mock"
+        ], 
+        "on": [
+            "モ", 
+            "ボ"
+        ], 
+        "stroke_count": "14"
+    }, 
+    {
+        "frequency": "357", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "宅", 
+        "meaning": [
+            "home", 
+            "house", 
+            "residence", 
+            "our house", 
+            "my husband"
+        ], 
+        "on": [
+            "タク"
+        ], 
+        "stroke_count": "6"
+    }, 
+    {
+        "frequency": "1521", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "ふる.う"
+        ], 
+        "literal": "奮", 
+        "meaning": [
+            "stirred up", 
+            "be invigorated", 
+            "flourish"
+        ], 
+        "on": [
+            "フン"
+        ], 
+        "stroke_count": "16"
+    }, 
+    {
+        "frequency": "862", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "ひ.める", 
+            "ひそ.か", 
+            "かく.す"
+        ], 
+        "literal": "秘", 
+        "meaning": [
+            "secret", 
+            "conceal"
+        ], 
+        "on": [
+            "ヒ"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "843", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "こま.る"
+        ], 
+        "literal": "困", 
+        "meaning": [
+            "quandary", 
+            "become distressed", 
+            "annoyed"
+        ], 
+        "on": [
+            "コン"
+        ], 
+        "stroke_count": "7"
+    }, 
+    {
+        "frequency": "793", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "やくしょ"
+        ], 
+        "literal": "庁", 
+        "meaning": [
+            "government office"
+        ], 
+        "on": [
+            "チョウ", 
+            "テイ"
+        ], 
+        "stroke_count": "5"
+    }, 
+    {
+        "frequency": "1415", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "う.れる"
+        ], 
+        "literal": "熟", 
+        "meaning": [
+            "mellow", 
+            "ripen", 
+            "mature", 
+            "acquire skill"
+        ], 
+        "on": [
+            "ジュク"
+        ], 
+        "stroke_count": "15"
+    }, 
+    {
+        "frequency": "638", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "おごそ.か", 
+            "きび.しい", 
+            "いか.めしい", 
+            "いつくし"
+        ], 
+        "literal": "厳", 
+        "meaning": [
+            "stern", 
+            "strictness", 
+            "severity", 
+            "rigidity"
+        ], 
+        "on": [
+            "ゲン", 
+            "ゴン"
+        ], 
+        "stroke_count": "17"
+    }, 
+    {
+        "frequency": "911", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "枚", 
+        "meaning": [
+            "sheet of...", 
+            "counter for flat thin objects or sheets"
+        ], 
+        "on": [
+            "マイ", 
+            "バイ"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "444", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "閣", 
+        "meaning": [
+            "tower", 
+            "tall building", 
+            "palace"
+        ], 
+        "on": [
+            "カク"
+        ], 
+        "stroke_count": "14"
+    }, 
+    {
+        "frequency": "1165", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "ひじり"
+        ], 
+        "literal": "聖", 
+        "meaning": [
+            "holy", 
+            "saint", 
+            "sage", 
+            "master", 
+            "priest"
+        ], 
+        "on": [
+            "セイ", 
+            "ショウ"
+        ], 
+        "stroke_count": "13"
+    }, 
+    {
+        "frequency": "835", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "とばり"
+        ], 
+        "literal": "幕", 
+        "meaning": [
+            "curtain", 
+            "bunting", 
+            "act of play"
+        ], 
+        "on": [
+            "マク", 
+            "バク"
+        ], 
+        "stroke_count": "13"
+    }, 
+    {
+        "frequency": "1077", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "さと"
+        ], 
+        "literal": "郷", 
+        "meaning": [
+            "home town", 
+            "village", 
+            "native place", 
+            "district"
+        ], 
+        "on": [
+            "キョウ", 
+            "ゴウ"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "332", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "おぎな.う"
+        ], 
+        "literal": "補", 
+        "meaning": [
+            "supplement", 
+            "supply", 
+            "make good", 
+            "offset", 
+            "compensate", 
+            "assistant", 
+            "learner"
+        ], 
+        "on": [
+            "ホ"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "1289", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "ちち", 
+            "ち"
+        ], 
+        "literal": "乳", 
+        "meaning": [
+            "milk", 
+            "breasts"
+        ], 
+        "on": [
+            "ニュウ"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "352", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "展", 
+        "meaning": [
+            "unfold", 
+            "expand"
+        ], 
+        "on": [
+            "テン"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "479", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "段", 
+        "meaning": [
+            "grade", 
+            "steps", 
+            "stairs"
+        ], 
+        "on": [
+            "ダン", 
+            "タン"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "1186", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "まど", 
+            "てんまど", 
+            "けむだし"
+        ], 
+        "literal": "窓", 
+        "meaning": [
+            "window", 
+            "pane"
+        ], 
+        "on": [
+            "ソウ", 
+            "ス"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "946", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "ふる.う"
+        ], 
+        "literal": "揮", 
+        "meaning": [
+            "brandish", 
+            "wave", 
+            "wag", 
+            "swing", 
+            "shake"
+        ], 
+        "on": [
+            "キ"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "1636", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "詞", 
+        "meaning": [
+            "part of speech", 
+            "words", 
+            "poetry"
+        ], 
+        "on": [
+            "シ"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "1078", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "うやま.う"
+        ], 
+        "literal": "敬", 
+        "meaning": [
+            "awe", 
+            "respect", 
+            "honor", 
+            "revere"
+        ], 
+        "on": [
+            "ケイ", 
+            "キョウ"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "1371", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "あたた.か", 
+            "あたた.かい", 
+            "あたた.まる", 
+            "あたた.める"
+        ], 
+        "literal": "暖", 
+        "meaning": [
+            "warmth"
+        ], 
+        "on": [
+            "ダン", 
+            "ノン"
+        ], 
+        "stroke_count": "13"
+    }, 
+    {
+        "frequency": "547", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "ところ", 
+            "-こ", 
+            "お.る"
+        ], 
+        "literal": "処", 
+        "meaning": [
+            "dispose", 
+            "manage", 
+            "deal with", 
+            "sentence", 
+            "condemn", 
+            "act", 
+            "behave", 
+            "place"
+        ], 
+        "on": [
+            "ショ"
+        ], 
+        "stroke_count": "5"
+    }, 
+    {
+        "frequency": "297", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "た.つ", 
+            "さば.く"
+        ], 
+        "literal": "裁", 
+        "meaning": [
+            "tailor", 
+            "judge", 
+            "decision", 
+            "cut out (pattern)"
+        ], 
+        "on": [
+            "サイ"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "801", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "層", 
+        "meaning": [
+            "stratum", 
+            "social class", 
+            "layer", 
+            "story", 
+            "floor"
+        ], 
+        "on": [
+            "ソウ"
+        ], 
+        "stroke_count": "14"
+    }, 
+    {
+        "frequency": "1940", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "尺", 
+        "meaning": [
+            "shaku", 
+            "Japanese foot", 
+            "measure", 
+            "scale", 
+            "rule"
+        ], 
+        "on": [
+            "シャク"
+        ], 
+        "stroke_count": "4"
+    }, 
+    {
+        "frequency": "996", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "いた.る"
+        ], 
+        "literal": "至", 
+        "meaning": [
+            "climax", 
+            "arrive", 
+            "proceed", 
+            "reach", 
+            "attain", 
+            "result in"
+        ], 
+        "on": [
+            "シ"
+        ], 
+        "stroke_count": "6"
+    }, 
+    {
+        "frequency": "1070", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "翌", 
+        "meaning": [
+            "the following", 
+            "next"
+        ], 
+        "on": [
+            "ヨク"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "987", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "おさ.める", 
+            "-おさ.める", 
+            "おさ.まる"
+        ], 
+        "literal": "納", 
+        "meaning": [
+            "settlement", 
+            "obtain", 
+            "reap", 
+            "pay", 
+            "supply", 
+            "store"
+        ], 
+        "on": [
+            "ノウ", 
+            "ナッ", 
+            "ナ", 
+            "ナン", 
+            "トウ"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "657", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "よそお.う", 
+            "よそお.い"
+        ], 
+        "literal": "装", 
+        "meaning": [
+            "attire", 
+            "dress", 
+            "pretend", 
+            "disguise", 
+            "profess"
+        ], 
+        "on": [
+            "ソウ", 
+            "ショウ"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "560", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "はげ.しい"
+        ], 
+        "literal": "激", 
+        "meaning": [
+            "violent", 
+            "get excited", 
+            "enraged", 
+            "chafe", 
+            "incite"
+        ], 
+        "on": [
+            "ゲキ"
+        ], 
+        "stroke_count": "16"
+    }, 
+    {
+        "frequency": "1139", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "たから"
+        ], 
+        "literal": "宝", 
+        "meaning": [
+            "treasure", 
+            "wealth", 
+            "valuables"
+        ], 
+        "on": [
+            "ホウ"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "930", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "さぐ.る", 
+            "さが.す"
+        ], 
+        "literal": "探", 
+        "meaning": [
+            "grope", 
+            "search", 
+            "look for"
+        ], 
+        "on": [
+            "タン"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "366", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "いまし.める"
+        ], 
+        "literal": "警", 
+        "meaning": [
+            "admonish", 
+            "commandment"
+        ], 
+        "on": [
+            "ケイ"
+        ], 
+        "stroke_count": "19"
+    }, 
+    {
+        "frequency": "1510", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "み.る"
+        ], 
+        "literal": "覧", 
+        "meaning": [
+            "perusal", 
+            "see"
+        ], 
+        "on": [
+            "ラン"
+        ], 
+        "stroke_count": "17"
+    }, 
+    {
+        "frequency": "1098", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "おのれ", 
+            "つちのと", 
+            "な"
+        ], 
+        "literal": "己", 
+        "meaning": [
+            "self"
+        ], 
+        "on": [
+            "コ", 
+            "キ"
+        ], 
+        "stroke_count": "3"
+    }, 
+    {
+        "frequency": "1366", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "あな"
+        ], 
+        "literal": "穴", 
+        "meaning": [
+            "hole", 
+            "aperture", 
+            "slit", 
+            "cave", 
+            "den"
+        ], 
+        "on": [
+            "ケツ"
+        ], 
+        "stroke_count": "5"
+    }, 
+    {
+        "frequency": "1720", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "た.れる", 
+            "た.らす", 
+            "た.れ", 
+            "-た.れ", 
+            "なんなんと.す"
+        ], 
+        "literal": "垂", 
+        "meaning": [
+            "droop", 
+            "suspend", 
+            "hang", 
+            "slouch"
+        ], 
+        "on": [
+            "スイ"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "1286", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "はら"
+        ], 
+        "literal": "腹", 
+        "meaning": [
+            "abdomen", 
+            "belly", 
+            "stomach"
+        ], 
+        "on": [
+            "フク"
+        ], 
+        "stroke_count": "13"
+    }, 
+    {
+        "frequency": "404", 
+        "grade": "6", 
+        "jlpt_level": "3", 
+        "kun": [
+            "うつ.る", 
+            "うつ.す", 
+            "は.える", 
+            "-ば.え"
+        ], 
+        "literal": "映", 
+        "meaning": [
+            "reflect", 
+            "reflection", 
+            "projection"
+        ], 
+        "on": [
+            "エイ"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "1387", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "肺", 
+        "meaning": [
+            "lungs"
+        ], 
+        "on": [
+            "ハイ"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "587", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "盟", 
+        "meaning": [
+            "alliance", 
+            "oath"
+        ], 
+        "on": [
+            "メイ"
+        ], 
+        "stroke_count": "13"
+    }, 
+    {
+        "frequency": "1717", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "はい"
+        ], 
+        "literal": "灰", 
+        "meaning": [
+            "ashes", 
+            "puckery juice", 
+            "cremate"
+        ], 
+        "on": [
+            "カイ"
+        ], 
+        "stroke_count": "6"
+    }, 
+    {
+        "frequency": "851", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "誌", 
+        "meaning": [
+            "document", 
+            "records"
+        ], 
+        "on": [
+            "シ"
+        ], 
+        "stroke_count": "14"
+    }, 
+    {
+        "frequency": "937", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "い.る", 
+            "さ.す", 
+            "う.つ"
+        ], 
+        "literal": "射", 
+        "meaning": [
+            "shoot", 
+            "shine into", 
+            "onto", 
+            "archery"
+        ], 
+        "on": [
+            "シャ"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "1299", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "べに", 
+            "くれない", 
+            "あか.い"
+        ], 
+        "literal": "紅", 
+        "meaning": [
+            "crimson", 
+            "deep red"
+        ], 
+        "on": [
+            "コウ", 
+            "ク"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "1350", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "いただ.く", 
+            "いただき"
+        ], 
+        "literal": "頂", 
+        "meaning": [
+            "place on the head", 
+            "receive", 
+            "top of head", 
+            "top", 
+            "summit", 
+            "peak"
+        ], 
+        "on": [
+            "チョウ"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "829", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "われ", 
+            "わ", 
+            "わ.が-", 
+            "わが-"
+        ], 
+        "literal": "我", 
+        "meaning": [
+            "ego", 
+            "I", 
+            "selfish", 
+            "our", 
+            "oneself"
+        ], 
+        "on": [
+            "ガ"
+        ], 
+        "stroke_count": "7"
+    }, 
+    {
+        "frequency": "1424", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "晩", 
+        "meaning": [
+            "nightfall", 
+            "night"
+        ], 
+        "on": [
+            "バン"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "721", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "皇", 
+        "meaning": [
+            "emperor"
+        ], 
+        "on": [
+            "コウ", 
+            "オウ"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "903", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "いた.い", 
+            "いた.む", 
+            "いた.ましい", 
+            "いた.める"
+        ], 
+        "literal": "痛", 
+        "meaning": [
+            "pain", 
+            "hurt", 
+            "damage", 
+            "bruise"
+        ], 
+        "on": [
+            "ツウ"
+        ], 
+        "stroke_count": "12"
+    }, 
+    {
+        "frequency": "631", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "こと", 
+            "こと.なる", 
+            "け"
+        ], 
+        "literal": "異", 
+        "meaning": [
+            "uncommon", 
+            "queerness", 
+            "strangeness", 
+            "wonderful", 
+            "curious", 
+            "unusual"
+        ], 
+        "on": [
+            "イ"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "722", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "のぞ.む"
+        ], 
+        "literal": "臨", 
+        "meaning": [
+            "look to", 
+            "face", 
+            "meet", 
+            "confront", 
+            "attend", 
+            "call on"
+        ], 
+        "on": [
+            "リン"
+        ], 
+        "stroke_count": "18"
+    }, 
+    {
+        "frequency": "1005", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "宙", 
+        "meaning": [
+            "mid-air", 
+            "air", 
+            "space", 
+            "sky", 
+            "memorization", 
+            "interval of time"
+        ], 
+        "on": [
+            "チュウ"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "712", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "も.る", 
+            "さか.る", 
+            "さか.ん"
+        ], 
+        "literal": "盛", 
+        "meaning": [
+            "boom", 
+            "prosper", 
+            "copulate"
+        ], 
+        "on": [
+            "セイ", 
+            "ジョウ"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "1313", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "ふみ"
+        ], 
+        "literal": "冊", 
+        "meaning": [
+            "tome", 
+            "counter for books", 
+            "volume"
+        ], 
+        "on": [
+            "サツ", 
+            "サク"
+        ], 
+        "stroke_count": "5"
+    }, 
+    {
+        "frequency": "528", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "う.つ"
+        ], 
+        "literal": "討", 
+        "meaning": [
+            "chastise", 
+            "attack", 
+            "defeat", 
+            "destroy", 
+            "conquer"
+        ], 
+        "on": [
+            "トウ"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "661", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "な.い", 
+            "な.き-", 
+            "ほろ.びる", 
+            "ほろ.ぶ", 
+            "ほろ.ぼす"
+        ], 
+        "literal": "亡", 
+        "meaning": [
+            "deceased", 
+            "the late", 
+            "dying", 
+            "perish"
+        ], 
+        "on": [
+            "ボウ", 
+            "モウ"
+        ], 
+        "stroke_count": "3"
+    }, 
+    {
+        "frequency": "577", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "存", 
+        "meaning": [
+            "exist", 
+            "suppose", 
+            "be aware of", 
+            "believe", 
+            "feel"
+        ], 
+        "on": [
+            "ソン", 
+            "ゾン"
+        ], 
+        "stroke_count": "6"
+    }, 
+    {
+        "frequency": "902", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "ほっ.する", 
+            "ほ.しい"
+        ], 
+        "literal": "欲", 
+        "meaning": [
+            "longing", 
+            "covetousness", 
+            "greed", 
+            "passion", 
+            "desire", 
+            "craving"
+        ], 
+        "on": [
+            "ヨク"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "168", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "す.む", 
+            "-ず.み", 
+            "-ずみ", 
+            "す.まない", 
+            "す.ます", 
+            "-す.ます", 
+            "すく.う", 
+            "な.す", 
+            "わたし", 
+            "わた.る"
+        ], 
+        "literal": "済", 
+        "meaning": [
+            "finish", 
+            "come to an end", 
+            "excusable", 
+            "need not"
+        ], 
+        "on": [
+            "サイ", 
+            "セイ"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "601", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "したが.う", 
+            "したが.える", 
+            "より"
+        ], 
+        "literal": "従", 
+        "meaning": [
+            "accompany", 
+            "obey", 
+            "submit to", 
+            "comply", 
+            "follow", 
+            "secondary", 
+            "incidental", 
+            "subordinate"
+        ], 
+        "on": [
+            "ジュウ", 
+            "ショウ", 
+            "ジュ"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "1044", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "純", 
+        "meaning": [
+            "genuine", 
+            "purity", 
+            "innocence", 
+            "net (profit)"
+        ], 
+        "on": [
+            "ジュン"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "1227", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "おさな.い"
+        ], 
+        "literal": "幼", 
+        "meaning": [
+            "infancy", 
+            "childhood"
+        ], 
+        "on": [
+            "ヨウ"
+        ], 
+        "stroke_count": "5"
+    }, 
+    {
+        "frequency": "1374", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "ほが.らか", 
+            "あき.らか"
+        ], 
+        "literal": "朗", 
+        "meaning": [
+            "melodious", 
+            "clear", 
+            "bright", 
+            "serene", 
+            "cheerful"
+        ], 
+        "on": [
+            "ロウ"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "518", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "ね", 
+            "あたい"
+        ], 
+        "literal": "値", 
+        "meaning": [
+            "price", 
+            "cost", 
+            "value"
+        ], 
+        "on": [
+            "チ"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "936", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "ほね"
+        ], 
+        "literal": "骨", 
+        "meaning": [
+            "skeleton", 
+            "bone", 
+            "remains", 
+            "frame"
+        ], 
+        "on": [
+            "コツ"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "849", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "あらわ.す", 
+            "いちじる.しい"
+        ], 
+        "literal": "著", 
+        "meaning": [
+            "renowned", 
+            "publish", 
+            "write", 
+            "remarkable", 
+            "phenomenal", 
+            "put on", 
+            "don", 
+            "wear", 
+            "arrival", 
+            "finish (race)", 
+            "counter for suits of clothing", 
+            "literary work"
+        ], 
+        "on": [
+            "チョ", 
+            "チャク"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "647", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "のこ.す"
+        ], 
+        "literal": "遺", 
+        "meaning": [
+            "bequeath", 
+            "leave behind", 
+            "reserve"
+        ], 
+        "on": [
+            "イ", 
+            "ユイ"
+        ], 
+        "stroke_count": "15"
+    }, 
+    {
+        "frequency": "1246", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "はがね"
+        ], 
+        "literal": "鋼", 
+        "meaning": [
+            "steel"
+        ], 
+        "on": [
+            "コウ"
+        ], 
+        "stroke_count": "16"
+    }, 
+    {
+        "frequency": "468", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "くら", 
+            "おさ.める", 
+            "かく.れる"
+        ], 
+        "literal": "蔵", 
+        "meaning": [
+            "storehouse", 
+            "hide", 
+            "own", 
+            "have", 
+            "possess"
+        ], 
+        "on": [
+            "ゾウ", 
+            "ソウ"
+        ], 
+        "stroke_count": "15"
+    }, 
+    {
+        "frequency": "866", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "きざ.む", 
+            "きざ.み"
+        ], 
+        "literal": "刻", 
+        "meaning": [
+            "engrave", 
+            "cut fine", 
+            "chop", 
+            "hash", 
+            "mince", 
+            "time", 
+            "carving"
+        ], 
+        "on": [
+            "コク"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "498", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "よ.ぶ"
+        ], 
+        "literal": "呼", 
+        "meaning": [
+            "call", 
+            "call out to", 
+            "invite"
+        ], 
+        "on": [
+            "コ"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "992", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "律", 
+        "meaning": [
+            "rhythm", 
+            "law", 
+            "regulation", 
+            "gauge", 
+            "control"
+        ], 
+        "on": [
+            "リツ", 
+            "リチ", 
+            "レツ"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "1168", 
+        "grade": "6", 
+        "jlpt_level": "3", 
+        "kun": [
+            "あら.う"
+        ], 
+        "literal": "洗", 
+        "meaning": [
+            "wash", 
+            "inquire into", 
+            "probe"
+        ], 
+        "on": [
+            "セン"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "747", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "の.びる", 
+            "の.べる", 
+            "の.べ", 
+            "の.ばす"
+        ], 
+        "literal": "延", 
+        "meaning": [
+            "prolong", 
+            "stretching"
+        ], 
+        "on": [
+            "エン"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "1671", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "つくえ"
+        ], 
+        "literal": "机", 
+        "meaning": [
+            "desk", 
+            "table"
+        ], 
+        "on": [
+            "キ"
+        ], 
+        "stroke_count": "6"
+    }, 
+    {
+        "frequency": "164", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "派", 
+        "meaning": [
+            "faction", 
+            "group", 
+            "party", 
+            "clique", 
+            "sect", 
+            "school"
+        ], 
+        "on": [
+            "ハ"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "1592", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "班", 
+        "meaning": [
+            "squad", 
+            "corps", 
+            "unit", 
+            "group"
+        ], 
+        "on": [
+            "ハン"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "1030", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "孝", 
+        "meaning": [
+            "filial piety", 
+            "child's respect"
+        ], 
+        "on": [
+            "コウ", 
+            "キョウ"
+        ], 
+        "stroke_count": "7"
+    }, 
+    {
+        "frequency": "883", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "宇", 
+        "meaning": [
+            "eaves", 
+            "roof", 
+            "house", 
+            "heaven"
+        ], 
+        "on": [
+            "ウ"
+        ], 
+        "stroke_count": "6"
+    }, 
+    {
+        "frequency": "939", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "とど.ける", 
+            "-とど.け", 
+            "とど.く"
+        ], 
+        "literal": "届", 
+        "meaning": [
+            "deliver", 
+            "reach", 
+            "arrive", 
+            "report", 
+            "notify", 
+            "forward"
+        ], 
+        "on": [
+            "カイ"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "1144", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "むね", 
+            "むな-"
+        ], 
+        "literal": "胸", 
+        "meaning": [
+            "bosom", 
+            "breast", 
+            "chest", 
+            "heart", 
+            "feelings"
+        ], 
+        "on": [
+            "キョウ"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "1024", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "誕", 
+        "meaning": [
+            "nativity", 
+            "be born", 
+            "declension", 
+            "lie", 
+            "be arbitrary"
+        ], 
+        "on": [
+            "タン"
+        ], 
+        "stroke_count": "15"
+    }, 
+    {
+        "frequency": "372", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "おとず.れる", 
+            "たず.ねる", 
+            "と.う"
+        ], 
+        "literal": "訪", 
+        "meaning": [
+            "call on", 
+            "visit", 
+            "look up", 
+            "offer sympathy"
+        ], 
+        "on": [
+            "ホウ"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "458", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "わか.い", 
+            "わか-", 
+            "も.しくわ", 
+            "も.し", 
+            "も.しくは", 
+            "ごと.し"
+        ], 
+        "literal": "若", 
+        "meaning": [
+            "young", 
+            "if", 
+            "perhaps", 
+            "possibly", 
+            "low number", 
+            "immature"
+        ], 
+        "on": [
+            "ジャク", 
+            "ニャク", 
+            "ニャ"
+        ], 
+        "stroke_count": "8"
+    }, 
+    {
+        "frequency": "662", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "劇", 
+        "meaning": [
+            "drama", 
+            "play"
+        ], 
+        "on": [
+            "ゲキ"
+        ], 
+        "stroke_count": "15"
+    }, 
+    {
+        "frequency": "951", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "と.じる", 
+            "と.ざす", 
+            "し.める", 
+            "し.まる", 
+            "た.てる"
+        ], 
+        "literal": "閉", 
+        "meaning": [
+            "closed", 
+            "shut"
+        ], 
+        "on": [
+            "ヘイ"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "198", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "みと.める", 
+            "したた.める"
+        ], 
+        "literal": "認", 
+        "meaning": [
+            "acknowledge", 
+            "witness", 
+            "discern", 
+            "recognize", 
+            "appreciate", 
+            "believe"
+        ], 
+        "on": [
+            "ニン"
+        ], 
+        "stroke_count": "14"
+    }, 
+    {
+        "frequency": "2272", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "かいこ", 
+            "こ"
+        ], 
+        "literal": "蚕", 
+        "meaning": [
+            "silkworm"
+        ], 
+        "on": [
+            "サン", 
+            "テン"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "396", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [], 
+        "literal": "域", 
+        "meaning": [
+            "range", 
+            "region", 
+            "limits", 
+            "stage", 
+            "level"
+        ], 
+        "on": [
+            "イキ"
+        ], 
+        "stroke_count": "11"
+    }, 
+    {
+        "frequency": "505", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "はり"
+        ], 
+        "literal": "針", 
+        "meaning": [
+            "needle", 
+            "pin", 
+            "staple", 
+            "stinger"
+        ], 
+        "on": [
+            "シン"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "1128", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "まこと"
+        ], 
+        "literal": "誠", 
+        "meaning": [
+            "sincerity", 
+            "admonish", 
+            "warn", 
+            "prohibit", 
+            "truth", 
+            "fidelity"
+        ], 
+        "on": [
+            "セイ"
+        ], 
+        "stroke_count": "13"
+    }, 
+    {
+        "frequency": "909", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "ちぢ.む", 
+            "ちぢ.まる", 
+            "ちぢ.める", 
+            "ちぢ.れる", 
+            "ちぢ.らす"
+        ], 
+        "literal": "縮", 
+        "meaning": [
+            "shrink", 
+            "contract", 
+            "shrivel", 
+            "wrinkle", 
+            "reduce"
+        ], 
+        "on": [
+            "シュク"
+        ], 
+        "stroke_count": "17"
+    }, 
+    {
+        "frequency": "837", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "そ.める", 
+            "-ぞ.め", 
+            "-ぞめ", 
+            "そ.まる", 
+            "し.みる", 
+            "-じ.みる", 
+            "し.み", 
+            "-し.める"
+        ], 
+        "literal": "染", 
+        "meaning": [
+            "dye", 
+            "color", 
+            "paint", 
+            "stain", 
+            "print"
+        ], 
+        "on": [
+            "セン"
+        ], 
+        "stroke_count": "9"
+    }, 
+    {
+        "frequency": "742", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [
+            "さわ.る"
+        ], 
+        "literal": "障", 
+        "meaning": [
+            "hinder", 
+            "hurt", 
+            "harm"
+        ], 
+        "on": [
+            "ショウ"
+        ], 
+        "stroke_count": "14"
+    }, 
+    {
+        "frequency": "1150", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "あやま.る", 
+            "-あやま.る"
+        ], 
+        "literal": "誤", 
+        "meaning": [
+            "mistake", 
+            "err", 
+            "do wrong", 
+            "mislead"
+        ], 
+        "on": [
+            "ゴ"
+        ], 
+        "stroke_count": "14"
+    }, 
+    {
+        "frequency": "1471", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "糖", 
+        "meaning": [
+            "sugar"
+        ], 
+        "on": [
+            "トウ"
+        ], 
+        "stroke_count": "16"
+    }, 
+    {
+        "frequency": "1429", 
+        "grade": "6", 
+        "jlpt_level": "1", 
+        "kun": [], 
+        "literal": "陛", 
+        "meaning": [
+            "highness", 
+            "steps (of throne)"
+        ], 
+        "on": [
+            "ヘイ"
+        ], 
+        "stroke_count": "10"
+    }, 
+    {
+        "frequency": "658", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "もろ"
+        ], 
+        "literal": "諸", 
+        "meaning": [
+            "various", 
+            "many", 
+            "several", 
+            "together"
+        ], 
+        "on": [
+            "ショ"
+        ], 
+        "stroke_count": "15"
+    }, 
+    {
+        "frequency": "1266", 
+        "grade": "6", 
+        "jlpt_level": "2", 
+        "kun": [
+            "す.てる"
+        ], 
+        "literal": "捨", 
+        "meaning": [
+            "discard", 
+            "throw away", 
+            "abandon", 
+            "resign", 
+            "reject", 
+            "sacrifice"
+        ], 
+        "on": [
+            "シャ"
+        ], 
+        "stroke_count": "11"
+    }
+]

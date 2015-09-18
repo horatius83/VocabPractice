@@ -1,0 +1,16 @@
+﻿{
+    "name" : "Read Real Japanese: Essays",
+    "vocab" : [
+        {"kanji" : ["解決策", "かいけつさく", "solution"]},
+        {"kanji" : ["納得が行く", "なっとくがいく", "to be satisfied"]},
+        {"vocab" : ["つくろう", "to adjust"]},
+        {"kanji" : ["比例", "ひれい", "proportion"]},
+        {"vocab" : ["すきまじい", "tremendous"]},
+        {"kanji" : ["結果", "けっか", "result"]},
+        {"kanji" : ["鍋", "なべ", "sauce pan"]},
+        {"kanji" : ["焦がす", "こがす", "to burn"]},
+        {"kanji" : ["必要", "ひつよう", "necessary"]},
+        {"vocab" : ["あらげる", "to raise one's voice"]},
+        {"kanji" : ["舌打ち", "したうち", "to cluck one's tongue"]}
+    ]
+}

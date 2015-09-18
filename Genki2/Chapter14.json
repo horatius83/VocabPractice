@@ -1,0 +1,922 @@
+{
+    "name": "Genki Chapter 14 Vocabulary", 
+    "vocab": [
+        {
+            "answer": "相談する (そうだんする)", 
+            "failed": 4, 
+            "lastAsked": 1356717208.316337, 
+            "question": "Given the definition \"to consult\", what is the word?", 
+            "tried": 7
+        }, 
+        {
+            "answer": "指輪 (ゆびわ)", 
+            "failed": 4, 
+            "lastAsked": 1356717238.44535, 
+            "question": "Given the definition \"ring\", what is the word?", 
+            "tried": 7
+        }, 
+        {
+            "answer": "漫画 (まんが)", 
+            "failed": 4, 
+            "lastAsked": 1356717784.019902, 
+            "question": "Given the definition \"comic book\", what is the word?", 
+            "tried": 8
+        }, 
+        {
+            "answer": "奥さん (おくさん)", 
+            "failed": 3, 
+            "lastAsked": 1356717172.9388, 
+            "question": "Given the definition \"(your/his) wife\", what is the word?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "履歴書 (りれきしょ)", 
+            "failed": 4, 
+            "lastAsked": 1356717275.329038, 
+            "question": "Given the definition \"resume\", what is the word?", 
+            "tried": 8
+        }, 
+        {
+            "answer": "欲しい (ほしい)", 
+            "failed": 3, 
+            "lastAsked": 1356717715.614062, 
+            "question": "Given the definition \"to want\", what is the word?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "夫婦 (ふうふ)", 
+            "failed": 3, 
+            "lastAsked": 1356717189.591465, 
+            "question": "Given the definition \"married couple; husband and wife\", what is the word?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "to give (me)", 
+            "failed": 3, 
+            "lastAsked": 1356717831.045604, 
+            "question": "What is the definition of \"くれる\"?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "～個 (～こ)", 
+            "failed": 3, 
+            "lastAsked": 1356717734.471947, 
+            "question": "Given the definition \"counter for smaller items\", what is the word?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "似合う (にあう)", 
+            "failed": 4, 
+            "lastAsked": 1356717701.624663, 
+            "question": "Given the definition \"to look good (on somebody)\", what is the word?", 
+            "tried": 8
+        }, 
+        {
+            "answer": "～匹 (～ひき)", 
+            "failed": 3, 
+            "lastAsked": 1356717251.362641, 
+            "question": "Given the definition \"counter for smaller animals\", what is the word?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "ご主人 (ごしゅじん)", 
+            "failed": 3, 
+            "lastAsked": 1356717800.628562, 
+            "question": "Given the definition \"(your/her) husband\", what is the word?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "プロポーズする", 
+            "failed": 3, 
+            "lastAsked": 1356717680.117512, 
+            "question": "Given the definition \"to propose marriage\", what is the word?", 
+            "tried": 7
+        }, 
+        {
+            "answer": "お返し (おかえし)", 
+            "failed": 3, 
+            "lastAsked": 1356717750.624562, 
+            "question": "Given the definition \"return (as a token of gratitude)\", what is the word?", 
+            "tried": 7
+        }, 
+        {
+            "answer": "ホワイトデー", 
+            "failed": 2, 
+            "lastAsked": 1356716596.008112, 
+            "question": "Given the definition \"\"White Day\" (yet another gift-giving day)\", what is the word?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "(my) older brother (あに)", 
+            "failed": 2, 
+            "lastAsked": 1356717155.065012, 
+            "question": "What is the definition of \"兄\"?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "バレンタインデー", 
+            "failed": 2, 
+            "lastAsked": 1356026868.201911, 
+            "question": "Given the definition \"St. Valentine's Day\", what is the word?", 
+            "tried": 5
+        }, 
+        {
+            "answer": "to come into existance; to be made", 
+            "failed": 1, 
+            "lastAsked": 1356026014.174353, 
+            "question": "What is the definition of \"できる\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "大家さん (おおやさん)", 
+            "failed": 2, 
+            "lastAsked": 1356717507.07821, 
+            "question": "Given the definition \"landlord\", what is the word?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "～君 (～くん)", 
+            "failed": 2, 
+            "lastAsked": 1356717819.474447, 
+            "question": "Given the definition \"Mr./Ms. (casual)\", what is the word?", 
+            "tried": 6
+        }, 
+        {
+            "answer": "resume (りれきしょ)", 
+            "failed": 1, 
+            "lastAsked": 1356026328.533786, 
+            "question": "What is the definition of \"履歴書\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "counter for smaller items (～こ)", 
+            "failed": 1, 
+            "lastAsked": 1356027075.99552, 
+            "question": "What is the definition of \"～個\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "両親 (りょうしん)", 
+            "failed": 1, 
+            "lastAsked": 1356027059.941915, 
+            "question": "Given the definition \"parents\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "ちょうど", 
+            "failed": 1, 
+            "lastAsked": 1356026993.88631, 
+            "question": "Given the definition \"exactly\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "ほしい (to want)", 
+            "failed": 1, 
+            "lastAsked": 1356717865.096008, 
+            "question": "What is the pronunciation of \"欲しい\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "married couple; husband and wife (ふうふ)", 
+            "failed": 1, 
+            "lastAsked": 1356027089.307851, 
+            "question": "What is the definition of \"夫婦\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "exactly", 
+            "failed": 1, 
+            "lastAsked": 1356027006.355557, 
+            "question": "What is the definition of \"ちょうど\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "電子メール (でんしメール)", 
+            "failed": 1, 
+            "lastAsked": 1356027040.840005, 
+            "question": "Given the definition \"e-mail\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "...like this; this kind of...", 
+            "failed": 1, 
+            "lastAsked": 1356027021.103031, 
+            "question": "What is the definition of \"こんな～\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "送る (おくる)", 
+            "failed": 1, 
+            "lastAsked": 1356026981.211043, 
+            "question": "Given the definition \"to send\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "あきらめる", 
+            "failed": 1, 
+            "lastAsked": 1356027119.516872, 
+            "question": "Given the definition \"to give up\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "～くん (Mr./Ms. (casual))", 
+            "failed": 1, 
+            "lastAsked": 1356027256.056524, 
+            "question": "What is the pronunciation of \"～君\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "ふうふ (married couple; husband and wife)", 
+            "failed": 1, 
+            "lastAsked": 1356027093.243245, 
+            "question": "What is the pronunciation of \"夫婦\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "あに ((my) older brother)", 
+            "failed": 1, 
+            "lastAsked": 1356027013.854307, 
+            "question": "What is the pronunciation of \"兄\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "コップ", 
+            "failed": 1, 
+            "lastAsked": 1356026985.663488, 
+            "question": "Given the definition \"tumbler; glass\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "～冊 (～さつ)", 
+            "failed": 1, 
+            "lastAsked": 1356717853.929892, 
+            "question": "Given the definition \"counter for bound volumes\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "こんな～", 
+            "failed": 1, 
+            "lastAsked": 1356026999.357857, 
+            "question": "Given the definition \"...like this; this kind of...\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "ビデオカメラ", 
+            "failed": 1, 
+            "lastAsked": 1356027081.451066, 
+            "question": "Given the definition \"camcorder\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "くれる", 
+            "failed": 1, 
+            "lastAsked": 1356027619.587874, 
+            "question": "Given the definition \"to give (me)\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "counter for smaller animals (～ひき)", 
+            "failed": 1, 
+            "lastAsked": 1356717861.236622, 
+            "question": "What is the definition of \"～匹\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "おくる (to send)", 
+            "failed": 1, 
+            "lastAsked": 1356027009.908912, 
+            "question": "What is the pronunciation of \"送る\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "クラブ", 
+            "failed": 1, 
+            "lastAsked": 1356027064.551376, 
+            "question": "Given the definition \"club; student society\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "ring (ゆびわ)", 
+            "failed": 1, 
+            "lastAsked": 1356027003.429264, 
+            "question": "What is the definition of \"指輪\"?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "私たち (わたしたち)", 
+            "failed": 1, 
+            "lastAsked": 1356717840.752574, 
+            "question": "Given the definition \"we\", what is the word?", 
+            "tried": 4
+        }, 
+        {
+            "answer": "tumbler; glass", 
+            "failed": 0, 
+            "lastAsked": 1356027583.217237, 
+            "question": "What is the definition of \"コップ\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "まんが (comic book)", 
+            "failed": 0, 
+            "lastAsked": 1356027288.41676, 
+            "question": "What is the pronunciation of \"漫画\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "to propose marriage", 
+            "failed": 0, 
+            "lastAsked": 1356027689.033818, 
+            "question": "What is the definition of \"プロポーズする\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "おくさん ((your/his) wife)", 
+            "failed": 0, 
+            "lastAsked": 1356027439.02882, 
+            "question": "What is the pronunciation of \"奥さん\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "landlord (おおやさん)", 
+            "failed": 0, 
+            "lastAsked": 1356027134.819402, 
+            "question": "What is the definition of \"大家さん\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "well", 
+            "failed": 0, 
+            "lastAsked": 1356027441.171034, 
+            "question": "What is the definition of \"よく\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "to give (to others)", 
+            "failed": 0, 
+            "lastAsked": 1356027409.797897, 
+            "question": "What is the definition of \"あげる\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "チョコレート", 
+            "failed": 0, 
+            "lastAsked": 1356027100.572978, 
+            "question": "Given the definition \"chocolate\", what is the word?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "にあう (to look good (on somebody))", 
+            "failed": 0, 
+            "lastAsked": 1356027181.684088, 
+            "question": "What is the pronunciation of \"似合う\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "できる", 
+            "failed": 0, 
+            "lastAsked": 1356027346.8206, 
+            "question": "Given the definition \"to come into existance; to be made\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "uncle; middle-aged man", 
+            "failed": 0, 
+            "lastAsked": 1356027644.593374, 
+            "question": "What is the definition of \"おじさん\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "plate; dish (さら)", 
+            "failed": 0, 
+            "lastAsked": 1356027379.630881, 
+            "question": "What is the definition of \"皿\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "おかえし (return (as a token of gratitude))", 
+            "failed": 0, 
+            "lastAsked": 1356027369.618879, 
+            "question": "What is the pronunciation of \"お返し\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ぬいぐるみ", 
+            "failed": 0, 
+            "lastAsked": 1356027615.8445, 
+            "question": "Given the definition \"stuffed animal (e.g. teddy bear)\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "りょうしん (parents)", 
+            "failed": 0, 
+            "lastAsked": 1356027571.362052, 
+            "question": "What is the pronunciation of \"両親\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "マフラー", 
+            "failed": 0, 
+            "lastAsked": 1356027588.122728, 
+            "question": "Given the definition \"winter scarf\", what is the word?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "～ほん (counter for long objects)", 
+            "failed": 0, 
+            "lastAsked": 1356027185.324452, 
+            "question": "What is the pronunciation of \"～本\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "Mr./Ms. (casual) (～くん)", 
+            "failed": 0, 
+            "lastAsked": 1356027480.271944, 
+            "question": "What is the definition of \"～君\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "そうだんする (to consult)", 
+            "failed": 0, 
+            "lastAsked": 1356027252.689188, 
+            "question": "What is the pronunciation of \"相談する\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "でんしメール (e-mail)", 
+            "failed": 0, 
+            "lastAsked": 1356027446.787596, 
+            "question": "What is the pronunciation of \"電子メール\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "～台 (～だい)", 
+            "failed": 0, 
+            "lastAsked": 1356027163.514271, 
+            "question": "Given the definition \"counter for equipment\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "mandarin", 
+            "failed": 0, 
+            "lastAsked": 1356027423.32925, 
+            "question": "What is the definition of \"みかん\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "\"White Day\" (yet another gift-giving day)", 
+            "failed": 0, 
+            "lastAsked": 1356027115.005421, 
+            "question": "What is the definition of \"ホワイトデー\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "おばさん", 
+            "failed": 0, 
+            "lastAsked": 1356027468.592776, 
+            "question": "Given the definition \"aunt; middle-aged woman\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "to give up", 
+            "failed": 0, 
+            "lastAsked": 1356027463.064223, 
+            "question": "What is the definition of \"あきらめる\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "counter for equipment (～だい)", 
+            "failed": 0, 
+            "lastAsked": 1356027522.384154, 
+            "question": "What is the definition of \"～台\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "camcorder", 
+            "failed": 0, 
+            "lastAsked": 1356027541.130029, 
+            "question": "What is the definition of \"ビデオカメラ\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "クリスマス", 
+            "failed": 0, 
+            "lastAsked": 1356027282.240142, 
+            "question": "Given the definition \"Christmas\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ラジオ", 
+            "failed": 0, 
+            "lastAsked": 1356027217.720691, 
+            "question": "Given the definition \"radio\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "りれきしょ (resume)", 
+            "failed": 0, 
+            "lastAsked": 1356027343.060224, 
+            "question": "What is the pronunciation of \"履歴書\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "to send (おくる)", 
+            "failed": 0, 
+            "lastAsked": 1356027653.386253, 
+            "question": "What is the definition of \"送る\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "radio", 
+            "failed": 0, 
+            "lastAsked": 1356027274.724391, 
+            "question": "What is the definition of \"ラジオ\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "Christmas", 
+            "failed": 0, 
+            "lastAsked": 1356027607.657681, 
+            "question": "What is the definition of \"クリスマス\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "マンション", 
+            "failed": 0, 
+            "lastAsked": 1356027304.181336, 
+            "question": "Given the definition \"multistory apartment; condominium\", what is the word?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "母 (はは)", 
+            "failed": 0, 
+            "lastAsked": 1356027272.581177, 
+            "question": "Given the definition \"(my) mother\", what is the word?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "stingy; cheap", 
+            "failed": 0, 
+            "lastAsked": 1356027459.53487, 
+            "question": "What is the definition of \"けち（な）\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ごしゅじん ((your/her) husband)", 
+            "failed": 0, 
+            "lastAsked": 1356027666.602575, 
+            "question": "What is the pronunciation of \"ご主人\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "～だい (counter for equipment)", 
+            "failed": 0, 
+            "lastAsked": 1356027537.103626, 
+            "question": "What is the pronunciation of \"～台\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "same (おなじ)", 
+            "failed": 0, 
+            "lastAsked": 1356027189.260845, 
+            "question": "What is the definition of \"同じ\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "おじさん", 
+            "failed": 0, 
+            "lastAsked": 1356027260.556974, 
+            "question": "Given the definition \"uncle; middle-aged man\", what is the word?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "St. Valentine's Day", 
+            "failed": 0, 
+            "lastAsked": 1356027562.260142, 
+            "question": "What is the definition of \"バレンタインデー\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "counter for bound volumes (～さつ)", 
+            "failed": 0, 
+            "lastAsked": 1356027550.756991, 
+            "question": "What is the definition of \"～冊\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "necktie", 
+            "failed": 0, 
+            "lastAsked": 1356027610.085924, 
+            "question": "What is the definition of \"ネクタイ\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "(makes noun plural)", 
+            "failed": 0, 
+            "lastAsked": 1356027201.448064, 
+            "question": "What is the definition of \"～たち\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "return (as a token of gratitude) (おかえし)", 
+            "failed": 0, 
+            "lastAsked": 1356027246.871606, 
+            "question": "What is the definition of \"お返し\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "はは ((my) mother)", 
+            "failed": 0, 
+            "lastAsked": 1356027529.761892, 
+            "question": "What is the pronunciation of \"母\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "e-mail (でんしメール)", 
+            "failed": 0, 
+            "lastAsked": 1356027574.862402, 
+            "question": "What is the definition of \"電子メール\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "～ひき (counter for smaller animals)", 
+            "failed": 0, 
+            "lastAsked": 1356027534.558372, 
+            "question": "What is the pronunciation of \"～匹\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "兄 (あに)", 
+            "failed": 0, 
+            "lastAsked": 1356027232.750194, 
+            "question": "Given the definition \"(my) older brother\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "よく", 
+            "failed": 0, 
+            "lastAsked": 1356027151.921112, 
+            "question": "Given the definition \"well\", what is the word?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "ゆびわ (ring)", 
+            "failed": 0, 
+            "lastAsked": 1356027400.271944, 
+            "question": "What is the pronunciation of \"指輪\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "じかん (time)", 
+            "failed": 0, 
+            "lastAsked": 1356027505.086425, 
+            "question": "What is the pronunciation of \"時間\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "multistory apartment; condominium", 
+            "failed": 0, 
+            "lastAsked": 1356027495.43946, 
+            "question": "What is the definition of \"マンション\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "～こ (counter for smaller items)", 
+            "failed": 0, 
+            "lastAsked": 1356027419.681885, 
+            "question": "What is the pronunciation of \"～個\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "parents (りょうしん)", 
+            "failed": 0, 
+            "lastAsked": 1356027432.751192, 
+            "question": "What is the definition of \"両親\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "last year (きょねん)", 
+            "failed": 0, 
+            "lastAsked": 1356027566.620578, 
+            "question": "What is the definition of \"去年\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "同じ (おなじ)", 
+            "failed": 0, 
+            "lastAsked": 1356027373.998317, 
+            "question": "Given the definition \"same\", what is the word?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "～本 (～ほん)", 
+            "failed": 0, 
+            "lastAsked": 1356027405.461463, 
+            "question": "Given the definition \"counter for long objects\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "comic book (まんが)", 
+            "failed": 0, 
+            "lastAsked": 1356027124.650385, 
+            "question": "What is the definition of \"漫画\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "(your/his) wife (おくさん)", 
+            "failed": 0, 
+            "lastAsked": 1356027239.256845, 
+            "question": "What is the definition of \"奥さん\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "to consult (そうだんする)", 
+            "failed": 0, 
+            "lastAsked": 1356027130.987019, 
+            "question": "What is the definition of \"相談する\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "去年 (きょねん)", 
+            "failed": 0, 
+            "lastAsked": 1356027637.384653, 
+            "question": "Given the definition \"last year\", what is the word?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "～さつ (counter for bound volumes)", 
+            "failed": 0, 
+            "lastAsked": 1356027144.659386, 
+            "question": "What is the pronunciation of \"～冊\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "あげる", 
+            "failed": 0, 
+            "lastAsked": 1356027658.828798, 
+            "question": "Given the definition \"to give (to others)\", what is the word?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "to want (ほしい)", 
+            "failed": 0, 
+            "lastAsked": 1356027292.233142, 
+            "question": "What is the definition of \"欲しい\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "stuffed animal (e.g. teddy bear)", 
+            "failed": 0, 
+            "lastAsked": 1356027683.745289, 
+            "question": "What is the definition of \"ぬいぐるみ\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "おおやさん (landlord)", 
+            "failed": 0, 
+            "lastAsked": 1356027140.745994, 
+            "question": "What is the pronunciation of \"大家さん\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "みかん", 
+            "failed": 0, 
+            "lastAsked": 1356027648.727788, 
+            "question": "Given the definition \"mandarin\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "aunt; middle-aged woman", 
+            "failed": 0, 
+            "lastAsked": 1356027454.082325, 
+            "question": "What is the definition of \"おばさん\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "時間 (じかん)", 
+            "failed": 0, 
+            "lastAsked": 1356027332.358154, 
+            "question": "Given the definition \"time\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "chocolate", 
+            "failed": 0, 
+            "lastAsked": 1356027426.257543, 
+            "question": "What is the definition of \"チョコレート\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "counter for long objects (～ほん)", 
+            "failed": 0, 
+            "lastAsked": 1356027603.804296, 
+            "question": "What is the definition of \"～本\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "we (わたしたち)", 
+            "failed": 0, 
+            "lastAsked": 1356027624.214336, 
+            "question": "What is the definition of \"私たち\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "皿 (さら)", 
+            "failed": 0, 
+            "lastAsked": 1356027557.14763, 
+            "question": "Given the definition \"plate; dish\", what is the word?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "(your/her) husband (ごしゅじん)", 
+            "failed": 0, 
+            "lastAsked": 1356027526.830599, 
+            "question": "What is the definition of \"ご主人\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "club; student society", 
+            "failed": 0, 
+            "lastAsked": 1356027385.8225, 
+            "question": "What is the definition of \"クラブ\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "ネクタイ", 
+            "failed": 0, 
+            "lastAsked": 1356027221.495069, 
+            "question": "Given the definition \"necktie\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "さら (plate; dish)", 
+            "failed": 0, 
+            "lastAsked": 1356027692.363151, 
+            "question": "What is the pronunciation of \"皿\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "(my) mother (はは)", 
+            "failed": 0, 
+            "lastAsked": 1356027673.926307, 
+            "question": "What is the definition of \"母\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "きょねん (last year)", 
+            "failed": 0, 
+            "lastAsked": 1356027365.010419, 
+            "question": "What is the pronunciation of \"去年\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "おなじ (same)", 
+            "failed": 0, 
+            "lastAsked": 1356027110.306951, 
+            "question": "What is the pronunciation of \"同じ\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "けち（な）", 
+            "failed": 0, 
+            "lastAsked": 1356027308.864805, 
+            "question": "Given the definition \"stingy; cheap\", what is the word?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "～たち", 
+            "failed": 0, 
+            "lastAsked": 1356027105.928513, 
+            "question": "Given the definition \"(makes noun plural)\", what is the word?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "わたしたち (we)", 
+            "failed": 0, 
+            "lastAsked": 1356027510.162932, 
+            "question": "What is the pronunciation of \"私たち\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "winter scarf", 
+            "failed": 0, 
+            "lastAsked": 1356027396.299547, 
+            "question": "What is the definition of \"マフラー\"?", 
+            "tried": 3
+        }, 
+        {
+            "answer": "to look good (on somebody) (にあう)", 
+            "failed": 0, 
+            "lastAsked": 1356027316.637582, 
+            "question": "What is the definition of \"似合う\"?", 
+            "tried": 2
+        }, 
+        {
+            "answer": "time (じかん)", 
+            "failed": 0, 
+            "lastAsked": 1356027500.189935, 
+            "question": "What is the definition of \"時間\"?", 
+            "tried": 2
+        }
+    ]
+}

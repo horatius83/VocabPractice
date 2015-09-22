@@ -1,0 +1,1409 @@
+{
+    "name": ".\\Italian\\Italian2.json",
+    "vocab": [
+        {
+            "answer": "domencia",
+            "failed": 0,
+            "question": "What is the definition of \"Sunday\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Sunday",
+            "failed": 0,
+            "question": "Given the definition \"domencia\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Lenedi",
+            "failed": 0,
+            "question": "What is the definition of \"Monday\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Monday",
+            "failed": 0,
+            "question": "Given the definition \"Lenedi\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "martedi",
+            "failed": 0,
+            "question": "What is the definition of \"Tuesday\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Tuesday",
+            "failed": 0,
+            "question": "Given the definition \"martedi\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "mercoledi",
+            "failed": 0,
+            "question": "What is the definition of \"Wednesday\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Wednesday",
+            "failed": 0,
+            "question": "Given the definition \"mercoledi\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Giovedi",
+            "failed": 0,
+            "question": "What is the definition of \"Thursday\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Thursday",
+            "failed": 0,
+            "question": "Given the definition \"Giovedi\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "venerdi",
+            "failed": 0,
+            "question": "What is the definition of \"Friday\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Friday",
+            "failed": 0,
+            "question": "Given the definition \"venerdi\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "sabato",
+            "failed": 0,
+            "question": "What is the definition of \"Saturday\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Saturday",
+            "failed": 0,
+            "question": "Given the definition \"sabato\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "uno",
+            "failed": 0,
+            "question": "What is the definition of \"1\"?",
+            "tried": 0
+        },
+        {
+            "answer": "1",
+            "failed": 0,
+            "question": "Given the definition \"uno\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "due",
+            "failed": 0,
+            "question": "What is the definition of \"2\"?",
+            "tried": 0
+        },
+        {
+            "answer": "2",
+            "failed": 0,
+            "question": "Given the definition \"due\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "tre",
+            "failed": 0,
+            "question": "What is the definition of \"3\"?",
+            "tried": 0
+        },
+        {
+            "answer": "3",
+            "failed": 0,
+            "question": "Given the definition \"tre\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "quattro",
+            "failed": 0,
+            "question": "What is the definition of \"4\"?",
+            "tried": 0
+        },
+        {
+            "answer": "4",
+            "failed": 0,
+            "question": "Given the definition \"quattro\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "cinque",
+            "failed": 0,
+            "question": "What is the definition of \"5\"?",
+            "tried": 0
+        },
+        {
+            "answer": "5",
+            "failed": 0,
+            "question": "Given the definition \"cinque\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "sei",
+            "failed": 0,
+            "question": "What is the definition of \"6\"?",
+            "tried": 0
+        },
+        {
+            "answer": "6",
+            "failed": 0,
+            "question": "Given the definition \"sei\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "sette",
+            "failed": 0,
+            "question": "What is the definition of \"7\"?",
+            "tried": 0
+        },
+        {
+            "answer": "7",
+            "failed": 0,
+            "question": "Given the definition \"sette\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "otto",
+            "failed": 0,
+            "question": "What is the definition of \"8\"?",
+            "tried": 0
+        },
+        {
+            "answer": "8",
+            "failed": 0,
+            "question": "Given the definition \"otto\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "nove",
+            "failed": 0,
+            "question": "What is the definition of \"9\"?",
+            "tried": 0
+        },
+        {
+            "answer": "9",
+            "failed": 0,
+            "question": "Given the definition \"nove\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "dieci",
+            "failed": 0,
+            "question": "What is the definition of \"10\"?",
+            "tried": 0
+        },
+        {
+            "answer": "10",
+            "failed": 0,
+            "question": "Given the definition \"dieci\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "undici",
+            "failed": 0,
+            "question": "What is the definition of \"11\"?",
+            "tried": 0
+        },
+        {
+            "answer": "11",
+            "failed": 0,
+            "question": "Given the definition \"undici\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "dodici",
+            "failed": 0,
+            "question": "What is the definition of \"12\"?",
+            "tried": 0
+        },
+        {
+            "answer": "12",
+            "failed": 0,
+            "question": "Given the definition \"dodici\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "tredici",
+            "failed": 0,
+            "question": "What is the definition of \"13\"?",
+            "tried": 0
+        },
+        {
+            "answer": "13",
+            "failed": 0,
+            "question": "Given the definition \"tredici\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "quattordici",
+            "failed": 0,
+            "question": "What is the definition of \"14\"?",
+            "tried": 0
+        },
+        {
+            "answer": "14",
+            "failed": 0,
+            "question": "Given the definition \"quattordici\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "quindici",
+            "failed": 0,
+            "question": "What is the definition of \"15\"?",
+            "tried": 0
+        },
+        {
+            "answer": "15",
+            "failed": 0,
+            "question": "Given the definition \"quindici\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "sedici",
+            "failed": 0,
+            "question": "What is the definition of \"16\"?",
+            "tried": 0
+        },
+        {
+            "answer": "16",
+            "failed": 0,
+            "question": "Given the definition \"sedici\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "dicassette",
+            "failed": 0,
+            "question": "What is the definition of \"17\"?",
+            "tried": 0
+        },
+        {
+            "answer": "17",
+            "failed": 0,
+            "question": "Given the definition \"dicassette\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "diciotto",
+            "failed": 0,
+            "question": "What is the definition of \"18\"?",
+            "tried": 0
+        },
+        {
+            "answer": "18",
+            "failed": 0,
+            "question": "Given the definition \"diciotto\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "diciannove",
+            "failed": 0,
+            "question": "What is the definition of \"19\"?",
+            "tried": 0
+        },
+        {
+            "answer": "19",
+            "failed": 0,
+            "question": "Given the definition \"diciannove\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "venti",
+            "failed": 0,
+            "question": "What is the definition of \"20\"?",
+            "tried": 0
+        },
+        {
+            "answer": "20",
+            "failed": 0,
+            "question": "Given the definition \"venti\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "trenta",
+            "failed": 0,
+            "question": "What is the definition of \"30\"?",
+            "tried": 0
+        },
+        {
+            "answer": "30",
+            "failed": 0,
+            "question": "Given the definition \"trenta\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "quaranta",
+            "failed": 0,
+            "question": "What is the definition of \"40\"?",
+            "tried": 0
+        },
+        {
+            "answer": "40",
+            "failed": 0,
+            "question": "Given the definition \"quaranta\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "cinquanta",
+            "failed": 0,
+            "question": "What is the definition of \"50\"?",
+            "tried": 0
+        },
+        {
+            "answer": "50",
+            "failed": 0,
+            "question": "Given the definition \"cinquanta\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "sessanta",
+            "failed": 0,
+            "question": "What is the definition of \"60\"?",
+            "tried": 0
+        },
+        {
+            "answer": "60",
+            "failed": 0,
+            "question": "Given the definition \"sessanta\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "settanta",
+            "failed": 0,
+            "question": "What is the definition of \"70\"?",
+            "tried": 0
+        },
+        {
+            "answer": "70",
+            "failed": 0,
+            "question": "Given the definition \"settanta\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "ottanta",
+            "failed": 0,
+            "question": "What is the definition of \"80\"?",
+            "tried": 0
+        },
+        {
+            "answer": "80",
+            "failed": 0,
+            "question": "Given the definition \"ottanta\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "novanta",
+            "failed": 0,
+            "question": "What is the definition of \"90\"?",
+            "tried": 0
+        },
+        {
+            "answer": "90",
+            "failed": 0,
+            "question": "Given the definition \"novanta\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "cento",
+            "failed": 0,
+            "question": "What is the definition of \"100\"?",
+            "tried": 0
+        },
+        {
+            "answer": "100",
+            "failed": 0,
+            "question": "Given the definition \"cento\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "gennaio",
+            "failed": 0,
+            "question": "What is the definition of \"January\"?",
+            "tried": 0
+        },
+        {
+            "answer": "January",
+            "failed": 0,
+            "question": "Given the definition \"gennaio\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "febbraio",
+            "failed": 0,
+            "question": "What is the definition of \"February\"?",
+            "tried": 0
+        },
+        {
+            "answer": "February",
+            "failed": 0,
+            "question": "Given the definition \"febbraio\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "marzo",
+            "failed": 0,
+            "question": "What is the definition of \"March\"?",
+            "tried": 0
+        },
+        {
+            "answer": "March",
+            "failed": 0,
+            "question": "Given the definition \"marzo\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "aprile",
+            "failed": 0,
+            "question": "What is the definition of \"April\"?",
+            "tried": 0
+        },
+        {
+            "answer": "April",
+            "failed": 0,
+            "question": "Given the definition \"aprile\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "maggio",
+            "failed": 0,
+            "question": "What is the definition of \"May\"?",
+            "tried": 0
+        },
+        {
+            "answer": "May",
+            "failed": 0,
+            "question": "Given the definition \"maggio\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "giugno",
+            "failed": 0,
+            "question": "What is the definition of \"June\"?",
+            "tried": 0
+        },
+        {
+            "answer": "June",
+            "failed": 0,
+            "question": "Given the definition \"giugno\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "luglio",
+            "failed": 0,
+            "question": "What is the definition of \"July\"?",
+            "tried": 0
+        },
+        {
+            "answer": "July",
+            "failed": 0,
+            "question": "Given the definition \"luglio\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "agosto",
+            "failed": 0,
+            "question": "What is the definition of \"August\"?",
+            "tried": 0
+        },
+        {
+            "answer": "August",
+            "failed": 0,
+            "question": "Given the definition \"agosto\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "settembre",
+            "failed": 0,
+            "question": "What is the definition of \"September\"?",
+            "tried": 0
+        },
+        {
+            "answer": "September",
+            "failed": 0,
+            "question": "Given the definition \"settembre\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "ottobre",
+            "failed": 0,
+            "question": "What is the definition of \"October\"?",
+            "tried": 0
+        },
+        {
+            "answer": "October",
+            "failed": 0,
+            "question": "Given the definition \"ottobre\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "novembre",
+            "failed": 0,
+            "question": "What is the definition of \"November\"?",
+            "tried": 0
+        },
+        {
+            "answer": "November",
+            "failed": 0,
+            "question": "Given the definition \"novembre\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "dicembre",
+            "failed": 0,
+            "question": "What is the definition of \"December\"?",
+            "tried": 0
+        },
+        {
+            "answer": "December",
+            "failed": 0,
+            "question": "Given the definition \"dicembre\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "I am married.",
+            "failed": 0,
+            "question": "What is the definition of \"sono sposato\"?",
+            "tried": 0
+        },
+        {
+            "answer": "sono sposato",
+            "failed": 0,
+            "question": "Given the definition \"I am married.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Are you married?",
+            "failed": 0,
+            "question": "What is the definition of \"e sposata?\"?",
+            "tried": 0
+        },
+        {
+            "answer": "e sposata?",
+            "failed": 0,
+            "question": "Given the definition \"Are you married?\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "ciao",
+            "failed": 0,
+            "question": "What is the definition of \"hi, hello, goodbye\"?",
+            "tried": 0
+        },
+        {
+            "answer": "hi, hello, goodbye",
+            "failed": 0,
+            "question": "Given the definition \"ciao\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "salvo",
+            "failed": 0,
+            "question": "What is the definition of \"hello\"?",
+            "tried": 0
+        },
+        {
+            "answer": "hello",
+            "failed": 0,
+            "question": "Given the definition \"salvo\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "buon giorno",
+            "failed": 0,
+            "question": "What is the definition of \"good morning\"?",
+            "tried": 0
+        },
+        {
+            "answer": "good morning",
+            "failed": 0,
+            "question": "Given the definition \"buon giorno\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "buon pomeriggio",
+            "failed": 0,
+            "question": "What is the definition of \"good afternoon\"?",
+            "tried": 0
+        },
+        {
+            "answer": "good afternoon",
+            "failed": 0,
+            "question": "Given the definition \"buon pomeriggio\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "buona sera",
+            "failed": 0,
+            "question": "What is the definition of \"good evening\"?",
+            "tried": 0
+        },
+        {
+            "answer": "good evening",
+            "failed": 0,
+            "question": "Given the definition \"buona sera\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "buona notte",
+            "failed": 0,
+            "question": "What is the definition of \"good night\"?",
+            "tried": 0
+        },
+        {
+            "answer": "good night",
+            "failed": 0,
+            "question": "Given the definition \"buona notte\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "buona giornata",
+            "failed": 0,
+            "question": "What is the definition of \"have a good day\"?",
+            "tried": 0
+        },
+        {
+            "answer": "have a good day",
+            "failed": 0,
+            "question": "Given the definition \"buona giornata\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "buona serata",
+            "failed": 0,
+            "question": "What is the definition of \"have a good evening\"?",
+            "tried": 0
+        },
+        {
+            "answer": "have a good evening",
+            "failed": 0,
+            "question": "Given the definition \"buona serata\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "arrivederci",
+            "failed": 0,
+            "question": "What is the definition of \"good-bye (informal)\"?",
+            "tried": 0
+        },
+        {
+            "answer": "good-bye (informal)",
+            "failed": 0,
+            "question": "Given the definition \"arrivederci\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "arrivederLa",
+            "failed": 0,
+            "question": "What is the definition of \"good-bye (formal)\"?",
+            "tried": 0
+        },
+        {
+            "answer": "good-bye (formal)",
+            "failed": 0,
+            "question": "Given the definition \"arrivederLa\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "a presto",
+            "failed": 0,
+            "question": "What is the definition of \"see you soon\"?",
+            "tried": 0
+        },
+        {
+            "answer": "see you soon",
+            "failed": 0,
+            "question": "Given the definition \"a presto\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "a dopo",
+            "failed": 0,
+            "question": "What is the definition of \"see you later\"?",
+            "tried": 0
+        },
+        {
+            "answer": "see you later",
+            "failed": 0,
+            "question": "Given the definition \"a dopo\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Mi chiamo...",
+            "failed": 0,
+            "question": "What is the definition of \"My name is...\"?",
+            "tried": 0
+        },
+        {
+            "answer": "My name is...",
+            "failed": 0,
+            "question": "Given the definition \"Mi chiamo...\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Sono di...",
+            "failed": 0,
+            "question": "What is the definition of \"I am from...\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I am from...",
+            "failed": 0,
+            "question": "Given the definition \"Sono di...\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "...et tu?",
+            "failed": 0,
+            "question": "What is the definition of \"...and you? (informal)\"?",
+            "tried": 0
+        },
+        {
+            "answer": "...and you? (informal)",
+            "failed": 0,
+            "question": "Given the definition \"...et tu?\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "...e Lei?",
+            "failed": 0,
+            "question": "What is the definition of \"...and you? (formal)\"?",
+            "tried": 0
+        },
+        {
+            "answer": "...and you? (formal)",
+            "failed": 0,
+            "question": "Given the definition \"...e Lei?\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Piacere.",
+            "failed": 0,
+            "question": "What is the definition of \"Pleased to meet you.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Pleased to meet you.",
+            "failed": 0,
+            "question": "Given the definition \"Piacere.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Piacere mio.",
+            "failed": 0,
+            "question": "What is the definition of \"Pleased to meet you, too.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Pleased to meet you, too.",
+            "failed": 0,
+            "question": "Given the definition \"Piacere mio.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Come stai?",
+            "failed": 0,
+            "question": "What is the definition of \"How are you doing? (informal)\"?",
+            "tried": 0
+        },
+        {
+            "answer": "How are you doing? (informal)",
+            "failed": 0,
+            "question": "Given the definition \"Come stai?\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Come sta?",
+            "failed": 0,
+            "question": "What is the definition of \"How are you doing? (formal)\"?",
+            "tried": 0
+        },
+        {
+            "answer": "How are you doing? (formal)",
+            "failed": 0,
+            "question": "Given the definition \"Come sta?\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Molto bene, grazie.",
+            "failed": 0,
+            "question": "What is the definition of \"Very well, thanks.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Very well, thanks.",
+            "failed": 0,
+            "question": "Given the definition \"Molto bene, grazie.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "(Sto) Bene, grazie.",
+            "failed": 0,
+            "question": "What is the definition of \"(I am) Fine, thanks.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "(I am) Fine, thanks.",
+            "failed": 0,
+            "question": "Given the definition \"(Sto) Bene, grazie.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Cosi, cosi.",
+            "failed": 0,
+            "question": "What is the definition of \"So so, not bad.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "So so, not bad.",
+            "failed": 0,
+            "question": "Given the definition \"Cosi, cosi.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Grazie.",
+            "failed": 0,
+            "question": "What is the definition of \"Thank you.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Thank you.",
+            "failed": 0,
+            "question": "Given the definition \"Grazie.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Grazie mille.",
+            "failed": 0,
+            "question": "What is the definition of \"Thanks a lot.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Thanks a lot.",
+            "failed": 0,
+            "question": "Given the definition \"Grazie mille.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Prego.",
+            "failed": 0,
+            "question": "What is the definition of \"You're welcome.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "You're welcome.",
+            "failed": 0,
+            "question": "Given the definition \"Prego.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "I'm from Milan.",
+            "failed": 0,
+            "question": "What is the definition of \"Sono di Milano.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Sono di Milano.",
+            "failed": 0,
+            "question": "Given the definition \"I'm from Milan.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "una persona",
+            "failed": 0,
+            "question": "What is the definition of \"a person\"?",
+            "tried": 0
+        },
+        {
+            "answer": "a person",
+            "failed": 0,
+            "question": "Given the definition \"una persona\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "una donna",
+            "failed": 0,
+            "question": "What is the definition of \"a woman\"?",
+            "tried": 0
+        },
+        {
+            "answer": "a woman",
+            "failed": 0,
+            "question": "Given the definition \"una donna\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ecco...",
+            "failed": 0,
+            "question": "What is the definition of \"Here is...\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Here is...",
+            "failed": 0,
+            "question": "Given the definition \"Ecco...\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ecco una donna.",
+            "failed": 0,
+            "question": "What is the definition of \"Her is a woman.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Her is a woman.",
+            "failed": 0,
+            "question": "Given the definition \"Ecco una donna.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "un uomo",
+            "failed": 0,
+            "question": "What is the definition of \"a man\"?",
+            "tried": 0
+        },
+        {
+            "answer": "a man",
+            "failed": 0,
+            "question": "Given the definition \"un uomo\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "una ragazza",
+            "failed": 0,
+            "question": "What is the definition of \"a girl\"?",
+            "tried": 0
+        },
+        {
+            "answer": "a girl",
+            "failed": 0,
+            "question": "Given the definition \"una ragazza\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "un ragazzo",
+            "failed": 0,
+            "question": "What is the definition of \"a boy\"?",
+            "tried": 0
+        },
+        {
+            "answer": "a boy",
+            "failed": 0,
+            "question": "Given the definition \"un ragazzo\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "un bambino",
+            "failed": 0,
+            "question": "What is the definition of \"a child (boy)\"?",
+            "tried": 0
+        },
+        {
+            "answer": "a child (boy)",
+            "failed": 0,
+            "question": "Given the definition \"un bambino\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "una bambina",
+            "failed": 0,
+            "question": "What is the definition of \"a child (girl)\"?",
+            "tried": 0
+        },
+        {
+            "answer": "a child (girl)",
+            "failed": 0,
+            "question": "Given the definition \"una bambina\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ecco una famiglia.",
+            "failed": 0,
+            "question": "What is the definition of \"Here is a family...\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Here is a family...",
+            "failed": 0,
+            "question": "Given the definition \"Ecco una famiglia.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "C'e'...",
+            "failed": 0,
+            "question": "What is the definition of \"There is...\"?",
+            "tried": 0
+        },
+        {
+            "answer": "There is...",
+            "failed": 0,
+            "question": "Given the definition \"C'e'...\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ci sono...",
+            "failed": 0,
+            "question": "What is the definition of \"There are...\"?",
+            "tried": 0
+        },
+        {
+            "answer": "There are...",
+            "failed": 0,
+            "question": "Given the definition \"Ci sono...\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "C'e' il padre.",
+            "failed": 0,
+            "question": "What is the definition of \"There's the father.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "There's the father.",
+            "failed": 0,
+            "question": "Given the definition \"C'e' il padre.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "C'e' la madre.",
+            "failed": 0,
+            "question": "What is the definition of \"There's the mother.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "There's the mother.",
+            "failed": 0,
+            "question": "Given the definition \"C'e' la madre.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ci sono il padre e la madre.",
+            "failed": 0,
+            "question": "What is the definition of \"There are the father and the mother.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "There are the father and the mother.",
+            "failed": 0,
+            "question": "Given the definition \"Ci sono il padre e la madre.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "C'e' il figlio.",
+            "failed": 0,
+            "question": "What is the definition of \"There's the son.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "There's the son.",
+            "failed": 0,
+            "question": "Given the definition \"C'e' il figlio.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "C'e' la figlia.",
+            "failed": 0,
+            "question": "What is the definition of \"There's the daughter.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "There's the daughter.",
+            "failed": 0,
+            "question": "Given the definition \"C'e' la figlia.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ci sono il figlio e la figlia.",
+            "failed": 0,
+            "question": "What is the definition of \"There are the son and the daughter.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "There are the son and the daughter.",
+            "failed": 0,
+            "question": "Given the definition \"Ci sono il figlio e la figlia.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "C'e' il fratello.",
+            "failed": 0,
+            "question": "What is the definition of \"There's the brother.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "There's the brother.",
+            "failed": 0,
+            "question": "Given the definition \"C'e' il fratello.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "C'e' la sorella.",
+            "failed": 0,
+            "question": "What is the definition of \"There's the sister.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "There's the sister.",
+            "failed": 0,
+            "question": "Given the definition \"C'e' la sorella.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ci sono il fratello e la sorella.",
+            "failed": 0,
+            "question": "What is the definition of \"There are the brother and sister.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "There are the brother and sister.",
+            "failed": 0,
+            "question": "Given the definition \"Ci sono il fratello e la sorella.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Io sono Francesco.",
+            "failed": 0,
+            "question": "What is the definition of \"I'm Francessco.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I'm Francessco.",
+            "failed": 0,
+            "question": "Given the definition \"Io sono Francesco.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Sono italiano.",
+            "failed": 0,
+            "question": "What is the definition of \"I'm Italian.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I'm Italian.",
+            "failed": 0,
+            "question": "Given the definition \"Sono italiano.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Io ho una famiglia piccola.",
+            "failed": 0,
+            "question": "What is the definition of \"I have a small family.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I have a small family.",
+            "failed": 0,
+            "question": "Given the definition \"Io ho una famiglia piccola.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ho un padre.",
+            "failed": 0,
+            "question": "What is the definition of \"I have a father.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I have a father.",
+            "failed": 0,
+            "question": "Given the definition \"Ho un padre.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Lui e' un poliziotto.",
+            "failed": 0,
+            "question": "What is the definition of \"He's a policeman.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "He's a policeman.",
+            "failed": 0,
+            "question": "Given the definition \"Lui e' un poliziotto.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "E ho una madre.",
+            "failed": 0,
+            "question": "What is the definition of \"And I have a mother.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "And I have a mother.",
+            "failed": 0,
+            "question": "Given the definition \"E ho una madre.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Lei e' una professoressa.",
+            "failed": 0,
+            "question": "What is the definition of \"She's a teacher.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "She's a teacher.",
+            "failed": 0,
+            "question": "Given the definition \"Lei e' una professoressa.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "E ho una sorella.",
+            "failed": 0,
+            "question": "What is the definition of \"And I have a sister.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "And I have a sister.",
+            "failed": 0,
+            "question": "Given the definition \"E ho una sorella.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Lei e' una studentessa.",
+            "failed": 0,
+            "question": "What is the definition of \"She's a student.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "She's a student.",
+            "failed": 0,
+            "question": "Given the definition \"Lei e' una studentessa.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "E anche io sono uno studente.",
+            "failed": 0,
+            "question": "What is the definition of \"And me, too, I'm a student.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "And me, too, I'm a student.",
+            "failed": 0,
+            "question": "Given the definition \"E anche io sono uno studente.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "he is",
+            "failed": 0,
+            "question": "What is the definition of \"lui e'\"?",
+            "tried": 0
+        },
+        {
+            "answer": "lui e'",
+            "failed": 0,
+            "question": "Given the definition \"he is\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "she is",
+            "failed": 0,
+            "question": "What is the definition of \"lei e'\"?",
+            "tried": 0
+        },
+        {
+            "answer": "lei e'",
+            "failed": 0,
+            "question": "Given the definition \"she is\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "uncle",
+            "failed": 0,
+            "question": "What is the definition of \"zio\"?",
+            "tried": 0
+        },
+        {
+            "answer": "zio",
+            "failed": 0,
+            "question": "Given the definition \"uncle\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "aunt",
+            "failed": 0,
+            "question": "What is the definition of \"zia\"?",
+            "tried": 0
+        },
+        {
+            "answer": "zia",
+            "failed": 0,
+            "question": "Given the definition \"aunt\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "female cousin",
+            "failed": 0,
+            "question": "What is the definition of \"cugina\"?",
+            "tried": 0
+        },
+        {
+            "answer": "cugina",
+            "failed": 0,
+            "question": "Given the definition \"female cousin\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "male cousin",
+            "failed": 0,
+            "question": "What is the definition of \"cugino\"?",
+            "tried": 0
+        },
+        {
+            "answer": "cugino",
+            "failed": 0,
+            "question": "Given the definition \"male cousin\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "grandmother",
+            "failed": 0,
+            "question": "What is the definition of \"nonna\"?",
+            "tried": 0
+        },
+        {
+            "answer": "nonna",
+            "failed": 0,
+            "question": "Given the definition \"grandmother\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "grandfather",
+            "failed": 0,
+            "question": "What is the definition of \"nonno\"?",
+            "tried": 0
+        },
+        {
+            "answer": "nonno",
+            "failed": 0,
+            "question": "Given the definition \"grandfather\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "a nephew",
+            "failed": 0,
+            "question": "What is the definition of \"un nipote\"?",
+            "tried": 0
+        },
+        {
+            "answer": "un nipote",
+            "failed": 0,
+            "question": "Given the definition \"a nephew\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "a niece",
+            "failed": 0,
+            "question": "What is the definition of \"una nipote\"?",
+            "tried": 0
+        },
+        {
+            "answer": "una nipote",
+            "failed": 0,
+            "question": "Given the definition \"a niece\", what is the word?",
+            "tried": 0
+        }
+    ]
+}

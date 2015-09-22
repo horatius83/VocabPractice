@@ -1,0 +1,117 @@
+Sunday	domencia
+Monday	Lenedi
+Tuesday	martedi
+Wednesday	mercoledi
+Thursday	Giovedi
+Friday	venerdi
+Saturday	sabato
+1	uno
+2	due
+3	tre
+4	quattro
+5	cinque
+6	sei
+7	sette
+8	otto
+9	nove
+10	dieci
+11	undici
+12	dodici
+13	tredici
+14	quattordici
+15	quindici
+16	sedici
+17	dicassette
+18	diciotto
+19	diciannove
+20	venti
+30	trenta
+40	quaranta
+50	cinquanta
+60	sessanta
+70	settanta
+80	ottanta
+90	novanta
+100	cento
+January	gennaio
+February	febbraio
+March	marzo
+April	aprile
+May	maggio
+June	giugno
+July	luglio
+August	agosto
+September	settembre
+October	ottobre
+November	novembre
+December	dicembre
+sono sposato	I am married.
+e sposata?	Are you married?
+hi, hello, goodbye	ciao
+hello	salvo
+good morning	buon giorno
+good afternoon	buon pomeriggio
+good evening	buona sera
+good night	buona notte
+have a good day	buona giornata
+have a good evening	buona serata
+good-bye (informal)	arrivederci
+good-bye (formal)	arrivederLa
+see you soon	a presto
+see you later	a dopo
+My name is...	Mi chiamo...
+I am from...	Sono di...
+...and you? (informal)	...et tu?
+...and you? (formal)	...e Lei?
+Pleased to meet you.	Piacere.
+Pleased to meet you, too.	Piacere mio.
+How are you doing? (informal)	Come stai?
+How are you doing? (formal)	Come sta?
+Very well, thanks.	Molto bene, grazie.
+(I am) Fine, thanks.	(Sto) Bene, grazie.
+So so, not bad.	Cosi, cosi.
+Thank you.	Grazie.
+Thanks a lot.	Grazie mille.
+You're welcome.	Prego.
+Sono di Milano.	I'm from Milan.
+a person	una persona
+a woman	una donna
+Here is...	Ecco...
+Her is a woman.	Ecco una donna.
+a man	un uomo
+a girl	una ragazza
+a boy	un ragazzo
+a child (boy)	un bambino
+a child (girl)	una bambina
+Here is a family...	Ecco una famiglia.
+There is...	C'e'...
+There are...	Ci sono...
+There's the father.	C'e' il padre.
+There's the mother.	C'e' la madre.
+There are the father and the mother.	Ci sono il padre e la madre.
+There's the son.	C'e' il figlio.
+There's the daughter.	C'e' la figlia.
+There are the son and the daughter.	Ci sono il figlio e la figlia.
+There's the brother.	C'e' il fratello.
+There's the sister.	C'e' la sorella.
+There are the brother and sister.	Ci sono il fratello e la sorella.
+I'm Francessco.	Io sono Francesco.
+I'm Italian.	Sono italiano.
+I have a small family.	Io ho una famiglia piccola.
+I have a father.	Ho un padre.
+He's a policeman.	Lui e' un poliziotto.
+And I have a mother.	E ho una madre.
+She's a teacher.	Lei e' una professoressa.
+And I have a sister.	E ho una sorella.
+She's a student.	Lei e' una studentessa.
+And me, too, I'm a student.	E anche io sono uno studente.
+lui e'	he is
+lei e'	she is
+zio	uncle
+zia	aunt
+cugina	female cousin
+cugino	male cousin
+nonna	grandmother
+nonno	grandfather
+un nipote	a nephew
+una nipote	a niece

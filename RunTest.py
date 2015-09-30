@@ -28,6 +28,7 @@ def RunTest(filename):
 #file = './Genki2/Chapter13_AtTheBank.json'
 #file = './Genki2/Chapter15.json'
 #file = './Italian/Italian1.json'
-file = './Italian/Italian2.json'
+#file = './Italian/Italian2.json'
+file = './Italian/Italian3.json'
 
 RunTest(file)

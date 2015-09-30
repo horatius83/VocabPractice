@@ -1,0 +1,55 @@
+un giorno	a day
+una sera	an evening
+un pomeriggio	an afternoon
+una giornata	a day
+un uomo	a man
+una donna	a woman
+un ragazzo	a boy
+una ragazza	a girl
+un bambino	a boy child
+una bambina	a girl child
+una stazione	a station
+una televisione	a television
+un signore	a gentleman
+un dottore	a male doctor
+Here is a family.	Ecco una famiglia.
+There is...	C'e'...
+There are...	Ci sono...
+There's the father.	C'e' il padre.
+There's the mother.	C'e' la madre.
+There are the father and the mother.	Ci sono il padre e la madre.
+There's the son.	C'e' il figlio.
+There's the daughter.	C'e' la figlia.
+There are the son and the daughter.	Ci sono il figlio e la figlia.
+There's the brother.	C'e' il fratello.
+There's the sister.	C'e' la sorella.
+There are the brother and the sister.	Ci sono il fratello e la sorella.
+la famiglia	the family
+il padre	the father
+la madre	the mother
+il figlio	the son
+la figlia	the daughter
+il ragazzo	the boy
+la sorella	the sister
+il fratello	the brother
+la persona	the person
+il bambino	the boy child
+Here is the Belli family.	Ecco la famiglia Belli.
+Mrs. Belli is a woman.	La signora Belli e' una donna.
+Mr. Belli is a man.	Il signor Belli e' un uomo.
+Francesco is a boy.	Francesco e' un ragazzo.
+Maria is a girl.	Maria e' una ragazza.
+Mrs. Belli is the mother.	La signora Belli e' la madre.
+Mr. Belli is the father.	Il signor Belli e' il padre.
+Maria is the daughter.	Maria e' la figlia.
+Francesco is the son.	Francesco e' il figlio.
+I'm Francesco.	Io sono Francesco.
+I'm Italian.	Sono italiano.
+I have a small family.	Io ho una famiglia piccola.
+I have a father.	Ho un padre.
+He's a policeman.	Lui e' un poliziotto.
+And I have a mother.	E ho una madre.
+She's a teacher.	Lei e' una professoressa.
+And I have a sister.	E ho una sorella.
+She's a student.	Lei e' una studentessa.
+And me, too, I'm a student.	E anche io sono uno studente.

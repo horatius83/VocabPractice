@@ -1,0 +1,82 @@
+cipolle	onions
+piselli	gree peas
+pomodori	tomatoes
+fagiolini	string beans
+cavolfiore	cauliflower
+carciofo	artichokes
+carote	carrots
+asparagi	asparagus
+spinaci	spinach
+lenticchie	lentils
+funghi	mushrooms
+melanzane	eggplant
+patate	potatoes
+peperoni	bell peppers
+prezzemolo	parsley
+ravanelli	radishes
+sedano	celery
+zucca	yellow squash
+minestrina	thin clear broth
+zuppa di pesce	fish soup
+stracciatella	broth with beaten eggs and Permesan cheese
+pavese	broth with poached egg on fried bread
+alla milanese	with saffron
+con funghi	with mushrooms
+alla marinara	tomato sauce, clams, prawns
+mela	apple
+pera	pear
+pesca	peach
+arancia	orange
+mandarino	tangerine
+ciligie	cherries
+cocomero	watermelon
+prugna	plum
+uva	grapes
+uva passa	raisins
+dattero	date
+limone	lemon
+ananas	pineapple
+pompelmo	grapefruit
+fichi	figs
+fragole	strawberries
+lamponi	rasberries
+mirtilli	blueberries
+birra	beer
+latte	milk
+caffe'	coffee
+caffellatte	coffee with steamed milk
+succo di...	juice of...
+limonata	lemonade
+acqua minerale	botled mineral water
+vino rosso	red wine
+vino bianco	white wine
+vino rose'	rose' wine
+cotto	cooked
+crudo	raw
+arrosto	roasted
+fritto	fried
+al forno	baked
+alla griglia, ai ferri	grilled
+allo spiedo	roasted on a spit
+bollito	boiled
+affumicato	smoked
+alla brace	charcoal-broiled
+farcito	stuffed
+al sangue	rare
+al punto	medium
+ben cotto	well-done
+marmellata	jam
+miele	honey
+sale	salt
+pepe	pepper
+olio	oil
+aceto	vinegar
+senape/mostarda	mustard
+riso	rice
+pane	bread
+formaggio	cheese
+dolci	desserts
+torta	cake
+dolce	pastry
+gelato	ice cream
+panna montata	whipped cream

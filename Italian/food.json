@@ -1,0 +1,1153 @@
+{
+    "name": ".\\Italian\\food.json",
+    "vocab": [
+        {
+            "answer": "vino rosso",
+            "failed": 2,
+            "lastAsked": 1444084964.1182797,
+            "question": "Given the definition \"red wine\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "vino rose'",
+            "failed": 0,
+            "lastAsked": 1444084937.811775,
+            "question": "Given the definition \"rose' wine\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "baked",
+            "failed": 0,
+            "lastAsked": 1444084891.2651126,
+            "question": "What is the definition of \"al forno\"?",
+            "tried": 1
+        },
+        {
+            "answer": "fried",
+            "failed": 0,
+            "lastAsked": 1444084905.7379403,
+            "question": "What is the definition of \"fritto\"?",
+            "tried": 1
+        },
+        {
+            "answer": "lemonade",
+            "failed": 1,
+            "lastAsked": 1444084957.097878,
+            "question": "What is the definition of \"limonata\"?",
+            "tried": 2
+        },
+        {
+            "answer": "jam",
+            "failed": 1,
+            "lastAsked": 1444084958.9359832,
+            "question": "What is the definition of \"marmellata\"?",
+            "tried": 2
+        },
+        {
+            "answer": "peperoni",
+            "failed": 0,
+            "lastAsked": 1444084941.2639723,
+            "question": "Given the definition \"bell peppers\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "pastry",
+            "failed": 1,
+            "lastAsked": 1444084961.624137,
+            "question": "What is the definition of \"dolce\"?",
+            "tried": 2
+        },
+        {
+            "answer": "string beans",
+            "failed": 2,
+            "lastAsked": 1444085065.4700766,
+            "question": "What is the definition of \"fagiolini\"?",
+            "tried": 3
+        },
+        {
+            "answer": "piselli",
+            "failed": 2,
+            "lastAsked": 1444085060.164773,
+            "question": "Given the definition \"gree peas\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "plum",
+            "failed": 1,
+            "lastAsked": 1444085052.5633385,
+            "question": "What is the definition of \"prugna\"?",
+            "tried": 2
+        },
+        {
+            "answer": "milk",
+            "failed": 0,
+            "lastAsked": 1444084973.8688374,
+            "question": "What is the definition of \"latte\"?",
+            "tried": 1
+        },
+        {
+            "answer": "torta",
+            "failed": 1,
+            "lastAsked": 1444085027.9199288,
+            "question": "Given the definition \"cake\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "uva passa",
+            "failed": 2,
+            "lastAsked": 1444085069.55031,
+            "question": "Given the definition \"raisins\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "caffellatte",
+            "failed": 1,
+            "lastAsked": 1444085056.0995407,
+            "question": "Given the definition \"coffee with steamed milk\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "orange",
+            "failed": 1,
+            "lastAsked": 1444085034.9103286,
+            "question": "What is the definition of \"arancia\"?",
+            "tried": 2
+        },
+        {
+            "answer": "dolce",
+            "failed": 1,
+            "lastAsked": 1444085259.1981573,
+            "question": "Given the definition \"pastry\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "alla marinara",
+            "failed": 1,
+            "lastAsked": 1444085307.7509344,
+            "question": "Given the definition \"tomato sauce, clams, prawns\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "marmellata",
+            "failed": 2,
+            "lastAsked": 1444085319.3755991,
+            "question": "Given the definition \"jam\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "alla griglia, ai ferri",
+            "failed": 3,
+            "lastAsked": 1444085394.5148969,
+            "question": "Given the definition \"grilled\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "broth with beaten eggs and Permesan cheese",
+            "failed": 2,
+            "lastAsked": 1444085366.9923227,
+            "question": "What is the definition of \"stracciatella\"?",
+            "tried": 3
+        },
+        {
+            "answer": "grilled",
+            "failed": 0,
+            "lastAsked": 1444085074.2095766,
+            "question": "What is the definition of \"alla griglia, ai ferri\"?",
+            "tried": 1
+        },
+        {
+            "answer": "funghi",
+            "failed": 0,
+            "lastAsked": 1444085076.736721,
+            "question": "Given the definition \"mushrooms\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "lenticchie",
+            "failed": 2,
+            "lastAsked": 1444085371.787597,
+            "question": "Given the definition \"lentils\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "vinegar",
+            "failed": 1,
+            "lastAsked": 1444085440.4775257,
+            "question": "What is the definition of \"aceto\"?",
+            "tried": 2
+        },
+        {
+            "answer": "white wine",
+            "failed": 0,
+            "lastAsked": 1444085423.0185273,
+            "question": "What is the definition of \"vino bianco\"?",
+            "tried": 1
+        },
+        {
+            "answer": "zuppa di pesce",
+            "failed": 1,
+            "lastAsked": 1444085445.708825,
+            "question": "Given the definition \"fish soup\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "olio",
+            "failed": 1,
+            "lastAsked": 1444085458.9015796,
+            "question": "Given the definition \"oil\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "asparagi",
+            "failed": 1,
+            "lastAsked": 1444085450.0260718,
+            "question": "Given the definition \"asparagus\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "desserts",
+            "failed": 0,
+            "lastAsked": 1444085436.3792913,
+            "question": "What is the definition of \"dolci\"?",
+            "tried": 1
+        },
+        {
+            "answer": "alla brace",
+            "failed": 2,
+            "lastAsked": 1444085461.7637434,
+            "question": "Given the definition \"charcoal-broiled\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "lentils",
+            "failed": 0,
+            "lastAsked": 1444085425.4126642,
+            "question": "What is the definition of \"lenticchie\"?",
+            "tried": 1
+        },
+        {
+            "answer": "radishes",
+            "failed": 1,
+            "lastAsked": 1444085512.0006168,
+            "question": "What is the definition of \"ravanelli\"?",
+            "tried": 2
+        },
+        {
+            "answer": "caffe'",
+            "failed": 0,
+            "lastAsked": 1444085489.715342,
+            "question": "Given the definition \"coffee\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "pompelmo",
+            "failed": 2,
+            "lastAsked": 1444085533.0608213,
+            "question": "Given the definition \"grapefruit\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "celery",
+            "failed": 2,
+            "lastAsked": 1444085536.1880002,
+            "question": "What is the definition of \"sedano\"?",
+            "tried": 3
+        },
+        {
+            "answer": "acqua minerale",
+            "failed": 1,
+            "lastAsked": 1444085520.0920794,
+            "question": "Given the definition \"botled mineral water\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "rose' wine",
+            "failed": 0,
+            "lastAsked": 1444085480.1927974,
+            "question": "What is the definition of \"vino rose'\"?",
+            "tried": 1
+        },
+        {
+            "answer": "limone",
+            "failed": 0,
+            "lastAsked": 1444085507.51536,
+            "question": "Given the definition \"lemon\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "gelato",
+            "failed": 0,
+            "lastAsked": 1444085483.804004,
+            "question": "Given the definition \"ice cream\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "crudo",
+            "failed": 1,
+            "lastAsked": 1444085626.788182,
+            "question": "Given the definition \"raw\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "arrosto",
+            "failed": 2,
+            "lastAsked": 1444085637.4247904,
+            "question": "Given the definition \"roasted\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "raisins",
+            "failed": 0,
+            "lastAsked": 1444085597.3424978,
+            "question": "What is the definition of \"uva passa\"?",
+            "tried": 1
+        },
+        {
+            "answer": "tomato sauce, clams, prawns",
+            "failed": 1,
+            "lastAsked": 1444085607.4280748,
+            "question": "What is the definition of \"alla marinara\"?",
+            "tried": 2
+        },
+        {
+            "answer": "peach",
+            "failed": 1,
+            "lastAsked": 1444085609.8372126,
+            "question": "What is the definition of \"pesca\"?",
+            "tried": 2
+        },
+        {
+            "answer": "riso",
+            "failed": 0,
+            "lastAsked": 1444085580.4835336,
+            "question": "Given the definition \"rice\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "prugna",
+            "failed": 2,
+            "lastAsked": 1444085633.6255732,
+            "question": "Given the definition \"plum\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "pepper",
+            "failed": 1,
+            "lastAsked": 1444085613.4544196,
+            "question": "What is the definition of \"pepe\"?",
+            "tried": 2
+        },
+        {
+            "answer": "cocomero",
+            "failed": 2,
+            "lastAsked": 1444085782.5430908,
+            "question": "Given the definition \"watermelon\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "mirtilli",
+            "failed": 2,
+            "lastAsked": 1444085767.8312492,
+            "question": "Given the definition \"blueberries\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "allo spiedo",
+            "failed": 4,
+            "lastAsked": 1444085830.2618203,
+            "question": "Given the definition \"roasted on a spit\", what is the word?",
+            "tried": 5
+        },
+        {
+            "answer": "strawberries",
+            "failed": 3,
+            "lastAsked": 1444085811.185729,
+            "question": "What is the definition of \"fragole\"?",
+            "tried": 4
+        },
+        {
+            "answer": "potatoes",
+            "failed": 1,
+            "lastAsked": 1444085740.950712,
+            "question": "What is the definition of \"patate\"?",
+            "tried": 2
+        },
+        {
+            "answer": "al forno",
+            "failed": 3,
+            "lastAsked": 1444085813.8148794,
+            "question": "Given the definition \"baked\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "sedano",
+            "failed": 4,
+            "lastAsked": 1444085825.8315668,
+            "question": "Given the definition \"celery\", what is the word?",
+            "tried": 5
+        },
+        {
+            "answer": "al sangue",
+            "failed": 4,
+            "lastAsked": 1444085822.9534023,
+            "question": "Given the definition \"rare\", what is the word?",
+            "tried": 5
+        },
+        {
+            "answer": "cotto",
+            "failed": 1,
+            "lastAsked": 1444085924.5362124,
+            "question": "Given the definition \"cooked\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "minestrina",
+            "failed": 2,
+            "lastAsked": 1444085945.458409,
+            "question": "Given the definition \"thin clear broth\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "panna montata",
+            "failed": 5,
+            "lastAsked": 1444085970.7838576,
+            "question": "Given the definition \"whipped cream\", what is the word?",
+            "tried": 6
+        },
+        {
+            "answer": "whipped cream",
+            "failed": 0,
+            "lastAsked": 1444085840.0603807,
+            "question": "What is the definition of \"panna montata\"?",
+            "tried": 1
+        },
+        {
+            "answer": "tomatoes",
+            "failed": 3,
+            "lastAsked": 1444085959.1971948,
+            "question": "What is the definition of \"pomodori\"?",
+            "tried": 4
+        },
+        {
+            "answer": "stracciatella",
+            "failed": 2,
+            "lastAsked": 1444085950.9597237,
+            "question": "Given the definition \"broth with beaten eggs and Permesan cheese\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "pera",
+            "failed": 1,
+            "lastAsked": 1444085929.8145144,
+            "question": "Given the definition \"pear\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "latte",
+            "failed": 1,
+            "lastAsked": 1444085922.1950784,
+            "question": "Given the definition \"milk\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "uva",
+            "failed": 0,
+            "lastAsked": 1444085982.7925444,
+            "question": "Given the definition \"grapes\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "rice",
+            "failed": 0,
+            "lastAsked": 1444085979.9053793,
+            "question": "What is the definition of \"riso\"?",
+            "tried": 1
+        },
+        {
+            "answer": "figs",
+            "failed": 1,
+            "lastAsked": 1444086072.546678,
+            "question": "What is the definition of \"fichi\"?",
+            "tried": 2
+        },
+        {
+            "answer": "senape/mostarda",
+            "failed": 2,
+            "lastAsked": 1444086094.244919,
+            "question": "Given the definition \"mustard\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "pear",
+            "failed": 0,
+            "lastAsked": 1444086066.1803138,
+            "question": "What is the definition of \"pera\"?",
+            "tried": 1
+        },
+        {
+            "answer": "ravanelli",
+            "failed": 2,
+            "lastAsked": 1444086099.7582345,
+            "question": "Given the definition \"radishes\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "oil",
+            "failed": 0,
+            "lastAsked": 1444085973.0679882,
+            "question": "What is the definition of \"olio\"?",
+            "tried": 1
+        },
+        {
+            "answer": "with mushrooms",
+            "failed": 0,
+            "lastAsked": 1444086070.3675535,
+            "question": "What is the definition of \"con funghi\"?",
+            "tried": 1
+        },
+        {
+            "answer": "sale",
+            "failed": 2,
+            "lastAsked": 1444086246.6366353,
+            "question": "Given the definition \"salt\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "carciofo",
+            "failed": 8,
+            "lastAsked": 1444086434.2013636,
+            "question": "Given the definition \"artichokes\", what is the word?",
+            "tried": 9
+        },
+        {
+            "answer": "affumicato",
+            "failed": 5,
+            "lastAsked": 1444086381.8243678,
+            "question": "Given the definition \"smoked\", what is the word?",
+            "tried": 6
+        },
+        {
+            "answer": "with saffron",
+            "failed": 1,
+            "lastAsked": 1444086223.7323253,
+            "question": "What is the definition of \"alla milanese\"?",
+            "tried": 2
+        },
+        {
+            "answer": "charcoal-broiled",
+            "failed": 3,
+            "lastAsked": 1444086328.9133413,
+            "question": "What is the definition of \"alla brace\"?",
+            "tried": 4
+        },
+        {
+            "answer": "blueberries",
+            "failed": 1,
+            "lastAsked": 1444086177.8016982,
+            "question": "What is the definition of \"mirtilli\"?",
+            "tried": 2
+        },
+        {
+            "answer": "prezzemolo",
+            "failed": 8,
+            "lastAsked": 1444086439.138646,
+            "question": "Given the definition \"parsley\", what is the word?",
+            "tried": 9
+        },
+        {
+            "answer": "ciligie",
+            "failed": 7,
+            "lastAsked": 1444086411.251051,
+            "question": "Given the definition \"cherries\", what is the word?",
+            "tried": 8
+        },
+        {
+            "answer": "apple",
+            "failed": 0,
+            "lastAsked": 1444086446.5940723,
+            "question": "What is the definition of \"mela\"?",
+            "tried": 1
+        },
+        {
+            "answer": "thin clear broth",
+            "failed": 0,
+            "lastAsked": 1444086444.3069415,
+            "question": "What is the definition of \"minestrina\"?",
+            "tried": 1
+        },
+        {
+            "answer": "al punto",
+            "failed": 2,
+            "lastAsked": 1444086535.404152,
+            "question": "Given the definition \"medium\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "cherries",
+            "failed": 0,
+            "lastAsked": 1444086480.6030176,
+            "question": "What is the definition of \"ciligie\"?",
+            "tried": 1
+        },
+        {
+            "answer": "vino bianco",
+            "failed": 0,
+            "lastAsked": 1444086466.4262066,
+            "question": "Given the definition \"white wine\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "grapes",
+            "failed": 0,
+            "lastAsked": 1444086457.1856782,
+            "question": "What is the definition of \"uva\"?",
+            "tried": 1
+        },
+        {
+            "answer": "ben cotto",
+            "failed": 1,
+            "lastAsked": 1444086519.740256,
+            "question": "Given the definition \"well-done\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "aceto",
+            "failed": 1,
+            "lastAsked": 1444086511.9848125,
+            "question": "Given the definition \"vinegar\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "zucca",
+            "failed": 6,
+            "lastAsked": 1444086886.7962506,
+            "question": "Given the definition \"yellow squash\", what is the word?",
+            "tried": 7
+        },
+        {
+            "answer": "cipolle",
+            "failed": 6,
+            "lastAsked": 1444086884.0650942,
+            "question": "Given the definition \"onions\", what is the word?",
+            "tried": 7
+        },
+        {
+            "answer": "bell peppers",
+            "failed": 1,
+            "lastAsked": 1444086766.6043758,
+            "question": "What is the definition of \"peperoni\"?",
+            "tried": 2
+        },
+        {
+            "answer": "salt",
+            "failed": 0,
+            "lastAsked": 1444086541.2654872,
+            "question": "What is the definition of \"sale\"?",
+            "tried": 1
+        },
+        {
+            "answer": "stuffed",
+            "failed": 3,
+            "lastAsked": 1444086822.3005614,
+            "question": "What is the definition of \"farcito\"?",
+            "tried": 4
+        },
+        {
+            "answer": "spinaci",
+            "failed": 2,
+            "lastAsked": 1444086798.2931883,
+            "question": "Given the definition \"spinach\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "con funghi",
+            "failed": 1,
+            "lastAsked": 1444086780.5821755,
+            "question": "Given the definition \"with mushrooms\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "dattero",
+            "failed": 6,
+            "lastAsked": 1444086881.6259549,
+            "question": "Given the definition \"date\", what is the word?",
+            "tried": 7
+        },
+        {
+            "answer": "red wine",
+            "failed": 1,
+            "lastAsked": 1444086931.790824,
+            "question": "What is the definition of \"vino rosso\"?",
+            "tried": 2
+        },
+        {
+            "answer": "pane",
+            "failed": 0,
+            "lastAsked": 1444086888.8823698,
+            "question": "Given the definition \"bread\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "roasted on a spit",
+            "failed": 0,
+            "lastAsked": 1444086928.258622,
+            "question": "What is the definition of \"allo spiedo\"?",
+            "tried": 1
+        },
+        {
+            "answer": "eggplant",
+            "failed": 2,
+            "lastAsked": 1444086992.2692833,
+            "question": "What is the definition of \"melanzane\"?",
+            "tried": 3
+        },
+        {
+            "answer": "alla milanese",
+            "failed": 1,
+            "lastAsked": 1444086979.8975756,
+            "question": "Given the definition \"with saffron\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "patate",
+            "failed": 2,
+            "lastAsked": 1444086987.9140341,
+            "question": "Given the definition \"potatoes\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "succo di...",
+            "failed": 3,
+            "lastAsked": 1444087003.1549058,
+            "question": "Given the definition \"juice of...\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "grapefruit",
+            "failed": 2,
+            "lastAsked": 1444086984.486838,
+            "question": "What is the definition of \"pompelmo\"?",
+            "tried": 3
+        },
+        {
+            "answer": "ice cream",
+            "failed": 0,
+            "lastAsked": 1444087036.4208086,
+            "question": "What is the definition of \"gelato\"?",
+            "tried": 1
+        },
+        {
+            "answer": "fagiolini",
+            "failed": 2,
+            "lastAsked": 1444087072.2298567,
+            "question": "Given the definition \"string beans\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "gree peas",
+            "failed": 1,
+            "lastAsked": 1444087067.4895854,
+            "question": "What is the definition of \"piselli\"?",
+            "tried": 2
+        },
+        {
+            "answer": "bollito",
+            "failed": 2,
+            "lastAsked": 1444087075.1490235,
+            "question": "Given the definition \"boiled\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "birra",
+            "failed": 0,
+            "lastAsked": 1444087009.1822505,
+            "question": "Given the definition \"beer\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "raw",
+            "failed": 0,
+            "lastAsked": 1444087039.0129569,
+            "question": "What is the definition of \"crudo\"?",
+            "tried": 1
+        },
+        {
+            "answer": "boiled",
+            "failed": 1,
+            "lastAsked": 1444087045.944353,
+            "question": "What is the definition of \"bollito\"?",
+            "tried": 2
+        },
+        {
+            "answer": "arancia",
+            "failed": 2,
+            "lastAsked": 1444087077.830177,
+            "question": "Given the definition \"orange\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "fragole",
+            "failed": 4,
+            "lastAsked": 1444087158.4417877,
+            "question": "Given the definition \"strawberries\", what is the word?",
+            "tried": 5
+        },
+        {
+            "answer": "ananas",
+            "failed": 1,
+            "lastAsked": 1444087129.879154,
+            "question": "Given the definition \"pineapple\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "cake",
+            "failed": 0,
+            "lastAsked": 1444087101.081507,
+            "question": "What is the definition of \"torta\"?",
+            "tried": 1
+        },
+        {
+            "answer": "mela",
+            "failed": 0,
+            "lastAsked": 1444087107.306863,
+            "question": "Given the definition \"apple\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "cheese",
+            "failed": 0,
+            "lastAsked": 1444087085.2846034,
+            "question": "What is the definition of \"formaggio\"?",
+            "tried": 1
+        },
+        {
+            "answer": "formaggio",
+            "failed": 0,
+            "lastAsked": 1444087105.2147434,
+            "question": "Given the definition \"cheese\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "rasberries",
+            "failed": 3,
+            "lastAsked": 1444087153.182487,
+            "question": "What is the definition of \"lamponi\"?",
+            "tried": 4
+        },
+        {
+            "answer": "roasted",
+            "failed": 1,
+            "lastAsked": 1444087134.8044357,
+            "question": "What is the definition of \"arrosto\"?",
+            "tried": 2
+        },
+        {
+            "answer": "rare",
+            "failed": 0,
+            "lastAsked": 1444087183.0101929,
+            "question": "What is the definition of \"al sangue\"?",
+            "tried": 1
+        },
+        {
+            "answer": "parsley",
+            "failed": 1,
+            "lastAsked": 1444087272.8183298,
+            "question": "What is the definition of \"prezzemolo\"?",
+            "tried": 2
+        },
+        {
+            "answer": "cavolfiore",
+            "failed": 2,
+            "lastAsked": 1444087287.2891574,
+            "question": "Given the definition \"cauliflower\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "pomodori",
+            "failed": 4,
+            "lastAsked": 1444087305.7952158,
+            "question": "Given the definition \"tomatoes\", what is the word?",
+            "tried": 5
+        },
+        {
+            "answer": "medium",
+            "failed": 0,
+            "lastAsked": 1444087174.2066894,
+            "question": "What is the definition of \"al punto\"?",
+            "tried": 1
+        },
+        {
+            "answer": "cauliflower",
+            "failed": 0,
+            "lastAsked": 1444087177.8858998,
+            "question": "What is the definition of \"cavolfiore\"?",
+            "tried": 1
+        },
+        {
+            "answer": "dolci",
+            "failed": 1,
+            "lastAsked": 1444087236.8842745,
+            "question": "Given the definition \"desserts\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "pesca",
+            "failed": 0,
+            "lastAsked": 1444087206.018509,
+            "question": "Given the definition \"peach\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "juice of...",
+            "failed": 0,
+            "lastAsked": 1444087342.6643245,
+            "question": "What is the definition of \"succo di...\"?",
+            "tried": 1
+        },
+        {
+            "answer": "yellow squash",
+            "failed": 0,
+            "lastAsked": 1444087325.8063605,
+            "question": "What is the definition of \"zucca\"?",
+            "tried": 1
+        },
+        {
+            "answer": "lemon",
+            "failed": 1,
+            "lastAsked": 1444087348.5696623,
+            "question": "What is the definition of \"limone\"?",
+            "tried": 2
+        },
+        {
+            "answer": "fichi",
+            "failed": 2,
+            "lastAsked": 1444087360.3623369,
+            "question": "Given the definition \"figs\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "spinach",
+            "failed": 0,
+            "lastAsked": 1444087320.1010342,
+            "question": "What is the definition of \"spinaci\"?",
+            "tried": 1
+        },
+        {
+            "answer": "bread",
+            "failed": 0,
+            "lastAsked": 1444087314.467712,
+            "question": "What is the definition of \"pane\"?",
+            "tried": 1
+        },
+        {
+            "answer": "honey",
+            "failed": 2,
+            "lastAsked": 1444087357.9631996,
+            "question": "What is the definition of \"miele\"?",
+            "tried": 3
+        },
+        {
+            "answer": "coffee",
+            "failed": 0,
+            "lastAsked": 1444087346.307533,
+            "question": "What is the definition of \"caffe'\"?",
+            "tried": 1
+        },
+        {
+            "answer": "botled mineral water",
+            "failed": 0,
+            "lastAsked": 1444087428.0372076,
+            "question": "What is the definition of \"acqua minerale\"?",
+            "tried": 1
+        },
+        {
+            "answer": "mushrooms",
+            "failed": 0,
+            "lastAsked": 1444087370.7769327,
+            "question": "What is the definition of \"funghi\"?",
+            "tried": 1
+        },
+        {
+            "answer": "mandarino",
+            "failed": 1,
+            "lastAsked": 1444087454.0506957,
+            "question": "Given the definition \"tangerine\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "fish soup",
+            "failed": 0,
+            "lastAsked": 1444087365.3866243,
+            "question": "What is the definition of \"zuppa di pesce\"?",
+            "tried": 1
+        },
+        {
+            "answer": "broth with poached egg on fried bread",
+            "failed": 2,
+            "lastAsked": 1444087476.7939963,
+            "question": "What is the definition of \"pavese\"?",
+            "tried": 3
+        },
+        {
+            "answer": "farcito",
+            "failed": 1,
+            "lastAsked": 1444087465.9253747,
+            "question": "Given the definition \"stuffed\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "coffee with steamed milk",
+            "failed": 1,
+            "lastAsked": 1444087459.4220028,
+            "question": "What is the definition of \"caffellatte\"?",
+            "tried": 2
+        },
+        {
+            "answer": "smoked",
+            "failed": 0,
+            "lastAsked": 1444087432.1204412,
+            "question": "What is the definition of \"affumicato\"?",
+            "tried": 1
+        },
+        {
+            "answer": "artichokes",
+            "failed": 1,
+            "lastAsked": 1444087549.203138,
+            "question": "What is the definition of \"carciofo\"?",
+            "tried": 2
+        },
+        {
+            "answer": "lamponi",
+            "failed": 3,
+            "lastAsked": 1444087582.9780698,
+            "question": "Given the definition \"rasberries\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "miele",
+            "failed": 0,
+            "lastAsked": 1444087506.8967183,
+            "question": "Given the definition \"honey\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "pepe",
+            "failed": 1,
+            "lastAsked": 1444087550.9352372,
+            "question": "Given the definition \"pepper\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "beer",
+            "failed": 0,
+            "lastAsked": 1444087525.023755,
+            "question": "What is the definition of \"birra\"?",
+            "tried": 1
+        },
+        {
+            "answer": "asparagus",
+            "failed": 0,
+            "lastAsked": 1444087515.9762375,
+            "question": "What is the definition of \"asparagi\"?",
+            "tried": 1
+        },
+        {
+            "answer": "melanzane",
+            "failed": 5,
+            "lastAsked": 1444087592.6926253,
+            "question": "Given the definition \"eggplant\", what is the word?",
+            "tried": 6
+        },
+        {
+            "answer": "mustard",
+            "failed": 0,
+            "lastAsked": 1444087518.64239,
+            "question": "What is the definition of \"senape/mostarda\"?",
+            "tried": 1
+        },
+        {
+            "answer": "carote",
+            "failed": 0,
+            "lastAsked": 1444087608.3195193,
+            "question": "Given the definition \"carrots\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "pineapple",
+            "failed": 0,
+            "lastAsked": 1444087603.1802254,
+            "question": "What is the definition of \"ananas\"?",
+            "tried": 1
+        },
+        {
+            "answer": "onions",
+            "failed": 2,
+            "lastAsked": 1444087682.1237407,
+            "question": "What is the definition of \"cipolle\"?",
+            "tried": 3
+        },
+        {
+            "answer": "fritto",
+            "failed": 2,
+            "lastAsked": 1444087679.8176086,
+            "question": "Given the definition \"fried\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "cooked",
+            "failed": 0,
+            "lastAsked": 1444087605.4223535,
+            "question": "What is the definition of \"cotto\"?",
+            "tried": 1
+        },
+        {
+            "answer": "limonata",
+            "failed": 1,
+            "lastAsked": 1444087665.4747882,
+            "question": "Given the definition \"lemonade\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "well-done",
+            "failed": 1,
+            "lastAsked": 1444087668.7709768,
+            "question": "What is the definition of \"ben cotto\"?",
+            "tried": 2
+        },
+        {
+            "answer": "date",
+            "failed": 0,
+            "lastAsked": 1444087630.8208063,
+            "question": "What is the definition of \"dattero\"?",
+            "tried": 1
+        },
+        {
+            "answer": "watermelon",
+            "failed": 1,
+            "lastAsked": 1444087708.4472463,
+            "question": "What is the definition of \"cocomero\"?",
+            "tried": 2
+        },
+        {
+            "answer": "tangerine",
+            "failed": 0,
+            "lastAsked": 1444087705.3390684,
+            "question": "What is the definition of \"mandarino\"?",
+            "tried": 1
+        },
+        {
+            "answer": "pavese",
+            "failed": 2,
+            "lastAsked": 1444087717.1547444,
+            "question": "Given the definition \"broth with poached egg on fried bread\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "carrots",
+            "failed": 0,
+            "lastAsked": 1444087693.6974027,
+            "question": "What is the definition of \"carote\"?",
+            "tried": 1
+        }
+    ]
+}

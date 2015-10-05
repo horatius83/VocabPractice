@@ -1,0 +1,989 @@
+{
+    "name": ".\\Italian\\food.json",
+    "vocab": [
+        {
+            "answer": "onions",
+            "failed": 0,
+            "question": "What is the definition of \"cipolle\"?",
+            "tried": 0
+        },
+        {
+            "answer": "cipolle",
+            "failed": 0,
+            "question": "Given the definition \"onions\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "gree peas",
+            "failed": 0,
+            "question": "What is the definition of \"piselli\"?",
+            "tried": 0
+        },
+        {
+            "answer": "piselli",
+            "failed": 0,
+            "question": "Given the definition \"gree peas\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "tomatoes",
+            "failed": 0,
+            "question": "What is the definition of \"pomodori\"?",
+            "tried": 0
+        },
+        {
+            "answer": "pomodori",
+            "failed": 0,
+            "question": "Given the definition \"tomatoes\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "string beans",
+            "failed": 0,
+            "question": "What is the definition of \"fagiolini\"?",
+            "tried": 0
+        },
+        {
+            "answer": "fagiolini",
+            "failed": 0,
+            "question": "Given the definition \"string beans\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "cauliflower",
+            "failed": 0,
+            "question": "What is the definition of \"cavolfiore\"?",
+            "tried": 0
+        },
+        {
+            "answer": "cavolfiore",
+            "failed": 0,
+            "question": "Given the definition \"cauliflower\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "artichokes",
+            "failed": 0,
+            "question": "What is the definition of \"carciofo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "carciofo",
+            "failed": 0,
+            "question": "Given the definition \"artichokes\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "carrots",
+            "failed": 0,
+            "question": "What is the definition of \"carote\"?",
+            "tried": 0
+        },
+        {
+            "answer": "carote",
+            "failed": 0,
+            "question": "Given the definition \"carrots\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "asparagus",
+            "failed": 0,
+            "question": "What is the definition of \"asparagi\"?",
+            "tried": 0
+        },
+        {
+            "answer": "asparagi",
+            "failed": 0,
+            "question": "Given the definition \"asparagus\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "spinach",
+            "failed": 0,
+            "question": "What is the definition of \"spinaci\"?",
+            "tried": 0
+        },
+        {
+            "answer": "spinaci",
+            "failed": 0,
+            "question": "Given the definition \"spinach\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "lentils",
+            "failed": 0,
+            "question": "What is the definition of \"lenticchie\"?",
+            "tried": 0
+        },
+        {
+            "answer": "lenticchie",
+            "failed": 0,
+            "question": "Given the definition \"lentils\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "mushrooms",
+            "failed": 0,
+            "question": "What is the definition of \"funghi\"?",
+            "tried": 0
+        },
+        {
+            "answer": "funghi",
+            "failed": 0,
+            "question": "Given the definition \"mushrooms\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "eggplant",
+            "failed": 0,
+            "question": "What is the definition of \"melanzane\"?",
+            "tried": 0
+        },
+        {
+            "answer": "melanzane",
+            "failed": 0,
+            "question": "Given the definition \"eggplant\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "potatoes",
+            "failed": 0,
+            "question": "What is the definition of \"patate\"?",
+            "tried": 0
+        },
+        {
+            "answer": "patate",
+            "failed": 0,
+            "question": "Given the definition \"potatoes\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "bell peppers",
+            "failed": 0,
+            "question": "What is the definition of \"peperoni\"?",
+            "tried": 0
+        },
+        {
+            "answer": "peperoni",
+            "failed": 0,
+            "question": "Given the definition \"bell peppers\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "parsley",
+            "failed": 0,
+            "question": "What is the definition of \"prezzemolo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "prezzemolo",
+            "failed": 0,
+            "question": "Given the definition \"parsley\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "radishes",
+            "failed": 0,
+            "question": "What is the definition of \"ravanelli\"?",
+            "tried": 0
+        },
+        {
+            "answer": "ravanelli",
+            "failed": 0,
+            "question": "Given the definition \"radishes\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "celery",
+            "failed": 0,
+            "question": "What is the definition of \"sedano\"?",
+            "tried": 0
+        },
+        {
+            "answer": "sedano",
+            "failed": 0,
+            "question": "Given the definition \"celery\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "yellow squash",
+            "failed": 0,
+            "question": "What is the definition of \"zucca\"?",
+            "tried": 0
+        },
+        {
+            "answer": "zucca",
+            "failed": 0,
+            "question": "Given the definition \"yellow squash\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "thin clear broth",
+            "failed": 0,
+            "question": "What is the definition of \"minestrina\"?",
+            "tried": 0
+        },
+        {
+            "answer": "minestrina",
+            "failed": 0,
+            "question": "Given the definition \"thin clear broth\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "fish soup",
+            "failed": 0,
+            "question": "What is the definition of \"zuppa di pesce\"?",
+            "tried": 0
+        },
+        {
+            "answer": "zuppa di pesce",
+            "failed": 0,
+            "question": "Given the definition \"fish soup\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "broth with beaten eggs and Permesan cheese",
+            "failed": 0,
+            "question": "What is the definition of \"stracciatella\"?",
+            "tried": 0
+        },
+        {
+            "answer": "stracciatella",
+            "failed": 0,
+            "question": "Given the definition \"broth with beaten eggs and Permesan cheese\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "broth with poached egg on fried bread",
+            "failed": 0,
+            "question": "What is the definition of \"pavese\"?",
+            "tried": 0
+        },
+        {
+            "answer": "pavese",
+            "failed": 0,
+            "question": "Given the definition \"broth with poached egg on fried bread\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "with saffron",
+            "failed": 0,
+            "question": "What is the definition of \"alla milanese\"?",
+            "tried": 0
+        },
+        {
+            "answer": "alla milanese",
+            "failed": 0,
+            "question": "Given the definition \"with saffron\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "with mushrooms",
+            "failed": 0,
+            "question": "What is the definition of \"con funghi\"?",
+            "tried": 0
+        },
+        {
+            "answer": "con funghi",
+            "failed": 0,
+            "question": "Given the definition \"with mushrooms\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "tomato sauce, clams, prawns",
+            "failed": 0,
+            "question": "What is the definition of \"alla marinara\"?",
+            "tried": 0
+        },
+        {
+            "answer": "alla marinara",
+            "failed": 0,
+            "question": "Given the definition \"tomato sauce, clams, prawns\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "apple",
+            "failed": 0,
+            "question": "What is the definition of \"mela\"?",
+            "tried": 0
+        },
+        {
+            "answer": "mela",
+            "failed": 0,
+            "question": "Given the definition \"apple\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "pear",
+            "failed": 0,
+            "question": "What is the definition of \"pera\"?",
+            "tried": 0
+        },
+        {
+            "answer": "pera",
+            "failed": 0,
+            "question": "Given the definition \"pear\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "peach",
+            "failed": 0,
+            "question": "What is the definition of \"pesca\"?",
+            "tried": 0
+        },
+        {
+            "answer": "pesca",
+            "failed": 0,
+            "question": "Given the definition \"peach\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "orange",
+            "failed": 0,
+            "question": "What is the definition of \"arancia\"?",
+            "tried": 0
+        },
+        {
+            "answer": "arancia",
+            "failed": 0,
+            "question": "Given the definition \"orange\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "tangerine",
+            "failed": 0,
+            "question": "What is the definition of \"mandarino\"?",
+            "tried": 0
+        },
+        {
+            "answer": "mandarino",
+            "failed": 0,
+            "question": "Given the definition \"tangerine\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "cherries",
+            "failed": 0,
+            "question": "What is the definition of \"ciligie\"?",
+            "tried": 0
+        },
+        {
+            "answer": "ciligie",
+            "failed": 0,
+            "question": "Given the definition \"cherries\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "watermelon",
+            "failed": 0,
+            "question": "What is the definition of \"cocomero\"?",
+            "tried": 0
+        },
+        {
+            "answer": "cocomero",
+            "failed": 0,
+            "question": "Given the definition \"watermelon\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "plum",
+            "failed": 0,
+            "question": "What is the definition of \"prugna\"?",
+            "tried": 0
+        },
+        {
+            "answer": "prugna",
+            "failed": 0,
+            "question": "Given the definition \"plum\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "grapes",
+            "failed": 0,
+            "question": "What is the definition of \"uva\"?",
+            "tried": 0
+        },
+        {
+            "answer": "uva",
+            "failed": 0,
+            "question": "Given the definition \"grapes\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "raisins",
+            "failed": 0,
+            "question": "What is the definition of \"uva passa\"?",
+            "tried": 0
+        },
+        {
+            "answer": "uva passa",
+            "failed": 0,
+            "question": "Given the definition \"raisins\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "date",
+            "failed": 0,
+            "question": "What is the definition of \"dattero\"?",
+            "tried": 0
+        },
+        {
+            "answer": "dattero",
+            "failed": 0,
+            "question": "Given the definition \"date\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "lemon",
+            "failed": 0,
+            "question": "What is the definition of \"limone\"?",
+            "tried": 0
+        },
+        {
+            "answer": "limone",
+            "failed": 0,
+            "question": "Given the definition \"lemon\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "pineapple",
+            "failed": 0,
+            "question": "What is the definition of \"ananas\"?",
+            "tried": 0
+        },
+        {
+            "answer": "ananas",
+            "failed": 0,
+            "question": "Given the definition \"pineapple\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "grapefruit",
+            "failed": 0,
+            "question": "What is the definition of \"pompelmo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "pompelmo",
+            "failed": 0,
+            "question": "Given the definition \"grapefruit\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "figs",
+            "failed": 0,
+            "question": "What is the definition of \"fichi\"?",
+            "tried": 0
+        },
+        {
+            "answer": "fichi",
+            "failed": 0,
+            "question": "Given the definition \"figs\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "strawberries",
+            "failed": 0,
+            "question": "What is the definition of \"fragole\"?",
+            "tried": 0
+        },
+        {
+            "answer": "fragole",
+            "failed": 0,
+            "question": "Given the definition \"strawberries\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "rasberries",
+            "failed": 0,
+            "question": "What is the definition of \"lamponi\"?",
+            "tried": 0
+        },
+        {
+            "answer": "lamponi",
+            "failed": 0,
+            "question": "Given the definition \"rasberries\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "blueberries",
+            "failed": 0,
+            "question": "What is the definition of \"mirtilli\"?",
+            "tried": 0
+        },
+        {
+            "answer": "mirtilli",
+            "failed": 0,
+            "question": "Given the definition \"blueberries\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "beer",
+            "failed": 0,
+            "question": "What is the definition of \"birra\"?",
+            "tried": 0
+        },
+        {
+            "answer": "birra",
+            "failed": 0,
+            "question": "Given the definition \"beer\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "milk",
+            "failed": 0,
+            "question": "What is the definition of \"latte\"?",
+            "tried": 0
+        },
+        {
+            "answer": "latte",
+            "failed": 0,
+            "question": "Given the definition \"milk\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "coffee",
+            "failed": 0,
+            "question": "What is the definition of \"caffe'\"?",
+            "tried": 0
+        },
+        {
+            "answer": "caffe'",
+            "failed": 0,
+            "question": "Given the definition \"coffee\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "coffee with steamed milk",
+            "failed": 0,
+            "question": "What is the definition of \"caffellatte\"?",
+            "tried": 0
+        },
+        {
+            "answer": "caffellatte",
+            "failed": 0,
+            "question": "Given the definition \"coffee with steamed milk\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "juice of...",
+            "failed": 0,
+            "question": "What is the definition of \"succo di...\"?",
+            "tried": 0
+        },
+        {
+            "answer": "succo di...",
+            "failed": 0,
+            "question": "Given the definition \"juice of...\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "lemonade",
+            "failed": 0,
+            "question": "What is the definition of \"limonata\"?",
+            "tried": 0
+        },
+        {
+            "answer": "limonata",
+            "failed": 0,
+            "question": "Given the definition \"lemonade\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "botled mineral water",
+            "failed": 0,
+            "question": "What is the definition of \"acqua minerale\"?",
+            "tried": 0
+        },
+        {
+            "answer": "acqua minerale",
+            "failed": 0,
+            "question": "Given the definition \"botled mineral water\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "red wine",
+            "failed": 0,
+            "question": "What is the definition of \"vino rosso\"?",
+            "tried": 0
+        },
+        {
+            "answer": "vino rosso",
+            "failed": 0,
+            "question": "Given the definition \"red wine\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "white wine",
+            "failed": 0,
+            "question": "What is the definition of \"vino bianco\"?",
+            "tried": 0
+        },
+        {
+            "answer": "vino bianco",
+            "failed": 0,
+            "question": "Given the definition \"white wine\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "rose' wine",
+            "failed": 0,
+            "question": "What is the definition of \"vino rose'\"?",
+            "tried": 0
+        },
+        {
+            "answer": "vino rose'",
+            "failed": 0,
+            "question": "Given the definition \"rose' wine\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "cooked",
+            "failed": 0,
+            "question": "What is the definition of \"cotto\"?",
+            "tried": 0
+        },
+        {
+            "answer": "cotto",
+            "failed": 0,
+            "question": "Given the definition \"cooked\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "raw",
+            "failed": 0,
+            "question": "What is the definition of \"crudo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "crudo",
+            "failed": 0,
+            "question": "Given the definition \"raw\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "roasted",
+            "failed": 0,
+            "question": "What is the definition of \"arrosto\"?",
+            "tried": 0
+        },
+        {
+            "answer": "arrosto",
+            "failed": 0,
+            "question": "Given the definition \"roasted\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "fried",
+            "failed": 0,
+            "question": "What is the definition of \"fritto\"?",
+            "tried": 0
+        },
+        {
+            "answer": "fritto",
+            "failed": 0,
+            "question": "Given the definition \"fried\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "baked",
+            "failed": 0,
+            "question": "What is the definition of \"al forno\"?",
+            "tried": 0
+        },
+        {
+            "answer": "al forno",
+            "failed": 0,
+            "question": "Given the definition \"baked\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "grilled",
+            "failed": 0,
+            "question": "What is the definition of \"alla griglia, ai ferri\"?",
+            "tried": 0
+        },
+        {
+            "answer": "alla griglia, ai ferri",
+            "failed": 0,
+            "question": "Given the definition \"grilled\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "roasted on a spit",
+            "failed": 0,
+            "question": "What is the definition of \"allo spiedo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "allo spiedo",
+            "failed": 0,
+            "question": "Given the definition \"roasted on a spit\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "boiled",
+            "failed": 0,
+            "question": "What is the definition of \"bollito\"?",
+            "tried": 0
+        },
+        {
+            "answer": "bollito",
+            "failed": 0,
+            "question": "Given the definition \"boiled\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "smoked",
+            "failed": 0,
+            "question": "What is the definition of \"affumicato\"?",
+            "tried": 0
+        },
+        {
+            "answer": "affumicato",
+            "failed": 0,
+            "question": "Given the definition \"smoked\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "charcoal-broiled",
+            "failed": 0,
+            "question": "What is the definition of \"alla brace\"?",
+            "tried": 0
+        },
+        {
+            "answer": "alla brace",
+            "failed": 0,
+            "question": "Given the definition \"charcoal-broiled\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "stuffed",
+            "failed": 0,
+            "question": "What is the definition of \"farcito\"?",
+            "tried": 0
+        },
+        {
+            "answer": "farcito",
+            "failed": 0,
+            "question": "Given the definition \"stuffed\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "rare",
+            "failed": 0,
+            "question": "What is the definition of \"al sangue\"?",
+            "tried": 0
+        },
+        {
+            "answer": "al sangue",
+            "failed": 0,
+            "question": "Given the definition \"rare\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "medium",
+            "failed": 0,
+            "question": "What is the definition of \"al punto\"?",
+            "tried": 0
+        },
+        {
+            "answer": "al punto",
+            "failed": 0,
+            "question": "Given the definition \"medium\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "well-done",
+            "failed": 0,
+            "question": "What is the definition of \"ben cotto\"?",
+            "tried": 0
+        },
+        {
+            "answer": "ben cotto",
+            "failed": 0,
+            "question": "Given the definition \"well-done\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "jam",
+            "failed": 0,
+            "question": "What is the definition of \"marmellata\"?",
+            "tried": 0
+        },
+        {
+            "answer": "marmellata",
+            "failed": 0,
+            "question": "Given the definition \"jam\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "honey",
+            "failed": 0,
+            "question": "What is the definition of \"miele\"?",
+            "tried": 0
+        },
+        {
+            "answer": "miele",
+            "failed": 0,
+            "question": "Given the definition \"honey\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "salt",
+            "failed": 0,
+            "question": "What is the definition of \"sale\"?",
+            "tried": 0
+        },
+        {
+            "answer": "sale",
+            "failed": 0,
+            "question": "Given the definition \"salt\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "pepper",
+            "failed": 0,
+            "question": "What is the definition of \"pepe\"?",
+            "tried": 0
+        },
+        {
+            "answer": "pepe",
+            "failed": 0,
+            "question": "Given the definition \"pepper\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "oil",
+            "failed": 0,
+            "question": "What is the definition of \"olio\"?",
+            "tried": 0
+        },
+        {
+            "answer": "olio",
+            "failed": 0,
+            "question": "Given the definition \"oil\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "vinegar",
+            "failed": 0,
+            "question": "What is the definition of \"aceto\"?",
+            "tried": 0
+        },
+        {
+            "answer": "aceto",
+            "failed": 0,
+            "question": "Given the definition \"vinegar\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "mustard",
+            "failed": 0,
+            "question": "What is the definition of \"senape/mostarda\"?",
+            "tried": 0
+        },
+        {
+            "answer": "senape/mostarda",
+            "failed": 0,
+            "question": "Given the definition \"mustard\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "rice",
+            "failed": 0,
+            "question": "What is the definition of \"riso\"?",
+            "tried": 0
+        },
+        {
+            "answer": "riso",
+            "failed": 0,
+            "question": "Given the definition \"rice\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "bread",
+            "failed": 0,
+            "question": "What is the definition of \"pane\"?",
+            "tried": 0
+        },
+        {
+            "answer": "pane",
+            "failed": 0,
+            "question": "Given the definition \"bread\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "cheese",
+            "failed": 0,
+            "question": "What is the definition of \"formaggio\"?",
+            "tried": 0
+        },
+        {
+            "answer": "formaggio",
+            "failed": 0,
+            "question": "Given the definition \"cheese\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "desserts",
+            "failed": 0,
+            "question": "What is the definition of \"dolci\"?",
+            "tried": 0
+        },
+        {
+            "answer": "dolci",
+            "failed": 0,
+            "question": "Given the definition \"desserts\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "cake",
+            "failed": 0,
+            "question": "What is the definition of \"torta\"?",
+            "tried": 0
+        },
+        {
+            "answer": "torta",
+            "failed": 0,
+            "question": "Given the definition \"cake\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "pastry",
+            "failed": 0,
+            "question": "What is the definition of \"dolce\"?",
+            "tried": 0
+        },
+        {
+            "answer": "dolce",
+            "failed": 0,
+            "question": "Given the definition \"pastry\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "ice cream",
+            "failed": 0,
+            "question": "What is the definition of \"gelato\"?",
+            "tried": 0
+        },
+        {
+            "answer": "gelato",
+            "failed": 0,
+            "question": "Given the definition \"ice cream\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "whipped cream",
+            "failed": 0,
+            "question": "What is the definition of \"panna montata\"?",
+            "tried": 0
+        },
+        {
+            "answer": "panna montata",
+            "failed": 0,
+            "question": "Given the definition \"whipped cream\", what is the word?",
+            "tried": 0
+        }
+    ]
+}

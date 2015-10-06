@@ -1,0 +1,80 @@
+0.1
+v	lui e'	he is
+v	lei e'	she is
+v	io ho una famiglia piccola.	I have a small family.
+v	uno studente	a (male) student
+v	uno zio	an uncle
+q	(a or the) Ecco ___ signora Belli.	la
+q	(a or the) Lei e' ___ studentessa.	una
+q	(a or the) Io ho ___ fratello.	un
+q	(a or the) Lui e' ___ studente.	uno
+q	(a or the) Ecco ___ signor Belli.	il
+q	(a or the) Io ho ___ nonno.	un
+q	(a or the) Lei ha ___ sorella.	una
+q	(a or the) Lei e' ___ madre.	la
+q	(C'e' | Ci sono) ___ una ragazza.	c'e'
+q	(C'e' | Ci sono) ___ la famiglia.	C'e'
+q	(C'e' | Ci sono) ___ il fratello e la sorella.	Ci sono
+q	(C'e' | Ci sono) ___ il padre.	C'e'
+q	(C'e' | Ci sono) ___ la madre e il padre.	Ci sono
+v	zio	uncle
+v	zia	aunt
+v	cugina	female cousin
+v	cugino	male cousin
+v	nonna	grandmother
+v	nonno	grandfather
+v	un nipote	a nephew
+v	una nipote	a niece
+v	There is one student.	C'e' uno studente.
+v	There are two students.	Ci sono due studenti.
+v	There are three sisters and four brothers.	Ci sono tre sorelle e quattro fratelli.
+v	There are five boys and six girls.	Ci sono cinque ragazzi e sei ragazze.
+v	Here are seven families.	Ecco sette famiglie.
+v	Here are eight children. (boys)	Ecco otto bambini.
+v	Here are nine children. (girls)	Ecco nove bambine.
+v	Here are ten men and eleven women.	Ecco dieci uomini e undici donne.
+v	Here are twelve people.	Ecco dodici persone.
+q	A boy child.	un bambino
+q	A student.	uno studente
+q	Eight boy children.	otto bambini
+q	Two students.	due studenti
+q	one day / a day	un giorno
+q	two days	due giorni
+q	two boys	due ragazzi
+q	three brothers	tre fratelli
+q	five policeman	cinque poliziotti
+q	four women	quattro donne
+q	one evening	una sera
+q	two evenings	due sere
+q	three girls	tre regazze
+q	two sisters	due sorelle
+q	two fathers	due padri
+q	two mothers	due madri
+q	three gentlemen	tre ginori
+q	four stations	quattro stazioni
+v	to have	avere
+v	I have	io ho
+v	you have (informal)	tu hai
+v	you have (formal)	Lei ha
+v	he has	lui ha
+v	she has	lei ha
+v	we have	noi abbiamo
+v	y'all have	voi avete
+v	they have	loro hanno
+v	I am hungry.	IO ho fame.
+v	You (informal) are thirsty.	Tu hai sete.
+v	He is sleepy.	Lui ha sonno.
+v	We are cold.	Noi abbiamo freddo.
+v	They are in a hurry.	Loro hanno fretta.
+v	not	non
+v	to be afraid	avere paura
+v	I am afraid.	Io ho paura.
+v	I am not afraid.	Io non ho paura.
+v	I am thirsty.	Io ho sete.
+v	She is hungry.	Lei ha fame.
+v	He is cold.	Lui ha freddo.
+v	Y'all are in a hurry.	Voi avete fretta.
+v	You (formal) are hungry.	Lei ha fame.
+v	They are sleepy.	Loro hanno sonno.
+v	You (informal) are afraid.	Tu hai paura.
+v	We are not afraid.	Noi non abbiamo paura.

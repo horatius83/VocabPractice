@@ -81,16 +81,43 @@ def loadVocabularyFile(filename):
         cleanTokens = ([x.strip().replace('\ufeff','').replace(',',', ').replace('  ',' ') for x in y] for y in tokens)
         yield from cleanTokens
 
+def parseVocab(lst):
+    ll = len(lst)
+    if ll == 3:
+        yield from generateVocabQuestion(None, lst[1], lst[2])
+    else:
+        print('{0} is an invalid number of arguments for a vocab question.'.format(len(lst)))
+        print(lst)
+
+def parseKanji(lst):
+    ll = len(lst)
+    if ll == 4:
+        yield from generateVocabQuestion(lst[1],lst[2],lst[3])
+    else:
+        print('{0} is an invalid number of arguments for a kanji question'.format(ll))
+        print(lst)
+
+def parseQuestion(lst):
+    ll = len(lst)
+    if ll == 3:
+        yield createEntry(lst[1],lst[2])
+    else:
+        print('{0} is an invalid number of arguemnts for a question'.format(ll))
+        print(lst)
+
+parserDict = {
+    'v': parseVocab,
+    'k': parseKanji,
+    'q': parseQuestion
+    }
+
 def convertVocabularyFile(filename):
     """Load a vocabulary file, and output vocab questions"""
     vocabFile = loadVocabularyFile(filename)
+    firstLine = next(vocabFile)
+    (version, title) = firstLine
     for line in vocabFile:
-        if len(line) == 3:
-            yield from generateVocabQuestion(line[0],line[1],line[2])
-        elif len(line) == 2:
-            yield from generateVocabQuestion(None,line[0],line[1])
-        else:
-            print('Invalid number of arguments: "{0}"'.format(', '.join(line)))
+        yield from parserDict[line[0]](line)
 
 def createVocabJsonObj(filename,testName):
     """Given a vocab file, generate a json test"""

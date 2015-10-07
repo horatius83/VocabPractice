@@ -1,0 +1,1199 @@
+{
+    "name": ".\\Italian\\Italian4.json",
+    "vocab": [
+        {
+            "answer": "he is",
+            "failed": 0,
+            "question": "What is the definition of \"lui e'\"?",
+            "tried": 0
+        },
+        {
+            "answer": "lui e'",
+            "failed": 0,
+            "question": "Given the definition \"he is\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "she is",
+            "failed": 0,
+            "question": "What is the definition of \"lei e'\"?",
+            "tried": 0
+        },
+        {
+            "answer": "lei e'",
+            "failed": 0,
+            "question": "Given the definition \"she is\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "I have a small family.",
+            "failed": 0,
+            "question": "What is the definition of \"io ho una famiglia piccola.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "io ho una famiglia piccola.",
+            "failed": 0,
+            "question": "Given the definition \"I have a small family.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "a (male) student",
+            "failed": 0,
+            "question": "What is the definition of \"uno studente\"?",
+            "tried": 0
+        },
+        {
+            "answer": "uno studente",
+            "failed": 0,
+            "question": "Given the definition \"a (male) student\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "an uncle",
+            "failed": 0,
+            "question": "What is the definition of \"uno zio\"?",
+            "tried": 0
+        },
+        {
+            "answer": "uno zio",
+            "failed": 0,
+            "question": "Given the definition \"an uncle\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "la",
+            "failed": 0,
+            "question": "(a or the) Ecco ___ signora Belli.",
+            "tried": 0
+        },
+        {
+            "answer": "una",
+            "failed": 0,
+            "question": "(a or the) Lei e' ___ studentessa.",
+            "tried": 0
+        },
+        {
+            "answer": "un",
+            "failed": 0,
+            "question": "(a or the) Io ho ___ fratello.",
+            "tried": 0
+        },
+        {
+            "answer": "uno",
+            "failed": 0,
+            "question": "(a or the) Lui e' ___ studente.",
+            "tried": 0
+        },
+        {
+            "answer": "il",
+            "failed": 0,
+            "question": "(a or the) Ecco ___ signor Belli.",
+            "tried": 0
+        },
+        {
+            "answer": "un",
+            "failed": 0,
+            "question": "(a or the) Io ho ___ nonno.",
+            "tried": 0
+        },
+        {
+            "answer": "una",
+            "failed": 0,
+            "question": "(a or the) Lei ha ___ sorella.",
+            "tried": 0
+        },
+        {
+            "answer": "la",
+            "failed": 0,
+            "question": "(a or the) Lei e' ___ madre.",
+            "tried": 0
+        },
+        {
+            "answer": "c'e'",
+            "failed": 0,
+            "question": "(C'e' | Ci sono) ___ una ragazza.",
+            "tried": 0
+        },
+        {
+            "answer": "C'e'",
+            "failed": 0,
+            "question": "(C'e' | Ci sono) ___ la famiglia.",
+            "tried": 0
+        },
+        {
+            "answer": "Ci sono",
+            "failed": 0,
+            "question": "(C'e' | Ci sono) ___ il fratello e la sorella.",
+            "tried": 0
+        },
+        {
+            "answer": "C'e'",
+            "failed": 0,
+            "question": "(C'e' | Ci sono) ___ il padre.",
+            "tried": 0
+        },
+        {
+            "answer": "Ci sono",
+            "failed": 0,
+            "question": "(C'e' | Ci sono) ___ la madre e il padre.",
+            "tried": 0
+        },
+        {
+            "answer": "uncle",
+            "failed": 0,
+            "question": "What is the definition of \"zio\"?",
+            "tried": 0
+        },
+        {
+            "answer": "zio",
+            "failed": 0,
+            "question": "Given the definition \"uncle\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "aunt",
+            "failed": 0,
+            "question": "What is the definition of \"zia\"?",
+            "tried": 0
+        },
+        {
+            "answer": "zia",
+            "failed": 0,
+            "question": "Given the definition \"aunt\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "female cousin",
+            "failed": 0,
+            "question": "What is the definition of \"cugina\"?",
+            "tried": 0
+        },
+        {
+            "answer": "cugina",
+            "failed": 0,
+            "question": "Given the definition \"female cousin\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "male cousin",
+            "failed": 0,
+            "question": "What is the definition of \"cugino\"?",
+            "tried": 0
+        },
+        {
+            "answer": "cugino",
+            "failed": 0,
+            "question": "Given the definition \"male cousin\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "grandmother",
+            "failed": 0,
+            "question": "What is the definition of \"nonna\"?",
+            "tried": 0
+        },
+        {
+            "answer": "nonna",
+            "failed": 0,
+            "question": "Given the definition \"grandmother\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "grandfather",
+            "failed": 0,
+            "question": "What is the definition of \"nonno\"?",
+            "tried": 0
+        },
+        {
+            "answer": "nonno",
+            "failed": 0,
+            "question": "Given the definition \"grandfather\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "a nephew",
+            "failed": 0,
+            "question": "What is the definition of \"un nipote\"?",
+            "tried": 0
+        },
+        {
+            "answer": "un nipote",
+            "failed": 0,
+            "question": "Given the definition \"a nephew\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "a niece",
+            "failed": 0,
+            "question": "What is the definition of \"una nipote\"?",
+            "tried": 0
+        },
+        {
+            "answer": "una nipote",
+            "failed": 0,
+            "question": "Given the definition \"a niece\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "C'e' uno studente.",
+            "failed": 0,
+            "question": "What is the definition of \"There is one student.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "There is one student.",
+            "failed": 0,
+            "question": "Given the definition \"C'e' uno studente.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ci sono due studenti.",
+            "failed": 0,
+            "question": "What is the definition of \"There are two students.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "There are two students.",
+            "failed": 0,
+            "question": "Given the definition \"Ci sono due studenti.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ci sono tre sorelle e quattro fratelli.",
+            "failed": 0,
+            "question": "What is the definition of \"There are three sisters and four brothers.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "There are three sisters and four brothers.",
+            "failed": 0,
+            "question": "Given the definition \"Ci sono tre sorelle e quattro fratelli.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ci sono cinque ragazzi e sei ragazze.",
+            "failed": 0,
+            "question": "What is the definition of \"There are five boys and six girls.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "There are five boys and six girls.",
+            "failed": 0,
+            "question": "Given the definition \"Ci sono cinque ragazzi e sei ragazze.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ecco sette famiglie.",
+            "failed": 0,
+            "question": "What is the definition of \"Here are seven families.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Here are seven families.",
+            "failed": 0,
+            "question": "Given the definition \"Ecco sette famiglie.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ecco otto bambini.",
+            "failed": 0,
+            "question": "What is the definition of \"Here are eight children. (boys)\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Here are eight children. (boys)",
+            "failed": 0,
+            "question": "Given the definition \"Ecco otto bambini.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ecco nove bambine.",
+            "failed": 0,
+            "question": "What is the definition of \"Here are nine children. (girls)\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Here are nine children. (girls)",
+            "failed": 0,
+            "question": "Given the definition \"Ecco nove bambine.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ecco dieci uomini e undici donne.",
+            "failed": 0,
+            "question": "What is the definition of \"Here are ten men and eleven women.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Here are ten men and eleven women.",
+            "failed": 0,
+            "question": "Given the definition \"Ecco dieci uomini e undici donne.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ecco dodici persone.",
+            "failed": 0,
+            "question": "What is the definition of \"Here are twelve people.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Here are twelve people.",
+            "failed": 0,
+            "question": "Given the definition \"Ecco dodici persone.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "un bambino",
+            "failed": 0,
+            "question": "A boy child.",
+            "tried": 0
+        },
+        {
+            "answer": "uno studente",
+            "failed": 0,
+            "question": "A student.",
+            "tried": 0
+        },
+        {
+            "answer": "otto bambini",
+            "failed": 0,
+            "question": "Eight boy children.",
+            "tried": 0
+        },
+        {
+            "answer": "due studenti",
+            "failed": 0,
+            "question": "Two students.",
+            "tried": 0
+        },
+        {
+            "answer": "un giorno",
+            "failed": 0,
+            "question": "one day / a day",
+            "tried": 0
+        },
+        {
+            "answer": "due giorni",
+            "failed": 0,
+            "question": "two days",
+            "tried": 0
+        },
+        {
+            "answer": "due ragazzi",
+            "failed": 0,
+            "question": "two boys",
+            "tried": 0
+        },
+        {
+            "answer": "tre fratelli",
+            "failed": 0,
+            "question": "three brothers",
+            "tried": 0
+        },
+        {
+            "answer": "cinque poliziotti",
+            "failed": 0,
+            "question": "five policeman",
+            "tried": 0
+        },
+        {
+            "answer": "quattro donne",
+            "failed": 0,
+            "question": "four women",
+            "tried": 0
+        },
+        {
+            "answer": "una sera",
+            "failed": 0,
+            "question": "one evening",
+            "tried": 0
+        },
+        {
+            "answer": "due sere",
+            "failed": 0,
+            "question": "two evenings",
+            "tried": 0
+        },
+        {
+            "answer": "tre regazze",
+            "failed": 0,
+            "question": "three girls",
+            "tried": 0
+        },
+        {
+            "answer": "due sorelle",
+            "failed": 0,
+            "question": "two sisters",
+            "tried": 0
+        },
+        {
+            "answer": "due padri",
+            "failed": 0,
+            "question": "two fathers",
+            "tried": 0
+        },
+        {
+            "answer": "due madri",
+            "failed": 0,
+            "question": "two mothers",
+            "tried": 0
+        },
+        {
+            "answer": "tre ginori",
+            "failed": 0,
+            "question": "three gentlemen",
+            "tried": 0
+        },
+        {
+            "answer": "quattro stazioni",
+            "failed": 0,
+            "question": "four stations",
+            "tried": 0
+        },
+        {
+            "answer": "avere",
+            "failed": 0,
+            "question": "What is the definition of \"to have\"?",
+            "tried": 0
+        },
+        {
+            "answer": "to have",
+            "failed": 0,
+            "question": "Given the definition \"avere\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "io ho",
+            "failed": 0,
+            "question": "What is the definition of \"I have\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I have",
+            "failed": 0,
+            "question": "Given the definition \"io ho\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "tu hai",
+            "failed": 0,
+            "question": "What is the definition of \"you have (informal)\"?",
+            "tried": 0
+        },
+        {
+            "answer": "you have (informal)",
+            "failed": 0,
+            "question": "Given the definition \"tu hai\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Lei ha",
+            "failed": 0,
+            "question": "What is the definition of \"you have (formal)\"?",
+            "tried": 0
+        },
+        {
+            "answer": "you have (formal)",
+            "failed": 0,
+            "question": "Given the definition \"Lei ha\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "lui ha",
+            "failed": 0,
+            "question": "What is the definition of \"he has\"?",
+            "tried": 0
+        },
+        {
+            "answer": "he has",
+            "failed": 0,
+            "question": "Given the definition \"lui ha\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "lei ha",
+            "failed": 0,
+            "question": "What is the definition of \"she has\"?",
+            "tried": 0
+        },
+        {
+            "answer": "she has",
+            "failed": 0,
+            "question": "Given the definition \"lei ha\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "noi abbiamo",
+            "failed": 0,
+            "question": "What is the definition of \"we have\"?",
+            "tried": 0
+        },
+        {
+            "answer": "we have",
+            "failed": 0,
+            "question": "Given the definition \"noi abbiamo\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "voi avete",
+            "failed": 0,
+            "question": "What is the definition of \"y'all have\"?",
+            "tried": 0
+        },
+        {
+            "answer": "y'all have",
+            "failed": 0,
+            "question": "Given the definition \"voi avete\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "loro hanno",
+            "failed": 0,
+            "question": "What is the definition of \"they have\"?",
+            "tried": 0
+        },
+        {
+            "answer": "they have",
+            "failed": 0,
+            "question": "Given the definition \"loro hanno\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "IO ho fame.",
+            "failed": 0,
+            "question": "What is the definition of \"I am hungry.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I am hungry.",
+            "failed": 0,
+            "question": "Given the definition \"IO ho fame.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Tu hai sete.",
+            "failed": 0,
+            "question": "What is the definition of \"You (informal) are thirsty.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "You (informal) are thirsty.",
+            "failed": 0,
+            "question": "Given the definition \"Tu hai sete.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Lui ha sonno.",
+            "failed": 0,
+            "question": "What is the definition of \"He is sleepy.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "He is sleepy.",
+            "failed": 0,
+            "question": "Given the definition \"Lui ha sonno.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Noi abbiamo freddo.",
+            "failed": 0,
+            "question": "What is the definition of \"We are cold.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "We are cold.",
+            "failed": 0,
+            "question": "Given the definition \"Noi abbiamo freddo.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Loro hanno fretta.",
+            "failed": 0,
+            "question": "What is the definition of \"They are in a hurry.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "They are in a hurry.",
+            "failed": 0,
+            "question": "Given the definition \"Loro hanno fretta.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "non",
+            "failed": 0,
+            "question": "What is the definition of \"not\"?",
+            "tried": 0
+        },
+        {
+            "answer": "not",
+            "failed": 0,
+            "question": "Given the definition \"non\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "avere paura",
+            "failed": 0,
+            "question": "What is the definition of \"to be afraid\"?",
+            "tried": 0
+        },
+        {
+            "answer": "to be afraid",
+            "failed": 0,
+            "question": "Given the definition \"avere paura\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Io ho paura.",
+            "failed": 0,
+            "question": "What is the definition of \"I am afraid.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I am afraid.",
+            "failed": 0,
+            "question": "Given the definition \"Io ho paura.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Io non ho paura.",
+            "failed": 0,
+            "question": "What is the definition of \"I am not afraid.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I am not afraid.",
+            "failed": 0,
+            "question": "Given the definition \"Io non ho paura.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Io ho sete.",
+            "failed": 0,
+            "question": "What is the definition of \"I am thirsty.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I am thirsty.",
+            "failed": 0,
+            "question": "Given the definition \"Io ho sete.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Lei ha fame.",
+            "failed": 0,
+            "question": "What is the definition of \"She is hungry.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "She is hungry.",
+            "failed": 0,
+            "question": "Given the definition \"Lei ha fame.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Lui ha freddo.",
+            "failed": 0,
+            "question": "What is the definition of \"He is cold.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "He is cold.",
+            "failed": 0,
+            "question": "Given the definition \"Lui ha freddo.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Voi avete fretta.",
+            "failed": 0,
+            "question": "What is the definition of \"Y'all are in a hurry.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Y'all are in a hurry.",
+            "failed": 0,
+            "question": "Given the definition \"Voi avete fretta.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Lei ha fame.",
+            "failed": 0,
+            "question": "What is the definition of \"You (formal) are hungry.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "You (formal) are hungry.",
+            "failed": 0,
+            "question": "Given the definition \"Lei ha fame.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Loro hanno sonno.",
+            "failed": 0,
+            "question": "What is the definition of \"They are sleepy.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "They are sleepy.",
+            "failed": 0,
+            "question": "Given the definition \"Loro hanno sonno.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Tu hai paura.",
+            "failed": 0,
+            "question": "What is the definition of \"You (informal) are afraid.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "You (informal) are afraid.",
+            "failed": 0,
+            "question": "Given the definition \"Tu hai paura.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Noi non abbiamo paura.",
+            "failed": 0,
+            "question": "What is the definition of \"We are not afraid.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "We are not afraid.",
+            "failed": 0,
+            "question": "Given the definition \"Noi non abbiamo paura.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "hunger",
+            "failed": 0,
+            "question": "What is the definition of \"fame\"?",
+            "tried": 0
+        },
+        {
+            "answer": "fame",
+            "failed": 0,
+            "question": "Given the definition \"hunger\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "thirst",
+            "failed": 0,
+            "question": "What is the definition of \"sete\"?",
+            "tried": 0
+        },
+        {
+            "answer": "sete",
+            "failed": 0,
+            "question": "Given the definition \"thirst\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "sleep",
+            "failed": 0,
+            "question": "What is the definition of \"sonno\"?",
+            "tried": 0
+        },
+        {
+            "answer": "sonno",
+            "failed": 0,
+            "question": "Given the definition \"sleep\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "heat",
+            "failed": 0,
+            "question": "What is the definition of \"caldo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "caldo",
+            "failed": 0,
+            "question": "Given the definition \"heat\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "cold",
+            "failed": 0,
+            "question": "What is the definition of \"freddo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "freddo",
+            "failed": 0,
+            "question": "Given the definition \"cold\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "fear",
+            "failed": 0,
+            "question": "What is the definition of \"paura\"?",
+            "tried": 0
+        },
+        {
+            "answer": "paura",
+            "failed": 0,
+            "question": "Given the definition \"fear\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "reason",
+            "failed": 0,
+            "question": "What is the definition of \"ragione\"?",
+            "tried": 0
+        },
+        {
+            "answer": "ragione",
+            "failed": 0,
+            "question": "Given the definition \"reason\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "hurry",
+            "failed": 0,
+            "question": "What is the definition of \"fretta\"?",
+            "tried": 0
+        },
+        {
+            "answer": "fretta",
+            "failed": 0,
+            "question": "Given the definition \"hurry\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to be hungry",
+            "failed": 0,
+            "question": "What is the definition of \"avere fame\"?",
+            "tried": 0
+        },
+        {
+            "answer": "avere fame",
+            "failed": 0,
+            "question": "Given the definition \"to be hungry\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to be thirsty",
+            "failed": 0,
+            "question": "What is the definition of \"avere sete\"?",
+            "tried": 0
+        },
+        {
+            "answer": "avere sete",
+            "failed": 0,
+            "question": "Given the definition \"to be thirsty\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to be sleepy",
+            "failed": 0,
+            "question": "What is the definition of \"avere sonno\"?",
+            "tried": 0
+        },
+        {
+            "answer": "avere sonno",
+            "failed": 0,
+            "question": "Given the definition \"to be sleepy\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to be hot",
+            "failed": 0,
+            "question": "What is the definition of \"avere caldo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "avere caldo",
+            "failed": 0,
+            "question": "Given the definition \"to be hot\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to be cold",
+            "failed": 0,
+            "question": "What is the definition of \"avere freddo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "avere freddo",
+            "failed": 0,
+            "question": "Given the definition \"to be cold\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to be afraid",
+            "failed": 0,
+            "question": "What is the definition of \"avere paura\"?",
+            "tried": 0
+        },
+        {
+            "answer": "avere paura",
+            "failed": 0,
+            "question": "Given the definition \"to be afraid\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to be right",
+            "failed": 0,
+            "question": "What is the definition of \"avere ragione\"?",
+            "tried": 0
+        },
+        {
+            "answer": "avere ragione",
+            "failed": 0,
+            "question": "Given the definition \"to be right\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to be in a hurry",
+            "failed": 0,
+            "question": "What is the definition of \"avere fretta\"?",
+            "tried": 0
+        },
+        {
+            "answer": "avere fretta",
+            "failed": 0,
+            "question": "Given the definition \"to be in a hurry\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "I",
+            "failed": 0,
+            "question": "What is the definition of \"io\"?",
+            "tried": 0
+        },
+        {
+            "answer": "io",
+            "failed": 0,
+            "question": "Given the definition \"I\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "we",
+            "failed": 0,
+            "question": "What is the definition of \"noi\"?",
+            "tried": 0
+        },
+        {
+            "answer": "noi",
+            "failed": 0,
+            "question": "Given the definition \"we\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "you (informal)",
+            "failed": 0,
+            "question": "What is the definition of \"tu\"?",
+            "tried": 0
+        },
+        {
+            "answer": "tu",
+            "failed": 0,
+            "question": "Given the definition \"you (informal)\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "y'all",
+            "failed": 0,
+            "question": "What is the definition of \"voi\"?",
+            "tried": 0
+        },
+        {
+            "answer": "voi",
+            "failed": 0,
+            "question": "Given the definition \"y'all\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "you (formal)",
+            "failed": 0,
+            "question": "What is the definition of \"Lei\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Lei",
+            "failed": 0,
+            "question": "Given the definition \"you (formal)\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "he",
+            "failed": 0,
+            "question": "What is the definition of \"lui\"?",
+            "tried": 0
+        },
+        {
+            "answer": "lui",
+            "failed": 0,
+            "question": "Given the definition \"he\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "she",
+            "failed": 0,
+            "question": "What is the definition of \"lei\"?",
+            "tried": 0
+        },
+        {
+            "answer": "lei",
+            "failed": 0,
+            "question": "Given the definition \"she\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "they",
+            "failed": 0,
+            "question": "What is the definition of \"loro\"?",
+            "tried": 0
+        },
+        {
+            "answer": "loro",
+            "failed": 0,
+            "question": "Given the definition \"they\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "I need a coffee.",
+            "failed": 0,
+            "question": "What is the definition of \"Ho bisogno di un caffe'\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Ho bisogno di un caffe'",
+            "failed": 0,
+            "question": "Given the definition \"I need a coffee.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "I do need a coffee!",
+            "failed": 0,
+            "question": "What is the definition of \"Io ho bisogno di un caffe'\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Io ho bisogno di un caffe'",
+            "failed": 0,
+            "question": "Given the definition \"I do need a coffee!\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ecco tree famiglie.",
+            "failed": 0,
+            "question": "What is the definition of \"Here are three families.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Here are three families.",
+            "failed": 0,
+            "question": "Given the definition \"Ecco tree famiglie.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ci sono dieci uomini e nove donne.",
+            "failed": 0,
+            "question": "What is the definition of \"There are ten men and nine women.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "There are ten men and nine women.",
+            "failed": 0,
+            "question": "Given the definition \"Ci sono dieci uomini e nove donne.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Tu hai due sorelle e cinque fratelli.",
+            "failed": 0,
+            "question": "What is the definition of \"You have two sisters and five brothers.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "You have two sisters and five brothers.",
+            "failed": 0,
+            "question": "Given the definition \"Tu hai due sorelle e cinque fratelli.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Lei ha otto zii e sei cugini.",
+            "failed": 0,
+            "question": "What is the definition of \"She has eight uncles and six cousins.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "She has eight uncles and six cousins.",
+            "failed": 0,
+            "question": "Given the definition \"Lei ha otto zii e sei cugini.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Noi abbiamo quattro nonni e sette nipoti.",
+            "failed": 0,
+            "question": "What is the definition of \"We have four grandparents and seven nephews.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "We have four grandparents and seven nephews.",
+            "failed": 0,
+            "question": "Given the definition \"Noi abbiamo quattro nonni e sette nipoti.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Loro hanno nove zie e dieci nipoti.",
+            "failed": 0,
+            "question": "What is the definition of \"They have nine aunts and ten nieces.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "They have nine aunts and ten nieces.",
+            "failed": 0,
+            "question": "Given the definition \"Loro hanno nove zie e dieci nipoti.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Mario ha sete.",
+            "failed": 0,
+            "question": "What is the definition of \"Mario is hungry.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Mario is hungry.",
+            "failed": 0,
+            "question": "Given the definition \"Mario ha sete.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Carla ha sete.",
+            "failed": 0,
+            "question": "What is the definition of \"Carla is thirsty.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Carla is thirsty.",
+            "failed": 0,
+            "question": "Given the definition \"Carla ha sete.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Voi avete fretta.",
+            "failed": 0,
+            "question": "What is the definition of \"Y'all are in a hurry.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Y'all are in a hurry.",
+            "failed": 0,
+            "question": "Given the definition \"Voi avete fretta.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Anche loro hanno fretta.",
+            "failed": 0,
+            "question": "What is the definition of \"They are in a hurry, too.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "They are in a hurry, too.",
+            "failed": 0,
+            "question": "Given the definition \"Anche loro hanno fretta.\", what is the word?",
+            "tried": 0
+        }
+    ]
+}

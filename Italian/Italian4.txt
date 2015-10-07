@@ -1,4 +1,4 @@
-0.1
+0.1	Italian Chapter 4
 v	lui e'	he is
 v	lei e'	she is
 v	io ho una famiglia piccola.	I have a small family.
@@ -78,3 +78,39 @@ v	You (formal) are hungry.	Lei ha fame.
 v	They are sleepy.	Loro hanno sonno.
 v	You (informal) are afraid.	Tu hai paura.
 v	We are not afraid.	Noi non abbiamo paura.
+v	fame	hunger
+v	sete	thirst
+v	sonno	sleep
+v	caldo	heat
+v	freddo	cold
+v	paura	fear
+v	ragione	reason
+v	fretta	hurry
+v	avere fame	to be hungry
+v	avere sete	to be thirsty
+v	avere sonno	to be sleepy
+v	avere caldo	to be hot
+v	avere freddo	to be cold
+v	avere paura	to be afraid
+v	avere ragione	to be right
+v	avere fretta	to be in a hurry
+v	io	I
+v	noi	we
+v	tu	you (informal)
+v	voi	y'all
+v	Lei	you (formal)
+v	lui	he
+v	lei	she
+v	loro	they
+v	Ho bisogno di un caffe'	I need a coffee.
+v	Io ho bisogno di un caffe'	I do need a coffee!
+v	Here are three families.	Ecco tree famiglie.
+v	There are ten men and nine women.	Ci sono dieci uomini e nove donne.
+v	You have two sisters and five brothers.	Tu hai due sorelle e cinque fratelli.
+v	She has eight uncles and six cousins.	Lei ha otto zii e sei cugini.
+v	We have four grandparents and seven nephews.	Noi abbiamo quattro nonni e sette nipoti.
+v	They have nine aunts and ten nieces.	Loro hanno nove zie e dieci nipoti.
+v	Mario is hungry.	Mario ha sete.
+v	Carla is thirsty.	Carla ha sete.
+v	Y'all are in a hurry.	Voi avete fretta.
+v	They are in a hurry, too.	Anche loro hanno fretta.

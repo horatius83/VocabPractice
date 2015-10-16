@@ -1,0 +1,569 @@
+{
+    "name": "Italian/DaysAndMonths.json",
+    "vocab": [
+        {
+            "answer": "domencia",
+            "failed": 0,
+            "question": "What is the definition of \"Sunday\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Sunday",
+            "failed": 0,
+            "question": "Given the definition \"domencia\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Lenedi",
+            "failed": 0,
+            "question": "What is the definition of \"Monday\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Monday",
+            "failed": 0,
+            "question": "Given the definition \"Lenedi\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "martedi",
+            "failed": 0,
+            "question": "What is the definition of \"Tuesday\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Tuesday",
+            "failed": 0,
+            "question": "Given the definition \"martedi\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "mercoledi",
+            "failed": 0,
+            "question": "What is the definition of \"Wednesday\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Wednesday",
+            "failed": 0,
+            "question": "Given the definition \"mercoledi\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Giovedi",
+            "failed": 0,
+            "question": "What is the definition of \"Thursday\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Thursday",
+            "failed": 0,
+            "question": "Given the definition \"Giovedi\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "venerdi",
+            "failed": 0,
+            "question": "What is the definition of \"Friday\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Friday",
+            "failed": 0,
+            "question": "Given the definition \"venerdi\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "sabato",
+            "failed": 0,
+            "question": "What is the definition of \"Saturday\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Saturday",
+            "failed": 0,
+            "question": "Given the definition \"sabato\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "uno",
+            "failed": 0,
+            "question": "What is the definition of \"1\"?",
+            "tried": 0
+        },
+        {
+            "answer": "1",
+            "failed": 0,
+            "question": "Given the definition \"uno\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "due",
+            "failed": 0,
+            "question": "What is the definition of \"2\"?",
+            "tried": 0
+        },
+        {
+            "answer": "2",
+            "failed": 0,
+            "question": "Given the definition \"due\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "tre",
+            "failed": 0,
+            "question": "What is the definition of \"3\"?",
+            "tried": 0
+        },
+        {
+            "answer": "3",
+            "failed": 0,
+            "question": "Given the definition \"tre\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "quattro",
+            "failed": 0,
+            "question": "What is the definition of \"4\"?",
+            "tried": 0
+        },
+        {
+            "answer": "4",
+            "failed": 0,
+            "question": "Given the definition \"quattro\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "cinque",
+            "failed": 0,
+            "question": "What is the definition of \"5\"?",
+            "tried": 0
+        },
+        {
+            "answer": "5",
+            "failed": 0,
+            "question": "Given the definition \"cinque\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "sei",
+            "failed": 0,
+            "question": "What is the definition of \"6\"?",
+            "tried": 0
+        },
+        {
+            "answer": "6",
+            "failed": 0,
+            "question": "Given the definition \"sei\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "sette",
+            "failed": 0,
+            "question": "What is the definition of \"7\"?",
+            "tried": 0
+        },
+        {
+            "answer": "7",
+            "failed": 0,
+            "question": "Given the definition \"sette\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "otto",
+            "failed": 0,
+            "question": "What is the definition of \"8\"?",
+            "tried": 0
+        },
+        {
+            "answer": "8",
+            "failed": 0,
+            "question": "Given the definition \"otto\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "nove",
+            "failed": 0,
+            "question": "What is the definition of \"9\"?",
+            "tried": 0
+        },
+        {
+            "answer": "9",
+            "failed": 0,
+            "question": "Given the definition \"nove\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "dieci",
+            "failed": 0,
+            "question": "What is the definition of \"10\"?",
+            "tried": 0
+        },
+        {
+            "answer": "10",
+            "failed": 0,
+            "question": "Given the definition \"dieci\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "undici",
+            "failed": 0,
+            "question": "What is the definition of \"11\"?",
+            "tried": 0
+        },
+        {
+            "answer": "11",
+            "failed": 0,
+            "question": "Given the definition \"undici\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "dodici",
+            "failed": 0,
+            "question": "What is the definition of \"12\"?",
+            "tried": 0
+        },
+        {
+            "answer": "12",
+            "failed": 0,
+            "question": "Given the definition \"dodici\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "tredici",
+            "failed": 0,
+            "question": "What is the definition of \"13\"?",
+            "tried": 0
+        },
+        {
+            "answer": "13",
+            "failed": 0,
+            "question": "Given the definition \"tredici\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "quattordici",
+            "failed": 0,
+            "question": "What is the definition of \"14\"?",
+            "tried": 0
+        },
+        {
+            "answer": "14",
+            "failed": 0,
+            "question": "Given the definition \"quattordici\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "quindici",
+            "failed": 0,
+            "question": "What is the definition of \"15\"?",
+            "tried": 0
+        },
+        {
+            "answer": "15",
+            "failed": 0,
+            "question": "Given the definition \"quindici\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "sedici",
+            "failed": 0,
+            "question": "What is the definition of \"16\"?",
+            "tried": 0
+        },
+        {
+            "answer": "16",
+            "failed": 0,
+            "question": "Given the definition \"sedici\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "dicassette",
+            "failed": 0,
+            "question": "What is the definition of \"17\"?",
+            "tried": 0
+        },
+        {
+            "answer": "17",
+            "failed": 0,
+            "question": "Given the definition \"dicassette\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "diciotto",
+            "failed": 0,
+            "question": "What is the definition of \"18\"?",
+            "tried": 0
+        },
+        {
+            "answer": "18",
+            "failed": 0,
+            "question": "Given the definition \"diciotto\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "diciannove",
+            "failed": 0,
+            "question": "What is the definition of \"19\"?",
+            "tried": 0
+        },
+        {
+            "answer": "19",
+            "failed": 0,
+            "question": "Given the definition \"diciannove\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "venti",
+            "failed": 0,
+            "question": "What is the definition of \"20\"?",
+            "tried": 0
+        },
+        {
+            "answer": "20",
+            "failed": 0,
+            "question": "Given the definition \"venti\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "trenta",
+            "failed": 0,
+            "question": "What is the definition of \"30\"?",
+            "tried": 0
+        },
+        {
+            "answer": "30",
+            "failed": 0,
+            "question": "Given the definition \"trenta\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "quaranta",
+            "failed": 0,
+            "question": "What is the definition of \"40\"?",
+            "tried": 0
+        },
+        {
+            "answer": "40",
+            "failed": 0,
+            "question": "Given the definition \"quaranta\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "cinquanta",
+            "failed": 0,
+            "question": "What is the definition of \"50\"?",
+            "tried": 0
+        },
+        {
+            "answer": "50",
+            "failed": 0,
+            "question": "Given the definition \"cinquanta\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "sessanta",
+            "failed": 0,
+            "question": "What is the definition of \"60\"?",
+            "tried": 0
+        },
+        {
+            "answer": "60",
+            "failed": 0,
+            "question": "Given the definition \"sessanta\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "settanta",
+            "failed": 0,
+            "question": "What is the definition of \"70\"?",
+            "tried": 0
+        },
+        {
+            "answer": "70",
+            "failed": 0,
+            "question": "Given the definition \"settanta\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "ottanta",
+            "failed": 0,
+            "question": "What is the definition of \"80\"?",
+            "tried": 0
+        },
+        {
+            "answer": "80",
+            "failed": 0,
+            "question": "Given the definition \"ottanta\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "novanta",
+            "failed": 0,
+            "question": "What is the definition of \"90\"?",
+            "tried": 0
+        },
+        {
+            "answer": "90",
+            "failed": 0,
+            "question": "Given the definition \"novanta\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "cento",
+            "failed": 0,
+            "question": "What is the definition of \"100\"?",
+            "tried": 0
+        },
+        {
+            "answer": "100",
+            "failed": 0,
+            "question": "Given the definition \"cento\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "gennaio",
+            "failed": 0,
+            "question": "What is the definition of \"January\"?",
+            "tried": 0
+        },
+        {
+            "answer": "January",
+            "failed": 0,
+            "question": "Given the definition \"gennaio\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "febbraio",
+            "failed": 0,
+            "question": "What is the definition of \"February\"?",
+            "tried": 0
+        },
+        {
+            "answer": "February",
+            "failed": 0,
+            "question": "Given the definition \"febbraio\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "marzo",
+            "failed": 0,
+            "question": "What is the definition of \"March\"?",
+            "tried": 0
+        },
+        {
+            "answer": "March",
+            "failed": 0,
+            "question": "Given the definition \"marzo\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "aprile",
+            "failed": 0,
+            "question": "What is the definition of \"April\"?",
+            "tried": 0
+        },
+        {
+            "answer": "April",
+            "failed": 0,
+            "question": "Given the definition \"aprile\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "maggio",
+            "failed": 0,
+            "question": "What is the definition of \"May\"?",
+            "tried": 0
+        },
+        {
+            "answer": "May",
+            "failed": 0,
+            "question": "Given the definition \"maggio\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "giugno",
+            "failed": 0,
+            "question": "What is the definition of \"June\"?",
+            "tried": 0
+        },
+        {
+            "answer": "June",
+            "failed": 0,
+            "question": "Given the definition \"giugno\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "luglio",
+            "failed": 0,
+            "question": "What is the definition of \"July\"?",
+            "tried": 0
+        },
+        {
+            "answer": "July",
+            "failed": 0,
+            "question": "Given the definition \"luglio\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "agosto",
+            "failed": 0,
+            "question": "What is the definition of \"August\"?",
+            "tried": 0
+        },
+        {
+            "answer": "August",
+            "failed": 0,
+            "question": "Given the definition \"agosto\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "settembre",
+            "failed": 0,
+            "question": "What is the definition of \"September\"?",
+            "tried": 0
+        },
+        {
+            "answer": "September",
+            "failed": 0,
+            "question": "Given the definition \"settembre\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "ottobre",
+            "failed": 0,
+            "question": "What is the definition of \"October\"?",
+            "tried": 0
+        },
+        {
+            "answer": "October",
+            "failed": 0,
+            "question": "Given the definition \"ottobre\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "novembre",
+            "failed": 0,
+            "question": "What is the definition of \"November\"?",
+            "tried": 0
+        },
+        {
+            "answer": "November",
+            "failed": 0,
+            "question": "Given the definition \"novembre\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "dicembre",
+            "failed": 0,
+            "question": "What is the definition of \"December\"?",
+            "tried": 0
+        },
+        {
+            "answer": "December",
+            "failed": 0,
+            "question": "Given the definition \"dicembre\", what is the word?",
+            "tried": 0
+        }
+    ]
+}

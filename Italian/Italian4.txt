@@ -104,13 +104,13 @@ v	lei	she
 v	loro	they
 v	Ho bisogno di un caffe'	I need a coffee.
 v	Io ho bisogno di un caffe'	I do need a coffee!
-v	Here are three families.	Ecco tree famiglie.
+v	Here are three families.	Ecco tre famiglie.
 v	There are ten men and nine women.	Ci sono dieci uomini e nove donne.
 v	You have two sisters and five brothers.	Tu hai due sorelle e cinque fratelli.
 v	She has eight uncles and six cousins.	Lei ha otto zii e sei cugini.
 v	We have four grandparents and seven nephews.	Noi abbiamo quattro nonni e sette nipoti.
 v	They have nine aunts and ten nieces.	Loro hanno nove zie e dieci nipoti.
-v	Mario is hungry.	Mario ha sete.
+v	Mario is hungry.	Mario ha fame.
 v	Carla is thirsty.	Carla ha sete.
 v	Y'all are in a hurry.	Voi avete fretta.
 v	They are in a hurry, too.	Anche loro hanno fretta.

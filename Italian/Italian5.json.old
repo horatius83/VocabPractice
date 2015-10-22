@@ -1,0 +1,467 @@
+{
+    "name": ".\\Italian\\Italian5.json",
+    "vocab": [
+        {
+            "answer": "Ecco i miei amici.",
+            "failed": 0,
+            "question": "What is the definition of \"Here are my friends.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Here are my friends.",
+            "failed": 0,
+            "question": "Given the definition \"Ecco i miei amici.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ci sono quattro ragazzi e cinque ragazze.",
+            "failed": 0,
+            "question": "What is the definition of \"There are three boys and five girls.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "There are three boys and five girls.",
+            "failed": 0,
+            "question": "Given the definition \"Ci sono quattro ragazzi e cinque ragazze.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Metteo ha sempre fame.",
+            "failed": 0,
+            "question": "What is the definition of \"Matteo is always hungry.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Matteo is always hungry.",
+            "failed": 0,
+            "question": "Given the definition \"Metteo ha sempre fame.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Lui ha voglia di un panino.",
+            "failed": 0,
+            "question": "What is the definition of \"He feels like having a sandwich.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "He feels like having a sandwich.",
+            "failed": 0,
+            "question": "Given the definition \"Lui ha voglia di un panino.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Maria ha sempre freddo.",
+            "failed": 0,
+            "question": "What is the definition of \"Maria is always cold.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Maria is always cold.",
+            "failed": 0,
+            "question": "Given the definition \"Maria ha sempre freddo.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Lei ha bisogno di una sciarpa.",
+            "failed": 0,
+            "question": "What is the definition of \"She needs a scarf.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "She needs a scarf.",
+            "failed": 0,
+            "question": "Given the definition \"Lei ha bisogno di una sciarpa.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Giorgio e Pete hanno sempre sonno.",
+            "failed": 0,
+            "question": "What is the definition of \"Giorgio and Pete are always sleepy.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Giorgio and Pete are always sleepy.",
+            "failed": 0,
+            "question": "Given the definition \"Giorgio e Pete hanno sempre sonno.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Loro hanno voglia di un caffe'.",
+            "failed": 0,
+            "question": "What is the definition of \"They feel like having a coffee.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "They feel like having a coffee.",
+            "failed": 0,
+            "question": "Given the definition \"Loro hanno voglia di un caffe'.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Io e Kate abbiamo sempre caldo.",
+            "failed": 0,
+            "question": "What is the definition of \"Kate and I are always hot.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Kate and I are always hot.",
+            "failed": 0,
+            "question": "Given the definition \"Io e Kate abbiamo sempre caldo.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "We need a fan.",
+            "failed": 0,
+            "question": "What is the definition of \"Noi abbiamo bisogno di un ventilatore.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Noi abbiamo bisogno di un ventilatore.",
+            "failed": 0,
+            "question": "Given the definition \"We need a fan.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Betty e Rose hanno sempre fretta.",
+            "failed": 0,
+            "question": "What is the definition of \"Betty and Rose are always in a hurry.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Betty and Rose are always in a hurry.",
+            "failed": 0,
+            "question": "Given the definition \"Betty e Rose hanno sempre fretta.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Anche io ho sempre fretta.",
+            "failed": 0,
+            "question": "What is the definition of \"I am always in a hurry, too.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I am always in a hurry, too.",
+            "failed": 0,
+            "question": "Given the definition \"Anche io ho sempre fretta.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "sandwich",
+            "failed": 0,
+            "question": "What is the definition of \"panino\"?",
+            "tried": 0
+        },
+        {
+            "answer": "panino",
+            "failed": 0,
+            "question": "Given the definition \"sandwich\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "scarf",
+            "failed": 0,
+            "question": "What is the definition of \"sciarpa\"?",
+            "tried": 0
+        },
+        {
+            "answer": "sciarpa",
+            "failed": 0,
+            "question": "Given the definition \"scarf\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "coffee",
+            "failed": 0,
+            "question": "What is the definition of \"caffe'\"?",
+            "tried": 0
+        },
+        {
+            "answer": "caffe'",
+            "failed": 0,
+            "question": "Given the definition \"coffee\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "fan",
+            "failed": 0,
+            "question": "What is the definition of \"ventilatore\"?",
+            "tried": 0
+        },
+        {
+            "answer": "ventilatore",
+            "failed": 0,
+            "question": "Given the definition \"fan\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "friends",
+            "failed": 0,
+            "question": "What is the definition of \"amici\"?",
+            "tried": 0
+        },
+        {
+            "answer": "amici",
+            "failed": 0,
+            "question": "Given the definition \"friends\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "male friend",
+            "failed": 0,
+            "question": "What is the definition of \"amico\"?",
+            "tried": 0
+        },
+        {
+            "answer": "amico",
+            "failed": 0,
+            "question": "Given the definition \"male friend\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "female friend",
+            "failed": 0,
+            "question": "What is the definition of \"amica\"?",
+            "tried": 0
+        },
+        {
+            "answer": "amica",
+            "failed": 0,
+            "question": "Given the definition \"female friend\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "male student",
+            "failed": 0,
+            "question": "What is the definition of \"studente\"?",
+            "tried": 0
+        },
+        {
+            "answer": "studente",
+            "failed": 0,
+            "question": "Given the definition \"male student\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "female student",
+            "failed": 0,
+            "question": "What is the definition of \"studentessa\"?",
+            "tried": 0
+        },
+        {
+            "answer": "studentessa",
+            "failed": 0,
+            "question": "Given the definition \"female student\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to need",
+            "failed": 0,
+            "question": "What is the definition of \"avere bisogno di\"?",
+            "tried": 0
+        },
+        {
+            "answer": "avere bisogno di",
+            "failed": 0,
+            "question": "Given the definition \"to need\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to feel like something",
+            "failed": 0,
+            "question": "What is the definition of \"avere voglia di\"?",
+            "tried": 0
+        },
+        {
+            "answer": "avere voglia di",
+            "failed": 0,
+            "question": "Given the definition \"to feel like something\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "studenti",
+            "failed": 0,
+            "question": "Plural of studente",
+            "tried": 0
+        },
+        {
+            "answer": "ragazze",
+            "failed": 0,
+            "question": "Plural of ragazza",
+            "tried": 0
+        },
+        {
+            "answer": "fratelli",
+            "failed": 0,
+            "question": "Plural of fratello",
+            "tried": 0
+        },
+        {
+            "answer": "sorelle",
+            "failed": 0,
+            "question": "Plural of sorella",
+            "tried": 0
+        },
+        {
+            "answer": "madri",
+            "failed": 0,
+            "question": "Plural of madre",
+            "tried": 0
+        },
+        {
+            "answer": "padri",
+            "failed": 0,
+            "question": "Plural of padre",
+            "tried": 0
+        },
+        {
+            "answer": "ragazzi",
+            "failed": 0,
+            "question": "Plural of ragazzo",
+            "tried": 0
+        },
+        {
+            "answer": "studentesse",
+            "failed": 0,
+            "question": "Plural of studentessa",
+            "tried": 0
+        },
+        {
+            "answer": "ho",
+            "failed": 0,
+            "question": "(avere) io ->",
+            "tried": 0
+        },
+        {
+            "answer": "hai",
+            "failed": 0,
+            "question": "(avere) tu ->",
+            "tried": 0
+        },
+        {
+            "answer": "ha",
+            "failed": 0,
+            "question": "(avere) lui/lei/Lei ->",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo",
+            "failed": 0,
+            "question": "(avere) noi ->",
+            "tried": 0
+        },
+        {
+            "answer": "avete",
+            "failed": 0,
+            "question": "(avere) voi ->",
+            "tried": 0
+        },
+        {
+            "answer": "hanno",
+            "failed": 0,
+            "question": "(avere) loro ->",
+            "tried": 0
+        },
+        {
+            "answer": "sorelle",
+            "failed": 0,
+            "question": "Io ho una sorella -> Io ho due ___",
+            "tried": 0
+        },
+        {
+            "answer": "nonne",
+            "failed": 0,
+            "question": "Io ho una nonna -> Io ho due ___",
+            "tried": 0
+        },
+        {
+            "answer": "zie",
+            "failed": 0,
+            "question": "Io ho una zia -> Io ho due ___",
+            "tried": 0
+        },
+        {
+            "answer": "cugine",
+            "failed": 0,
+            "question": "Io ho una cugina -> Io ho due ___",
+            "tried": 0
+        },
+        {
+            "answer": "bambini",
+            "failed": 0,
+            "question": "Io ho un bambino -> Io ho due ___",
+            "tried": 0
+        },
+        {
+            "answer": "bambine",
+            "failed": 0,
+            "question": "Io ho una bamina -> Io ho due ___",
+            "tried": 0
+        },
+        {
+            "answer": "figli",
+            "failed": 0,
+            "question": "Io ho un figlio -> Io ho due ___",
+            "tried": 0
+        },
+        {
+            "answer": "nipoti",
+            "failed": 0,
+            "question": "Io ho una nipote -> Io ho due ___",
+            "tried": 0
+        },
+        {
+            "answer": "ho",
+            "failed": 0,
+            "question": "Io ___ due sorelle.",
+            "tried": 0
+        },
+        {
+            "answer": "hai",
+            "failed": 0,
+            "question": "Tu ___ due sorelle.",
+            "tried": 0
+        },
+        {
+            "answer": "ha",
+            "failed": 0,
+            "question": "Lei ___ due sorelle.",
+            "tried": 0
+        },
+        {
+            "answer": "ha",
+            "failed": 0,
+            "question": "Lui ___ due sorelle.",
+            "tried": 0
+        },
+        {
+            "answer": "ha",
+            "failed": 0,
+            "question": "Marta ___ due sorelle.",
+            "tried": 0
+        },
+        {
+            "answer": "ha",
+            "failed": 0,
+            "question": "Carlo ___ due sorelle.",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo",
+            "failed": 0,
+            "question": "Noi ___ due sorelle.",
+            "tried": 0
+        },
+        {
+            "answer": "avete",
+            "failed": 0,
+            "question": "Voi ___ due sorelle.",
+            "tried": 0
+        },
+        {
+            "answer": "hanno",
+            "failed": 0,
+            "question": "Loro ___ due sorelle.",
+            "tried": 0
+        }
+    ]
+}

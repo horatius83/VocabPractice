@@ -1,0 +1,55 @@
+v0.1	End of lesson 3 and part of lesson 4
+v	Here are my friends.	Ecco i miei amici.
+v	There are three boys and five girls.	Ci sono quattro ragazzi e cinque ragazze.
+v	Matteo is always hungry.	Metteo ha sempre fame.
+v	He feels like having a sandwich.	Lui ha voglia di un panino.
+v	Maria is always cold.	Maria ha sempre freddo.
+v	She needs a scarf.	Lei ha bisogno di una sciarpa.
+v	Giorgio and Pete are always sleepy.	Giorgio e Pete hanno sempre sonno.
+v	They feel like having a coffee.	Loro hanno voglia di un caffe'.
+v	Kate and I are always hot.	Io e Kate abbiamo sempre caldo.
+v	Noi abbiamo bisogno di un ventilatore.	We need a fan.
+v	Betty and Rose are always in a hurry.	Betty e Rose hanno sempre fretta.
+v	I am always in a hurry, too.	Anche io ho sempre fretta.
+v	panino	sandwich
+v	sciarpa	scarf
+v	caffe'	coffee
+v	ventilatore	fan
+v	amici	friends
+v	amico	male friend
+v	amica	female friend
+v	studente	male student
+v	studentessa	female student
+v	avere bisogno di	to need
+v	avere voglia di	to feel like something
+q	Plural of studente	studenti
+q	Plural of ragazza	ragazze
+q	Plural of fratello	fratelli
+q	Plural of sorella	sorelle
+q	Plural of madre	madri
+q	Plural of padre	padri
+q	Plural of ragazzo	ragazzi
+q	Plural of studentessa	studentesse
+q	(avere) io ->	ho
+q	(avere) tu ->	hai
+q	(avere) lui/lei/Lei ->	ha
+q	(avere) noi ->	abbiamo
+q	(avere) voi ->	avete
+q	(avere) loro ->	hanno
+q	Io ho una sorella -> Io ho due ___	sorelle
+q	Io ho una nonna -> Io ho due ___	nonne
+q	Io ho una zia -> Io ho due ___	zie
+q	Io ho una cugina -> Io ho due ___	cugine
+q	Io ho un bambino -> Io ho due ___	bambini
+q	Io ho una bamina -> Io ho due ___	bambine
+q	Io ho un figlio -> Io ho due ___	figli
+q	Io ho una nipote -> Io ho due ___	nipoti
+q	Io ___ due sorelle.	ho
+q	Tu ___ due sorelle.	hai
+q	Lei ___ due sorelle.	ha
+q	Lui ___ due sorelle.	ha
+q	Marta ___ due sorelle.	ha
+q	Carlo ___ due sorelle.	ha
+q	Noi ___ due sorelle.	abbiamo
+q	Voi ___ due sorelle.	avete
+q	Loro ___ due sorelle.	hanno

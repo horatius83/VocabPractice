@@ -1,0 +1,80 @@
+v0.1	Italian6
+v	In the kitchen there is the table.	In cucina c'e' il travolo.
+v	In the kitchen there are...	In cucina ci sono ...
+v	the pans	le pentole
+v	the dishes	i piatti
+v	In the bedroom there is...	In camera (da letto) c'e'...
+v	the bed	il letto
+v	the closet	l'armadio
+v	In the bedroom there are the pillows.	In camera ci sono i cuscini.
+v	In the living room there is...	In soggiorno c'e'...
+v	the couch	il divano
+v	the rug	il tappeto
+v	In the living room there are the chairs.	In soggiorno ci sono le sedie.
+v	In the bathroom there is...	In bagno c'e'...
+v	the washing machine	la lavatrice
+v	the mirror	lo speechio
+v	In the bathroom there are the towels.	In bagno ci sono gli asciugamani.
+v	towels	asciugamani
+v	chairs	sedie
+v	bed	letto
+v	plates	piatti
+v	bedroom	camera
+v	wardrobe	armadio
+v	kitchen	cucina
+v	pans	pentole
+v	la cucina	kitchen
+v	la camera da letto or camera	bedroom
+v	il soggiorno	living room
+v	il bagno	bathrrom
+v	la stanza	room
+v	il travolo	the table
+v	in camera (da letto)	in the bedroom
+v	i cuscini	the pillows
+v	in soggiorno	in the living room
+v	il tappeto	the carpet
+v	le sedie	the chairs
+v	in bagno	in the bathroom
+v	gli asciugamani	the towels
+v	to be	essere
+v	I am	io sono
+v	you are (informal)	tu sei
+v	you are (formal)	Lei e'
+v	he is	lui e'
+v	she is	lei e'
+v	we are	noi siamo
+v	you are (plural)	voi siete
+v	they are	loro sono
+v	I am at home.	Io sono a casa.
+v	You (informal) are in the kitchen.	Lui e' in bagno.
+v	We are in the bedroom.	Noi siamo in camera da letto.
+v	They are in the living room.	Loro sono in soggiorno.
+v	Io sono di Firenze.	I'm from Florence.
+v	Tu sei di Filadelfia.	You're from Philadelphia.
+v	I piatti sono di Nocola.	The dishes are Nicola's.
+v	La lavatrice e' di Ann.	The washing machine is Ann's.
+v	Di chi e' la lavatrice?	Whose washing machine is it?
+v	E' di Ann.	It is Ann's.
+v	Di chi sono i piatti?	Whose dishes are they?
+v	Sono di Nicola.	They are Nicola's.
+v	la lavatrice di Ann	Ann's washing machine
+v	i piatti di Nocola	Nicola's dishes
+q	I am in the kitchen. Io ___ in cucina.	sono
+q	In the kitchen there are the cups, the dishes, and the table. In cucina ci sono ___ tazze, ___ piatti e ___ travolo.	le, i, il
+q	The cups are Michael's. Le tazze ___ Michael.	sono di
+q	You are in the living room. Tu ___ in soggiorno.	sei
+q	She is in the bathroom. Lei ___ in bagno.	e'
+q	In the bedrrom there are the pillows, the closet, and the bed. In ___ da letto ci ___ i cuscini, l'armadio e il letto.	camera, sono
+q	The pillows are Paolo's. ___ cuscini sono ___ Paolo.	I, di
+v	This is Paolo and Marta's house.	Questa e' la casa di Paolo e Marta.
+v	Paolo and Marta are at home.	Paolo e Marta sono in casa.
+v	Paolo is in the bedroom.	Paolo e' in camera da letto.
+v	In the bedrrom there is the double bed.	In camera da letto c'e' il letto matrimoniale.
+v	Paolo's cups are in the kitchen.	Le tazze di Paolo sono in cucina.
+v	Marta is in the garden.	Marta e' in giardino.
+v	In the garden there are the flowers.	In giardino ci sono i fiori.
+v	Marta's books are in the living room.	I libri di Marta sono in soggiorno.
+v	Paolo and Marta have a daughter: Anna.	Paolo e Marta hanno una figlia: Anna.
+v	Anna e' in bagno.	Anna is in the bathroom.
+v	In the bathrrom there is the shower.	In bagno c'e' la doccia.
+v	Anna's desk is in her room.	La scrivania di Anna e' in camera sua.

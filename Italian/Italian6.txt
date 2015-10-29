@@ -46,7 +46,7 @@ v	we are	noi siamo
 v	you are (plural)	voi siete
 v	they are	loro sono
 v	I am at home.	Io sono a casa.
-v	You (informal) are in the kitchen.	Lui e' in bagno.
+v	He is in the kitchen.	Lui e' in bagno.
 v	We are in the bedroom.	Noi siamo in camera da letto.
 v	They are in the living room.	Loro sono in soggiorno.
 v	Io sono di Firenze.	I'm from Florence.

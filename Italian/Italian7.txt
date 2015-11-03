@@ -1,0 +1,61 @@
+v0.1	Living Language Italian P 62-69
+q	Io sono a casa. -> Loro ___ a casa.	sono
+q	Tu sei a casa. -> Voi ___ a casa.	siete
+q	Tu sei a casa. -> Io ___ casa.	sono
+q	Lui e' a casa. -> Noi ___ a casa.	siamo
+q	Lui e' a casa. -> Lei ___ casa.	e'
+q	Io sono in cucina. -> Noi ___ in cucina.	siamo
+q	Io sono in cucina. -> Voi ___ in cucina.	siete
+q	Tu sei in cucina. -> Lei ___ in cucina.	e'
+q	Lei e' in cucina. -> Loro ___ in cucina.	sono
+q	Loro sono in cucina. -> Io ___ in cucina.	sono
+v	io sono	I am
+v	tu sei	you are (informal)
+v	lui/lei e'	he/she is
+v	noi siamo	we are
+v	voi siete	y'all are
+v	loro sono	they are
+q	(essere) Io ___ di Firenze.	sono
+q	(essere) Carlo ___ di Firenze.	e'
+q	(essere) Noi ___ di Firenze.	siamo
+q	(essere) Voi ___ di Firenze.	siete
+q	(essere) La madre ___ di Roma.	e'
+q	(essere) Le ragazze ___ di Roma.	sono
+q	(essere) La ragazza ___ di Roma.	e'
+q	(essere) I ragazzi ___ di Roma.	sono
+q	padre -> (the) -> (the plural)	il padre, i padri
+q	ragazzo -> (the) -> (the plural)	il ragazzo, i ragazzi
+q	studente -> (the) -> (the plural)	lo studente, gli studenti
+q	zio -> (the) -> (the plural)	lo zio, gli zii
+q	bambino -> (the) -> (the plural)	il bambino, i bambini
+q	tavolo -> (the) -> (the plural)	il tavolo, i tavoli
+q	armadio -> (the) -> (the plural)	l'armadio, gli armadi
+q	specchio -> (the) -> (the plural)	lo specchio, gli specchi
+q	madre -> (the) -> (the plural)	 la madre, le madri
+q	ragazza -> (the) -> (the plural)	 la ragazza, le ragazze
+q	studentessa -> (the) -> (the plural)	 la studentessa, le studentesse
+q	zia -> (the) -> (the plural)	 la zia, le zie
+q	bambina -> (the) -> (the plural)	 la bambina, le bambine
+q	casa -> (the) -> (the plural)	 la casa, le case
+q	camera -> (the) -> (the plural)	 la camera, le camare
+q	cucina -> (the) -> (the plural)	 la cucina, le cucine
+v	essere d'accordo	to agree
+v	essere in orario	to be on time
+v	essere puntuale	to be on time
+v	essere in ritardo	to be late
+v	Sei d'accordo	Do you agree?
+v	Il professore e' sempre puntuale.	The professor is always on time.
+v	Gli amici sono in soggiorno.	The friends are in the living room.
+v	I nonni sono in camera da letto.	The grandparents are in the bedroom.
+v	Ho fretta.	I am in a hurry.
+v	La figlia e' in camera.	The daughter is in the bedroom.
+v	Sei in ritardo.	You (informal) are late.
+v	Le bambine hanno fame.	The girls are hungry.
+v	Le sedie sono in cucina.	The chairs are in the kitchen.
+v	In cucina ci sono i piatti e le tazze.	In the kitchen there are plates and cups.
+v	Loro sono in giardino.	They are in the garden.
+v	Io sono di Roma, e Lei?	I am from Rome, and you? (formal)
+v	I libri sono sul tavolo.	The books are on the table.
+v	Il padre e' di Venezia.	The father is from Venice.
+v	In bagno c'e' uno speccio.	In the bathrrom there is a mirror.
+v	Lei e' d'accordo?	Do you (formal) agree?

@@ -1,0 +1,521 @@
+{
+    "name": ".\\Italian\\Italian7.json",
+    "vocab": [
+        {
+            "answer": "sono",
+            "failed": 0,
+            "question": "Io sono a casa. -> Loro ___ a casa.",
+            "tried": 0
+        },
+        {
+            "answer": "siete",
+            "failed": 0,
+            "question": "Tu sei a casa. -> Voi ___ a casa.",
+            "tried": 0
+        },
+        {
+            "answer": "sono",
+            "failed": 0,
+            "question": "Tu sei a casa. -> Io ___ casa.",
+            "tried": 0
+        },
+        {
+            "answer": "siamo",
+            "failed": 0,
+            "question": "Lui e' a casa. -> Noi ___ a casa.",
+            "tried": 0
+        },
+        {
+            "answer": "e'",
+            "failed": 0,
+            "question": "Lui e' a casa. -> Lei ___ casa.",
+            "tried": 0
+        },
+        {
+            "answer": "siamo",
+            "failed": 0,
+            "question": "Io sono in cucina. -> Noi ___ in cucina.",
+            "tried": 0
+        },
+        {
+            "answer": "siete",
+            "failed": 0,
+            "question": "Io sono in cucina. -> Voi ___ in cucina.",
+            "tried": 0
+        },
+        {
+            "answer": "e'",
+            "failed": 0,
+            "question": "Tu sei in cucina. -> Lei ___ in cucina.",
+            "tried": 0
+        },
+        {
+            "answer": "sono",
+            "failed": 0,
+            "question": "Lei e' in cucina. -> Loro ___ in cucina.",
+            "tried": 0
+        },
+        {
+            "answer": "sono",
+            "failed": 0,
+            "question": "Loro sono in cucina. -> Io ___ in cucina.",
+            "tried": 0
+        },
+        {
+            "answer": "I am",
+            "failed": 0,
+            "question": "What is the definition of \"io sono\"?",
+            "tried": 0
+        },
+        {
+            "answer": "io sono",
+            "failed": 0,
+            "question": "Given the definition \"I am\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "you are (informal)",
+            "failed": 0,
+            "question": "What is the definition of \"tu sei\"?",
+            "tried": 0
+        },
+        {
+            "answer": "tu sei",
+            "failed": 0,
+            "question": "Given the definition \"you are (informal)\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "he/she is",
+            "failed": 0,
+            "question": "What is the definition of \"lui/lei e'\"?",
+            "tried": 0
+        },
+        {
+            "answer": "lui/lei e'",
+            "failed": 0,
+            "question": "Given the definition \"he/she is\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "we are",
+            "failed": 0,
+            "question": "What is the definition of \"noi siamo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "noi siamo",
+            "failed": 0,
+            "question": "Given the definition \"we are\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "y'all are",
+            "failed": 0,
+            "question": "What is the definition of \"voi siete\"?",
+            "tried": 0
+        },
+        {
+            "answer": "voi siete",
+            "failed": 0,
+            "question": "Given the definition \"y'all are\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "they are",
+            "failed": 0,
+            "question": "What is the definition of \"loro sono\"?",
+            "tried": 0
+        },
+        {
+            "answer": "loro sono",
+            "failed": 0,
+            "question": "Given the definition \"they are\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "sono",
+            "failed": 0,
+            "question": "(essere) Io ___ di Firenze.",
+            "tried": 0
+        },
+        {
+            "answer": "e'",
+            "failed": 0,
+            "question": "(essere) Carlo ___ di Firenze.",
+            "tried": 0
+        },
+        {
+            "answer": "siamo",
+            "failed": 0,
+            "question": "(essere) Noi ___ di Firenze.",
+            "tried": 0
+        },
+        {
+            "answer": "siete",
+            "failed": 0,
+            "question": "(essere) Voi ___ di Firenze.",
+            "tried": 0
+        },
+        {
+            "answer": "e'",
+            "failed": 0,
+            "question": "(essere) La madre ___ di Roma.",
+            "tried": 0
+        },
+        {
+            "answer": "sono",
+            "failed": 0,
+            "question": "(essere) Le ragazze ___ di Roma.",
+            "tried": 0
+        },
+        {
+            "answer": "e'",
+            "failed": 0,
+            "question": "(essere) La ragazza ___ di Roma.",
+            "tried": 0
+        },
+        {
+            "answer": "sono",
+            "failed": 0,
+            "question": "(essere) I ragazzi ___ di Roma.",
+            "tried": 0
+        },
+        {
+            "answer": "il padre, i padri",
+            "failed": 0,
+            "question": "padre -> (the) -> (the plural)",
+            "tried": 0
+        },
+        {
+            "answer": "il ragazzo, i ragazzi",
+            "failed": 0,
+            "question": "ragazzo -> (the) -> (the plural)",
+            "tried": 0
+        },
+        {
+            "answer": "lo studente, gli studenti",
+            "failed": 0,
+            "question": "studente -> (the) -> (the plural)",
+            "tried": 0
+        },
+        {
+            "answer": "lo zio, gli zii",
+            "failed": 0,
+            "question": "zio -> (the) -> (the plural)",
+            "tried": 0
+        },
+        {
+            "answer": "il bambino, i bambini",
+            "failed": 0,
+            "question": "bambino -> (the) -> (the plural)",
+            "tried": 0
+        },
+        {
+            "answer": "il tavolo, i tavoli",
+            "failed": 0,
+            "question": "tavolo -> (the) -> (the plural)",
+            "tried": 0
+        },
+        {
+            "answer": "l'armadio, gli armadi",
+            "failed": 0,
+            "question": "armadio -> (the) -> (the plural)",
+            "tried": 0
+        },
+        {
+            "answer": "lo specchio, gli specchi",
+            "failed": 0,
+            "question": "specchio -> (the) -> (the plural)",
+            "tried": 0
+        },
+        {
+            "answer": "la madre, le madri",
+            "failed": 0,
+            "question": "madre -> (the) -> (the plural)",
+            "tried": 0
+        },
+        {
+            "answer": "la ragazza, le ragazze",
+            "failed": 0,
+            "question": "ragazza -> (the) -> (the plural)",
+            "tried": 0
+        },
+        {
+            "answer": "la studentessa, le studentesse",
+            "failed": 0,
+            "question": "studentessa -> (the) -> (the plural)",
+            "tried": 0
+        },
+        {
+            "answer": "la zia, le zie",
+            "failed": 0,
+            "question": "zia -> (the) -> (the plural)",
+            "tried": 0
+        },
+        {
+            "answer": "la bambina, le bambine",
+            "failed": 0,
+            "question": "bambina -> (the) -> (the plural)",
+            "tried": 0
+        },
+        {
+            "answer": "la casa, le case",
+            "failed": 0,
+            "question": "casa -> (the) -> (the plural)",
+            "tried": 0
+        },
+        {
+            "answer": "la camera, le camare",
+            "failed": 0,
+            "question": "camera -> (the) -> (the plural)",
+            "tried": 0
+        },
+        {
+            "answer": "la cucina, le cucine",
+            "failed": 0,
+            "question": "cucina -> (the) -> (the plural)",
+            "tried": 0
+        },
+        {
+            "answer": "to agree",
+            "failed": 0,
+            "question": "What is the definition of \"essere d'accordo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "essere d'accordo",
+            "failed": 0,
+            "question": "Given the definition \"to agree\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to be on time",
+            "failed": 0,
+            "question": "What is the definition of \"essere in orario\"?",
+            "tried": 0
+        },
+        {
+            "answer": "essere in orario",
+            "failed": 0,
+            "question": "Given the definition \"to be on time\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to be on time",
+            "failed": 0,
+            "question": "What is the definition of \"essere puntuale\"?",
+            "tried": 0
+        },
+        {
+            "answer": "essere puntuale",
+            "failed": 0,
+            "question": "Given the definition \"to be on time\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to be late",
+            "failed": 0,
+            "question": "What is the definition of \"essere in ritardo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "essere in ritardo",
+            "failed": 0,
+            "question": "Given the definition \"to be late\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Do you agree?",
+            "failed": 0,
+            "question": "What is the definition of \"Sei d'accordo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Sei d'accordo",
+            "failed": 0,
+            "question": "Given the definition \"Do you agree?\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "The professor is always on time.",
+            "failed": 0,
+            "question": "What is the definition of \"Il professore e' sempre puntuale.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Il professore e' sempre puntuale.",
+            "failed": 0,
+            "question": "Given the definition \"The professor is always on time.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "The friends are in the living room.",
+            "failed": 0,
+            "question": "What is the definition of \"Gli amici sono in soggiorno.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Gli amici sono in soggiorno.",
+            "failed": 0,
+            "question": "Given the definition \"The friends are in the living room.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "The grandparents are in the bedroom.",
+            "failed": 0,
+            "question": "What is the definition of \"I nonni sono in camera da letto.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I nonni sono in camera da letto.",
+            "failed": 0,
+            "question": "Given the definition \"The grandparents are in the bedroom.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "I am in a hurry.",
+            "failed": 0,
+            "question": "What is the definition of \"Ho fretta.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Ho fretta.",
+            "failed": 0,
+            "question": "Given the definition \"I am in a hurry.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "The daughter is in the bedroom.",
+            "failed": 0,
+            "question": "What is the definition of \"La figlia e' in camera.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "La figlia e' in camera.",
+            "failed": 0,
+            "question": "Given the definition \"The daughter is in the bedroom.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "You (informal) are late.",
+            "failed": 0,
+            "question": "What is the definition of \"Sei in ritardo.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Sei in ritardo.",
+            "failed": 0,
+            "question": "Given the definition \"You (informal) are late.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "The girls are hungry.",
+            "failed": 0,
+            "question": "What is the definition of \"Le bambine hanno fame.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Le bambine hanno fame.",
+            "failed": 0,
+            "question": "Given the definition \"The girls are hungry.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "The chairs are in the kitchen.",
+            "failed": 0,
+            "question": "What is the definition of \"Le sedie sono in cucina.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Le sedie sono in cucina.",
+            "failed": 0,
+            "question": "Given the definition \"The chairs are in the kitchen.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "In the kitchen there are plates and cups.",
+            "failed": 0,
+            "question": "What is the definition of \"In cucina ci sono i piatti e le tazze.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "In cucina ci sono i piatti e le tazze.",
+            "failed": 0,
+            "question": "Given the definition \"In the kitchen there are plates and cups.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "They are in the garden.",
+            "failed": 0,
+            "question": "What is the definition of \"Loro sono in giardino.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Loro sono in giardino.",
+            "failed": 0,
+            "question": "Given the definition \"They are in the garden.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "I am from Rome, and you? (formal)",
+            "failed": 0,
+            "question": "What is the definition of \"Io sono di Roma, e Lei?\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Io sono di Roma, e Lei?",
+            "failed": 0,
+            "question": "Given the definition \"I am from Rome, and you? (formal)\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "The books are on the table.",
+            "failed": 0,
+            "question": "What is the definition of \"I libri sono sul tavolo.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I libri sono sul tavolo.",
+            "failed": 0,
+            "question": "Given the definition \"The books are on the table.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "The father is from Venice.",
+            "failed": 0,
+            "question": "What is the definition of \"Il padre e' di Venezia.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Il padre e' di Venezia.",
+            "failed": 0,
+            "question": "Given the definition \"The father is from Venice.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "In the bathrrom there is a mirror.",
+            "failed": 0,
+            "question": "What is the definition of \"In bagno c'e' uno speccio.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "In bagno c'e' uno speccio.",
+            "failed": 0,
+            "question": "Given the definition \"In the bathrrom there is a mirror.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Do you (formal) agree?",
+            "failed": 0,
+            "question": "What is the definition of \"Lei e' d'accordo?\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Lei e' d'accordo?",
+            "failed": 0,
+            "question": "Given the definition \"Do you (formal) agree?\", what is the word?",
+            "tried": 0
+        }
+    ]
+}

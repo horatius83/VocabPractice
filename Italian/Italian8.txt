@@ -1,0 +1,38 @@
+v0.1	Beginning of Lesson 5
+v	The couch is new	Il divano e' nuovo.
+v	The house is old.	Le casa e' vecchia.
+v	The beds are small.	I letti sono piccoli.
+v	The bedrooms are beautiful.	Le camera da letto sono belle.
+v	The kitchen is big.	La cucina e' grande.
+v	The bathroom is ugly.	Il bagno e' brutto.
+v	The rug is red.	Il tappeto e' rosso.
+v	The pillows are yellow.	I cuscini sono gialli.
+v	The table is green.	Il tavolo e' verde.
+v	The chairs are brown.	Le sedie sono marroni.
+v	The washing machine is white.	La lavatrice e' bianca.
+v	The dishes are blue.	I piatti sono blu.
+v	The pans are black.	Le pentole sono nere.
+q	La casa e' piccola.	The house is small.
+q	Il bagno e' brutto.	The bathroom is ugly.
+q	La lavatrice e' bianca.	The washing machine is white.
+q	Il divano e' nuovo.	The couch is new.
+q	I cuscini sono blu.	The pillows are blue.
+q	Le sedie sono marroni.	The chairs are brown.
+q	La cucina e' grande.	The kitchen is large.
+q	Il tavolo e' verde.	The table is green.
+v	new	nuovo
+v	old	vecchio
+v	small	piccola
+v	big	grande
+v	beautiful	bello
+v	ugly	brutto
+q	new (singular, masculine)	nuovo
+q	new (plural, masculine)	nuovi
+q	new (singular, feminine)	nuova
+q	new (plural, feminine)	nuove
+v	il divano nuovo	the new couch
+v	i letti nuovi	the new beds
+v	la casa nuova	the new house
+v	le camere nuove	the new bedrooms
+v	la cucina grande	the big kitchen
+v	il bagno grande	the big bathroom

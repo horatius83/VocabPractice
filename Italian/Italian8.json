@@ -2,376 +2,438 @@
     "name": ".\\Italian\\Italian8.json",
     "vocab": [
         {
-            "answer": "Il divano e' nuovo.",
-            "failed": 0,
-            "question": "What is the definition of \"The couch is new\"?",
-            "tried": 0
+            "answer": "beautiful",
+            "failed": 1,
+            "lastAsked": 1448043120.7041228,
+            "question": "Given the definition \"bello\", what is the word?",
+            "tried": 2
         },
         {
-            "answer": "The couch is new",
-            "failed": 0,
-            "question": "Given the definition \"Il divano e' nuovo.\", what is the word?",
-            "tried": 0
+            "answer": "Il tappeto e' rosso.",
+            "failed": 2,
+            "lastAsked": 1448043164.347619,
+            "question": "What is the definition of \"The rug is red.\"?",
+            "tried": 3
         },
         {
-            "answer": "Le casa e' vecchia.",
+            "answer": "nuovo",
             "failed": 0,
-            "question": "What is the definition of \"The house is old.\"?",
-            "tried": 0
+            "lastAsked": 1448042958.3398361,
+            "question": "new (singular, masculine)",
+            "tried": 1
         },
         {
-            "answer": "The house is old.",
-            "failed": 0,
-            "question": "Given the definition \"Le casa e' vecchia.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "I letti sono piccoli.",
-            "failed": 0,
-            "question": "What is the definition of \"The beds are small.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "The beds are small.",
-            "failed": 0,
-            "question": "Given the definition \"I letti sono piccoli.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Le camera da letto sono belle.",
-            "failed": 0,
-            "question": "What is the definition of \"The bedrooms are beautiful.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "The bedrooms are beautiful.",
-            "failed": 0,
-            "question": "Given the definition \"Le camera da letto sono belle.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "La cucina e' grande.",
-            "failed": 0,
-            "question": "What is the definition of \"The kitchen is big.\"?",
-            "tried": 0
+            "answer": "brutto",
+            "failed": 1,
+            "lastAsked": 1448043123.1132605,
+            "question": "What is the definition of \"ugly\"?",
+            "tried": 2
         },
         {
             "answer": "The kitchen is big.",
             "failed": 0,
+            "lastAsked": 1448043005.596539,
             "question": "Given the definition \"La cucina e' grande.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Il bagno e' brutto.",
-            "failed": 0,
-            "question": "What is the definition of \"The bathroom is ugly.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "The bathroom is ugly.",
-            "failed": 0,
-            "question": "Given the definition \"Il bagno e' brutto.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Il tappeto e' rosso.",
-            "failed": 0,
-            "question": "What is the definition of \"The rug is red.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "The rug is red.",
-            "failed": 0,
-            "question": "Given the definition \"Il tappeto e' rosso.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "I cuscini sono gialli.",
-            "failed": 0,
-            "question": "What is the definition of \"The pillows are yellow.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "The pillows are yellow.",
-            "failed": 0,
-            "question": "Given the definition \"I cuscini sono gialli.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Il tavolo e' verde.",
-            "failed": 0,
-            "question": "What is the definition of \"The table is green.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "The table is green.",
-            "failed": 0,
-            "question": "Given the definition \"Il tavolo e' verde.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Le sedie sono marroni.",
-            "failed": 0,
-            "question": "What is the definition of \"The chairs are brown.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "The chairs are brown.",
-            "failed": 0,
-            "question": "Given the definition \"Le sedie sono marroni.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "La lavatrice e' bianca.",
-            "failed": 0,
-            "question": "What is the definition of \"The washing machine is white.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "The washing machine is white.",
-            "failed": 0,
-            "question": "Given the definition \"La lavatrice e' bianca.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "I piatti sono blu.",
-            "failed": 0,
-            "question": "What is the definition of \"The dishes are blue.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "The dishes are blue.",
-            "failed": 0,
-            "question": "Given the definition \"I piatti sono blu.\", what is the word?",
-            "tried": 0
+            "tried": 1
         },
         {
             "answer": "Le pentole sono nere.",
-            "failed": 0,
+            "failed": 1,
+            "lastAsked": 1448043151.1798658,
             "question": "What is the definition of \"The pans are black.\"?",
-            "tried": 0
+            "tried": 2
         },
         {
-            "answer": "The pans are black.",
-            "failed": 0,
-            "question": "Given the definition \"Le pentole sono nere.\", what is the word?",
-            "tried": 0
+            "answer": "I letti sono piccoli.",
+            "failed": 1,
+            "lastAsked": 1448043107.6443758,
+            "question": "What is the definition of \"The beds are small.\"?",
+            "tried": 2
         },
         {
-            "answer": "The house is small.",
-            "failed": 0,
-            "question": "La casa e' piccola.",
-            "tried": 0
-        },
-        {
-            "answer": "The bathroom is ugly.",
-            "failed": 0,
-            "question": "Il bagno e' brutto.",
-            "tried": 0
-        },
-        {
-            "answer": "The washing machine is white.",
-            "failed": 0,
-            "question": "La lavatrice e' bianca.",
-            "tried": 0
-        },
-        {
-            "answer": "The couch is new.",
-            "failed": 0,
-            "question": "Il divano e' nuovo.",
-            "tried": 0
-        },
-        {
-            "answer": "The pillows are blue.",
-            "failed": 0,
-            "question": "I cuscini sono blu.",
-            "tried": 0
-        },
-        {
-            "answer": "The chairs are brown.",
-            "failed": 0,
-            "question": "Le sedie sono marroni.",
-            "tried": 0
-        },
-        {
-            "answer": "The kitchen is large.",
-            "failed": 0,
-            "question": "La cucina e' grande.",
-            "tried": 0
-        },
-        {
-            "answer": "The table is green.",
-            "failed": 0,
-            "question": "Il tavolo e' verde.",
-            "tried": 0
-        },
-        {
-            "answer": "nuovo",
-            "failed": 0,
-            "question": "What is the definition of \"new\"?",
-            "tried": 0
-        },
-        {
-            "answer": "new",
-            "failed": 0,
-            "question": "Given the definition \"nuovo\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "vecchio",
-            "failed": 0,
-            "question": "What is the definition of \"old\"?",
-            "tried": 0
-        },
-        {
-            "answer": "old",
-            "failed": 0,
-            "question": "Given the definition \"vecchio\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "piccola",
-            "failed": 0,
-            "question": "What is the definition of \"small\"?",
-            "tried": 0
-        },
-        {
-            "answer": "small",
-            "failed": 0,
-            "question": "Given the definition \"piccola\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "grande",
-            "failed": 0,
-            "question": "What is the definition of \"big\"?",
-            "tried": 0
-        },
-        {
-            "answer": "big",
-            "failed": 0,
-            "question": "Given the definition \"grande\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "bello",
-            "failed": 0,
-            "question": "What is the definition of \"beautiful\"?",
-            "tried": 0
-        },
-        {
-            "answer": "beautiful",
-            "failed": 0,
-            "question": "Given the definition \"bello\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "brutto",
-            "failed": 0,
-            "question": "What is the definition of \"ugly\"?",
-            "tried": 0
-        },
-        {
-            "answer": "ugly",
-            "failed": 0,
-            "question": "Given the definition \"brutto\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "nuovo",
-            "failed": 0,
-            "question": "new (singular, masculine)",
-            "tried": 0
+            "answer": "nuova",
+            "failed": 1,
+            "lastAsked": 1448043110.5535421,
+            "question": "new (singular, feminine)",
+            "tried": 2
         },
         {
             "answer": "nuovi",
             "failed": 0,
+            "lastAsked": 1448043195.017373,
             "question": "new (plural, masculine)",
-            "tried": 0
+            "tried": 1
         },
         {
-            "answer": "nuova",
-            "failed": 0,
-            "question": "new (singular, feminine)",
-            "tried": 0
+            "answer": "Le camera da letto sono belle.",
+            "failed": 1,
+            "lastAsked": 1448043302.6685305,
+            "question": "What is the definition of \"The bedrooms are beautiful.\"?",
+            "tried": 2
         },
         {
-            "answer": "nuove",
+            "answer": "The pillows are blue.",
             "failed": 0,
-            "question": "new (plural, feminine)",
-            "tried": 0
+            "lastAsked": 1448043182.5686612,
+            "question": "I cuscini sono blu.",
+            "tried": 1
         },
         {
-            "answer": "the new couch",
+            "answer": "new",
             "failed": 0,
-            "question": "What is the definition of \"il divano nuovo\"?",
-            "tried": 0
+            "lastAsked": 1448043167.0327725,
+            "question": "Given the definition \"nuovo\", what is the word?",
+            "tried": 1
         },
         {
-            "answer": "il divano nuovo",
+            "answer": "Il bagno e' brutto.",
             "failed": 0,
-            "question": "Given the definition \"the new couch\", what is the word?",
-            "tried": 0
+            "lastAsked": 1448043238.8308792,
+            "question": "What is the definition of \"The bathroom is ugly.\"?",
+            "tried": 1
         },
         {
-            "answer": "the new beds",
-            "failed": 0,
-            "question": "What is the definition of \"i letti nuovi\"?",
-            "tried": 0
+            "answer": "old",
+            "failed": 1,
+            "lastAsked": 1448043288.9237444,
+            "question": "Given the definition \"vecchio\", what is the word?",
+            "tried": 2
         },
         {
-            "answer": "i letti nuovi",
+            "answer": "The chairs are brown.",
             "failed": 0,
-            "question": "Given the definition \"the new beds\", what is the word?",
-            "tried": 0
+            "lastAsked": 1448043189.822076,
+            "question": "Le sedie sono marroni.",
+            "tried": 1
         },
         {
-            "answer": "the new house",
-            "failed": 0,
-            "question": "What is the definition of \"la casa nuova\"?",
-            "tried": 0
+            "answer": "I piatti sono blu.",
+            "failed": 1,
+            "lastAsked": 1448043287.064638,
+            "question": "What is the definition of \"The dishes are blue.\"?",
+            "tried": 2
         },
         {
-            "answer": "la casa nuova",
-            "failed": 0,
-            "question": "Given the definition \"the new house\", what is the word?",
-            "tried": 0
+            "answer": "The table is green.",
+            "failed": 1,
+            "lastAsked": 1448043379.852945,
+            "question": "Il tavolo e' verde.",
+            "tried": 2
         },
         {
-            "answer": "the new bedrooms",
-            "failed": 0,
-            "question": "What is the definition of \"le camere nuove\"?",
-            "tried": 0
+            "answer": "The pillows are yellow.",
+            "failed": 1,
+            "lastAsked": 1448043385.4392648,
+            "question": "Given the definition \"I cuscini sono gialli.\", what is the word?",
+            "tried": 2
         },
         {
-            "answer": "le camere nuove",
+            "answer": "grande",
             "failed": 0,
-            "question": "Given the definition \"the new bedrooms\", what is the word?",
-            "tried": 0
+            "lastAsked": 1448043349.6782193,
+            "question": "What is the definition of \"big\"?",
+            "tried": 1
         },
         {
             "answer": "the big kitchen",
             "failed": 0,
+            "lastAsked": 1448043346.6910484,
             "question": "What is the definition of \"la cucina grande\"?",
-            "tried": 0
+            "tried": 1
         },
         {
-            "answer": "la cucina grande",
+            "answer": "The couch is new.",
             "failed": 0,
-            "question": "Given the definition \"the big kitchen\", what is the word?",
-            "tried": 0
+            "lastAsked": 1448043327.3409417,
+            "question": "Il divano e' nuovo.",
+            "tried": 1
+        },
+        {
+            "answer": "the new bedrooms",
+            "failed": 0,
+            "lastAsked": 1448043357.9816942,
+            "question": "What is the definition of \"le camere nuove\"?",
+            "tried": 1
+        },
+        {
+            "answer": "The house is small.",
+            "failed": 0,
+            "lastAsked": 1448043333.727307,
+            "question": "La casa e' piccola.",
+            "tried": 1
+        },
+        {
+            "answer": "vecchio",
+            "failed": 0,
+            "lastAsked": 1448043338.569584,
+            "question": "What is the definition of \"old\"?",
+            "tried": 1
         },
         {
             "answer": "the big bathroom",
             "failed": 0,
+            "lastAsked": 1448043495.8765814,
             "question": "What is the definition of \"il bagno grande\"?",
-            "tried": 0
+            "tried": 1
+        },
+        {
+            "answer": "le camere nuove",
+            "failed": 1,
+            "lastAsked": 1448043517.9668448,
+            "question": "Given the definition \"the new bedrooms\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "The kitchen is large.",
+            "failed": 0,
+            "lastAsked": 1448043469.9320974,
+            "question": "La cucina e' grande.",
+            "tried": 1
+        },
+        {
+            "answer": "Il tavolo e' verde.",
+            "failed": 0,
+            "lastAsked": 1448043487.9641287,
+            "question": "What is the definition of \"The table is green.\"?",
+            "tried": 1
+        },
+        {
+            "answer": "The washing machine is white.",
+            "failed": 0,
+            "lastAsked": 1448043480.11768,
+            "question": "Given the definition \"La lavatrice e' bianca.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "The couch is new",
+            "failed": 0,
+            "lastAsked": 1448043460.9475837,
+            "question": "Given the definition \"Il divano e' nuovo.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "Le casa e' vecchia.",
+            "failed": 1,
+            "lastAsked": 1448043508.824322,
+            "question": "What is the definition of \"The house is old.\"?",
+            "tried": 2
+        },
+        {
+            "answer": "small",
+            "failed": 0,
+            "lastAsked": 1448043465.2148275,
+            "question": "Given the definition \"piccola\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "nuove",
+            "failed": 0,
+            "lastAsked": 1448043569.474791,
+            "question": "new (plural, feminine)",
+            "tried": 1
+        },
+        {
+            "answer": "nuovo",
+            "failed": 0,
+            "lastAsked": 1448043577.2962382,
+            "question": "What is the definition of \"new\"?",
+            "tried": 1
+        },
+        {
+            "answer": "The table is green.",
+            "failed": 0,
+            "lastAsked": 1448043584.0476246,
+            "question": "Given the definition \"Il tavolo e' verde.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "The house is old.",
+            "failed": 0,
+            "lastAsked": 1448043524.2192025,
+            "question": "Given the definition \"Le casa e' vecchia.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "ugly",
+            "failed": 0,
+            "lastAsked": 1448043565.2415488,
+            "question": "Given the definition \"brutto\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "The bedrooms are beautiful.",
+            "failed": 0,
+            "lastAsked": 1448043562.9254165,
+            "question": "Given the definition \"Le camera da letto sono belle.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "la cucina grande",
+            "failed": 0,
+            "lastAsked": 1448043543.8833272,
+            "question": "Given the definition \"the big kitchen\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "the new house",
+            "failed": 0,
+            "lastAsked": 1448043574.8831003,
+            "question": "What is the definition of \"la casa nuova\"?",
+            "tried": 1
+        },
+        {
+            "answer": "The beds are small.",
+            "failed": 1,
+            "lastAsked": 1448043672.3046725,
+            "question": "Given the definition \"I letti sono piccoli.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "The rug is red.",
+            "failed": 0,
+            "lastAsked": 1448043644.4210777,
+            "question": "Given the definition \"Il tappeto e' rosso.\", what is the word?",
+            "tried": 1
         },
         {
             "answer": "il bagno grande",
             "failed": 0,
+            "lastAsked": 1448043613.460307,
             "question": "Given the definition \"the big bathroom\", what is the word?",
-            "tried": 0
+            "tried": 1
+        },
+        {
+            "answer": "La lavatrice e' bianca.",
+            "failed": 0,
+            "lastAsked": 1448043620.106687,
+            "question": "What is the definition of \"The washing machine is white.\"?",
+            "tried": 1
+        },
+        {
+            "answer": "la casa nuova",
+            "failed": 0,
+            "lastAsked": 1448043637.851702,
+            "question": "Given the definition \"the new house\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "The chairs are brown.",
+            "failed": 0,
+            "lastAsked": 1448043630.596287,
+            "question": "Given the definition \"Le sedie sono marroni.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "I cuscini sono gialli.",
+            "failed": 1,
+            "lastAsked": 1448043679.816102,
+            "question": "What is the definition of \"The pillows are yellow.\"?",
+            "tried": 2
+        },
+        {
+            "answer": "the new couch",
+            "failed": 0,
+            "lastAsked": 1448043623.9549072,
+            "question": "What is the definition of \"il divano nuovo\"?",
+            "tried": 1
+        },
+        {
+            "answer": "Il divano e' nuovo.",
+            "failed": 0,
+            "lastAsked": 1448043703.9224808,
+            "question": "What is the definition of \"The couch is new\"?",
+            "tried": 1
+        },
+        {
+            "answer": "the new beds",
+            "failed": 0,
+            "lastAsked": 1448043733.384166,
+            "question": "What is the definition of \"i letti nuovi\"?",
+            "tried": 1
+        },
+        {
+            "answer": "The pans are black.",
+            "failed": 0,
+            "lastAsked": 1448043687.0545163,
+            "question": "Given the definition \"Le pentole sono nere.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "The bathroom is ugly.",
+            "failed": 0,
+            "lastAsked": 1448043709.1817818,
+            "question": "Given the definition \"Il bagno e' brutto.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "piccola",
+            "failed": 0,
+            "lastAsked": 1448043728.240872,
+            "question": "What is the definition of \"small\"?",
+            "tried": 1
+        },
+        {
+            "answer": "il divano nuovo",
+            "failed": 0,
+            "lastAsked": 1448043695.7860155,
+            "question": "Given the definition \"the new couch\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "bello",
+            "failed": 0,
+            "lastAsked": 1448043725.5557182,
+            "question": "What is the definition of \"beautiful\"?",
+            "tried": 1
+        },
+        {
+            "answer": "i letti nuovi",
+            "failed": 0,
+            "lastAsked": 1448043719.7413857,
+            "question": "Given the definition \"the new beds\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "big",
+            "failed": 0,
+            "lastAsked": 1448043735.5112877,
+            "question": "Given the definition \"grande\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "Le sedie sono marroni.",
+            "failed": 0,
+            "lastAsked": 1448043750.970172,
+            "question": "What is the definition of \"The chairs are brown.\"?",
+            "tried": 1
+        },
+        {
+            "answer": "La cucina e' grande.",
+            "failed": 1,
+            "lastAsked": 1448043796.410771,
+            "question": "What is the definition of \"The kitchen is big.\"?",
+            "tried": 2
+        },
+        {
+            "answer": "The dishes are blue.",
+            "failed": 0,
+            "lastAsked": 1448043770.8963115,
+            "question": "Given the definition \"I piatti sono blu.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "The bathroom is ugly.",
+            "failed": 0,
+            "lastAsked": 1448043759.4026542,
+            "question": "Il bagno e' brutto.",
+            "tried": 1
+        },
+        {
+            "answer": "The washing machine is white.",
+            "failed": 0,
+            "lastAsked": 1448043741.4976301,
+            "question": "La lavatrice e' bianca.",
+            "tried": 1
         }
     ]
 }

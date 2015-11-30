@@ -1,0 +1,70 @@
+v0.1	The rest of Chapter 5
+v	my house	la mia casa
+v	your apartment	il tuo appartmento
+v	his/her table	il suo tavolo
+v	his/her kitchen	la sua cucina
+v	our bed	il nostro letto
+v	y'alls pillow	il vostro cuscino
+v	their rug	il loro tappeto
+v	Your father is nice.	Tuo padre e' simpatico.
+v	Your mom is sweet.	La tua mamma e' dolce.
+v	Your sister is intelligent.	Tua sorella e' intelligente.
+q	La mia casa e' piccola. (tua)	La tua casa e' piccola.
+q	Il mio tavolo e' verde. (loro)	Il loro tavolo e' verde.
+q	Il mio letto e' grande. (suo)	Il suo letto e' grande.
+q	Il loro tappeto e' nuovo. (nostro)	Il nostro tappeto e' nuovo.
+q	La sua cucina e' bella. (vostra)	La vostra cucina e' bella.
+q	Mio padre e' intelligente. (vostro)	Vostro padre e' intelligente.
+q	Tua cucina e' simpatica. (mia)	Mia cugina e' simpatica.
+q	Vostra madre e' dolce. (sua)	Sua madre e' dolce.
+q	my (Masculine Singular)	mio
+q	my (Feminine Singular)	mia
+q	my (Masculine Plural)	miei
+q	my (Feminine Plural)	mie
+q	your (Masculine Singular)	tuo
+q	your (Feminine Singular)	tua
+q	your (Masculine Plural)	tuoi
+q	your (Feminine Plural)	tue
+q	his, her (Masculine Singular)	suo
+q	his, her (Feminine Singular)	sua
+q	his, her (Masculine Plural)	suoi
+q	his, her (Feminine Plural)	sue
+q	our (Masculine Singular)	nostro
+q	our (Feminine Singular)	nostra
+q	our (Masculine Plural)	nostri
+q	our (Feminine Plural)	nostre
+q	y'alls (Masculine Singular)	vostro
+q	y'alls (Feminine Singular)	vostra
+q	y'alls (Masculine Plural)	vostri
+q	y'alls (Feminine Plural)	vostre
+q	their (Masculine Singular)	loro
+q	their (Feminine Singular)	loro
+q	their (Masculine Plural)	loro
+q	their (Feminine Plural)	loro
+q	My house is old.	La mia casa e' vecchia.
+q	Your pillows are green.	I tuoi cuscini sono verdi.
+q	His/Her table is big.	Il suo tavolo e' grande.
+q	Our washing machines are white.	Le nostre lavatrici sono bianche.
+q	Y'alls couch is red.	Il vostro divano e' rosso.
+q	Their beds are small.	I loro letti sono piccoli.
+q	Their bedrooms are new.	Le loro camere da letto sono nuove.
+q	Your dishes are yellow.	I tuoi piatti sono gialli.
+q	Her kitchen is beautiful.	La sua cucina e' bella.
+v	My family is big.	La mia famiglia e' numerosa.
+v	My father, Bob is very nice.	Mio padre, Bob, e' molto simpatico.
+v	His car is red.	La sua automobile e' rossa.
+v	My mother, Laura is a little stressed.	Mia madre, Laura, e' un po' stressata.
+v	Her bike is green.	La sua bicicletta e' verde.
+v	My sister, Ann, is very intelligent.	Mia sorella, Ann, e' molto intelligente.
+v	Her bedroom is always clean.	La sua camera da letto e' sempre pulita.
+v	My cousins are a little stressed, too.	Anche i miei cugini sono un po' stressati.
+v	Their apartments are old.	I loro appartamenti sono vecchi.
+v	My grandparents are happy.	I miei nonni sono felici.
+v	Their garden is very big.	Il loro giardino e' molto grande.
+v	My garden, on the other hand, is very small.	Il mio giardino, invece, e' molto piccolo.
+v	la sua automobile	his car
+v	la sua bicicletta	her bike
+v	molto	very
+v	un po'	a little
+v	invece	instead
+v	anche	too, also

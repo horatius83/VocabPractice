@@ -1,0 +1,587 @@
+{
+    "name": ".\\Italian\\Italian9.json",
+    "vocab": [
+        {
+            "answer": "la mia casa",
+            "failed": 0,
+            "question": "What is the definition of \"my house\"?",
+            "tried": 0
+        },
+        {
+            "answer": "my house",
+            "failed": 0,
+            "question": "Given the definition \"la mia casa\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "il tuo appartmento",
+            "failed": 0,
+            "question": "What is the definition of \"your apartment\"?",
+            "tried": 0
+        },
+        {
+            "answer": "your apartment",
+            "failed": 0,
+            "question": "Given the definition \"il tuo appartmento\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "il suo tavolo",
+            "failed": 0,
+            "question": "What is the definition of \"his/her table\"?",
+            "tried": 0
+        },
+        {
+            "answer": "his/her table",
+            "failed": 0,
+            "question": "Given the definition \"il suo tavolo\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "la sua cucina",
+            "failed": 0,
+            "question": "What is the definition of \"his/her kitchen\"?",
+            "tried": 0
+        },
+        {
+            "answer": "his/her kitchen",
+            "failed": 0,
+            "question": "Given the definition \"la sua cucina\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "il nostro letto",
+            "failed": 0,
+            "question": "What is the definition of \"our bed\"?",
+            "tried": 0
+        },
+        {
+            "answer": "our bed",
+            "failed": 0,
+            "question": "Given the definition \"il nostro letto\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "il vostro cuscino",
+            "failed": 0,
+            "question": "What is the definition of \"y'alls pillow\"?",
+            "tried": 0
+        },
+        {
+            "answer": "y'alls pillow",
+            "failed": 0,
+            "question": "Given the definition \"il vostro cuscino\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "il loro tappeto",
+            "failed": 0,
+            "question": "What is the definition of \"their rug\"?",
+            "tried": 0
+        },
+        {
+            "answer": "their rug",
+            "failed": 0,
+            "question": "Given the definition \"il loro tappeto\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Tuo padre e' simpatico.",
+            "failed": 0,
+            "question": "What is the definition of \"Your father is nice.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Your father is nice.",
+            "failed": 0,
+            "question": "Given the definition \"Tuo padre e' simpatico.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "La tua mamma e' dolce.",
+            "failed": 0,
+            "question": "What is the definition of \"Your mom is sweet.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Your mom is sweet.",
+            "failed": 0,
+            "question": "Given the definition \"La tua mamma e' dolce.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Tua sorella e' intelligente.",
+            "failed": 0,
+            "question": "What is the definition of \"Your sister is intelligent.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Your sister is intelligent.",
+            "failed": 0,
+            "question": "Given the definition \"Tua sorella e' intelligente.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "La tua casa e' piccola.",
+            "failed": 0,
+            "question": "La mia casa e' piccola. (tua)",
+            "tried": 0
+        },
+        {
+            "answer": "Il loro tavolo e' verde.",
+            "failed": 0,
+            "question": "Il mio tavolo e' verde. (loro)",
+            "tried": 0
+        },
+        {
+            "answer": "Il suo letto e' grande.",
+            "failed": 0,
+            "question": "Il mio letto e' grande. (suo)",
+            "tried": 0
+        },
+        {
+            "answer": "Il nostro tappeto e' nuovo.",
+            "failed": 0,
+            "question": "Il loro tappeto e' nuovo. (nostro)",
+            "tried": 0
+        },
+        {
+            "answer": "La vostra cucina e' bella.",
+            "failed": 0,
+            "question": "La sua cucina e' bella. (vostra)",
+            "tried": 0
+        },
+        {
+            "answer": "Vostro padre e' intelligente.",
+            "failed": 0,
+            "question": "Mio padre e' intelligente. (vostro)",
+            "tried": 0
+        },
+        {
+            "answer": "Mia cugina e' simpatica.",
+            "failed": 0,
+            "question": "Tua cucina e' simpatica. (mia)",
+            "tried": 0
+        },
+        {
+            "answer": "Sua madre e' dolce.",
+            "failed": 0,
+            "question": "Vostra madre e' dolce. (sua)",
+            "tried": 0
+        },
+        {
+            "answer": "mio",
+            "failed": 0,
+            "question": "my (Masculine Singular)",
+            "tried": 0
+        },
+        {
+            "answer": "mia",
+            "failed": 0,
+            "question": "my (Feminine Singular)",
+            "tried": 0
+        },
+        {
+            "answer": "miei",
+            "failed": 0,
+            "question": "my (Masculine Plural)",
+            "tried": 0
+        },
+        {
+            "answer": "mie",
+            "failed": 0,
+            "question": "my (Feminine Plural)",
+            "tried": 0
+        },
+        {
+            "answer": "tuo",
+            "failed": 0,
+            "question": "your (Masculine Singular)",
+            "tried": 0
+        },
+        {
+            "answer": "tua",
+            "failed": 0,
+            "question": "your (Feminine Singular)",
+            "tried": 0
+        },
+        {
+            "answer": "tuoi",
+            "failed": 0,
+            "question": "your (Masculine Plural)",
+            "tried": 0
+        },
+        {
+            "answer": "tue",
+            "failed": 0,
+            "question": "your (Feminine Plural)",
+            "tried": 0
+        },
+        {
+            "answer": "suo",
+            "failed": 0,
+            "question": "his, her (Masculine Singular)",
+            "tried": 0
+        },
+        {
+            "answer": "sua",
+            "failed": 0,
+            "question": "his, her (Feminine Singular)",
+            "tried": 0
+        },
+        {
+            "answer": "suoi",
+            "failed": 0,
+            "question": "his, her (Masculine Plural)",
+            "tried": 0
+        },
+        {
+            "answer": "sue",
+            "failed": 0,
+            "question": "his, her (Feminine Plural)",
+            "tried": 0
+        },
+        {
+            "answer": "nostro",
+            "failed": 0,
+            "question": "our (Masculine Singular)",
+            "tried": 0
+        },
+        {
+            "answer": "nostra",
+            "failed": 0,
+            "question": "our (Feminine Singular)",
+            "tried": 0
+        },
+        {
+            "answer": "nostri",
+            "failed": 0,
+            "question": "our (Masculine Plural)",
+            "tried": 0
+        },
+        {
+            "answer": "nostre",
+            "failed": 0,
+            "question": "our (Feminine Plural)",
+            "tried": 0
+        },
+        {
+            "answer": "vostro",
+            "failed": 0,
+            "question": "y'alls (Masculine Singular)",
+            "tried": 0
+        },
+        {
+            "answer": "vostra",
+            "failed": 0,
+            "question": "y'alls (Feminine Singular)",
+            "tried": 0
+        },
+        {
+            "answer": "vostri",
+            "failed": 0,
+            "question": "y'alls (Masculine Plural)",
+            "tried": 0
+        },
+        {
+            "answer": "vostre",
+            "failed": 0,
+            "question": "y'alls (Feminine Plural)",
+            "tried": 0
+        },
+        {
+            "answer": "loro",
+            "failed": 0,
+            "question": "their (Masculine Singular)",
+            "tried": 0
+        },
+        {
+            "answer": "loro",
+            "failed": 0,
+            "question": "their (Feminine Singular)",
+            "tried": 0
+        },
+        {
+            "answer": "loro",
+            "failed": 0,
+            "question": "their (Masculine Plural)",
+            "tried": 0
+        },
+        {
+            "answer": "loro",
+            "failed": 0,
+            "question": "their (Feminine Plural)",
+            "tried": 0
+        },
+        {
+            "answer": "La mia casa e' vecchia.",
+            "failed": 0,
+            "question": "My house is old.",
+            "tried": 0
+        },
+        {
+            "answer": "I tuoi cuscini sono verdi.",
+            "failed": 0,
+            "question": "Your pillows are green.",
+            "tried": 0
+        },
+        {
+            "answer": "Il suo tavolo e' grande.",
+            "failed": 0,
+            "question": "His/Her table is big.",
+            "tried": 0
+        },
+        {
+            "answer": "Le nostre lavatrici sono bianche.",
+            "failed": 0,
+            "question": "Our washing machines are white.",
+            "tried": 0
+        },
+        {
+            "answer": "Il vostro divano e' rosso.",
+            "failed": 0,
+            "question": "Y'alls couch is red.",
+            "tried": 0
+        },
+        {
+            "answer": "I loro letti sono piccoli.",
+            "failed": 0,
+            "question": "Their beds are small.",
+            "tried": 0
+        },
+        {
+            "answer": "Le loro camere da letto sono nuove.",
+            "failed": 0,
+            "question": "Their bedrooms are new.",
+            "tried": 0
+        },
+        {
+            "answer": "I tuoi piatti sono gialli.",
+            "failed": 0,
+            "question": "Your dishes are yellow.",
+            "tried": 0
+        },
+        {
+            "answer": "La sua cucina e' bella.",
+            "failed": 0,
+            "question": "Her kitchen is beautiful.",
+            "tried": 0
+        },
+        {
+            "answer": "La mia famiglia e' numerosa.",
+            "failed": 0,
+            "question": "What is the definition of \"My family is big.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "My family is big.",
+            "failed": 0,
+            "question": "Given the definition \"La mia famiglia e' numerosa.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Mio padre, Bob, e' molto simpatico.",
+            "failed": 0,
+            "question": "What is the definition of \"My father, Bob is very nice.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "My father, Bob is very nice.",
+            "failed": 0,
+            "question": "Given the definition \"Mio padre, Bob, e' molto simpatico.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "La sua automobile e' rossa.",
+            "failed": 0,
+            "question": "What is the definition of \"His car is red.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "His car is red.",
+            "failed": 0,
+            "question": "Given the definition \"La sua automobile e' rossa.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Mia madre, Laura, e' un po' stressata.",
+            "failed": 0,
+            "question": "What is the definition of \"My mother, Laura is a little stressed.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "My mother, Laura is a little stressed.",
+            "failed": 0,
+            "question": "Given the definition \"Mia madre, Laura, e' un po' stressata.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "La sua bicicletta e' verde.",
+            "failed": 0,
+            "question": "What is the definition of \"Her bike is green.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Her bike is green.",
+            "failed": 0,
+            "question": "Given the definition \"La sua bicicletta e' verde.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Mia sorella, Ann, e' molto intelligente.",
+            "failed": 0,
+            "question": "What is the definition of \"My sister, Ann, is very intelligent.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "My sister, Ann, is very intelligent.",
+            "failed": 0,
+            "question": "Given the definition \"Mia sorella, Ann, e' molto intelligente.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "La sua camera da letto e' sempre pulita.",
+            "failed": 0,
+            "question": "What is the definition of \"Her bedroom is always clean.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Her bedroom is always clean.",
+            "failed": 0,
+            "question": "Given the definition \"La sua camera da letto e' sempre pulita.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Anche i miei cugini sono un po' stressati.",
+            "failed": 0,
+            "question": "What is the definition of \"My cousins are a little stressed, too.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "My cousins are a little stressed, too.",
+            "failed": 0,
+            "question": "Given the definition \"Anche i miei cugini sono un po' stressati.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "I loro appartamenti sono vecchi.",
+            "failed": 0,
+            "question": "What is the definition of \"Their apartments are old.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Their apartments are old.",
+            "failed": 0,
+            "question": "Given the definition \"I loro appartamenti sono vecchi.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "I miei nonni sono felici.",
+            "failed": 0,
+            "question": "What is the definition of \"My grandparents are happy.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "My grandparents are happy.",
+            "failed": 0,
+            "question": "Given the definition \"I miei nonni sono felici.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Il loro giardino e' molto grande.",
+            "failed": 0,
+            "question": "What is the definition of \"Their garden is very big.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Their garden is very big.",
+            "failed": 0,
+            "question": "Given the definition \"Il loro giardino e' molto grande.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Il mio giardino, invece, e' molto piccolo.",
+            "failed": 0,
+            "question": "What is the definition of \"My garden, on the other hand, is very small.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "My garden, on the other hand, is very small.",
+            "failed": 0,
+            "question": "Given the definition \"Il mio giardino, invece, e' molto piccolo.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "his car",
+            "failed": 0,
+            "question": "What is the definition of \"la sua automobile\"?",
+            "tried": 0
+        },
+        {
+            "answer": "la sua automobile",
+            "failed": 0,
+            "question": "Given the definition \"his car\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "her bike",
+            "failed": 0,
+            "question": "What is the definition of \"la sua bicicletta\"?",
+            "tried": 0
+        },
+        {
+            "answer": "la sua bicicletta",
+            "failed": 0,
+            "question": "Given the definition \"her bike\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "very",
+            "failed": 0,
+            "question": "What is the definition of \"molto\"?",
+            "tried": 0
+        },
+        {
+            "answer": "molto",
+            "failed": 0,
+            "question": "Given the definition \"very\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "a little",
+            "failed": 0,
+            "question": "What is the definition of \"un po'\"?",
+            "tried": 0
+        },
+        {
+            "answer": "un po'",
+            "failed": 0,
+            "question": "Given the definition \"a little\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "instead",
+            "failed": 0,
+            "question": "What is the definition of \"invece\"?",
+            "tried": 0
+        },
+        {
+            "answer": "invece",
+            "failed": 0,
+            "question": "Given the definition \"instead\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "too, also",
+            "failed": 0,
+            "question": "What is the definition of \"anche\"?",
+            "tried": 0
+        },
+        {
+            "answer": "anche",
+            "failed": 0,
+            "question": "Given the definition \"too, also\", what is the word?",
+            "tried": 0
+        }
+    ]
+}

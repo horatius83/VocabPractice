@@ -68,3 +68,19 @@ v	molto	very
 v	un po'	a little
 v	invece	instead
 v	anche	too, also
+q	Mio fratello e' intelligente. -> I ___ fratelli sono intelligenti.	miei
+q	La loro casa e' grande. Le ___ case sono grandi.	loro
+q	Il tuo tavolo e' marrone -> I ___ tavoli sono marroni.	tuoi
+q	La sua nipote e' di Roma. -> Le ___ nipoti sono di Roma.	sue
+q	Tuo zio e' in camera da letto. -> I ___ zii sono in camera da letto.	tuoi
+q	Il loro divano e' vecchio. -> I ___ divani sono vecchi.	loro
+q	Il suo bambino e' in giardino. -> I ___ bambini sono in giardino.	suoi
+q	La nostra automobile e' rossa. -> Le ___ automobili sono rosse.	nostre
+q	Le mie cugine sono intelligent_	intelligenti
+q	Il loro apartamento e' grande_	grande
+q	La camera da letto e' piccol_	piccola
+q	Il tavolo in cucina e' bianc_	bianco
+q	I cuscini sul divano sono bianch_	bianchi
+q	Le studentesse sono simpatich_	simpatiche
+q	Le pentole sono ner_	nere
+q	Mia sorella e' dolc_	dolce

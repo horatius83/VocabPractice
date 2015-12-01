@@ -582,6 +582,102 @@
             "failed": 0,
             "question": "Given the definition \"too, also\", what is the word?",
             "tried": 0
+        },
+        {
+            "answer": "miei",
+            "failed": 0,
+            "question": "Mio fratello e' intelligente. -> I ___ fratelli sono intelligenti.",
+            "tried": 0
+        },
+        {
+            "answer": "loro",
+            "failed": 0,
+            "question": "La loro casa e' grande. Le ___ case sono grandi.",
+            "tried": 0
+        },
+        {
+            "answer": "tuoi",
+            "failed": 0,
+            "question": "Il tuo tavolo e' marrone -> I ___ tavoli sono marroni.",
+            "tried": 0
+        },
+        {
+            "answer": "sue",
+            "failed": 0,
+            "question": "La sua nipote e' di Roma. -> Le ___ nipoti sono di Roma.",
+            "tried": 0
+        },
+        {
+            "answer": "tuoi",
+            "failed": 0,
+            "question": "Tuo zio e' in camera da letto. -> I ___ zii sono in camera da letto.",
+            "tried": 0
+        },
+        {
+            "answer": "loro",
+            "failed": 0,
+            "question": "Il loro divano e' vecchio. -> I ___ divani sono vecchi.",
+            "tried": 0
+        },
+        {
+            "answer": "suoi",
+            "failed": 0,
+            "question": "Il suo bambino e' in giardino. -> I ___ bambini sono in giardino.",
+            "tried": 0
+        },
+        {
+            "answer": "nostre",
+            "failed": 0,
+            "question": "La nostra automobile e' rossa. -> Le ___ automobili sono rosse.",
+            "tried": 0
+        },
+        {
+            "answer": "intelligenti",
+            "failed": 0,
+            "question": "Le mie cugine sono intelligent_",
+            "tried": 0
+        },
+        {
+            "answer": "grande",
+            "failed": 0,
+            "question": "Il loro apartamento e' grande_",
+            "tried": 0
+        },
+        {
+            "answer": "piccola",
+            "failed": 0,
+            "question": "La camera da letto e' piccol_",
+            "tried": 0
+        },
+        {
+            "answer": "bianco",
+            "failed": 0,
+            "question": "Il tavolo in cucina e' bianc_",
+            "tried": 0
+        },
+        {
+            "answer": "bianchi",
+            "failed": 0,
+            "question": "I cuscini sul divano sono bianch_",
+            "tried": 0
+        },
+        {
+            "answer": "simpatiche",
+            "failed": 0,
+            "question": "Le studentesse sono simpatich_",
+            "tried": 0
+        },
+        {
+            "answer": "nere",
+            "failed": 0,
+            "question": "Le pentole sono ner_",
+            "tried": 0
+        },
+        {
+            "answer": "dolce",
+            "failed": 0,
+            "question": "Mia sorella e' dolc_",
+            "tried": 0
         }
     ]
 }

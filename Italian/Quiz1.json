@@ -1,0 +1,197 @@
+{
+    "name": ".\\Italian\\Quiz1.json",
+    "vocab": [
+        {
+            "answer": "my name is",
+            "failed": 0,
+            "question": "What is the definition of \"mi chiamo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "mi chiamo",
+            "failed": 0,
+            "question": "Given the definition \"my name is\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "In the kitchen there is the table.",
+            "failed": 0,
+            "question": "What is the definition of \"In cucina c'e' il tavolo.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "In cucina c'e' il tavolo.",
+            "failed": 0,
+            "question": "Given the definition \"In the kitchen there is the table.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Here are my friends.",
+            "failed": 0,
+            "question": "What is the definition of \"Ecco i miei amici.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Ecco i miei amici.",
+            "failed": 0,
+            "question": "Given the definition \"Here are my friends.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "There's the brother.",
+            "failed": 0,
+            "question": "What is the definition of \"C'e' il fratello.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "C'e' il fratello.",
+            "failed": 0,
+            "question": "Given the definition \"There's the brother.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "your apartment",
+            "failed": 0,
+            "question": "What is the definition of \"il tuo appartamento\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il tuo appartamento",
+            "failed": 0,
+            "question": "Given the definition \"your apartment\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Come sta?",
+            "failed": 0,
+            "question": "How are you? (formal)",
+            "tried": 0
+        },
+        {
+            "answer": "(Io) sono di Boston.",
+            "failed": 0,
+            "question": "I'm from Boston.",
+            "tried": 0
+        },
+        {
+            "answer": "Piacere di conoscerLa.",
+            "failed": 0,
+            "question": "Pleased to meet you. (formal)",
+            "tried": 0
+        },
+        {
+            "answer": "Lei di dov'e?",
+            "failed": 0,
+            "question": "Where are you from? (formal)",
+            "tried": 0
+        },
+        {
+            "answer": "Prego.",
+            "failed": 0,
+            "question": "You're welcome.",
+            "tried": 0
+        },
+        {
+            "answer": "io sono",
+            "failed": 0,
+            "question": "What is the definition of \"I am\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I am",
+            "failed": 0,
+            "question": "Given the definition \"io sono\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "tu sei",
+            "failed": 0,
+            "question": "What is the definition of \"you are (informal)\"?",
+            "tried": 0
+        },
+        {
+            "answer": "you are (informal)",
+            "failed": 0,
+            "question": "Given the definition \"tu sei\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "lei/lui e'",
+            "failed": 0,
+            "question": "What is the definition of \"she/he is\"?",
+            "tried": 0
+        },
+        {
+            "answer": "she/he is",
+            "failed": 0,
+            "question": "Given the definition \"lei/lui e'\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "noi siamo",
+            "failed": 0,
+            "question": "What is the definition of \"we are\"?",
+            "tried": 0
+        },
+        {
+            "answer": "we are",
+            "failed": 0,
+            "question": "Given the definition \"noi siamo\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "voi siete",
+            "failed": 0,
+            "question": "What is the definition of \"y'all are\"?",
+            "tried": 0
+        },
+        {
+            "answer": "y'all are",
+            "failed": 0,
+            "question": "Given the definition \"voi siete\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "loro sono",
+            "failed": 0,
+            "question": "What is the definition of \"they are\"?",
+            "tried": 0
+        },
+        {
+            "answer": "they are",
+            "failed": 0,
+            "question": "Given the definition \"loro sono\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "grande",
+            "failed": 0,
+            "question": "L'appartamento di Maria e' (big)",
+            "tried": 0
+        },
+        {
+            "answer": "simpatica",
+            "failed": 0,
+            "question": "Mia sorella e' (nice)",
+            "tried": 0
+        },
+        {
+            "answer": "gialli",
+            "failed": 0,
+            "question": "I cuscini sono (yellow)",
+            "tried": 0
+        },
+        {
+            "answer": "intelligente",
+            "failed": 0,
+            "question": "Tua cugina e' (intelligent)",
+            "tried": 0
+        },
+        {
+            "answer": "rosse",
+            "failed": 0,
+            "question": "Le sedie sono (red)",
+            "tried": 0
+        }
+    ]
+}

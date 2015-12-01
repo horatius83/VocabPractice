@@ -1,0 +1,22 @@
+v0.1	Quiz 1 Chapters 1-5
+v	mi chiamo	my name is
+v	In cucina c'e' il tavolo.	In the kitchen there is the table.
+v	Ecco i miei amici.	Here are my friends.
+v	C'e' il fratello.	There's the brother.
+v	il tuo appartamento	your apartment
+q	How are you? (formal)	Come sta?
+q	I'm from Boston.	(Io) sono di Boston.
+q	Pleased to meet you. (formal)	Piacere di conoscerLa.
+q	Where are you from? (formal)	Lei di dov'e?
+q	You're welcome.	Prego.
+v	I am	io sono
+v	you are (informal)	tu sei
+v	she/he is	lei/lui e'
+v	we are	noi siamo
+v	y'all are	voi siete
+v	they are	loro sono
+q	L'appartamento di Maria e' (big)	grande
+q	Mia sorella e' (nice)	simpatica
+q	I cuscini sono (yellow)	gialli
+q	Tua cugina e' (intelligent)	intelligente
+q	Le sedie sono (red)	rosse

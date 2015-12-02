@@ -1,0 +1,31 @@
+v0.1	Chapter 6 Word Recall
+v	I have	io ho
+v	there are	ci sono
+v	there is	c'e'
+v	I am hungry.	(Io) ho fame.
+v	I am cold.	(Io) ho freddo.
+v	You (informal) are in a hurry.	(Tu) hai fretta.
+v	Here is a family.	Ecco una famiglia.
+v	Here are two families.	Ecco due famiglie.
+v	Here are my friends.	Ecco i miei amici.
+v	a bed	un letto
+v	a closet	un armadio
+v	a rug	un tappeto
+v	Here is a mirror.	Ecco uno specchio.
+v	Here are four chairs.	Ecco quattro sedie.
+v	my house	la mia casa
+v	your (informal) apartment	il tuo appartamento
+v	Marta's house.	la casa di Marta
+v	small (four forms)	piccolo / piccola / piccoli / piccole
+v	large (two forms)	grande / grandi
+v	downtown	in centro
+v	the supermarket	il supermercato
+v	the station	la stazione
+v	the schools	le scuole
+v	Where is the station?	Dov'e' la stazione?
+v	Is there a restaurant nearby?	C'e' un ristorante qui vicino?
+v	the traffic light	il semaforo
+v	on the left	a sinistra
+v	on the right	a destra
+v	straight ahead	sempre diritto
+v	an intersection	un incorcio

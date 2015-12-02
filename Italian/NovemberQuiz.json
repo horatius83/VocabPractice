@@ -1,0 +1,215 @@
+{
+    "name": ".\\Italian\\NovemberQuiz.json",
+    "vocab": [
+        {
+            "answer": "ciao, ciao ciao",
+            "failed": 0,
+            "question": "Hello, hi, good-bye",
+            "tried": 0
+        },
+        {
+            "answer": "buon giorno",
+            "failed": 0,
+            "question": "Good morning",
+            "tried": 0
+        },
+        {
+            "answer": "buon pomeriggio",
+            "failed": 0,
+            "question": "Good afternoon",
+            "tried": 0
+        },
+        {
+            "answer": "buono sera",
+            "failed": 0,
+            "question": "Good evening",
+            "tried": 0
+        },
+        {
+            "answer": "buono notte",
+            "failed": 0,
+            "question": "Good night",
+            "tried": 0
+        },
+        {
+            "answer": "buono giornata",
+            "failed": 0,
+            "question": "Have a good day",
+            "tried": 0
+        },
+        {
+            "answer": "buona serata",
+            "failed": 0,
+            "question": "Have a good evening",
+            "tried": 0
+        },
+        {
+            "answer": "a presto",
+            "failed": 0,
+            "question": "See you soon",
+            "tried": 0
+        },
+        {
+            "answer": "a dopo",
+            "failed": 0,
+            "question": "See you later",
+            "tried": 0
+        },
+        {
+            "answer": "Mi chiamo...",
+            "failed": 0,
+            "question": "My name is...",
+            "tried": 0
+        },
+        {
+            "answer": "piacere",
+            "failed": 0,
+            "question": "Pleased to meet you.",
+            "tried": 0
+        },
+        {
+            "answer": "Io sono di...",
+            "failed": 0,
+            "question": "I am from...",
+            "tried": 0
+        },
+        {
+            "answer": "Come va?",
+            "failed": 0,
+            "question": "How are you doing?",
+            "tried": 0
+        },
+        {
+            "answer": "Molto bene, grazi, e' Lei?",
+            "failed": 0,
+            "question": "Very well, thank you, and you?",
+            "tried": 0
+        },
+        {
+            "answer": "si, non, forse, preggo",
+            "failed": 0,
+            "question": "Yes, no, maybe, you are welcome",
+            "tried": 0
+        },
+        {
+            "answer": "Ecco la museo, Ecco una donna, un'uomo, una ragazza, un ragazzo, un bambino",
+            "failed": 0,
+            "question": "Here is is a museum, here it is a womean, a man, a girl, a boy, a child",
+            "tried": 0
+        },
+        {
+            "answer": "C'e' un figlio. Ci sono due fratelli e due sorelli.",
+            "failed": 0,
+            "question": "There is a son. There are two brothers, and two sisters.",
+            "tried": 0
+        },
+        {
+            "answer": "Io ho un fratello, una sorella, uno zio, e una zia.",
+            "failed": 0,
+            "question": "I have a brother, a sister, an uncle and an aunt.",
+            "tried": 0
+        },
+        {
+            "answer": "noi abbiamo fame.",
+            "failed": 0,
+            "question": "We are hungry.",
+            "tried": 0
+        },
+        {
+            "answer": "tu hai sette.",
+            "failed": 0,
+            "question": "You are thirsty.",
+            "tried": 0
+        },
+        {
+            "answer": "Mio fratello e' alto, mia moglie e' basa, mio marito e' corpulento",
+            "failed": 0,
+            "question": "My brother is tall, my wife is short, my husband is fat",
+            "tried": 0
+        },
+        {
+            "answer": "hanno pauro, tu hai torto",
+            "failed": 0,
+            "question": "they are afraid, you are wrong",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo bisogno di un caffe'.",
+            "failed": 0,
+            "question": "We need coffee.",
+            "tried": 0
+        },
+        {
+            "answer": "Betty e Rose hanno sempre fretta.",
+            "failed": 0,
+            "question": "Betty and Rose are always in a hurry.",
+            "tried": 0
+        },
+        {
+            "answer": "Anche, io ho sempre fretta.",
+            "failed": 0,
+            "question": "I am always in a hurry, too.",
+            "tried": 0
+        },
+        {
+            "answer": "La camera da letto, l'armadio, il bagno, lo specchio",
+            "failed": 0,
+            "question": "The bedroom, the closet, the bathroom, the mirror",
+            "tried": 0
+        },
+        {
+            "answer": "la cucina, il soggiorno, il tavolo, le pentole, il divano, la lavatrice",
+            "failed": 0,
+            "question": "the kitchen, the living room, the table, the pans, the couch, the washing machine",
+            "tried": 0
+        },
+        {
+            "answer": "lo zucchero, il suono, le tazze, la doccia, il giardino, l'orto",
+            "failed": 0,
+            "question": "the sugar, the sound (suono), the cups, the shower",
+            "tried": 0
+        },
+        {
+            "answer": "nero, blanco, rossa, gialli, verde, orancione', marrone",
+            "failed": 0,
+            "question": "Black, white, red, yellow, green, orange, gray, brown",
+            "tried": 0
+        },
+        {
+            "answer": "La casa nuova, la machina grande",
+            "failed": 0,
+            "question": "The new house, the big car",
+            "tried": 0
+        },
+        {
+            "answer": "noistre genetori, tua madre, i tua amici, le loro sorelli",
+            "failed": 0,
+            "question": "our parents, your mother, your friends, their sisters",
+            "tried": 0
+        },
+        {
+            "answer": "Dove il bagno? Dove sono la toilette?",
+            "failed": 0,
+            "question": "Where are the toilettes?",
+            "tried": 0
+        },
+        {
+            "answer": "Dove un bancomat? Dove uno banco?",
+            "failed": 0,
+            "question": "Where is an ATM? A bank?",
+            "tried": 0
+        },
+        {
+            "answer": "Questo restorante e' buono e bello.",
+            "failed": 0,
+            "question": "This restaurant is good and beautiful.",
+            "tried": 0
+        },
+        {
+            "answer": "a sinistra, a destra, al semaforo",
+            "failed": 0,
+            "question": "On the left, on the right, at the light (al...)",
+            "tried": 0
+        }
+    ]
+}

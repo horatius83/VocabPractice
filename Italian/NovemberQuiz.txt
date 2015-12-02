@@ -1,0 +1,36 @@
+v0.1	November Quiz
+q	Hello, hi, good-bye	ciao, ciao ciao
+q	Good morning	buon giorno
+q	Good afternoon	buon pomeriggio
+q	Good evening	buono sera
+q	Good night	buono notte
+q	Have a good day	buono giornata
+q	Have a good evening	buona serata
+q	See you soon	a presto
+q	See you later	a dopo
+q	My name is...	Mi chiamo...
+q	Pleased to meet you.	piacere
+q	I am from...	Io sono di...
+q	How are you doing?	Come va?
+q	Very well, thank you, and you?	Molto bene, grazi, e' Lei?
+q	Yes, no, maybe, you are welcome	si, non, forse, preggo
+q	Here is is a museum, here it is a womean, a man, a girl, a boy, a child	Ecco la museo, Ecco una donna, un'uomo, una ragazza, un ragazzo, un bambino
+q	There is a son. There are two brothers, and two sisters.	C'e' un figlio. Ci sono due fratelli e due sorelli.
+q	I have a brother, a sister, an uncle and an aunt.	Io ho un fratello, una sorella, uno zio, e una zia.
+q	We are hungry.	noi abbiamo fame.
+q	You are thirsty.	tu hai sette.
+q	My brother is tall, my wife is short, my husband is fat	Mio fratello e' alto, mia moglie e' basa, mio marito e' corpulento
+q	they are afraid, you are wrong	hanno pauro, tu hai torto
+q	We need coffee.	abbiamo bisogno di un caffe'.
+q	Betty and Rose are always in a hurry.	Betty e Rose hanno sempre fretta.
+q	I am always in a hurry, too.	Anche, io ho sempre fretta.
+q	The bedroom, the closet, the bathroom, the mirror	La camera da letto, l'armadio, il bagno, lo specchio
+q	the kitchen, the living room, the table, the pans, the couch, the washing machine	la cucina, il soggiorno, il tavolo, le pentole, il divano, la lavatrice
+q	the sugar, the sound (suono), the cups, the shower	lo zucchero, il suono, le tazze, la doccia, il giardino, l'orto
+q	Black, white, red, yellow, green, orange, gray, brown	nero, blanco, rossa, gialli, verde, orancione', marrone
+q	The new house, the big car	La casa nuova, la machina grande
+q	our parents, your mother, your friends, their sisters	noistre genetori, tua madre, i tua amici, le loro sorelli
+q	Where are the toilettes?	Dove il bagno? Dove sono la toilette?
+q	Where is an ATM? A bank?	Dove un bancomat? Dove uno banco?
+q	This restaurant is good and beautiful.	Questo restorante e' buono e bello.
+q	On the left, on the right, at the light (al...)	a sinistra, a destra, al semaforo

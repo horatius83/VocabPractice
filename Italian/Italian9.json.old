@@ -2,75 +2,608 @@
     "name": ".\\Italian\\Italian9.json",
     "vocab": [
         {
-            "answer": "la mia casa",
+            "answer": "tuoi",
+            "failed": 1,
+            "lastAsked": 1453138918.8215966,
+            "question": "Tuo zio e' in camera da letto. -> I ___ zii sono in camera da letto.",
+            "tried": 2
+        },
+        {
+            "answer": "instead",
+            "failed": 1,
+            "lastAsked": 1453138922.3009446,
+            "question": "What is the definition of \"invece\"?",
+            "tried": 2
+        },
+        {
+            "answer": "vostra",
+            "failed": 1,
+            "lastAsked": 1453138906.4803627,
+            "question": "y'alls (Feminine Singular)",
+            "tried": 2
+        },
+        {
+            "answer": "il tuo appartmento",
+            "failed": 3,
+            "lastAsked": 1453139019.484662,
+            "question": "What is the definition of \"your apartment\"?",
+            "tried": 4
+        },
+        {
+            "answer": "nostre",
             "failed": 0,
+            "lastAsked": 1453138671.8729043,
+            "question": "La nostra automobile e' rossa. -> Le ___ automobili sono rosse.",
+            "tried": 1
+        },
+        {
+            "answer": "Il loro tavolo e' verde.",
+            "failed": 2,
+            "lastAsked": 1453138981.9429083,
+            "question": "Il mio tavolo e' verde. (loro)",
+            "tried": 3
+        },
+        {
+            "answer": "suo",
+            "failed": 4,
+            "lastAsked": 1453139027.6444778,
+            "question": "his, her (Masculine Singular)",
+            "tried": 5
+        },
+        {
+            "answer": "Mia cugina e' simpatica.",
+            "failed": 2,
+            "lastAsked": 1453138960.7427883,
+            "question": "Tua cucina e' simpatica. (mia)",
+            "tried": 3
+        },
+        {
+            "answer": "la sua bicicletta",
+            "failed": 2,
+            "lastAsked": 1453139642.785986,
+            "question": "Given the definition \"her bike\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "Le nostre lavatrici sono bianche.",
+            "failed": 3,
+            "lastAsked": 1453139753.0900152,
+            "question": "Our washing machines are white.",
+            "tried": 4
+        },
+        {
+            "answer": "your apartment",
+            "failed": 0,
+            "lastAsked": 1453139391.9769075,
+            "question": "Given the definition \"il tuo appartmento\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "Your father is nice.",
+            "failed": 1,
+            "lastAsked": 1453139397.1174214,
+            "question": "Given the definition \"Tuo padre e' simpatico.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "La sua automobile e' rossa.",
+            "failed": 3,
+            "lastAsked": 1453139733.9491012,
+            "question": "What is the definition of \"His car is red.\"?",
+            "tried": 4
+        },
+        {
+            "answer": "Her bike is green.",
+            "failed": 0,
+            "lastAsked": 1453139235.8923006,
+            "question": "Given the definition \"La sua bicicletta e' verde.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "My sister, Ann, is very intelligent.",
+            "failed": 0,
+            "lastAsked": 1453139378.7765875,
+            "question": "Given the definition \"Mia sorella, Ann, e' molto intelligente.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "La tua mamma e' dolce.",
+            "failed": 3,
+            "lastAsked": 1453139742.9289992,
+            "question": "What is the definition of \"Your mom is sweet.\"?",
+            "tried": 4
+        },
+        {
+            "answer": "simpatiche",
+            "failed": 1,
+            "lastAsked": 1453139898.5545602,
+            "question": "Le studentesse sono simpatich_",
+            "tried": 2
+        },
+        {
+            "answer": "grande",
+            "failed": 1,
+            "lastAsked": 1453139921.934898,
+            "question": "Il loro apartamento e' grande_",
+            "tried": 2
+        },
+        {
+            "answer": "sua",
+            "failed": 0,
+            "lastAsked": 1453139806.7513807,
+            "question": "his, her (Feminine Singular)",
+            "tried": 1
+        },
+        {
+            "answer": "Il suo letto e' grande.",
+            "failed": 0,
+            "lastAsked": 1453139768.1705232,
+            "question": "Il mio letto e' grande. (suo)",
+            "tried": 1
+        },
+        {
+            "answer": "y'alls pillow",
+            "failed": 1,
+            "lastAsked": 1453139945.8162858,
+            "question": "Given the definition \"il vostro cuscino\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "his/her table",
+            "failed": 1,
+            "lastAsked": 1453139919.45565,
+            "question": "Given the definition \"il suo tavolo\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "sue",
+            "failed": 1,
+            "lastAsked": 1453139901.5748622,
+            "question": "his, her (Feminine Plural)",
+            "tried": 2
+        },
+        {
+            "answer": "tue",
+            "failed": 2,
+            "lastAsked": 1453139948.736578,
+            "question": "your (Feminine Plural)",
+            "tried": 3
+        },
+        {
+            "answer": "our bed",
+            "failed": 1,
+            "lastAsked": 1453140336.9093914,
+            "question": "Given the definition \"il nostro letto\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "a little",
+            "failed": 1,
+            "lastAsked": 1453140339.9096913,
+            "question": "What is the definition of \"un po'\"?",
+            "tried": 2
+        },
+        {
+            "answer": "tuoi",
+            "failed": 0,
+            "lastAsked": 1453140121.3018327,
+            "question": "Il tuo tavolo e' marrone -> I ___ tavoli sono marroni.",
+            "tried": 1
+        },
+        {
+            "answer": "Mia madre, Laura, e' un po' stressata.",
+            "failed": 2,
+            "lastAsked": 1453140405.492249,
+            "question": "What is the definition of \"My mother, Laura is a little stressed.\"?",
+            "tried": 3
+        },
+        {
+            "answer": "nere",
+            "failed": 1,
+            "lastAsked": 1453140184.7441764,
+            "question": "Le pentole sono ner_",
+            "tried": 2
+        },
+        {
+            "answer": "nostra",
+            "failed": 2,
+            "lastAsked": 1453140390.331733,
+            "question": "our (Feminine Singular)",
+            "tried": 3
+        },
+        {
+            "answer": "sue",
+            "failed": 1,
+            "lastAsked": 1453140361.869887,
+            "question": "La sua nipote e' di Roma. -> Le ___ nipoti sono di Roma.",
+            "tried": 2
+        },
+        {
+            "answer": "invece",
+            "failed": 3,
+            "lastAsked": 1453140408.6115608,
+            "question": "Given the definition \"instead\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "tuo",
+            "failed": 1,
+            "lastAsked": 1453140785.6852643,
+            "question": "your (Masculine Singular)",
+            "tried": 2
+        },
+        {
+            "answer": "nostro",
+            "failed": 1,
+            "lastAsked": 1453140748.2835245,
+            "question": "our (Masculine Singular)",
+            "tried": 2
+        },
+        {
+            "answer": "loro",
+            "failed": 1,
+            "lastAsked": 1453140821.965892,
+            "question": "their (Feminine Plural)",
+            "tried": 2
+        },
+        {
+            "answer": "I tuoi cuscini sono verdi.",
+            "failed": 2,
+            "lastAsked": 1453140836.866382,
+            "question": "Your pillows are green.",
+            "tried": 3
+        },
+        {
+            "answer": "Tuo padre e' simpatico.",
+            "failed": 0,
+            "lastAsked": 1453140586.6983676,
+            "question": "What is the definition of \"Your father is nice.\"?",
+            "tried": 1
+        },
+        {
+            "answer": "My family is big.",
+            "failed": 0,
+            "lastAsked": 1453140571.4178398,
+            "question": "Given the definition \"La mia famiglia e' numerosa.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "La sua cucina e' bella.",
+            "failed": 2,
+            "lastAsked": 1453140865.6872637,
+            "question": "Her kitchen is beautiful.",
+            "tried": 3
+        },
+        {
+            "answer": "Il mio giardino, invece, e' molto piccolo.",
+            "failed": 3,
+            "lastAsked": 1453140917.5494494,
+            "question": "What is the definition of \"My garden, on the other hand, is very small.\"?",
+            "tried": 4
+        },
+        {
+            "answer": "his car",
+            "failed": 1,
+            "lastAsked": 1453141140.87678,
+            "question": "What is the definition of \"la sua automobile\"?",
+            "tried": 2
+        },
+        {
+            "answer": "Il suo tavolo e' grande.",
+            "failed": 2,
+            "lastAsked": 1453141158.7175639,
+            "question": "His/Her table is big.",
+            "tried": 3
+        },
+        {
+            "answer": "nostre",
+            "failed": 0,
+            "lastAsked": 1453140951.9508893,
+            "question": "our (Feminine Plural)",
+            "tried": 1
+        },
+        {
+            "answer": "La vostra cucina e' bella.",
+            "failed": 0,
+            "lastAsked": 1453141015.8722808,
+            "question": "La sua cucina e' bella. (vostra)",
+            "tried": 1
+        },
+        {
+            "answer": "Mia sorella, Ann, e' molto intelligente.",
+            "failed": 1,
+            "lastAsked": 1453141134.2171142,
+            "question": "What is the definition of \"My sister, Ann, is very intelligent.\"?",
+            "tried": 2
+        },
+        {
+            "answer": "My grandparents are happy.",
+            "failed": 1,
+            "lastAsked": 1453141092.9959924,
+            "question": "Given the definition \"I miei nonni sono felici.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "Their garden is very big.",
+            "failed": 0,
+            "lastAsked": 1453141029.0335968,
+            "question": "Given the definition \"Il loro giardino e' molto grande.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "tuoi",
+            "failed": 0,
+            "lastAsked": 1453141084.7551684,
+            "question": "your (Masculine Plural)",
+            "tried": 1
+        },
+        {
+            "answer": "vostro",
+            "failed": 1,
+            "lastAsked": 1453141308.2825189,
+            "question": "y'alls (Masculine Singular)",
+            "tried": 2
+        },
+        {
+            "answer": "My father, Bob is very nice.",
+            "failed": 0,
+            "lastAsked": 1453141289.721663,
+            "question": "Given the definition \"Mio padre, Bob, e' molto simpatico.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "il suo tavolo",
+            "failed": 2,
+            "lastAsked": 1453141364.7451646,
+            "question": "What is the definition of \"his/her table\"?",
+            "tried": 3
+        },
+        {
+            "answer": "Your sister is intelligent.",
+            "failed": 0,
+            "lastAsked": 1453141259.200611,
+            "question": "Given the definition \"Tua sorella e' intelligente.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "mie",
+            "failed": 1,
+            "lastAsked": 1453141304.302121,
+            "question": "my (Feminine Plural)",
+            "tried": 2
+        },
+        {
+            "answer": "Il loro giardino e' molto grande.",
+            "failed": 1,
+            "lastAsked": 1453141318.343525,
+            "question": "What is the definition of \"Their garden is very big.\"?",
+            "tried": 2
+        },
+        {
+            "answer": "Il vostro divano e' rosso.",
+            "failed": 2,
+            "lastAsked": 1453141373.6250525,
+            "question": "Y'alls couch is red.",
+            "tried": 3
+        },
+        {
+            "answer": "bianchi",
+            "failed": 0,
+            "lastAsked": 1453141297.982489,
+            "question": "I cuscini sul divano sono bianch_",
+            "tried": 1
+        },
+        {
+            "answer": "La sua camera da letto e' sempre pulita.",
+            "failed": 1,
+            "lastAsked": 1453141618.313519,
+            "question": "What is the definition of \"Her bedroom is always clean.\"?",
+            "tried": 2
+        },
+        {
+            "answer": "loro",
+            "failed": 1,
+            "lastAsked": 1453141666.6953566,
+            "question": "their (Masculine Singular)",
+            "tried": 2
+        },
+        {
+            "answer": "too, also",
+            "failed": 1,
+            "lastAsked": 1453141595.612249,
+            "question": "What is the definition of \"anche\"?",
+            "tried": 2
+        },
+        {
+            "answer": "loro",
+            "failed": 1,
+            "lastAsked": 1453141604.813169,
+            "question": "La loro casa e' grande. Le ___ case sono grandi.",
+            "tried": 2
+        },
+        {
+            "answer": "il nostro letto",
+            "failed": 3,
+            "lastAsked": 1453141682.4759345,
+            "question": "What is the definition of \"our bed\"?",
+            "tried": 4
+        },
+        {
+            "answer": "My garden, on the other hand, is very small.",
+            "failed": 0,
+            "lastAsked": 1453141436.5073402,
+            "question": "Given the definition \"Il mio giardino, invece, e' molto piccolo.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "intelligenti",
+            "failed": 0,
+            "lastAsked": 1453141414.5861483,
+            "question": "Le mie cugine sono intelligent_",
+            "tried": 1
+        },
+        {
+            "answer": "Sua madre e' dolce.",
+            "failed": 1,
+            "lastAsked": 1453141630.8137689,
+            "question": "Vostra madre e' dolce. (sua)",
+            "tried": 2
+        },
+        {
+            "answer": "her bike",
+            "failed": 0,
+            "lastAsked": 1453141808.2995155,
+            "question": "What is the definition of \"la sua bicicletta\"?",
+            "tried": 1
+        },
+        {
+            "answer": "La tua casa e' piccola.",
+            "failed": 0,
+            "lastAsked": 1453141797.2394097,
+            "question": "La mia casa e' piccola. (tua)",
+            "tried": 1
+        },
+        {
+            "answer": "vostre",
+            "failed": 2,
+            "lastAsked": 1453141880.3027153,
+            "question": "y'alls (Feminine Plural)",
+            "tried": 3
+        },
+        {
+            "answer": "Their apartments are old.",
+            "failed": 1,
+            "lastAsked": 1453141830.8007655,
+            "question": "Given the definition \"I loro appartamenti sono vecchi.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "un po'",
+            "failed": 1,
+            "lastAsked": 1453141861.5618412,
+            "question": "Given the definition \"a little\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "bianco",
+            "failed": 1,
+            "lastAsked": 1453141868.2425094,
+            "question": "Il tavolo in cucina e' bianc_",
+            "tried": 2
+        },
+        {
+            "answer": "I miei nonni sono felici.",
+            "failed": 2,
+            "lastAsked": 1453141888.522537,
+            "question": "What is the definition of \"My grandparents are happy.\"?",
+            "tried": 3
+        },
+        {
+            "answer": "loro",
+            "failed": 1,
+            "lastAsked": 1453141863.9420793,
+            "question": "their (Masculine Plural)",
+            "tried": 2
+        },
+        {
+            "answer": "la sua automobile",
+            "failed": 1,
+            "lastAsked": 1453142104.6901517,
+            "question": "Given the definition \"his car\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "very",
+            "failed": 0,
+            "question": "What is the definition of \"molto\"?",
+            "tried": 0
+        },
+        {
+            "answer": "piccola",
+            "failed": 0,
+            "lastAsked": 1453142086.8893719,
+            "question": "La camera da letto e' piccol_",
+            "tried": 1
+        },
+        {
+            "answer": "la mia casa",
+            "failed": 1,
+            "lastAsked": 1453142123.3110137,
             "question": "What is the definition of \"my house\"?",
+            "tried": 1
+        },
+        {
+            "answer": "Her bedroom is always clean.",
+            "failed": 0,
+            "question": "Given the definition \"La sua camera da letto e' sempre pulita.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "La sua bicicletta e' verde.",
+            "failed": 1,
+            "lastAsked": 1453141919.963681,
+            "question": "What is the definition of \"Her bike is green.\"?",
+            "tried": 1
+        },
+        {
+            "answer": "Anche i miei cugini sono un po' stressati.",
+            "failed": 1,
+            "lastAsked": 1453142081.0087838,
+            "question": "What is the definition of \"My cousins are a little stressed, too.\"?",
+            "tried": 1
+        },
+        {
+            "answer": "Your mom is sweet.",
+            "failed": 0,
+            "question": "Given the definition \"La tua mamma e' dolce.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Mio padre, Bob, e' molto simpatico.",
+            "failed": 0,
+            "question": "What is the definition of \"My father, Bob is very nice.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I loro appartamenti sono vecchi.",
+            "failed": 0,
+            "question": "What is the definition of \"Their apartments are old.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "tua",
+            "failed": 0,
+            "question": "your (Feminine Singular)",
+            "tried": 0
+        },
+        {
+            "answer": "My cousins are a little stressed, too.",
+            "failed": 0,
+            "question": "Given the definition \"Anche i miei cugini sono un po' stressati.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "vostri",
+            "failed": 0,
+            "question": "y'alls (Masculine Plural)",
+            "tried": 0
+        },
+        {
+            "answer": "loro",
+            "failed": 0,
+            "question": "Il loro divano e' vecchio. -> I ___ divani sono vecchi.",
+            "tried": 0
+        },
+        {
+            "answer": "His car is red.",
+            "failed": 0,
+            "question": "Given the definition \"La sua automobile e' rossa.\", what is the word?",
             "tried": 0
         },
         {
             "answer": "my house",
             "failed": 0,
             "question": "Given the definition \"la mia casa\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "il tuo appartmento",
-            "failed": 0,
-            "question": "What is the definition of \"your apartment\"?",
-            "tried": 0
-        },
-        {
-            "answer": "your apartment",
-            "failed": 0,
-            "question": "Given the definition \"il tuo appartmento\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "il suo tavolo",
-            "failed": 0,
-            "question": "What is the definition of \"his/her table\"?",
-            "tried": 0
-        },
-        {
-            "answer": "his/her table",
-            "failed": 0,
-            "question": "Given the definition \"il suo tavolo\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "la sua cucina",
-            "failed": 0,
-            "question": "What is the definition of \"his/her kitchen\"?",
-            "tried": 0
-        },
-        {
-            "answer": "his/her kitchen",
-            "failed": 0,
-            "question": "Given the definition \"la sua cucina\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "il nostro letto",
-            "failed": 0,
-            "question": "What is the definition of \"our bed\"?",
-            "tried": 0
-        },
-        {
-            "answer": "our bed",
-            "failed": 0,
-            "question": "Given the definition \"il nostro letto\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "il vostro cuscino",
-            "failed": 0,
-            "question": "What is the definition of \"y'alls pillow\"?",
-            "tried": 0
-        },
-        {
-            "answer": "y'alls pillow",
-            "failed": 0,
-            "question": "Given the definition \"il vostro cuscino\", what is the word?",
             "tried": 0
         },
         {
@@ -86,537 +619,9 @@
             "tried": 0
         },
         {
-            "answer": "Tuo padre e' simpatico.",
+            "answer": "la sua cucina",
             "failed": 0,
-            "question": "What is the definition of \"Your father is nice.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Your father is nice.",
-            "failed": 0,
-            "question": "Given the definition \"Tuo padre e' simpatico.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "La tua mamma e' dolce.",
-            "failed": 0,
-            "question": "What is the definition of \"Your mom is sweet.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Your mom is sweet.",
-            "failed": 0,
-            "question": "Given the definition \"La tua mamma e' dolce.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Tua sorella e' intelligente.",
-            "failed": 0,
-            "question": "What is the definition of \"Your sister is intelligent.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Your sister is intelligent.",
-            "failed": 0,
-            "question": "Given the definition \"Tua sorella e' intelligente.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "La tua casa e' piccola.",
-            "failed": 0,
-            "question": "La mia casa e' piccola. (tua)",
-            "tried": 0
-        },
-        {
-            "answer": "Il loro tavolo e' verde.",
-            "failed": 0,
-            "question": "Il mio tavolo e' verde. (loro)",
-            "tried": 0
-        },
-        {
-            "answer": "Il suo letto e' grande.",
-            "failed": 0,
-            "question": "Il mio letto e' grande. (suo)",
-            "tried": 0
-        },
-        {
-            "answer": "Il nostro tappeto e' nuovo.",
-            "failed": 0,
-            "question": "Il loro tappeto e' nuovo. (nostro)",
-            "tried": 0
-        },
-        {
-            "answer": "La vostra cucina e' bella.",
-            "failed": 0,
-            "question": "La sua cucina e' bella. (vostra)",
-            "tried": 0
-        },
-        {
-            "answer": "Vostro padre e' intelligente.",
-            "failed": 0,
-            "question": "Mio padre e' intelligente. (vostro)",
-            "tried": 0
-        },
-        {
-            "answer": "Mia cugina e' simpatica.",
-            "failed": 0,
-            "question": "Tua cucina e' simpatica. (mia)",
-            "tried": 0
-        },
-        {
-            "answer": "Sua madre e' dolce.",
-            "failed": 0,
-            "question": "Vostra madre e' dolce. (sua)",
-            "tried": 0
-        },
-        {
-            "answer": "mio",
-            "failed": 0,
-            "question": "my (Masculine Singular)",
-            "tried": 0
-        },
-        {
-            "answer": "mia",
-            "failed": 0,
-            "question": "my (Feminine Singular)",
-            "tried": 0
-        },
-        {
-            "answer": "miei",
-            "failed": 0,
-            "question": "my (Masculine Plural)",
-            "tried": 0
-        },
-        {
-            "answer": "mie",
-            "failed": 0,
-            "question": "my (Feminine Plural)",
-            "tried": 0
-        },
-        {
-            "answer": "tuo",
-            "failed": 0,
-            "question": "your (Masculine Singular)",
-            "tried": 0
-        },
-        {
-            "answer": "tua",
-            "failed": 0,
-            "question": "your (Feminine Singular)",
-            "tried": 0
-        },
-        {
-            "answer": "tuoi",
-            "failed": 0,
-            "question": "your (Masculine Plural)",
-            "tried": 0
-        },
-        {
-            "answer": "tue",
-            "failed": 0,
-            "question": "your (Feminine Plural)",
-            "tried": 0
-        },
-        {
-            "answer": "suo",
-            "failed": 0,
-            "question": "his, her (Masculine Singular)",
-            "tried": 0
-        },
-        {
-            "answer": "sua",
-            "failed": 0,
-            "question": "his, her (Feminine Singular)",
-            "tried": 0
-        },
-        {
-            "answer": "suoi",
-            "failed": 0,
-            "question": "his, her (Masculine Plural)",
-            "tried": 0
-        },
-        {
-            "answer": "sue",
-            "failed": 0,
-            "question": "his, her (Feminine Plural)",
-            "tried": 0
-        },
-        {
-            "answer": "nostro",
-            "failed": 0,
-            "question": "our (Masculine Singular)",
-            "tried": 0
-        },
-        {
-            "answer": "nostra",
-            "failed": 0,
-            "question": "our (Feminine Singular)",
-            "tried": 0
-        },
-        {
-            "answer": "nostri",
-            "failed": 0,
-            "question": "our (Masculine Plural)",
-            "tried": 0
-        },
-        {
-            "answer": "nostre",
-            "failed": 0,
-            "question": "our (Feminine Plural)",
-            "tried": 0
-        },
-        {
-            "answer": "vostro",
-            "failed": 0,
-            "question": "y'alls (Masculine Singular)",
-            "tried": 0
-        },
-        {
-            "answer": "vostra",
-            "failed": 0,
-            "question": "y'alls (Feminine Singular)",
-            "tried": 0
-        },
-        {
-            "answer": "vostri",
-            "failed": 0,
-            "question": "y'alls (Masculine Plural)",
-            "tried": 0
-        },
-        {
-            "answer": "vostre",
-            "failed": 0,
-            "question": "y'alls (Feminine Plural)",
-            "tried": 0
-        },
-        {
-            "answer": "loro",
-            "failed": 0,
-            "question": "their (Masculine Singular)",
-            "tried": 0
-        },
-        {
-            "answer": "loro",
-            "failed": 0,
-            "question": "their (Feminine Singular)",
-            "tried": 0
-        },
-        {
-            "answer": "loro",
-            "failed": 0,
-            "question": "their (Masculine Plural)",
-            "tried": 0
-        },
-        {
-            "answer": "loro",
-            "failed": 0,
-            "question": "their (Feminine Plural)",
-            "tried": 0
-        },
-        {
-            "answer": "La mia casa e' vecchia.",
-            "failed": 0,
-            "question": "My house is old.",
-            "tried": 0
-        },
-        {
-            "answer": "I tuoi cuscini sono verdi.",
-            "failed": 0,
-            "question": "Your pillows are green.",
-            "tried": 0
-        },
-        {
-            "answer": "Il suo tavolo e' grande.",
-            "failed": 0,
-            "question": "His/Her table is big.",
-            "tried": 0
-        },
-        {
-            "answer": "Le nostre lavatrici sono bianche.",
-            "failed": 0,
-            "question": "Our washing machines are white.",
-            "tried": 0
-        },
-        {
-            "answer": "Il vostro divano e' rosso.",
-            "failed": 0,
-            "question": "Y'alls couch is red.",
-            "tried": 0
-        },
-        {
-            "answer": "I loro letti sono piccoli.",
-            "failed": 0,
-            "question": "Their beds are small.",
-            "tried": 0
-        },
-        {
-            "answer": "Le loro camere da letto sono nuove.",
-            "failed": 0,
-            "question": "Their bedrooms are new.",
-            "tried": 0
-        },
-        {
-            "answer": "I tuoi piatti sono gialli.",
-            "failed": 0,
-            "question": "Your dishes are yellow.",
-            "tried": 0
-        },
-        {
-            "answer": "La sua cucina e' bella.",
-            "failed": 0,
-            "question": "Her kitchen is beautiful.",
-            "tried": 0
-        },
-        {
-            "answer": "La mia famiglia e' numerosa.",
-            "failed": 0,
-            "question": "What is the definition of \"My family is big.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "My family is big.",
-            "failed": 0,
-            "question": "Given the definition \"La mia famiglia e' numerosa.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Mio padre, Bob, e' molto simpatico.",
-            "failed": 0,
-            "question": "What is the definition of \"My father, Bob is very nice.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "My father, Bob is very nice.",
-            "failed": 0,
-            "question": "Given the definition \"Mio padre, Bob, e' molto simpatico.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "La sua automobile e' rossa.",
-            "failed": 0,
-            "question": "What is the definition of \"His car is red.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "His car is red.",
-            "failed": 0,
-            "question": "Given the definition \"La sua automobile e' rossa.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Mia madre, Laura, e' un po' stressata.",
-            "failed": 0,
-            "question": "What is the definition of \"My mother, Laura is a little stressed.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "My mother, Laura is a little stressed.",
-            "failed": 0,
-            "question": "Given the definition \"Mia madre, Laura, e' un po' stressata.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "La sua bicicletta e' verde.",
-            "failed": 0,
-            "question": "What is the definition of \"Her bike is green.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Her bike is green.",
-            "failed": 0,
-            "question": "Given the definition \"La sua bicicletta e' verde.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Mia sorella, Ann, e' molto intelligente.",
-            "failed": 0,
-            "question": "What is the definition of \"My sister, Ann, is very intelligent.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "My sister, Ann, is very intelligent.",
-            "failed": 0,
-            "question": "Given the definition \"Mia sorella, Ann, e' molto intelligente.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "La sua camera da letto e' sempre pulita.",
-            "failed": 0,
-            "question": "What is the definition of \"Her bedroom is always clean.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Her bedroom is always clean.",
-            "failed": 0,
-            "question": "Given the definition \"La sua camera da letto e' sempre pulita.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Anche i miei cugini sono un po' stressati.",
-            "failed": 0,
-            "question": "What is the definition of \"My cousins are a little stressed, too.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "My cousins are a little stressed, too.",
-            "failed": 0,
-            "question": "Given the definition \"Anche i miei cugini sono un po' stressati.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "I loro appartamenti sono vecchi.",
-            "failed": 0,
-            "question": "What is the definition of \"Their apartments are old.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Their apartments are old.",
-            "failed": 0,
-            "question": "Given the definition \"I loro appartamenti sono vecchi.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "I miei nonni sono felici.",
-            "failed": 0,
-            "question": "What is the definition of \"My grandparents are happy.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "My grandparents are happy.",
-            "failed": 0,
-            "question": "Given the definition \"I miei nonni sono felici.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Il loro giardino e' molto grande.",
-            "failed": 0,
-            "question": "What is the definition of \"Their garden is very big.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Their garden is very big.",
-            "failed": 0,
-            "question": "Given the definition \"Il loro giardino e' molto grande.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Il mio giardino, invece, e' molto piccolo.",
-            "failed": 0,
-            "question": "What is the definition of \"My garden, on the other hand, is very small.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "My garden, on the other hand, is very small.",
-            "failed": 0,
-            "question": "Given the definition \"Il mio giardino, invece, e' molto piccolo.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "his car",
-            "failed": 0,
-            "question": "What is the definition of \"la sua automobile\"?",
-            "tried": 0
-        },
-        {
-            "answer": "la sua automobile",
-            "failed": 0,
-            "question": "Given the definition \"his car\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "her bike",
-            "failed": 0,
-            "question": "What is the definition of \"la sua bicicletta\"?",
-            "tried": 0
-        },
-        {
-            "answer": "la sua bicicletta",
-            "failed": 0,
-            "question": "Given the definition \"her bike\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "very",
-            "failed": 0,
-            "question": "What is the definition of \"molto\"?",
-            "tried": 0
-        },
-        {
-            "answer": "molto",
-            "failed": 0,
-            "question": "Given the definition \"very\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "a little",
-            "failed": 0,
-            "question": "What is the definition of \"un po'\"?",
-            "tried": 0
-        },
-        {
-            "answer": "un po'",
-            "failed": 0,
-            "question": "Given the definition \"a little\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "instead",
-            "failed": 0,
-            "question": "What is the definition of \"invece\"?",
-            "tried": 0
-        },
-        {
-            "answer": "invece",
-            "failed": 0,
-            "question": "Given the definition \"instead\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "too, also",
-            "failed": 0,
-            "question": "What is the definition of \"anche\"?",
-            "tried": 0
-        },
-        {
-            "answer": "anche",
-            "failed": 0,
-            "question": "Given the definition \"too, also\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "miei",
-            "failed": 0,
-            "question": "Mio fratello e' intelligente. -> I ___ fratelli sono intelligenti.",
-            "tried": 0
-        },
-        {
-            "answer": "loro",
-            "failed": 0,
-            "question": "La loro casa e' grande. Le ___ case sono grandi.",
-            "tried": 0
-        },
-        {
-            "answer": "tuoi",
-            "failed": 0,
-            "question": "Il tuo tavolo e' marrone -> I ___ tavoli sono marroni.",
-            "tried": 0
-        },
-        {
-            "answer": "sue",
-            "failed": 0,
-            "question": "La sua nipote e' di Roma. -> Le ___ nipoti sono di Roma.",
-            "tried": 0
-        },
-        {
-            "answer": "tuoi",
-            "failed": 0,
-            "question": "Tuo zio e' in camera da letto. -> I ___ zii sono in camera da letto.",
-            "tried": 0
-        },
-        {
-            "answer": "loro",
-            "failed": 0,
-            "question": "Il loro divano e' vecchio. -> I ___ divani sono vecchi.",
+            "question": "What is the definition of \"his/her kitchen\"?",
             "tried": 0
         },
         {
@@ -626,57 +631,129 @@
             "tried": 0
         },
         {
-            "answer": "nostre",
+            "answer": "I loro letti sono piccoli.",
             "failed": 0,
-            "question": "La nostra automobile e' rossa. -> Le ___ automobili sono rosse.",
+            "question": "Their beds are small.",
             "tried": 0
         },
         {
-            "answer": "intelligenti",
+            "answer": "Il nostro tappeto e' nuovo.",
             "failed": 0,
-            "question": "Le mie cugine sono intelligent_",
+            "question": "Il loro tappeto e' nuovo. (nostro)",
             "tried": 0
         },
         {
-            "answer": "grande",
+            "answer": "mia",
             "failed": 0,
-            "question": "Il loro apartamento e' grande_",
+            "question": "my (Feminine Singular)",
             "tried": 0
         },
         {
-            "answer": "piccola",
+            "answer": "Vostro padre e' intelligente.",
             "failed": 0,
-            "question": "La camera da letto e' piccol_",
+            "question": "Mio padre e' intelligente. (vostro)",
             "tried": 0
         },
         {
-            "answer": "bianco",
+            "answer": "il vostro cuscino",
             "failed": 0,
-            "question": "Il tavolo in cucina e' bianc_",
+            "question": "What is the definition of \"y'alls pillow\"?",
             "tried": 0
         },
         {
-            "answer": "bianchi",
+            "answer": "his/her kitchen",
             "failed": 0,
-            "question": "I cuscini sul divano sono bianch_",
+            "question": "Given the definition \"la sua cucina\", what is the word?",
             "tried": 0
         },
         {
-            "answer": "simpatiche",
+            "answer": "My mother, Laura is a little stressed.",
             "failed": 0,
-            "question": "Le studentesse sono simpatich_",
+            "question": "Given the definition \"Mia madre, Laura, e' un po' stressata.\", what is the word?",
             "tried": 0
         },
         {
-            "answer": "nere",
+            "answer": "mio",
             "failed": 0,
-            "question": "Le pentole sono ner_",
+            "question": "my (Masculine Singular)",
+            "tried": 0
+        },
+        {
+            "answer": "I tuoi piatti sono gialli.",
+            "failed": 0,
+            "question": "Your dishes are yellow.",
+            "tried": 0
+        },
+        {
+            "answer": "La mia famiglia e' numerosa.",
+            "failed": 0,
+            "question": "What is the definition of \"My family is big.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "molto",
+            "failed": 0,
+            "question": "Given the definition \"very\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "miei",
+            "failed": 0,
+            "question": "Mio fratello e' intelligente. -> I ___ fratelli sono intelligenti.",
+            "tried": 0
+        },
+        {
+            "answer": "Tua sorella e' intelligente.",
+            "failed": 0,
+            "question": "What is the definition of \"Your sister is intelligent.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "anche",
+            "failed": 0,
+            "question": "Given the definition \"too, also\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "suoi",
+            "failed": 0,
+            "question": "his, her (Masculine Plural)",
+            "tried": 0
+        },
+        {
+            "answer": "loro",
+            "failed": 0,
+            "question": "their (Feminine Singular)",
+            "tried": 0
+        },
+        {
+            "answer": "La mia casa e' vecchia.",
+            "failed": 0,
+            "question": "My house is old.",
             "tried": 0
         },
         {
             "answer": "dolce",
             "failed": 0,
             "question": "Mia sorella e' dolc_",
+            "tried": 0
+        },
+        {
+            "answer": "miei",
+            "failed": 0,
+            "question": "my (Masculine Plural)",
+            "tried": 0
+        },
+        {
+            "answer": "Le loro camere da letto sono nuove.",
+            "failed": 0,
+            "question": "Their bedrooms are new.",
+            "tried": 0
+        },
+        {
+            "answer": "nostri",
+            "failed": 0,
+            "question": "our (Masculine Plural)",
             "tried": 0
         }
     ]

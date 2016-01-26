@@ -1,0 +1,47 @@
+v0.1	Chapter 7
+v	the restaurant	il ristorante
+v	the waiter	il cameriere
+v	the waitress	la cameriera
+v	the menu	il menu'
+v	the wine list	la lista dei vini, la carta dei vini
+v	the appetizer	l'antipaso
+v	the first (course)	il primo (piatto)
+v	the main (course)	il secondo (piatto)
+v	the side dish	il contorno
+v	the dessert	il dolce
+v	the fresh fruit	la frutta fresca
+v	the check	il conto
+v	the tip	la mancia
+v	I'll have the grilled fish.	Prendo il pesce all griglia.
+v	I would like ravioli with meat sauce.	Vorrei i ravioli al ragu'.
+v	May I have the wine list?	Posso avere la carta dei vini?
+v	Can I pay by credit card?	Posso pagare con la carta di credito?
+v	posso	can I, may I
+q	I (Avere (to have)):	io ho
+q	you (informal) (Avere (to have)):	tu hai
+q	you (formal) (Avere (to have)):	Lei ha
+q	he (Avere (to have)):	lui ha
+q	she (Avere (to have)):	lei ha
+q	we (Avere (to have)):	noi abbiamo
+q	y'all (informal) (Avere (to have)):	voi avete
+q	they (Avere (to have)):	loro hanno
+q	y'all (formal) (Avere (to have)):	Loro hanno
+q	I (Essere (to be)):	io sono
+q	you (informal) (Essere (to be)):	tu sei
+q	you (formal) (Essere (to be)):	Lei e'
+q	he (Essere (to be)):	lui e'
+q	she (Essere (to be)):	lei e'
+q	we (Essere (to be)):	noi siamo
+q	y'all (informal) (Essere (to be)):	voi siete
+q	they (Essere (to be)):	loro sono
+q	y'all (formal) (Essere (to be)):	Loro sono
+v	to order	ordinare
+v	I order	io ordino
+v	you order (informal)	tu ordini
+v	you order (formal)	Lei ordina
+v	he/she orders	lui/lei ordina
+v	to take (or, to have, as in an order)	prendere
+v	I take, I'll have	io prendo
+v	you take, you'll have (informal)	tu prendi
+v	you take, you'll have (formal)	Lei prende
+v	he takes/she takes, he'll have/she'll have	lui/lei prende

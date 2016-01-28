@@ -2,159 +2,282 @@
     "name": ".\\Italian\\Chapter7.json",
     "vocab": [
         {
+            "answer": "ordinare",
+            "failed": 1,
+            "lastAsked": 1454005144.1209388,
+            "question": "What is the definition of \"to order\"?",
+            "tried": 2
+        },
+        {
+            "answer": "io prendo",
+            "failed": 3,
+            "lastAsked": 1454005247.0072534,
+            "question": "What is the definition of \"I take, I'll have\"?",
+            "tried": 4
+        },
+        {
+            "answer": "posso",
+            "failed": 0,
+            "lastAsked": 1454005054.094368,
+            "question": "Given the definition \"can I, may I\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "prendere",
+            "failed": 0,
+            "lastAsked": 1454005050.6723151,
+            "question": "What is the definition of \"to take (or, to have, as in an order)\"?",
+            "tried": 1
+        },
+        {
+            "answer": "to take (or, to have, as in an order)",
+            "failed": 1,
+            "lastAsked": 1454005188.3451028,
+            "question": "Given the definition \"prendere\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "Lei prende",
+            "failed": 2,
+            "lastAsked": 1454005243.5707824,
+            "question": "What is the definition of \"you take, you'll have (formal)\"?",
+            "tried": 3
+        },
+        {
+            "answer": "io sono",
+            "failed": 1,
+            "lastAsked": 1454005146.9804626,
+            "question": "I (Essere (to be)):",
+            "tried": 2
+        },
+        {
             "answer": "il ristorante",
             "failed": 0,
+            "lastAsked": 1454005140.365554,
             "question": "What is the definition of \"the restaurant\"?",
-            "tried": 0
+            "tried": 1
+        },
+        {
+            "answer": "il cameriere",
+            "failed": 3,
+            "lastAsked": 1454005505.1841786,
+            "question": "What is the definition of \"the waiter\"?",
+            "tried": 4
         },
         {
             "answer": "the restaurant",
             "failed": 0,
+            "lastAsked": 1454005417.8537648,
             "question": "Given the definition \"il ristorante\", what is the word?",
-            "tried": 0
+            "tried": 1
         },
         {
-            "answer": "il cameriere",
-            "failed": 0,
-            "question": "What is the definition of \"the waiter\"?",
-            "tried": 0
+            "answer": "tu sei",
+            "failed": 1,
+            "lastAsked": 1454005459.9019914,
+            "question": "you (informal) (Essere (to be)):",
+            "tried": 2
         },
         {
-            "answer": "the waiter",
+            "answer": "Posso pagare con la carta di credito?",
+            "failed": 1,
+            "lastAsked": 1454005456.2924304,
+            "question": "What is the definition of \"Can I pay by credit card?\"?",
+            "tried": 2
+        },
+        {
+            "answer": "he takes/she takes, he'll have/she'll have",
+            "failed": 1,
+            "lastAsked": 1454005475.7947288,
+            "question": "Given the definition \"lui/lei prende\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "la mancia",
+            "failed": 2,
+            "lastAsked": 1454005478.4354699,
+            "question": "What is the definition of \"the tip\"?",
+            "tried": 3
+        },
+        {
+            "answer": "he/she orders",
             "failed": 0,
-            "question": "Given the definition \"il cameriere\", what is the word?",
-            "tried": 0
+            "lastAsked": 1454005402.36725,
+            "question": "Given the definition \"lui/lei ordina\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "the wine list",
+            "failed": 0,
+            "lastAsked": 1454005427.530156,
+            "question": "Given the definition \"la lista dei vini, la carta dei vini\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "I would like ravioli with meat sauce.",
+            "failed": 1,
+            "lastAsked": 1454005844.291334,
+            "question": "Given the definition \"Vorrei i ravioli al ragu'.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "the first (course)",
+            "failed": 1,
+            "lastAsked": 1454005852.802175,
+            "question": "Given the definition \"il primo (piatto)\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "the main (course)",
+            "failed": 1,
+            "lastAsked": 1454005890.0907972,
+            "question": "Given the definition \"il secondo (piatto)\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "I order",
+            "failed": 0,
+            "lastAsked": 1454005589.0552526,
+            "question": "Given the definition \"io ordino\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "lui/lei prende",
+            "failed": 1,
+            "lastAsked": 1454005833.1617355,
+            "question": "What is the definition of \"he takes/she takes, he'll have/she'll have\"?",
+            "tried": 2
+        },
+        {
+            "answer": "I take, I'll have",
+            "failed": 1,
+            "lastAsked": 1454005871.6141946,
+            "question": "Given the definition \"io prendo\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "Posso avere la carta dei vini?",
+            "failed": 2,
+            "lastAsked": 1454005960.661031,
+            "question": "What is the definition of \"May I have the wine list?\"?",
+            "tried": 3
+        },
+        {
+            "answer": "the appetizer",
+            "failed": 0,
+            "lastAsked": 1454005803.6260898,
+            "question": "Given the definition \"l'antipasto\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "Loro hanno",
+            "failed": 3,
+            "lastAsked": 1454006904.9502985,
+            "question": "y'all (formal) (Avere (to have)):",
+            "tried": 4
         },
         {
             "answer": "la cameriera",
-            "failed": 0,
+            "failed": 1,
+            "lastAsked": 1454006851.9989011,
             "question": "What is the definition of \"the waitress\"?",
-            "tried": 0
+            "tried": 2
+        },
+        {
+            "answer": "voi siete",
+            "failed": 2,
+            "lastAsked": 1454006868.652558,
+            "question": "y'all (informal) (Essere (to be)):",
+            "tried": 3
+        },
+        {
+            "answer": "the dessert",
+            "failed": 0,
+            "lastAsked": 1454006004.8525934,
+            "question": "Given the definition \"il dolce\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "tu ordini",
+            "failed": 1,
+            "lastAsked": 1454006830.913746,
+            "question": "What is the definition of \"you order (informal)\"?",
+            "tried": 2
+        },
+        {
+            "answer": "il primo (piatto)",
+            "failed": 2,
+            "lastAsked": 1454006875.340406,
+            "question": "What is the definition of \"the first (course)\"?",
+            "tried": 3
+        },
+        {
+            "answer": "Lei ha",
+            "failed": 2,
+            "lastAsked": 1454006895.6171994,
+            "question": "you (formal) (Avere (to have)):",
+            "tried": 3
         },
         {
             "answer": "the waitress",
             "failed": 0,
+            "lastAsked": 1454005976.4886258,
             "question": "Given the definition \"la cameriera\", what is the word?",
-            "tried": 0
+            "tried": 1
         },
         {
-            "answer": "il menu'",
+            "answer": "loro hanno",
             "failed": 0,
-            "question": "What is the definition of \"the menu\"?",
-            "tried": 0
+            "lastAsked": 1454006975.4028351,
+            "question": "they (Avere (to have)):",
+            "tried": 1
+        },
+        {
+            "answer": "tu prendi",
+            "failed": 1,
+            "lastAsked": 1454006915.6484187,
+            "question": "What is the definition of \"you take, you'll have (informal)\"?",
+            "tried": 1
+        },
+        {
+            "answer": "the tip",
+            "failed": 0,
+            "lastAsked": 1454006927.4132147,
+            "question": "Given the definition \"la mancia\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "I'll have the grilled fish.",
+            "failed": 1,
+            "lastAsked": 1454006995.2883096,
+            "question": "Given the definition \"Prendo il pesce all griglia.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "noi abbiamo",
+            "failed": 0,
+            "lastAsked": 1454006924.006783,
+            "question": "we (Avere (to have)):",
+            "tried": 1
+        },
+        {
+            "answer": "voi avete",
+            "failed": 1,
+            "lastAsked": 1454006946.0404608,
+            "question": "y'all (informal) (Avere (to have)):",
+            "tried": 1
+        },
+        {
+            "answer": "the side dish",
+            "failed": 1,
+            "lastAsked": 1454006970.6057098,
+            "question": "Given the definition \"il contorno\", what is the word?",
+            "tried": 1
         },
         {
             "answer": "the menu",
             "failed": 0,
             "question": "Given the definition \"il menu'\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "la lista dei vini, la carta dei vini",
-            "failed": 0,
-            "question": "What is the definition of \"the wine list\"?",
-            "tried": 0
-        },
-        {
-            "answer": "the wine list",
-            "failed": 0,
-            "question": "Given the definition \"la lista dei vini, la carta dei vini\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "l'antipaso",
-            "failed": 0,
-            "question": "What is the definition of \"the appetizer\"?",
-            "tried": 0
-        },
-        {
-            "answer": "the appetizer",
-            "failed": 0,
-            "question": "Given the definition \"l'antipaso\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "il primo (piatto)",
-            "failed": 0,
-            "question": "What is the definition of \"the first (course)\"?",
-            "tried": 0
-        },
-        {
-            "answer": "the first (course)",
-            "failed": 0,
-            "question": "Given the definition \"il primo (piatto)\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "il secondo (piatto)",
-            "failed": 0,
-            "question": "What is the definition of \"the main (course)\"?",
-            "tried": 0
-        },
-        {
-            "answer": "the main (course)",
-            "failed": 0,
-            "question": "Given the definition \"il secondo (piatto)\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "il contorno",
-            "failed": 0,
-            "question": "What is the definition of \"the side dish\"?",
-            "tried": 0
-        },
-        {
-            "answer": "the side dish",
-            "failed": 0,
-            "question": "Given the definition \"il contorno\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "il dolce",
-            "failed": 0,
-            "question": "What is the definition of \"the dessert\"?",
-            "tried": 0
-        },
-        {
-            "answer": "the dessert",
-            "failed": 0,
-            "question": "Given the definition \"il dolce\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "la frutta fresca",
-            "failed": 0,
-            "question": "What is the definition of \"the fresh fruit\"?",
-            "tried": 0
-        },
-        {
-            "answer": "the fresh fruit",
-            "failed": 0,
-            "question": "Given the definition \"la frutta fresca\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "il conto",
-            "failed": 0,
-            "question": "What is the definition of \"the check\"?",
-            "tried": 0
-        },
-        {
-            "answer": "the check",
-            "failed": 0,
-            "question": "Given the definition \"il conto\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "la mancia",
-            "failed": 0,
-            "question": "What is the definition of \"the tip\"?",
-            "tried": 0
-        },
-        {
-            "answer": "the tip",
-            "failed": 0,
-            "question": "Given the definition \"la mancia\", what is the word?",
             "tried": 0
         },
         {
@@ -164,81 +287,9 @@
             "tried": 0
         },
         {
-            "answer": "I'll have the grilled fish.",
+            "answer": "to order",
             "failed": 0,
-            "question": "Given the definition \"Prendo il pesce all griglia.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Vorrei i ravioli al ragu'.",
-            "failed": 0,
-            "question": "What is the definition of \"I would like ravioli with meat sauce.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "I would like ravioli with meat sauce.",
-            "failed": 0,
-            "question": "Given the definition \"Vorrei i ravioli al ragu'.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Posso avere la carta dei vini?",
-            "failed": 0,
-            "question": "What is the definition of \"May I have the wine list?\"?",
-            "tried": 0
-        },
-        {
-            "answer": "May I have the wine list?",
-            "failed": 0,
-            "question": "Given the definition \"Posso avere la carta dei vini?\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Posso pagare con la carta di credito?",
-            "failed": 0,
-            "question": "What is the definition of \"Can I pay by credit card?\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Can I pay by credit card?",
-            "failed": 0,
-            "question": "Given the definition \"Posso pagare con la carta di credito?\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "can I, may I",
-            "failed": 0,
-            "question": "What is the definition of \"posso\"?",
-            "tried": 0
-        },
-        {
-            "answer": "posso",
-            "failed": 0,
-            "question": "Given the definition \"can I, may I\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "io ho",
-            "failed": 0,
-            "question": "I (Avere (to have)):",
-            "tried": 0
-        },
-        {
-            "answer": "tu hai",
-            "failed": 0,
-            "question": "you (informal) (Avere (to have)):",
-            "tried": 0
-        },
-        {
-            "answer": "Lei ha",
-            "failed": 0,
-            "question": "you (formal) (Avere (to have)):",
-            "tried": 0
-        },
-        {
-            "answer": "lui ha",
-            "failed": 0,
-            "question": "he (Avere (to have)):",
+            "question": "Given the definition \"ordinare\", what is the word?",
             "tried": 0
         },
         {
@@ -248,39 +299,40 @@
             "tried": 0
         },
         {
-            "answer": "noi abbiamo",
+            "answer": "la frutta fresca",
             "failed": 0,
-            "question": "we (Avere (to have)):",
+            "question": "What is the definition of \"the fresh fruit\"?",
             "tried": 0
         },
         {
-            "answer": "voi avete",
+            "answer": "il secondo (piatto)",
             "failed": 0,
-            "question": "y'all (informal) (Avere (to have)):",
+            "question": "What is the definition of \"the main (course)\"?",
             "tried": 0
         },
         {
-            "answer": "loro hanno",
+            "answer": "Vorrei i ravioli al ragu'.",
             "failed": 0,
-            "question": "they (Avere (to have)):",
+            "question": "What is the definition of \"I would like ravioli with meat sauce.\"?",
             "tried": 0
         },
         {
-            "answer": "Loro hanno",
+            "answer": "la lista dei vini, la carta dei vini",
             "failed": 0,
-            "question": "y'all (formal) (Avere (to have)):",
+            "question": "What is the definition of \"the wine list\"?",
             "tried": 0
         },
         {
-            "answer": "io sono",
-            "failed": 0,
-            "question": "I (Essere (to be)):",
-            "tried": 0
+            "answer": "l'antipasto",
+            "failed": 1,
+            "lastAsked": 1454004817.6561534,
+            "question": "What is the definition of \"the appetizer\"?",
+            "tried": 1
         },
         {
-            "answer": "tu sei",
+            "answer": "il dolce",
             "failed": 0,
-            "question": "you (informal) (Essere (to be)):",
+            "question": "What is the definition of \"the dessert\"?",
             "tried": 0
         },
         {
@@ -290,75 +342,21 @@
             "tried": 0
         },
         {
-            "answer": "lui e'",
-            "failed": 0,
-            "question": "he (Essere (to be)):",
-            "tried": 0
-        },
-        {
-            "answer": "lei e'",
-            "failed": 0,
-            "question": "she (Essere (to be)):",
-            "tried": 0
-        },
-        {
-            "answer": "noi siamo",
-            "failed": 0,
-            "question": "we (Essere (to be)):",
-            "tried": 0
-        },
-        {
-            "answer": "voi siete",
-            "failed": 0,
-            "question": "y'all (informal) (Essere (to be)):",
-            "tried": 0
-        },
-        {
-            "answer": "loro sono",
-            "failed": 0,
-            "question": "they (Essere (to be)):",
-            "tried": 0
-        },
-        {
             "answer": "Loro sono",
             "failed": 0,
             "question": "y'all (formal) (Essere (to be)):",
             "tried": 0
         },
         {
-            "answer": "ordinare",
+            "answer": "lui ha",
             "failed": 0,
-            "question": "What is the definition of \"to order\"?",
+            "question": "he (Avere (to have)):",
             "tried": 0
         },
         {
-            "answer": "to order",
+            "answer": "il conto",
             "failed": 0,
-            "question": "Given the definition \"ordinare\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "io ordino",
-            "failed": 0,
-            "question": "What is the definition of \"I order\"?",
-            "tried": 0
-        },
-        {
-            "answer": "I order",
-            "failed": 0,
-            "question": "Given the definition \"io ordino\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "tu ordini",
-            "failed": 0,
-            "question": "What is the definition of \"you order (informal)\"?",
-            "tried": 0
-        },
-        {
-            "answer": "you order (informal)",
-            "failed": 0,
-            "question": "Given the definition \"tu ordini\", what is the word?",
+            "question": "What is the definition of \"the check\"?",
             "tried": 0
         },
         {
@@ -368,51 +366,21 @@
             "tried": 0
         },
         {
-            "answer": "you order (formal)",
+            "answer": "io ordino",
             "failed": 0,
-            "question": "Given the definition \"Lei ordina\", what is the word?",
+            "question": "What is the definition of \"I order\"?",
             "tried": 0
         },
         {
-            "answer": "lui/lei ordina",
+            "answer": "il menu'",
             "failed": 0,
-            "question": "What is the definition of \"he/she orders\"?",
+            "question": "What is the definition of \"the menu\"?",
             "tried": 0
         },
         {
-            "answer": "he/she orders",
+            "answer": "noi siamo",
             "failed": 0,
-            "question": "Given the definition \"lui/lei ordina\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "prendere",
-            "failed": 0,
-            "question": "What is the definition of \"to take (or, to have, as in an order)\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to take (or, to have, as in an order)",
-            "failed": 0,
-            "question": "Given the definition \"prendere\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "io prendo",
-            "failed": 0,
-            "question": "What is the definition of \"I take, I'll have\"?",
-            "tried": 0
-        },
-        {
-            "answer": "I take, I'll have",
-            "failed": 0,
-            "question": "Given the definition \"io prendo\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "tu prendi",
-            "failed": 0,
-            "question": "What is the definition of \"you take, you'll have (informal)\"?",
+            "question": "we (Essere (to be)):",
             "tried": 0
         },
         {
@@ -422,9 +390,27 @@
             "tried": 0
         },
         {
-            "answer": "Lei prende",
+            "answer": "you order (informal)",
             "failed": 0,
-            "question": "What is the definition of \"you take, you'll have (formal)\"?",
+            "question": "Given the definition \"tu ordini\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "io ho",
+            "failed": 0,
+            "question": "I (Avere (to have)):",
+            "tried": 0
+        },
+        {
+            "answer": "the fresh fruit",
+            "failed": 0,
+            "question": "Given the definition \"la frutta fresca\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "lui e'",
+            "failed": 0,
+            "question": "he (Essere (to be)):",
             "tried": 0
         },
         {
@@ -434,16 +420,78 @@
             "tried": 0
         },
         {
-            "answer": "lui/lei prende",
+            "answer": "lui/lei ordina",
             "failed": 0,
-            "question": "What is the definition of \"he takes/she takes, he'll have/she'll have\"?",
+            "question": "What is the definition of \"he/she orders\"?",
             "tried": 0
         },
         {
-            "answer": "he takes/she takes, he'll have/she'll have",
+            "answer": "May I have the wine list?",
             "failed": 0,
-            "question": "Given the definition \"lui/lei prende\", what is the word?",
+            "question": "Given the definition \"Posso avere la carta dei vini?\", what is the word?",
             "tried": 0
+        },
+        {
+            "answer": "you order (formal)",
+            "failed": 0,
+            "question": "Given the definition \"Lei ordina\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "il contorno",
+            "failed": 2,
+            "lastAsked": 1454004790.025915,
+            "question": "What is the definition of \"the side dish\"?",
+            "tried": 3
+        },
+        {
+            "answer": "loro sono",
+            "failed": 2,
+            "lastAsked": 1454004793.0885758,
+            "question": "they (Essere (to be)):",
+            "tried": 3
+        },
+        {
+            "answer": "the check",
+            "failed": 1,
+            "lastAsked": 1454004758.4752412,
+            "question": "Given the definition \"il conto\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "the waiter",
+            "failed": 1,
+            "lastAsked": 1454004755.553215,
+            "question": "Given the definition \"il cameriere\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "lei e'",
+            "failed": 1,
+            "lastAsked": 1454004768.0415816,
+            "question": "she (Essere (to be)):",
+            "tried": 2
+        },
+        {
+            "answer": "can I, may I",
+            "failed": 1,
+            "lastAsked": 1454004752.0999088,
+            "question": "What is the definition of \"posso\"?",
+            "tried": 2
+        },
+        {
+            "answer": "tu hai",
+            "failed": 0,
+            "lastAsked": 1454004578.1399739,
+            "question": "you (informal) (Avere (to have)):",
+            "tried": 1
+        },
+        {
+            "answer": "Can I pay by credit card?",
+            "failed": 0,
+            "lastAsked": 1454004699.8470354,
+            "question": "Given the definition \"Posso pagare con la carta di credito?\", what is the word?",
+            "tried": 1
         }
     ]
 }

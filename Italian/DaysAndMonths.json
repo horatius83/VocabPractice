@@ -3,661 +3,661 @@
     "vocab": [
         {
             "answer": "venerdi",
-            "failed": 5,
-            "lastAsked": 1453832940.3364515,
+            "failed": 6,
+            "lastAsked": 1454350470.7421918,
             "question": "What is the definition of \"Friday\"?",
-            "tried": 8
-        },
-        {
-            "answer": "quattro",
-            "failed": 3,
-            "lastAsked": 1453832932.6166797,
-            "question": "What is the definition of \"4\"?",
-            "tried": 5
-        },
-        {
-            "answer": "quaranta",
-            "failed": 1,
-            "lastAsked": 1453832922.9957178,
-            "question": "What is the definition of \"40\"?",
-            "tried": 3
-        },
-        {
-            "answer": "marzo",
-            "failed": 2,
-            "lastAsked": 1453832898.6352818,
-            "question": "What is the definition of \"March\"?",
-            "tried": 5
-        },
-        {
-            "answer": "maggio",
-            "failed": 3,
-            "lastAsked": 1453832942.6166797,
-            "question": "What is the definition of \"May\"?",
-            "tried": 5
-        },
-        {
-            "answer": "gennaio",
-            "failed": 2,
-            "lastAsked": 1453832901.3155499,
-            "question": "What is the definition of \"January\"?",
-            "tried": 5
-        },
-        {
-            "answer": "sessanta",
-            "failed": 1,
-            "lastAsked": 1453832908.4752657,
-            "question": "What is the definition of \"60\"?",
-            "tried": 3
-        },
-        {
-            "answer": "6",
-            "failed": 2,
-            "lastAsked": 1453832911.4555638,
-            "question": "Given the definition \"sei\", what is the word?",
-            "tried": 5
-        },
-        {
-            "answer": "diciotto",
-            "failed": 1,
-            "lastAsked": 1453832987.5181694,
-            "question": "What is the definition of \"18\"?",
-            "tried": 3
-        },
-        {
-            "answer": "diciannove",
-            "failed": 4,
-            "lastAsked": 1453833040.180435,
-            "question": "What is the definition of \"19\"?",
-            "tried": 7
-        },
-        {
-            "answer": "domencia",
-            "failed": 3,
-            "lastAsked": 1453833028.379255,
-            "question": "What is the definition of \"Sunday\"?",
-            "tried": 6
+            "tried": 10
         },
         {
             "answer": "cento",
-            "failed": 3,
-            "lastAsked": 1453833032.699687,
+            "failed": 4,
+            "lastAsked": 1454350455.983192,
             "question": "What is the definition of \"100\"?",
-            "tried": 5
+            "tried": 7
         },
         {
-            "answer": "Giovedi",
-            "failed": 3,
-            "lastAsked": 1453833008.9193091,
-            "question": "What is the definition of \"Thursday\"?",
-            "tried": 6
+            "answer": "quattro",
+            "failed": 4,
+            "lastAsked": 1454350451.023192,
+            "question": "What is the definition of \"4\"?",
+            "tried": 7
+        },
+        {
+            "answer": "maggio",
+            "failed": 4,
+            "lastAsked": 1454350467.1821918,
+            "question": "What is the definition of \"May\"?",
+            "tried": 7
+        },
+        {
+            "answer": "mercoledi",
+            "failed": 5,
+            "lastAsked": 1454350454.063192,
+            "question": "What is the definition of \"Wednesday\"?",
+            "tried": 9
+        },
+        {
+            "answer": "diciannove",
+            "failed": 5,
+            "lastAsked": 1454350461.522192,
+            "question": "What is the definition of \"19\"?",
+            "tried": 9
+        },
+        {
+            "answer": "Lenedi",
+            "failed": 5,
+            "lastAsked": 1454350448.6431918,
+            "question": "What is the definition of \"Monday\"?",
+            "tried": 9
+        },
+        {
+            "answer": "Friday",
+            "failed": 2,
+            "lastAsked": 1454350441.3241918,
+            "question": "Given the definition \"venerdi\", what is the word?",
+            "tried": 5
         },
         {
             "answer": "luglio",
             "failed": 3,
-            "lastAsked": 1453833030.839501,
+            "lastAsked": 1454350501.0801919,
             "question": "What is the definition of \"July\"?",
-            "tried": 6
+            "tried": 7
         },
         {
-            "answer": "cinquanta",
-            "failed": 1,
-            "lastAsked": 1453832972.7376914,
-            "question": "What is the definition of \"50\"?",
-            "tried": 3
+            "answer": "martedi",
+            "failed": 5,
+            "lastAsked": 1454350549.897192,
+            "question": "What is the definition of \"Tuesday\"?",
+            "tried": 8
         },
         {
             "answer": "sedici",
-            "failed": 2,
-            "lastAsked": 1453833016.159033,
-            "question": "What is the definition of \"16\"?",
-            "tried": 4
-        },
-        {
-            "answer": "quattordici",
             "failed": 3,
-            "lastAsked": 1453833097.2621427,
-            "question": "What is the definition of \"14\"?",
+            "lastAsked": 1454350536.7981918,
+            "question": "What is the definition of \"16\"?",
             "tried": 6
         },
         {
-            "answer": "settanta",
-            "failed": 1,
-            "lastAsked": 1453833063.940811,
-            "question": "What is the definition of \"70\"?",
-            "tried": 4
+            "answer": "Giovedi",
+            "failed": 3,
+            "lastAsked": 1454350511.739192,
+            "question": "What is the definition of \"Thursday\"?",
+            "tried": 7
         },
         {
-            "answer": "giugno",
+            "answer": "quattordici",
+            "failed": 4,
+            "lastAsked": 1454350542.8771918,
+            "question": "What is the definition of \"14\"?",
+            "tried": 8
+        },
+        {
+            "answer": "domencia",
+            "failed": 4,
+            "lastAsked": 1454350539.497192,
+            "question": "What is the definition of \"Sunday\"?",
+            "tried": 8
+        },
+        {
+            "answer": "Thursday",
             "failed": 2,
-            "lastAsked": 1453833110.2024364,
-            "question": "What is the definition of \"June\"?",
+            "lastAsked": 1454350490.4001918,
+            "question": "Given the definition \"Giovedi\", what is the word?",
             "tried": 5
+        },
+        {
+            "answer": "febbraio",
+            "failed": 3,
+            "lastAsked": 1454350534.2581918,
+            "question": "What is the definition of \"February\"?",
+            "tried": 7
+        },
+        {
+            "answer": "marzo",
+            "failed": 2,
+            "lastAsked": 1454350572.2151918,
+            "question": "What is the definition of \"March\"?",
+            "tried": 6
         },
         {
             "answer": "ottobre",
             "failed": 2,
-            "lastAsked": 1453833112.3626525,
+            "lastAsked": 1454350569.895192,
             "question": "What is the definition of \"October\"?",
+            "tried": 6
+        },
+        {
+            "answer": "6",
+            "failed": 2,
+            "lastAsked": 1454350566.716192,
+            "question": "Given the definition \"sei\", what is the word?",
+            "tried": 6
+        },
+        {
+            "answer": "gennaio",
+            "failed": 2,
+            "lastAsked": 1454350555.8561919,
+            "question": "What is the definition of \"January\"?",
+            "tried": 6
+        },
+        {
+            "answer": "giugno",
+            "failed": 3,
+            "lastAsked": 1454350579.815192,
+            "question": "What is the definition of \"June\"?",
+            "tried": 7
+        },
+        {
+            "answer": "novembre",
+            "failed": 1,
+            "lastAsked": 1454350564.415192,
+            "question": "What is the definition of \"November\"?",
+            "tried": 4
+        },
+        {
+            "answer": "agosto",
+            "failed": 1,
+            "lastAsked": 1454350553.076192,
+            "question": "What is the definition of \"August\"?",
+            "tried": 4
+        },
+        {
+            "answer": "quaranta",
+            "failed": 1,
+            "lastAsked": 1454350575.9751918,
+            "question": "What is the definition of \"40\"?",
+            "tried": 4
+        },
+        {
+            "answer": "diciotto",
+            "failed": 1,
+            "lastAsked": 1454350585.354192,
+            "question": "What is the definition of \"18\"?",
+            "tried": 4
+        },
+        {
+            "answer": "sessanta",
+            "failed": 1,
+            "lastAsked": 1454350606.3931918,
+            "question": "What is the definition of \"60\"?",
+            "tried": 4
+        },
+        {
+            "answer": "July",
+            "failed": 1,
+            "lastAsked": 1454350591.8341918,
+            "question": "Given the definition \"luglio\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "60",
+            "failed": 2,
+            "lastAsked": 1454350635.411192,
+            "question": "Given the definition \"sessanta\", what is the word?",
+            "tried": 5
+        },
+        {
+            "answer": "cinquanta",
+            "failed": 2,
+            "lastAsked": 1454350638.871192,
+            "question": "What is the definition of \"50\"?",
+            "tried": 5
+        },
+        {
+            "answer": "settembre",
+            "failed": 1,
+            "lastAsked": 1454350609.9131918,
+            "question": "What is the definition of \"September\"?",
+            "tried": 4
+        },
+        {
+            "answer": "Monday",
+            "failed": 2,
+            "lastAsked": 1454350643.530192,
+            "question": "Given the definition \"Lenedi\", what is the word?",
+            "tried": 5
+        },
+        {
+            "answer": "15",
+            "failed": 2,
+            "lastAsked": 1454350641.2511919,
+            "question": "Given the definition \"quindici\", what is the word?",
+            "tried": 5
+        },
+        {
+            "answer": "dieci",
+            "failed": 2,
+            "lastAsked": 1454350669.2091918,
+            "question": "What is the definition of \"10\"?",
+            "tried": 5
+        },
+        {
+            "answer": "dicembre",
+            "failed": 1,
+            "lastAsked": 1454350663.829192,
+            "question": "What is the definition of \"December\"?",
             "tried": 5
         },
         {
             "answer": "quindici",
             "failed": 1,
-            "lastAsked": 1453833072.7616928,
+            "lastAsked": 1454350645.970192,
             "question": "What is the definition of \"15\"?",
-            "tried": 4
-        },
-        {
-            "answer": "mercoledi",
-            "failed": 4,
-            "lastAsked": 1453833125.9030063,
-            "question": "What is the definition of \"Wednesday\"?",
-            "tried": 7
-        },
-        {
-            "answer": "Lenedi",
-            "failed": 4,
-            "lastAsked": 1453833128.2032363,
-            "question": "What is the definition of \"Monday\"?",
-            "tried": 7
-        },
-        {
-            "answer": "dicembre",
-            "failed": 1,
-            "lastAsked": 1453833079.6813848,
-            "question": "What is the definition of \"December\"?",
-            "tried": 4
-        },
-        {
-            "answer": "febbraio",
-            "failed": 2,
-            "lastAsked": 1453833154.4838643,
-            "question": "What is the definition of \"February\"?",
             "tried": 5
         },
         {
-            "answer": "60",
+            "answer": "settanta",
             "failed": 1,
-            "lastAsked": 1453833157.5241683,
-            "question": "Given the definition \"sessanta\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "13",
-            "failed": 0,
-            "lastAsked": 1453833139.2033362,
-            "question": "Given the definition \"tredici\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "August",
-            "failed": 0,
-            "lastAsked": 1453833143.9438102,
-            "question": "Given the definition \"agosto\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "100",
-            "failed": 0,
-            "lastAsked": 1453833151.9636123,
-            "question": "Given the definition \"cento\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "20",
-            "failed": 0,
-            "lastAsked": 1453833136.7030864,
-            "question": "Given the definition \"venti\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "30",
-            "failed": 0,
-            "lastAsked": 1453833130.3834543,
-            "question": "Given the definition \"trenta\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "1",
-            "failed": 0,
-            "lastAsked": 1453833140.6434803,
-            "question": "Given the definition \"uno\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Wednesday",
-            "failed": 0,
-            "lastAsked": 1453833173.14473,
-            "question": "Given the definition \"mercoledi\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "novanta",
-            "failed": 0,
-            "lastAsked": 1453833180.684484,
-            "question": "What is the definition of \"90\"?",
-            "tried": 2
-        },
-        {
-            "answer": "50",
-            "failed": 0,
-            "lastAsked": 1453833165.7839942,
-            "question": "Given the definition \"cinquanta\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "40",
-            "failed": 0,
-            "lastAsked": 1453833167.684184,
-            "question": "Given the definition \"quaranta\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "17",
-            "failed": 0,
-            "lastAsked": 1453833177.924208,
-            "question": "Given the definition \"dicassette\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "11",
-            "failed": 0,
-            "lastAsked": 1453833174.94491,
-            "question": "Given the definition \"undici\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "cinque",
-            "failed": 0,
-            "lastAsked": 1453833162.8437002,
-            "question": "What is the definition of \"5\"?",
-            "tried": 2
-        },
-        {
-            "answer": "novembre",
-            "failed": 1,
-            "lastAsked": 1453833189.425358,
-            "question": "What is the definition of \"November\"?",
-            "tried": 3
-        },
-        {
-            "answer": "September",
-            "failed": 0,
-            "lastAsked": 1453833194.9849138,
-            "question": "Given the definition \"settembre\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "otto",
-            "failed": 0,
-            "lastAsked": 1453833232.5866737,
-            "question": "What is the definition of \"8\"?",
-            "tried": 2
-        },
-        {
-            "answer": "tredici",
-            "failed": 0,
-            "lastAsked": 1453833208.385254,
-            "question": "What is the definition of \"13\"?",
-            "tried": 2
-        },
-        {
-            "answer": "agosto",
-            "failed": 1,
-            "lastAsked": 1453833240.5264676,
-            "question": "What is the definition of \"August\"?",
-            "tried": 3
-        },
-        {
-            "answer": "October",
-            "failed": 0,
-            "lastAsked": 1453833235.3669517,
-            "question": "Given the definition \"ottobre\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "settembre",
-            "failed": 1,
-            "lastAsked": 1453833243.2467396,
-            "question": "What is the definition of \"September\"?",
-            "tried": 3
-        },
-        {
-            "answer": "ottanta",
-            "failed": 0,
-            "lastAsked": 1453833213.6857839,
-            "question": "What is the definition of \"80\"?",
-            "tried": 2
+            "lastAsked": 1454350648.6301918,
+            "question": "What is the definition of \"70\"?",
+            "tried": 5
         },
         {
             "answer": "18",
             "failed": 0,
-            "lastAsked": 1453833204.3658519,
+            "lastAsked": 1454350666.1891918,
             "question": "Given the definition \"diciotto\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "80",
-            "failed": 0,
-            "lastAsked": 1453833256.4870634,
-            "question": "Given the definition \"ottanta\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "3",
-            "failed": 0,
-            "lastAsked": 1453833257.7071855,
-            "question": "Given the definition \"tre\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "70",
-            "failed": 0,
-            "lastAsked": 1453833245.7069857,
-            "question": "Given the definition \"settanta\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "8",
-            "failed": 0,
-            "lastAsked": 1453833254.7868936,
-            "question": "Given the definition \"otto\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "12",
-            "failed": 0,
-            "lastAsked": 1453833253.1867335,
-            "question": "Given the definition \"dodici\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "aprile",
-            "failed": 0,
-            "lastAsked": 1453833247.9272077,
-            "question": "What is the definition of \"April\"?",
-            "tried": 2
-        },
-        {
-            "answer": "dodici",
-            "failed": 0,
-            "lastAsked": 1453833266.4080555,
-            "question": "What is the definition of \"12\"?",
-            "tried": 2
-        },
-        {
-            "answer": "15",
-            "failed": 1,
-            "lastAsked": 1453833268.3272474,
-            "question": "Given the definition \"quindici\", what is the word?",
             "tried": 3
         },
         {
-            "answer": "4",
+            "answer": "uno",
             "failed": 0,
-            "lastAsked": 1453833286.8480992,
-            "question": "Given the definition \"quattro\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "March",
-            "failed": 0,
-            "lastAsked": 1453833284.6078753,
-            "question": "Given the definition \"marzo\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "nove",
-            "failed": 0,
-            "lastAsked": 1453833297.2091353,
-            "question": "What is the definition of \"9\"?",
-            "tried": 2
-        },
-        {
-            "answer": "dieci",
-            "failed": 1,
-            "lastAsked": 1453833303.7687912,
-            "question": "What is the definition of \"10\"?",
+            "lastAsked": 1454350660.6891918,
+            "question": "What is the definition of \"1\"?",
             "tried": 3
         },
         {
-            "answer": "trenta",
+            "answer": "otto",
             "failed": 0,
-            "lastAsked": 1453833281.9886134,
-            "question": "What is the definition of \"30\"?",
-            "tried": 2
-        },
-        {
-            "answer": "May",
-            "failed": 0,
-            "lastAsked": 1453833300.368451,
-            "question": "Given the definition \"maggio\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "sette",
-            "failed": 0,
-            "lastAsked": 1453833294.9089053,
-            "question": "What is the definition of \"7\"?",
-            "tried": 2
-        },
-        {
-            "answer": "Thursday",
-            "failed": 2,
-            "lastAsked": 1453833314.5898733,
-            "question": "Given the definition \"Giovedi\", what is the word?",
-            "tried": 4
-        },
-        {
-            "answer": "sabato",
-            "failed": 0,
-            "lastAsked": 1453833327.4701612,
-            "question": "What is the definition of \"Saturday\"?",
-            "tried": 2
-        },
-        {
-            "answer": "martedi",
-            "failed": 2,
-            "lastAsked": 1453833350.850499,
-            "question": "What is the definition of \"Tuesday\"?",
-            "tried": 4
-        },
-        {
-            "answer": "Tuesday",
-            "failed": 0,
-            "lastAsked": 1453833330.549469,
-            "question": "Given the definition \"martedi\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "2",
-            "failed": 0,
-            "lastAsked": 1453833339.570371,
-            "question": "Given the definition \"due\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "April",
-            "failed": 0,
-            "lastAsked": 1453833334.189833,
-            "question": "Given the definition \"aprile\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "January",
-            "failed": 0,
-            "lastAsked": 1453833336.490063,
-            "question": "Given the definition \"gennaio\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "10",
-            "failed": 0,
-            "lastAsked": 1453833332.269641,
-            "question": "Given the definition \"dieci\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "July",
-            "failed": 1,
-            "lastAsked": 1453833342.050619,
-            "question": "Given the definition \"luglio\", what is the word?",
+            "lastAsked": 1454350658.369192,
+            "question": "What is the definition of \"8\"?",
             "tried": 3
         },
         {
-            "answer": "undici",
+            "answer": "tre",
             "failed": 0,
-            "lastAsked": 1453833353.670781,
-            "question": "What is the definition of \"11\"?",
-            "tried": 2
+            "lastAsked": 1454350651.290192,
+            "question": "What is the definition of \"3\"?",
+            "tried": 3
         },
         {
-            "answer": "due",
+            "answer": "February",
             "failed": 0,
-            "lastAsked": 1453833355.4309568,
-            "question": "What is the definition of \"2\"?",
-            "tried": 2
+            "lastAsked": 1454350681.2681918,
+            "question": "Given the definition \"febbraio\", what is the word?",
+            "tried": 3
         },
         {
-            "answer": "Friday",
-            "failed": 2,
-            "lastAsked": 1453833394.4918625,
-            "question": "Given the definition \"venerdi\", what is the word?",
-            "tried": 4
-        },
-        {
-            "answer": "5",
+            "answer": "August",
             "failed": 0,
-            "lastAsked": 1453833374.9109046,
-            "question": "Given the definition \"cinque\", what is the word?",
-            "tried": 2
+            "lastAsked": 1454350685.908192,
+            "question": "Given the definition \"agosto\", what is the word?",
+            "tried": 3
         },
         {
-            "answer": "venti",
+            "answer": "40",
             "failed": 0,
-            "lastAsked": 1453833380.4714606,
-            "question": "What is the definition of \"20\"?",
-            "tried": 2
-        },
-        {
-            "answer": "90",
-            "failed": 0,
-            "lastAsked": 1453833378.6512787,
-            "question": "Given the definition \"novanta\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "December",
-            "failed": 0,
-            "lastAsked": 1453833357.8311968,
-            "question": "Given the definition \"dicembre\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Monday",
-            "failed": 1,
-            "lastAsked": 1453833386.3720508,
-            "question": "Given the definition \"Lenedi\", what is the word?",
+            "lastAsked": 1454350678.7881918,
+            "question": "Given the definition \"quaranta\", what is the word?",
             "tried": 3
         },
         {
             "answer": "Sunday",
             "failed": 0,
-            "lastAsked": 1453833401.3325467,
+            "lastAsked": 1454350674.448192,
             "question": "Given the definition \"domencia\", what is the word?",
-            "tried": 2
+            "tried": 3
         },
         {
-            "answer": "February",
+            "answer": "novanta",
             "failed": 0,
-            "lastAsked": 1453833403.7527885,
-            "question": "Given the definition \"febbraio\", what is the word?",
-            "tried": 2
+            "lastAsked": 1454350683.668192,
+            "question": "What is the definition of \"90\"?",
+            "tried": 3
         },
         {
-            "answer": "June",
+            "answer": "11",
             "failed": 0,
-            "lastAsked": 1453833411.9726105,
-            "question": "Given the definition \"giugno\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "uno",
-            "failed": 0,
-            "lastAsked": 1453833405.4919624,
-            "question": "What is the definition of \"1\"?",
-            "tried": 2
-        },
-        {
-            "answer": "9",
-            "failed": 0,
-            "lastAsked": 1453833398.8723006,
-            "question": "Given the definition \"nove\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "tre",
-            "failed": 0,
-            "lastAsked": 1453833406.9521084,
-            "question": "What is the definition of \"3\"?",
-            "tried": 2
-        },
-        {
-            "answer": "sei",
-            "failed": 0,
-            "lastAsked": 1453833397.1121247,
-            "question": "What is the definition of \"6\"?",
-            "tried": 2
-        },
-        {
-            "answer": "Saturday",
-            "failed": 0,
-            "lastAsked": 1453833409.3723505,
-            "question": "Given the definition \"sabato\", what is the word?",
-            "tried": 2
+            "lastAsked": 1454350690.3071918,
+            "question": "Given the definition \"undici\", what is the word?",
+            "tried": 3
         },
         {
             "answer": "19",
             "failed": 0,
-            "lastAsked": 1453833419.8734004,
+            "lastAsked": 1454350671.749192,
             "question": "Given the definition \"diciannove\", what is the word?",
-            "tried": 2
+            "tried": 3
         },
         {
-            "answer": "dicassette",
+            "answer": "venti",
             "failed": 0,
-            "lastAsked": 1453833428.4932623,
-            "question": "What is the definition of \"17\"?",
-            "tried": 2
+            "lastAsked": 1454350688.368192,
+            "question": "What is the definition of \"20\"?",
+            "tried": 3
         },
         {
-            "answer": "November",
+            "answer": "2",
             "failed": 0,
-            "lastAsked": 1453833414.6128745,
-            "question": "Given the definition \"novembre\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "16",
-            "failed": 0,
-            "lastAsked": 1453833422.3526485,
-            "question": "Given the definition \"sedici\", what is the word?",
-            "tried": 2
+            "lastAsked": 1454350700.427192,
+            "question": "Given the definition \"due\", what is the word?",
+            "tried": 3
         },
         {
             "answer": "14",
             "failed": 0,
-            "lastAsked": 1453833424.2728405,
+            "lastAsked": 1454350703.247192,
             "question": "Given the definition \"quattordici\", what is the word?",
-            "tried": 2
+            "tried": 3
+        },
+        {
+            "answer": "50",
+            "failed": 0,
+            "lastAsked": 1454350692.447192,
+            "question": "Given the definition \"cinquanta\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "4",
+            "failed": 0,
+            "lastAsked": 1454350698.427192,
+            "question": "Given the definition \"quattro\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "13",
+            "failed": 0,
+            "lastAsked": 1454350705.1261919,
+            "question": "Given the definition \"tredici\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "90",
+            "failed": 0,
+            "lastAsked": 1454350696.227192,
+            "question": "Given the definition \"novanta\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "sette",
+            "failed": 1,
+            "lastAsked": 1454350718.4851918,
+            "question": "What is the definition of \"7\"?",
+            "tried": 4
+        },
+        {
+            "answer": "80",
+            "failed": 0,
+            "lastAsked": 1454350713.746192,
+            "question": "Given the definition \"ottanta\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "100",
+            "failed": 0,
+            "lastAsked": 1454350722.7051919,
+            "question": "Given the definition \"cento\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "dodici",
+            "failed": 1,
+            "lastAsked": 1454350746.184192,
+            "question": "What is the definition of \"12\"?",
+            "tried": 4
+        },
+        {
+            "answer": "5",
+            "failed": 0,
+            "lastAsked": 1454350724.6851919,
+            "question": "Given the definition \"cinque\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "March",
+            "failed": 0,
+            "lastAsked": 1454350720.865192,
+            "question": "Given the definition \"marzo\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "Saturday",
+            "failed": 0,
+            "lastAsked": 1454350742.924192,
+            "question": "Given the definition \"sabato\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "September",
+            "failed": 0,
+            "lastAsked": 1454350739.204192,
+            "question": "Given the definition \"settembre\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "3",
+            "failed": 0,
+            "lastAsked": 1454350726.0051918,
+            "question": "Given the definition \"tre\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "December",
+            "failed": 0,
+            "lastAsked": 1454350729.045192,
+            "question": "Given the definition \"dicembre\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "January",
+            "failed": 0,
+            "lastAsked": 1454350764.642192,
+            "question": "Given the definition \"gennaio\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "12",
+            "failed": 0,
+            "lastAsked": 1454350748.604192,
+            "question": "Given the definition \"dodici\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "undici",
+            "failed": 0,
+            "lastAsked": 1454350752.3631918,
+            "question": "What is the definition of \"11\"?",
+            "tried": 3
+        },
+        {
+            "answer": "November",
+            "failed": 0,
+            "lastAsked": 1454350754.6631918,
+            "question": "Given the definition \"novembre\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "ottanta",
+            "failed": 0,
+            "lastAsked": 1454350762.263192,
+            "question": "What is the definition of \"80\"?",
+            "tried": 3
+        },
+        {
+            "answer": "30",
+            "failed": 0,
+            "lastAsked": 1454350756.3831918,
+            "question": "Given the definition \"trenta\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "May",
+            "failed": 0,
+            "lastAsked": 1454350769.4221919,
+            "question": "Given the definition \"maggio\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "sabato",
+            "failed": 0,
+            "lastAsked": 1454350759.943192,
+            "question": "What is the definition of \"Saturday\"?",
+            "tried": 3
+        },
+        {
+            "answer": "70",
+            "failed": 1,
+            "lastAsked": 1454350811.9391918,
+            "question": "Given the definition \"settanta\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "Tuesday",
+            "failed": 0,
+            "lastAsked": 1454350782.221192,
+            "question": "Given the definition \"martedi\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "June",
+            "failed": 0,
+            "lastAsked": 1454350779.141192,
+            "question": "Given the definition \"giugno\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "cinque",
+            "failed": 0,
+            "lastAsked": 1454350804.0601919,
+            "question": "What is the definition of \"5\"?",
+            "tried": 3
+        },
+        {
+            "answer": "9",
+            "failed": 0,
+            "lastAsked": 1454350771.562192,
+            "question": "Given the definition \"nove\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "dicassette",
+            "failed": 1,
+            "lastAsked": 1454350809.660192,
+            "question": "What is the definition of \"17\"?",
+            "tried": 4
+        },
+        {
+            "answer": "April",
+            "failed": 0,
+            "lastAsked": 1454350800.3201919,
+            "question": "Given the definition \"aprile\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "16",
+            "failed": 0,
+            "lastAsked": 1454350798.260192,
+            "question": "Given the definition \"sedici\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "sei",
+            "failed": 0,
+            "lastAsked": 1454350822.079192,
+            "question": "What is the definition of \"6\"?",
+            "tried": 3
+        },
+        {
+            "answer": "8",
+            "failed": 0,
+            "lastAsked": 1454350823.859192,
+            "question": "Given the definition \"otto\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "October",
+            "failed": 0,
+            "lastAsked": 1454350814.319192,
+            "question": "Given the definition \"ottobre\", what is the word?",
+            "tried": 3
         },
         {
             "answer": "7",
             "failed": 0,
-            "lastAsked": 1453833417.0731206,
+            "lastAsked": 1454350826.338192,
             "question": "Given the definition \"sette\", what is the word?",
-            "tried": 2
+            "tried": 3
+        },
+        {
+            "answer": "trenta",
+            "failed": 0,
+            "lastAsked": 1454350816.1991918,
+            "question": "What is the definition of \"30\"?",
+            "tried": 3
+        },
+        {
+            "answer": "20",
+            "failed": 0,
+            "lastAsked": 1454350831.7581918,
+            "question": "Given the definition \"venti\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "nove",
+            "failed": 0,
+            "lastAsked": 1454350828.158192,
+            "question": "What is the definition of \"9\"?",
+            "tried": 3
+        },
+        {
+            "answer": "aprile",
+            "failed": 0,
+            "lastAsked": 1454350829.938192,
+            "question": "What is the definition of \"April\"?",
+            "tried": 3
+        },
+        {
+            "answer": "10",
+            "failed": 0,
+            "lastAsked": 1454350848.517192,
+            "question": "Given the definition \"dieci\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "due",
+            "failed": 0,
+            "lastAsked": 1454350846.5771918,
+            "question": "What is the definition of \"2\"?",
+            "tried": 3
+        },
+        {
+            "answer": "1",
+            "failed": 0,
+            "lastAsked": 1454350834.7981918,
+            "question": "Given the definition \"uno\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "Wednesday",
+            "failed": 1,
+            "lastAsked": 1454350851.7971919,
+            "question": "Given the definition \"mercoledi\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "17",
+            "failed": 0,
+            "lastAsked": 1454350833.438192,
+            "question": "Given the definition \"dicassette\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "tredici",
+            "failed": 0,
+            "lastAsked": 1454350838.158192,
+            "question": "What is the definition of \"13\"?",
+            "tried": 3
         }
     ]
 }

@@ -1,0 +1,91 @@
+v0.1	Chapter 7 Part II
+v	He takes the dessert.	Lui prende il dolce.
+v	He orders the main course.	Lui ordina il secondo.
+v	She orders the fruit.	Lei ordina la frutta.
+v	I take the side dish.	Io prendo il contorno.
+v	You (informal) order the first course.	Tu ordini il primo.
+v	You (informal) take the ravioli with meat sauce.	Tu prendi i ravioli al ragu'.
+v	You (formal) take the first course.	Lei (formal) prende il primo.
+v	I order the antipasto.	Io ordino l'antipasto.
+v	I pay	pago
+v	I order	ordino
+v	you pay	paghi
+v	you order	ordini
+v	he/she pays	paga
+v	he/she orders	ordina
+v	I take	prendo
+v	I ask for	chiedo
+v	you take	prendi
+v	you ask for	chiedi
+v	he/she takes	prende
+v	he/she asks for	chiede
+q	We are are an Italian restaurant. ___ in un ___ italiano.	siamo, ristorante
+q	I order ravioli with meat sauce. Io ___ i ravioli ___ ragu'.	ordino, al
+q	You order grilled fish and mixed salad. Tu ___ il pesce all ___ e l'insalata mista.	ordini, griglia
+q	Maria orders mixed appetizers. Maria ___ l'antipasto ___.	ordina, misto
+q	You ask for dessert and coffee. Tu ___ il dolce e il ___.	chiedi, caffe'
+q	Maria asks for the bill. Maria ___ il ____.	chiede, conto
+q	I pay the check by credit card. Io ___ il conto con la ___ di credito.	pago, carta
+v	Well, Giulia, what are you having?	Allora Giulia, che cosa prendi?
+v	I would like the bruschette of the house.	Vorrei le bruschette della casa.
+v	And what are you having as a first course?	E cosa prendi per primo?
+v	I'll have the ravioli; they're very good.	Prendo i ravioli; sono molto buoni.
+v	I, on the other hand, would like the penne with tomato and basil sauce. It's delicious.	Io invece vorrei le penne al pmodoro e basilico: sono squisite.
+v	Are you having a main course, too?	Prendi anche il secondo?
+v	Yes, the meat is excellent. I'll have a beefsteak with a side of salad.	Si, la carne e' eccellente. Prendo una bistecca con contorno di insalata.
+v	Good idea! I'd like the pork roast with a side of potatoes instead.	Buona idea. Io invece vorrei il maiale al forno con contorno di patate.
+v	Shall I order wine, too?	Ordino anche il vino?
+v	Yes, sure. Half a liter of the house red. And a bottle of mineral water, still.	Si, certo: mezzo litro di (vino) rosso della casa. E una bottiglia di acqua minerale naturale.
+v	All right, I'll call the waiter right away.	Bene, chaimo subito il cameriere.
+v	pmodoro e basilico	tomato and basil
+v	la bistecca	the beefsteak
+v	il maiale al forno	the pork roast
+v	le patate	the potatoes
+v	l'acqua minerale	mineral water
+v	squisito/squisita/squisiti/squisite	delicious
+v	naturale/naturali	natural, non-carbonated, still
+q	Tu (ordinare) il pesce della casa.	ordini
+q	Io (chiamare) il cameriere.	chiamo
+q	Lui (chiedere) il conto.	chiede
+q	Lei (pagare) con la carta di credito.	paga
+q	Loro (ordinare) la bistecca.	ordinano
+q	Noi (prendere) il dolce ed il caffe'.	prendiamo
+q	Voi (ordinare) il primo.	ordinate
+q	Noi (pagare) con la carta di credito.	paghiamo
+v	avere (io)	ho
+v	avere (tu)	hai
+v	avere (lui/lei)	ha
+v	essere (io)	sono
+v	essere (tu)	sei
+v	essere (lui/lei)	e'
+v	ordinare (io)	ordino
+v	ordinare (tu)	ordini
+v	ordinare (lui/lei)	ordina
+v	pagare (io)	pago
+v	pagare (tu)	paghi
+v	pagare (lui/lei)	paga
+v	chiamare (io)	chiamo
+v	chiamare (tu)	chiami
+v	chiamare (lui/lei)	chiama
+v	chidere (io)	chiedo
+v	chidere (tu)	chiedi
+v	chidere (lui/lei)	chiede
+v	prendere (io)	prendo
+v	prendere (tu)	prendi
+v	prendere (lui/lei)	prende
+q	We are in the kitchen	Siamo in cucina.
+q	In the bedroom there is the double bed.	Nella camera c'e' il letto matrimoniale.
+q	Paola's flowers are in the garden.	I fiori di Paola sono in giardino.
+q	My mom is nice.	Mia mamma e' simpatica.
+q	Luigi's car is red	L'automobile/la macchina di Luigi e' rossa
+q	Where is the pharmacy?	Dove'e' la farmacia?
+q	Is there a post office nearby?	C'e' un ufficio postale qui vicino?
+q	May I have the wine list?	Posso avere la carta di vini?
+q	Can we pay by credit card?	Possiamo pagare con la carta di credito?
+q	I would like the mineral water.	Vorrei l'acqua minerale
+q	I order the grilled fish.	Ordino il pesce alla griglia
+q	We pay by credit card.	Paghiamo con la carta di credito.
+q	The bathroom is new.	Il bagno e' nuovo.
+q	Carla's couch is old.	Il divano di Carla e' vecchio.
+q	The school is next to the station.	La scuola e' vicino alla stazione.
+q	I'll have (take) the ravioli with meat sauce.	Prendo i ravioli al ragu'.

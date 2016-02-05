@@ -52,27 +52,27 @@ q	Loro (ordinare) la bistecca.	ordinano
 q	Noi (prendere) il dolce ed il caffe'.	prendiamo
 q	Voi (ordinare) il primo.	ordinate
 q	Noi (pagare) con la carta di credito.	paghiamo
-v	avere (io)	ho
-v	avere (tu)	hai
-v	avere (lui/lei)	ha
-v	essere (io)	sono
-v	essere (tu)	sei
-v	essere (lui/lei)	e'
-v	ordinare (io)	ordino
-v	ordinare (tu)	ordini
-v	ordinare (lui/lei)	ordina
-v	pagare (io)	pago
-v	pagare (tu)	paghi
-v	pagare (lui/lei)	paga
-v	chiamare (io)	chiamo
-v	chiamare (tu)	chiami
-v	chiamare (lui/lei)	chiama
-v	chidere (io)	chiedo
-v	chidere (tu)	chiedi
-v	chidere (lui/lei)	chiede
-v	prendere (io)	prendo
-v	prendere (tu)	prendi
-v	prendere (lui/lei)	prende
+q	avere (io)	ho
+q	avere (tu)	hai
+q	avere (lui/lei)	ha
+q	essere (io)	sono
+q	essere (tu)	sei
+q	essere (lui/lei)	e'
+q	ordinare (io)	ordino
+q	ordinare (tu)	ordini
+q	ordinare (lui/lei)	ordina
+q	pagare (io)	pago
+q	pagare (tu)	paghi
+q	pagare (lui/lei)	paga
+q	chiamare (io)	chiamo
+q	chiamare (tu)	chiami
+q	chiamare (lui/lei)	chiama
+q	chidere (io)	chiedo
+q	chidere (tu)	chiedi
+q	chidere (lui/lei)	chiede
+q	prendere (io)	prendo
+q	prendere (tu)	prendi
+q	prendere (lui/lei)	prende
 q	We are in the kitchen	Siamo in cucina.
 q	In the bedroom there is the double bed.	Nella camera c'e' il letto matrimoniale.
 q	Paola's flowers are in the garden.	I fiori di Paola sono in giardino.

@@ -1,0 +1,74 @@
+v0.1	Chapter 8
+v	to work	lavorare
+v	We work in the morning.	Noi lavoriamo la mattina.
+v	Y'all work in the afternoon.	Voi lavarate il pomeriggio.
+v	They work in the evening.	Loro lavorano la sera.
+v	to live	vivere
+v	We live in town.	Noi viviamo in citta'.
+v	Y'all live in the suburbs.	Voi vivete in periferia.
+v	They live in the countryside.	Loro vivono in campagna.
+v	to leave	partire
+v	We leave by train.	Noi partiamo in treno.
+v	Y'all leave by bus.	Voi partite in autobus.
+q	Y'all leave by train.	Voi partite in treno.
+q	We live in the country.	Noi viviamo in campagna.
+q	They live in town.	Loro vivono in citta'.
+q	Y'all live in the country.	Voi vivete in campagna.
+q	They leave by car.	Loro partono in macchina.
+q	We work in the evening.	Noi lavoriamo la sera.
+q	They work in the morning.	Loro lavorano la mattina.
+q	io -are	-o
+q	io -ere	-o
+q	io -ire	-o
+q	tu -are	-i
+q	tu -ere	-i
+q	tu -ire	-i
+q	lui/lei/Lei -are	-a
+q	lui/lei/Lei -ere	-e
+q	lui/lei/Lei -ire	-e
+q	I order	ordino
+q	I take	prendo
+q	I leave	parto
+v	You order	ordini
+v	You take	prendi
+v	You leave	parti
+v	He/She/You(formal) orders	ordina
+v	He/She/You(formal) takes	prende
+v	He/She/You(formal) leaves	parte
+q	noi -are	-iamo
+q	voi -are	-ate
+q	loro -are	-ano
+q	noi -ere	-iamo
+q	voi -ere	-ete
+q	loro -ere	-ono
+q	noi -ire	-iamo
+q	voi -ire	-ite
+q	loro -ire	-ono
+v	I work	lavoro
+v	I leave	parto
+v	You work	lavori
+v	You leave	parti
+v	He/She/You(formal) work	lavora
+v	He/She/You(formal) leave	parte
+v	We work	lavoriamo
+v	We take	prendiamo
+v	We leave	partiamo
+v	Y'all work	lavorate
+v	Y'all take	prendete
+v	Y'all leave	partite
+v	They work	lavorano
+v	They take	prendono
+v	They leave	partano
+v	to make, to do	fare
+v	I do the shopping at the mall.	Io faccio la spesa al centro commerciale.
+v	You exercise outdoors.	Tu fai ginnastica all'aperto.
+v	You (formal) have breakfast at the cafe.	Lei fa colazione al bar.
+v	He/She takes a walk.	Lui/Lei fa un giro a piedi.
+v	We pay attention.	Noi facciamo attenzione.
+v	Y'all make a good impression.	Voi fate bella figura.
+v	They make friends.	Loro fanno amicizia.
+v	What's the weather like?	Che tempo fa?
+v	Today, it's nice (weather).	Oggi fa bello.
+v	Today, it's bad (weather).	Oggi fa brutto.
+v	It's hot.	Fa caldo.
+v	It's cold.	Fa freddo.

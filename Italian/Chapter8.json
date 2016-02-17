@@ -2,219 +2,251 @@
     "name": ".\\Italian\\Chapter8.json",
     "vocab": [
         {
-            "answer": "lavorare",
+            "answer": "-ite",
             "failed": 0,
-            "question": "What is the definition of \"to work\"?",
-            "tried": 0
+            "lastAsked": 1455734657.1501474,
+            "question": "voi -ire",
+            "tried": 1
         },
         {
-            "answer": "to work",
+            "answer": "-o",
             "failed": 0,
-            "question": "Given the definition \"lavorare\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Noi lavoriamo la mattina.",
-            "failed": 0,
-            "question": "What is the definition of \"We work in the morning.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "We work in the morning.",
-            "failed": 0,
-            "question": "Given the definition \"Noi lavoriamo la mattina.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Voi lavarate il pomeriggio.",
-            "failed": 0,
-            "question": "What is the definition of \"Y'all work in the afternoon.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Y'all work in the afternoon.",
-            "failed": 0,
-            "question": "Given the definition \"Voi lavarate il pomeriggio.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Loro lavorano la sera.",
-            "failed": 0,
-            "question": "What is the definition of \"They work in the evening.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "They work in the evening.",
-            "failed": 0,
-            "question": "Given the definition \"Loro lavorano la sera.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "vivere",
-            "failed": 0,
-            "question": "What is the definition of \"to live\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to live",
-            "failed": 0,
-            "question": "Given the definition \"vivere\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Noi viviamo in citta'.",
-            "failed": 0,
-            "question": "What is the definition of \"We live in town.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "We live in town.",
-            "failed": 0,
-            "question": "Given the definition \"Noi viviamo in citta'.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Voi vivete in periferia.",
-            "failed": 0,
-            "question": "What is the definition of \"Y'all live in the suburbs.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Y'all live in the suburbs.",
-            "failed": 0,
-            "question": "Given the definition \"Voi vivete in periferia.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Loro vivono in campagna.",
-            "failed": 0,
-            "question": "What is the definition of \"They live in the countryside.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "They live in the countryside.",
-            "failed": 0,
-            "question": "Given the definition \"Loro vivono in campagna.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "partire",
-            "failed": 0,
-            "question": "What is the definition of \"to leave\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to leave",
-            "failed": 0,
-            "question": "Given the definition \"partire\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Noi partiamo in treno.",
-            "failed": 0,
-            "question": "What is the definition of \"We leave by train.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "We leave by train.",
-            "failed": 0,
-            "question": "Given the definition \"Noi partiamo in treno.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Voi partite in autobus.",
-            "failed": 0,
-            "question": "What is the definition of \"Y'all leave by bus.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Y'all leave by bus.",
-            "failed": 0,
-            "question": "Given the definition \"Voi partite in autobus.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Voi partite in treno.",
-            "failed": 0,
-            "question": "Y'all leave by train.",
-            "tried": 0
-        },
-        {
-            "answer": "Noi viviamo in campagna.",
-            "failed": 0,
-            "question": "We live in the country.",
-            "tried": 0
-        },
-        {
-            "answer": "Loro vivono in citta'.",
-            "failed": 0,
-            "question": "They live in town.",
-            "tried": 0
-        },
-        {
-            "answer": "Voi vivete in campagna.",
-            "failed": 0,
-            "question": "Y'all live in the country.",
-            "tried": 0
+            "lastAsked": 1455734649.3421605,
+            "question": "io -are",
+            "tried": 1
         },
         {
             "answer": "Loro partono in macchina.",
-            "failed": 0,
+            "failed": 4,
+            "lastAsked": 1455734812.9390268,
             "question": "They leave by car.",
-            "tried": 0
+            "tried": 5
         },
         {
-            "answer": "Noi lavoriamo la sera.",
-            "failed": 0,
-            "question": "We work in the evening.",
-            "tried": 0
+            "answer": "-iamo",
+            "failed": 1,
+            "lastAsked": 1455734717.8696404,
+            "question": "noi -ere",
+            "tried": 2
         },
         {
-            "answer": "Loro lavorano la mattina.",
-            "failed": 0,
-            "question": "They work in the morning.",
-            "tried": 0
+            "answer": "to live",
+            "failed": 1,
+            "lastAsked": 1455734709.6528325,
+            "question": "Given the definition \"vivere\", what is the word?",
+            "tried": 2
         },
         {
-            "answer": "-o",
-            "failed": 0,
-            "question": "io -are",
-            "tried": 0
+            "answer": "It's hot.",
+            "failed": 1,
+            "lastAsked": 1455734713.1409576,
+            "question": "Given the definition \"Fa caldo.\", what is the word?",
+            "tried": 2
         },
         {
-            "answer": "-o",
+            "answer": "It's cold.",
             "failed": 0,
-            "question": "io -ere",
-            "tried": 0
+            "lastAsked": 1455734661.4141188,
+            "question": "Given the definition \"Fa freddo.\", what is the word?",
+            "tried": 1
         },
         {
-            "answer": "-o",
+            "answer": "Noi facciamo attenzione.",
+            "failed": 2,
+            "lastAsked": 1455734791.1963258,
+            "question": "What is the definition of \"We pay attention.\"?",
+            "tried": 3
+        },
+        {
+            "answer": "to leave",
+            "failed": 1,
+            "lastAsked": 1455735066.5028312,
+            "question": "Given the definition \"partire\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "partire",
+            "failed": 1,
+            "lastAsked": 1455735069.1275694,
+            "question": "What is the definition of \"to leave\"?",
+            "tried": 2
+        },
+        {
+            "answer": "Noi viviamo in campagna.",
+            "failed": 1,
+            "lastAsked": 1455735061.5438082,
+            "question": "We live in the country.",
+            "tried": 2
+        },
+        {
+            "answer": "parte",
+            "failed": 3,
+            "lastAsked": 1455735108.0951169,
+            "question": "What is the definition of \"He/She/You(formal) leave\"?",
+            "tried": 4
+        },
+        {
+            "answer": "Voi partite in treno.",
+            "failed": 1,
+            "lastAsked": 1455735096.2233362,
+            "question": "Y'all leave by train.",
+            "tried": 2
+        },
+        {
+            "answer": "You (formal) have breakfast at the cafe.",
+            "failed": 1,
+            "lastAsked": 1455735079.2717073,
+            "question": "Given the definition \"Lei fa colazione al bar.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "Fa caldo.",
             "failed": 0,
-            "question": "io -ire",
-            "tried": 0
+            "lastAsked": 1455735047.7202117,
+            "question": "What is the definition of \"It's hot.\"?",
+            "tried": 1
+        },
+        {
+            "answer": "Oggi fa bello.",
+            "failed": 1,
+            "lastAsked": 1455735084.8153386,
+            "question": "What is the definition of \"Today, it's nice (weather).\"?",
+            "tried": 2
+        },
+        {
+            "answer": "I do the shopping at the mall.",
+            "failed": 1,
+            "lastAsked": 1455735267.8123877,
+            "question": "Given the definition \"Io faccio la spesa al centro commerciale.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "Voi partite in autobus.",
+            "failed": 2,
+            "lastAsked": 1455735368.4019976,
+            "question": "What is the definition of \"Y'all leave by bus.\"?",
+            "tried": 3
+        },
+        {
+            "answer": "They work",
+            "failed": 3,
+            "lastAsked": 1455735448.6896517,
+            "question": "Given the definition \"lavorano\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "You work",
+            "failed": 0,
+            "lastAsked": 1455735258.4762843,
+            "question": "Given the definition \"lavori\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "prendiamo",
+            "failed": 0,
+            "lastAsked": 1455735230.909145,
+            "question": "What is the definition of \"We take\"?",
+            "tried": 1
+        },
+        {
+            "answer": "Lui/Lei fa un giro a piedi.",
+            "failed": 3,
+            "lastAsked": 1455735442.7134197,
+            "question": "What is the definition of \"He/She takes a walk.\"?",
+            "tried": 4
+        },
+        {
+            "answer": "Today, it's bad (weather).",
+            "failed": 0,
+            "lastAsked": 1455735116.271003,
+            "question": "Given the definition \"Oggi fa brutto.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "prendete",
+            "failed": 3,
+            "lastAsked": 1455735456.433422,
+            "question": "What is the definition of \"Y'all take\"?",
+            "tried": 4
+        },
+        {
+            "answer": "-ono",
+            "failed": 2,
+            "lastAsked": 1455735706.7249386,
+            "question": "loro -ere",
+            "tried": 3
         },
         {
             "answer": "-i",
-            "failed": 0,
+            "failed": 1,
+            "lastAsked": 1455735649.5736275,
             "question": "tu -are",
+            "tried": 2
+        },
+        {
+            "answer": "Loro lavorano la sera.",
+            "failed": 1,
+            "lastAsked": 1455735668.2772121,
+            "question": "What is the definition of \"They work in the evening.\"?",
+            "tried": 2
+        },
+        {
+            "answer": "ordina",
+            "failed": 1,
+            "lastAsked": 1455735682.9817848,
+            "question": "What is the definition of \"He/She/You(formal) orders\"?",
+            "tried": 2
+        },
+        {
+            "answer": "-iamo",
+            "failed": 0,
+            "lastAsked": 1455735466.9053593,
+            "question": "noi -are",
+            "tried": 1
+        },
+        {
+            "answer": "He/She/You(formal) work",
+            "failed": 2,
+            "lastAsked": 1455735714.892671,
+            "question": "Given the definition \"lavora\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "We take",
+            "failed": 0,
+            "lastAsked": 1455735531.5520751,
+            "question": "Given the definition \"prendiamo\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "partite",
+            "failed": 1,
+            "lastAsked": 1455735703.1018865,
+            "question": "What is the definition of \"Y'all leave\"?",
+            "tried": 2
+        },
+        {
+            "answer": "Oggi fa brutto.",
+            "failed": 0,
+            "question": "What is the definition of \"Today, it's bad (weather).\"?",
             "tried": 0
         },
         {
-            "answer": "-i",
+            "answer": "lavorate",
             "failed": 0,
-            "question": "tu -ere",
+            "question": "What is the definition of \"Y'all work\"?",
             "tried": 0
         },
         {
-            "answer": "-i",
+            "answer": "Today, it's nice (weather).",
             "failed": 0,
-            "question": "tu -ire",
+            "question": "Given the definition \"Oggi fa bello.\", what is the word?",
             "tried": 0
         },
         {
-            "answer": "-a",
+            "answer": "Fa freddo.",
             "failed": 0,
-            "question": "lui/lei/Lei -are",
+            "question": "What is the definition of \"It's cold.\"?",
             "tried": 0
         },
         {
@@ -224,57 +256,27 @@
             "tried": 0
         },
         {
-            "answer": "-e",
+            "answer": "prende",
             "failed": 0,
-            "question": "lui/lei/Lei -ire",
+            "question": "What is the definition of \"He/She/You(formal) takes\"?",
             "tried": 0
         },
         {
-            "answer": "ordino",
+            "answer": "You exercise outdoors.",
             "failed": 0,
-            "question": "I order",
+            "question": "Given the definition \"Tu fai ginnastica all'aperto.\", what is the word?",
             "tried": 0
         },
         {
-            "answer": "prendo",
+            "answer": "Io faccio la spesa al centro commerciale.",
             "failed": 0,
-            "question": "I take",
+            "question": "What is the definition of \"I do the shopping at the mall.\"?",
             "tried": 0
         },
         {
-            "answer": "parto",
+            "answer": "Loro vivono in citta'.",
             "failed": 0,
-            "question": "I leave",
-            "tried": 0
-        },
-        {
-            "answer": "ordini",
-            "failed": 0,
-            "question": "What is the definition of \"You order\"?",
-            "tried": 0
-        },
-        {
-            "answer": "You order",
-            "failed": 0,
-            "question": "Given the definition \"ordini\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "prendi",
-            "failed": 0,
-            "question": "What is the definition of \"You take\"?",
-            "tried": 0
-        },
-        {
-            "answer": "You take",
-            "failed": 0,
-            "question": "Given the definition \"prendi\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "parti",
-            "failed": 0,
-            "question": "What is the definition of \"You leave\"?",
+            "question": "They live in town.",
             "tried": 0
         },
         {
@@ -284,9 +286,63 @@
             "tried": 0
         },
         {
-            "answer": "ordina",
+            "answer": "He/She/You(formal) leave",
             "failed": 0,
-            "question": "What is the definition of \"He/She/You(formal) orders\"?",
+            "question": "Given the definition \"parte\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Noi lavoriamo la mattina.",
+            "failed": 0,
+            "question": "What is the definition of \"We work in the morning.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "We pay attention.",
+            "failed": 0,
+            "question": "Given the definition \"Noi facciamo attenzione.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Noi partiamo in treno.",
+            "failed": 0,
+            "question": "What is the definition of \"We leave by train.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "They work in the evening.",
+            "failed": 0,
+            "question": "Given the definition \"Loro lavorano la sera.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Y'all make a good impression.",
+            "failed": 0,
+            "question": "Given the definition \"Voi fate bella figura.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Y'all leave by bus.",
+            "failed": 0,
+            "question": "Given the definition \"Voi partite in autobus.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "We live in town.",
+            "failed": 0,
+            "question": "Given the definition \"Noi viviamo in citta'.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Loro vivono in campagna.",
+            "failed": 0,
+            "question": "What is the definition of \"They live in the countryside.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "-e",
+            "failed": 0,
+            "question": "lui/lei/Lei -ire",
             "tried": 0
         },
         {
@@ -296,15 +352,45 @@
             "tried": 0
         },
         {
-            "answer": "prende",
+            "answer": "to work",
             "failed": 0,
-            "question": "What is the definition of \"He/She/You(formal) takes\"?",
+            "question": "Given the definition \"lavorare\", what is the word?",
             "tried": 0
         },
         {
-            "answer": "He/She/You(formal) takes",
+            "answer": "What's the weather like?",
             "failed": 0,
-            "question": "Given the definition \"prende\", what is the word?",
+            "question": "Given the definition \"Che tempo fa?\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "We leave",
+            "failed": 0,
+            "question": "Given the definition \"partiamo\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "-ete",
+            "failed": 0,
+            "question": "voi -ere",
+            "tried": 0
+        },
+        {
+            "answer": "lavori",
+            "failed": 0,
+            "question": "What is the definition of \"You work\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Voi lavarate il pomeriggio.",
+            "failed": 0,
+            "question": "What is the definition of \"Y'all work in the afternoon.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Lei fa colazione al bar.",
+            "failed": 0,
+            "question": "What is the definition of \"You (formal) have breakfast at the cafe.\"?",
             "tried": 0
         },
         {
@@ -314,21 +400,159 @@
             "tried": 0
         },
         {
+            "answer": "They live in the countryside.",
+            "failed": 0,
+            "question": "Given the definition \"Loro vivono in campagna.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "You leave",
+            "failed": 0,
+            "question": "Given the definition \"parti\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Y'all leave",
+            "failed": 0,
+            "question": "Given the definition \"partite\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "-o",
+            "failed": 0,
+            "question": "io -ire",
+            "tried": 0
+        },
+        {
+            "answer": "We work",
+            "failed": 0,
+            "question": "Given the definition \"lavoriamo\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Voi vivete in campagna.",
+            "failed": 0,
+            "question": "Y'all live in the country.",
+            "tried": 0
+        },
+        {
+            "answer": "parto",
+            "failed": 0,
+            "question": "I leave",
+            "tried": 0
+        },
+        {
+            "answer": "You take",
+            "failed": 0,
+            "question": "Given the definition \"prendi\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Che tempo fa?",
+            "failed": 0,
+            "question": "What is the definition of \"What's the weather like?\"?",
+            "tried": 0
+        },
+        {
+            "answer": "He/She/You(formal) takes",
+            "failed": 0,
+            "question": "Given the definition \"prende\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Y'all take",
+            "failed": 0,
+            "question": "Given the definition \"prendete\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "lavorano",
+            "failed": 0,
+            "question": "What is the definition of \"They work\"?",
+            "tried": 0
+        },
+        {
+            "answer": "lavoriamo",
+            "failed": 0,
+            "question": "What is the definition of \"We work\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Voi vivete in periferia.",
+            "failed": 0,
+            "question": "What is the definition of \"Y'all live in the suburbs.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Noi viviamo in citta'.",
+            "failed": 0,
+            "question": "What is the definition of \"We live in town.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "prendo",
+            "failed": 0,
+            "question": "I take",
+            "tried": 0
+        },
+        {
+            "answer": "parti",
+            "failed": 0,
+            "question": "What is the definition of \"You leave\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Tu fai ginnastica all'aperto.",
+            "failed": 0,
+            "question": "What is the definition of \"You exercise outdoors.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Y'all work",
+            "failed": 0,
+            "question": "Given the definition \"lavorate\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "They take",
+            "failed": 0,
+            "question": "Given the definition \"prendono\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Loro lavorano la mattina.",
+            "failed": 0,
+            "question": "They work in the morning.",
+            "tried": 0
+        },
+        {
+            "answer": "Voi fate bella figura.",
+            "failed": 0,
+            "question": "What is the definition of \"Y'all make a good impression.\"?",
+            "tried": 0
+        },
+        {
             "answer": "He/She/You(formal) leaves",
             "failed": 0,
             "question": "Given the definition \"parte\", what is the word?",
             "tried": 0
         },
         {
-            "answer": "-iamo",
+            "answer": "Loro fanno amicizia.",
             "failed": 0,
-            "question": "noi -are",
+            "question": "What is the definition of \"They make friends.\"?",
             "tried": 0
         },
         {
-            "answer": "-ate",
+            "answer": "partano",
             "failed": 0,
-            "question": "voi -are",
+            "question": "What is the definition of \"They leave\"?",
+            "tried": 0
+        },
+        {
+            "answer": "-ono",
+            "failed": 0,
+            "question": "loro -ire",
             "tried": 0
         },
         {
@@ -340,223 +564,13 @@
         {
             "answer": "-iamo",
             "failed": 0,
-            "question": "noi -ere",
-            "tried": 0
-        },
-        {
-            "answer": "-ete",
-            "failed": 0,
-            "question": "voi -ere",
-            "tried": 0
-        },
-        {
-            "answer": "-ono",
-            "failed": 0,
-            "question": "loro -ere",
-            "tried": 0
-        },
-        {
-            "answer": "-iamo",
-            "failed": 0,
             "question": "noi -ire",
             "tried": 0
         },
         {
-            "answer": "-ite",
+            "answer": "ordini",
             "failed": 0,
-            "question": "voi -ire",
-            "tried": 0
-        },
-        {
-            "answer": "-ono",
-            "failed": 0,
-            "question": "loro -ire",
-            "tried": 0
-        },
-        {
-            "answer": "lavoro",
-            "failed": 0,
-            "question": "What is the definition of \"I work\"?",
-            "tried": 0
-        },
-        {
-            "answer": "I work",
-            "failed": 0,
-            "question": "Given the definition \"lavoro\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "parto",
-            "failed": 0,
-            "question": "What is the definition of \"I leave\"?",
-            "tried": 0
-        },
-        {
-            "answer": "I leave",
-            "failed": 0,
-            "question": "Given the definition \"parto\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "lavori",
-            "failed": 0,
-            "question": "What is the definition of \"You work\"?",
-            "tried": 0
-        },
-        {
-            "answer": "You work",
-            "failed": 0,
-            "question": "Given the definition \"lavori\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "parti",
-            "failed": 0,
-            "question": "What is the definition of \"You leave\"?",
-            "tried": 0
-        },
-        {
-            "answer": "You leave",
-            "failed": 0,
-            "question": "Given the definition \"parti\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "lavora",
-            "failed": 0,
-            "question": "What is the definition of \"He/She/You(formal) work\"?",
-            "tried": 0
-        },
-        {
-            "answer": "He/She/You(formal) work",
-            "failed": 0,
-            "question": "Given the definition \"lavora\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "parte",
-            "failed": 0,
-            "question": "What is the definition of \"He/She/You(formal) leave\"?",
-            "tried": 0
-        },
-        {
-            "answer": "He/She/You(formal) leave",
-            "failed": 0,
-            "question": "Given the definition \"parte\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "lavoriamo",
-            "failed": 0,
-            "question": "What is the definition of \"We work\"?",
-            "tried": 0
-        },
-        {
-            "answer": "We work",
-            "failed": 0,
-            "question": "Given the definition \"lavoriamo\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "prendiamo",
-            "failed": 0,
-            "question": "What is the definition of \"We take\"?",
-            "tried": 0
-        },
-        {
-            "answer": "We take",
-            "failed": 0,
-            "question": "Given the definition \"prendiamo\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "partiamo",
-            "failed": 0,
-            "question": "What is the definition of \"We leave\"?",
-            "tried": 0
-        },
-        {
-            "answer": "We leave",
-            "failed": 0,
-            "question": "Given the definition \"partiamo\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "lavorate",
-            "failed": 0,
-            "question": "What is the definition of \"Y'all work\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Y'all work",
-            "failed": 0,
-            "question": "Given the definition \"lavorate\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "prendete",
-            "failed": 0,
-            "question": "What is the definition of \"Y'all take\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Y'all take",
-            "failed": 0,
-            "question": "Given the definition \"prendete\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "partite",
-            "failed": 0,
-            "question": "What is the definition of \"Y'all leave\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Y'all leave",
-            "failed": 0,
-            "question": "Given the definition \"partite\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "lavorano",
-            "failed": 0,
-            "question": "What is the definition of \"They work\"?",
-            "tried": 0
-        },
-        {
-            "answer": "They work",
-            "failed": 0,
-            "question": "Given the definition \"lavorano\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "prendono",
-            "failed": 0,
-            "question": "What is the definition of \"They take\"?",
-            "tried": 0
-        },
-        {
-            "answer": "They take",
-            "failed": 0,
-            "question": "Given the definition \"prendono\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "partano",
-            "failed": 0,
-            "question": "What is the definition of \"They leave\"?",
-            "tried": 0
-        },
-        {
-            "answer": "They leave",
-            "failed": 0,
-            "question": "Given the definition \"partano\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "fare",
-            "failed": 0,
-            "question": "What is the definition of \"to make, to do\"?",
+            "question": "What is the definition of \"You order\"?",
             "tried": 0
         },
         {
@@ -566,81 +580,111 @@
             "tried": 0
         },
         {
-            "answer": "Io faccio la spesa al centro commerciale.",
+            "answer": "-i",
             "failed": 0,
-            "question": "What is the definition of \"I do the shopping at the mall.\"?",
+            "question": "tu -ere",
             "tried": 0
         },
         {
-            "answer": "I do the shopping at the mall.",
+            "answer": "Noi lavoriamo la sera.",
             "failed": 0,
-            "question": "Given the definition \"Io faccio la spesa al centro commerciale.\", what is the word?",
+            "question": "We work in the evening.",
             "tried": 0
         },
         {
-            "answer": "Tu fai ginnastica all'aperto.",
+            "answer": "prendi",
             "failed": 0,
-            "question": "What is the definition of \"You exercise outdoors.\"?",
+            "question": "What is the definition of \"You take\"?",
             "tried": 0
         },
         {
-            "answer": "You exercise outdoors.",
+            "answer": "I work",
             "failed": 0,
-            "question": "Given the definition \"Tu fai ginnastica all'aperto.\", what is the word?",
+            "question": "Given the definition \"lavoro\", what is the word?",
             "tried": 0
         },
         {
-            "answer": "Lei fa colazione al bar.",
+            "answer": "ordino",
             "failed": 0,
-            "question": "What is the definition of \"You (formal) have breakfast at the cafe.\"?",
+            "question": "I order",
             "tried": 0
         },
         {
-            "answer": "You (formal) have breakfast at the cafe.",
+            "answer": "I leave",
             "failed": 0,
-            "question": "Given the definition \"Lei fa colazione al bar.\", what is the word?",
+            "question": "Given the definition \"parto\", what is the word?",
             "tried": 0
         },
         {
-            "answer": "Lui/Lei fa un giro a piedi.",
+            "answer": "Y'all live in the suburbs.",
             "failed": 0,
-            "question": "What is the definition of \"He/She takes a walk.\"?",
+            "question": "Given the definition \"Voi vivete in periferia.\", what is the word?",
             "tried": 0
         },
         {
-            "answer": "He/She takes a walk.",
+            "answer": "prendono",
             "failed": 0,
-            "question": "Given the definition \"Lui/Lei fa un giro a piedi.\", what is the word?",
+            "question": "What is the definition of \"They take\"?",
             "tried": 0
         },
         {
-            "answer": "Noi facciamo attenzione.",
+            "answer": "parto",
             "failed": 0,
-            "question": "What is the definition of \"We pay attention.\"?",
+            "question": "What is the definition of \"I leave\"?",
             "tried": 0
         },
         {
-            "answer": "We pay attention.",
+            "answer": "-o",
             "failed": 0,
-            "question": "Given the definition \"Noi facciamo attenzione.\", what is the word?",
+            "question": "io -ere",
             "tried": 0
         },
         {
-            "answer": "Voi fate bella figura.",
+            "answer": "fare",
             "failed": 0,
-            "question": "What is the definition of \"Y'all make a good impression.\"?",
+            "question": "What is the definition of \"to make, to do\"?",
             "tried": 0
         },
         {
-            "answer": "Y'all make a good impression.",
+            "answer": "-a",
             "failed": 0,
-            "question": "Given the definition \"Voi fate bella figura.\", what is the word?",
+            "question": "lui/lei/Lei -are",
             "tried": 0
         },
         {
-            "answer": "Loro fanno amicizia.",
+            "answer": "They leave",
             "failed": 0,
-            "question": "What is the definition of \"They make friends.\"?",
+            "question": "Given the definition \"partano\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "lavoro",
+            "failed": 0,
+            "question": "What is the definition of \"I work\"?",
+            "tried": 0
+        },
+        {
+            "answer": "lavorare",
+            "failed": 0,
+            "question": "What is the definition of \"to work\"?",
+            "tried": 0
+        },
+        {
+            "answer": "parti",
+            "failed": 0,
+            "question": "What is the definition of \"You leave\"?",
+            "tried": 0
+        },
+        {
+            "answer": "We leave by train.",
+            "failed": 0,
+            "question": "Given the definition \"Noi partiamo in treno.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "lavora",
+            "failed": 0,
+            "question": "What is the definition of \"He/She/You(formal) work\"?",
             "tried": 0
         },
         {
@@ -650,63 +694,51 @@
             "tried": 0
         },
         {
-            "answer": "Che tempo fa?",
+            "answer": "Y'all work in the afternoon.",
             "failed": 0,
-            "question": "What is the definition of \"What's the weather like?\"?",
+            "question": "Given the definition \"Voi lavarate il pomeriggio.\", what is the word?",
             "tried": 0
         },
         {
-            "answer": "What's the weather like?",
+            "answer": "-ate",
             "failed": 0,
-            "question": "Given the definition \"Che tempo fa?\", what is the word?",
+            "question": "voi -are",
             "tried": 0
         },
         {
-            "answer": "Oggi fa bello.",
+            "answer": "We work in the morning.",
             "failed": 0,
-            "question": "What is the definition of \"Today, it's nice (weather).\"?",
+            "question": "Given the definition \"Noi lavoriamo la mattina.\", what is the word?",
             "tried": 0
         },
         {
-            "answer": "Today, it's nice (weather).",
+            "answer": "He/She takes a walk.",
             "failed": 0,
-            "question": "Given the definition \"Oggi fa bello.\", what is the word?",
+            "question": "Given the definition \"Lui/Lei fa un giro a piedi.\", what is the word?",
             "tried": 0
         },
         {
-            "answer": "Oggi fa brutto.",
+            "answer": "vivere",
             "failed": 0,
-            "question": "What is the definition of \"Today, it's bad (weather).\"?",
+            "question": "What is the definition of \"to live\"?",
             "tried": 0
         },
         {
-            "answer": "Today, it's bad (weather).",
+            "answer": "You order",
             "failed": 0,
-            "question": "Given the definition \"Oggi fa brutto.\", what is the word?",
+            "question": "Given the definition \"ordini\", what is the word?",
             "tried": 0
         },
         {
-            "answer": "Fa caldo.",
+            "answer": "partiamo",
             "failed": 0,
-            "question": "What is the definition of \"It's hot.\"?",
+            "question": "What is the definition of \"We leave\"?",
             "tried": 0
         },
         {
-            "answer": "It's hot.",
+            "answer": "-i",
             "failed": 0,
-            "question": "Given the definition \"Fa caldo.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Fa freddo.",
-            "failed": 0,
-            "question": "What is the definition of \"It's cold.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "It's cold.",
-            "failed": 0,
-            "question": "Given the definition \"Fa freddo.\", what is the word?",
+            "question": "tu -ire",
             "tried": 0
         }
     ]

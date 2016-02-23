@@ -1,0 +1,71 @@
+v0.1	Chapter 8 (2nd Half)
+v	fare ginnastica	to exercise
+v	fare colazione	to have breakfast
+v	fare un giro a piedi	to go for a walk
+v	fare attenzione	to pay attention
+v	fare bella figura	to make a good impression
+v	fare amicizia	to make friends
+v	fa bello	It's nice (weather)
+v	fa brutto	It's bad (weather)
+v	fa caldo	It's hot (weather)
+v	fa freddo	It's cold (weather)
+q	Today, it's nice.	Oggi fa bello.
+q	We live in town.	Noi viviamo in citta.
+q	We take a walk.	Facciamo un giro a piedi.
+q	Today, it's bad.	Oggi fa brutto.
+q	Y'all live in the suburbs.	Voi vivete in periferia.
+q	Y'all do the shopping at the mall.	Fate la spesa al centro commerciale.
+q	Today, it's hot.	Oggi fa caldo.
+q	They live in the countryside.	Loro vivono in campagna.
+q	They exercise outdoors.	Fanno ginnastica all'aperto.
+v	Mario and I live in Milan.	Io e Mario viviamo a Milano.
+v	We work in a boutique on Montenapoleone Street.	Lavoriamo in una boutique in via Montenapoleone.
+v	We always make a good impression on our customers.	Facciamo sempre bella figura con i nostri clienti.
+v	You and Valeria live in New York City.	Tu e Valeria vivete a New York.
+v	Y'all read the Corriere della Sera every day.	Leggete il Corriere della Sera tutti i giorni.
+v	Lucio and Nicolina live and work in Rome.	Lucio e Nicolina vivono e lavorano a Roma.
+v	In the morning they often have breakfast at a cafe.	Spesso la mattina fanno colazione al bar.
+v	In the afternoon Lucio usually does the shopping and Nicolina exercises.	Di solito il pomeriggio Lucio fa la spesa e Nicolina fa ginnastica.
+v	In the evening they often take a walk downtown.	Spesso la sera fanno un giro a piedi in centro.
+v	Sometimes they make friends with the foreign tourists.	A volte fanno amicizia con i turisti stranieri.
+v	sempre	always
+v	tutti i giorni	every day
+v	spesso	often
+v	di solito	usually
+v	a volte	sometimes
+q	io (avere)	ho
+q	tu (avere)	hai
+q	lui/lei (avere)	ha
+q	noi (avere)	abbiamo
+q	voi (avere)	avete
+q	loro (avere)	hanno
+q	io (essere)	sono
+q	tu (essere)	sei
+q	lui/lei (essere)	e'
+q	noi (essere)	siamo
+q	voi (essere)	siete
+q	loro (essere)	sono
+q	io (fare)	faccio
+q	tu (fare)	fai
+q	lui/lei (fare)	fa
+q	noi (fare)	facciamo
+q	voi (fare)	fate
+q	loro (fare)	fanno
+q	noi (pagare)	paghiamo
+q	voi (pagare)	pagate
+q	loro (pagare)	pagano
+q	noi (chiamare)	chiamiamo
+q	voi (chiamare)	chiamate
+q	loro (chiamare)	chiamano
+q	noi (prendere)	prendiamo
+q	voi (prendere)	prendete
+q	loro (prendere)	prendono
+q	noi (lavorare)	lavoriamo
+q	voi (lavorare)	lavorate
+q	loro (lavorare)	lavorano
+q	noi (vivere)	viviamo
+q	voi (vivere)	vivete
+q	loro (vivere)	vivono
+q	noi (partire)	partiamo
+q	voi (partire)	partite
+q	loro (partire)	partono

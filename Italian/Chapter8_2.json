@@ -2,63 +2,345 @@
     "name": ".\\Italian\\Chapter8_2.json",
     "vocab": [
         {
-            "answer": "to exercise",
-            "failed": 0,
-            "question": "What is the definition of \"fare ginnastica\"?",
-            "tried": 0
+            "answer": "pagano",
+            "failed": 1,
+            "lastAsked": 1456515100.4967227,
+            "question": "loro (pagare)",
+            "tried": 2
         },
         {
-            "answer": "fare ginnastica",
+            "answer": "It's bad (weather)",
             "failed": 0,
-            "question": "Given the definition \"to exercise\", what is the word?",
-            "tried": 0
+            "lastAsked": 1456514820.919975,
+            "question": "What is the definition of \"fa brutto\"?",
+            "tried": 1
+        },
+        {
+            "answer": "often",
+            "failed": 2,
+            "lastAsked": 1456515111.1494884,
+            "question": "What is the definition of \"spesso\"?",
+            "tried": 3
+        },
+        {
+            "answer": "fare amicizia",
+            "failed": 2,
+            "lastAsked": 1456515106.273206,
+            "question": "Given the definition \"to make friends\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "sempre",
+            "failed": 0,
+            "lastAsked": 1456515034.488442,
+            "question": "Given the definition \"always\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "Sometimes they make friends with the foreign tourists.",
+            "failed": 2,
+            "lastAsked": 1456515123.2637222,
+            "question": "Given the definition \"A volte fanno amicizia con i turisti stranieri.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "Io e Mario viviamo a Milano.",
+            "failed": 1,
+            "lastAsked": 1456515052.7316873,
+            "question": "What is the definition of \"Mario and I live in Milan.\"?",
+            "tried": 2
+        },
+        {
+            "answer": "fai",
+            "failed": 0,
+            "lastAsked": 1456515023.5490856,
+            "question": "tu (fare)",
+            "tried": 1
+        },
+        {
+            "answer": "Mario and I live in Milan.",
+            "failed": 0,
+            "lastAsked": 1456515285.5659282,
+            "question": "Given the definition \"Io e Mario viviamo a Milano.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "e'",
+            "failed": 0,
+            "lastAsked": 1456515177.621635,
+            "question": "lui/lei (essere)",
+            "tried": 1
+        },
+        {
+            "answer": "Fanno ginnastica all'aperto.",
+            "failed": 0,
+            "lastAsked": 1456515155.4202533,
+            "question": "They exercise outdoors.",
+            "tried": 1
+        },
+        {
+            "answer": "Lavoriamo in una boutique in via Montenapoleone.",
+            "failed": 1,
+            "lastAsked": 1456515509.0394807,
+            "question": "What is the definition of \"We work in a boutique on Montenapoleone Street.\"?",
+            "tried": 2
+        },
+        {
+            "answer": "fa freddo",
+            "failed": 0,
+            "lastAsked": 1456515160.0519466,
+            "question": "Given the definition \"It's cold (weather)\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "It's nice (weather)",
+            "failed": 0,
+            "lastAsked": 1456515475.7646763,
+            "question": "What is the definition of \"fa bello\"?",
+            "tried": 1
+        },
+        {
+            "answer": "You and Valeria live in New York City.",
+            "failed": 0,
+            "lastAsked": 1456515174.781781,
+            "question": "Given the definition \"Tu e Valeria vivete a New York.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "Di solito il pomeriggio Lucio fa la spesa e Nicolina fa ginnastica.",
+            "failed": 2,
+            "lastAsked": 1456515590.8144517,
+            "question": "What is the definition of \"In the afternoon Lucio usually does the shopping and Nicolina exercises.\"?",
+            "tried": 3
+        },
+        {
+            "answer": "partiamo",
+            "failed": 0,
+            "lastAsked": 1456515842.309297,
+            "question": "noi (partire)",
+            "tried": 1
+        },
+        {
+            "answer": "Spesso la sera fanno un giro a piedi in centro.",
+            "failed": 2,
+            "lastAsked": 1456515971.3127797,
+            "question": "What is the definition of \"In the evening they often take a walk downtown.\"?",
+            "tried": 3
         },
         {
             "answer": "to have breakfast",
             "failed": 0,
+            "lastAsked": 1456515607.7644844,
             "question": "What is the definition of \"fare colazione\"?",
-            "tried": 0
+            "tried": 1
         },
         {
-            "answer": "fare colazione",
-            "failed": 0,
-            "question": "Given the definition \"to have breakfast\", what is the word?",
-            "tried": 0
+            "answer": "Lucio e Nicolina vivono e lavorano a Roma.",
+            "failed": 1,
+            "lastAsked": 1456515952.6208096,
+            "question": "What is the definition of \"Lucio and Nicolina live and work in Rome.\"?",
+            "tried": 2
         },
         {
-            "answer": "to go for a walk",
+            "answer": "Oggi fa caldo.",
             "failed": 0,
-            "question": "What is the definition of \"fare un giro a piedi\"?",
-            "tried": 0
+            "lastAsked": 1456515598.5586019,
+            "question": "Today, it's hot.",
+            "tried": 1
         },
         {
-            "answer": "fare un giro a piedi",
+            "answer": "fanno",
             "failed": 0,
-            "question": "Given the definition \"to go for a walk\", what is the word?",
-            "tried": 0
+            "lastAsked": 1456515846.2015028,
+            "question": "loro (fare)",
+            "tried": 1
         },
         {
-            "answer": "to pay attention",
+            "answer": "chiamate",
+            "failed": 1,
+            "lastAsked": 1456515856.8255281,
+            "question": "voi (chiamare)",
+            "tried": 2
+        },
+        {
+            "answer": "to exercise",
             "failed": 0,
-            "question": "What is the definition of \"fare attenzione\"?",
-            "tried": 0
+            "lastAsked": 1456515851.1012378,
+            "question": "What is the definition of \"fare ginnastica\"?",
+            "tried": 1
+        },
+        {
+            "answer": "ho",
+            "failed": 1,
+            "lastAsked": 1456516041.170102,
+            "question": "io (avere)",
+            "tried": 2
+        },
+        {
+            "answer": "partono",
+            "failed": 1,
+            "lastAsked": 1456516072.4463043,
+            "question": "loro (partire)",
+            "tried": 2
         },
         {
             "answer": "fare attenzione",
             "failed": 0,
+            "lastAsked": 1456516012.122984,
             "question": "Given the definition \"to pay attention\", what is the word?",
-            "tried": 0
+            "tried": 1
         },
         {
-            "answer": "to make a good impression",
+            "answer": "ha",
             "failed": 0,
-            "question": "What is the definition of \"fare bella figura\"?",
-            "tried": 0
+            "lastAsked": 1456516033.5534394,
+            "question": "lui/lei (avere)",
+            "tried": 1
         },
         {
-            "answer": "fare bella figura",
+            "answer": "spesso",
             "failed": 0,
-            "question": "Given the definition \"to make a good impression\", what is the word?",
+            "lastAsked": 1456515974.1543603,
+            "question": "Given the definition \"often\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "lavoriamo",
+            "failed": 0,
+            "lastAsked": 1456515987.5781035,
+            "question": "noi (lavorare)",
+            "tried": 1
+        },
+        {
+            "answer": "Loro vivono in campagna.",
+            "failed": 2,
+            "lastAsked": 1456516084.7068617,
+            "question": "They live in the countryside.",
+            "tried": 3
+        },
+        {
+            "answer": "sometimes",
+            "failed": 1,
+            "lastAsked": 1456516043.8831694,
+            "question": "What is the definition of \"a volte\"?",
+            "tried": 2
+        },
+        {
+            "answer": "vivete",
+            "failed": 0,
+            "lastAsked": 1456516191.255398,
+            "question": "voi (vivere)",
+            "tried": 1
+        },
+        {
+            "answer": "In the evening they often take a walk downtown.",
+            "failed": 1,
+            "lastAsked": 1456516226.047034,
+            "question": "Given the definition \"Spesso la sera fanno un giro a piedi in centro.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "We always make a good impression on our customers.",
+            "failed": 0,
+            "lastAsked": 1456516188.3519602,
+            "question": "Given the definition \"Facciamo sempre bella figura con i nostri clienti.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "fa brutto",
+            "failed": 0,
+            "lastAsked": 1456516131.0303047,
+            "question": "Given the definition \"It's bad (weather)\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "avete",
+            "failed": 0,
+            "lastAsked": 1456516089.9560244,
+            "question": "voi (avere)",
+            "tried": 1
+        },
+        {
+            "answer": "every day",
+            "failed": 1,
+            "lastAsked": 1456516205.3398392,
+            "question": "What is the definition of \"tutti i giorni\"?",
+            "tried": 2
+        },
+        {
+            "answer": "Facciamo un giro a piedi.",
+            "failed": 0,
+            "lastAsked": 1456516111.9286065,
+            "question": "We take a walk.",
+            "tried": 1
+        },
+        {
+            "answer": "lavorate",
+            "failed": 0,
+            "lastAsked": 1456516201.7960725,
+            "question": "voi (lavorare)",
+            "tried": 1
+        },
+        {
+            "answer": "fa",
+            "failed": 2,
+            "lastAsked": 1456516367.2717118,
+            "question": "lui/lei (fare)",
+            "tried": 2
+        },
+        {
+            "answer": "hai",
+            "failed": 0,
+            "lastAsked": 1456516310.7059088,
+            "question": "tu (avere)",
+            "tried": 1
+        },
+        {
+            "answer": "tutti i giorni",
+            "failed": 1,
+            "lastAsked": 1456516237.0300746,
+            "question": "Given the definition \"every day\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "Leggete il Corriere della Sera tutti i giorni.",
+            "failed": 1,
+            "lastAsked": 1456516334.835549,
+            "question": "What is the definition of \"Y'all read the Corriere della Sera every day.\"?",
+            "tried": 1
+        },
+        {
+            "answer": "to go for a walk",
+            "failed": 0,
+            "lastAsked": 1456516353.4617126,
+            "question": "What is the definition of \"fare un giro a piedi\"?",
+            "tried": 1
+        },
+        {
+            "answer": "vivono",
+            "failed": 1,
+            "lastAsked": 1456516358.2763014,
+            "question": "loro (vivere)",
+            "tried": 2
+        },
+        {
+            "answer": "partite",
+            "failed": 0,
+            "lastAsked": 1456516340.7639966,
+            "question": "voi (partire)",
+            "tried": 1
+        },
+        {
+            "answer": "siete",
+            "failed": 1,
+            "lastAsked": 1456516361.0998456,
+            "question": "voi (essere)",
+            "tried": 2
+        },
+        {
+            "answer": "fa bello",
+            "failed": 0,
+            "question": "Given the definition \"It's nice (weather)\", what is the word?",
             "tried": 0
         },
         {
@@ -68,183 +350,15 @@
             "tried": 0
         },
         {
-            "answer": "fare amicizia",
+            "answer": "lavorano",
             "failed": 0,
-            "question": "Given the definition \"to make friends\", what is the word?",
+            "question": "loro (lavorare)",
             "tried": 0
         },
         {
-            "answer": "It's nice (weather)",
+            "answer": "to make a good impression",
             "failed": 0,
-            "question": "What is the definition of \"fa bello\"?",
-            "tried": 0
-        },
-        {
-            "answer": "fa bello",
-            "failed": 0,
-            "question": "Given the definition \"It's nice (weather)\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "It's bad (weather)",
-            "failed": 0,
-            "question": "What is the definition of \"fa brutto\"?",
-            "tried": 0
-        },
-        {
-            "answer": "fa brutto",
-            "failed": 0,
-            "question": "Given the definition \"It's bad (weather)\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "It's hot (weather)",
-            "failed": 0,
-            "question": "What is the definition of \"fa caldo\"?",
-            "tried": 0
-        },
-        {
-            "answer": "fa caldo",
-            "failed": 0,
-            "question": "Given the definition \"It's hot (weather)\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "It's cold (weather)",
-            "failed": 0,
-            "question": "What is the definition of \"fa freddo\"?",
-            "tried": 0
-        },
-        {
-            "answer": "fa freddo",
-            "failed": 0,
-            "question": "Given the definition \"It's cold (weather)\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Oggi fa bello.",
-            "failed": 0,
-            "question": "Today, it's nice.",
-            "tried": 0
-        },
-        {
-            "answer": "Noi viviamo in citta.",
-            "failed": 0,
-            "question": "We live in town.",
-            "tried": 0
-        },
-        {
-            "answer": "Facciamo un giro a piedi.",
-            "failed": 0,
-            "question": "We take a walk.",
-            "tried": 0
-        },
-        {
-            "answer": "Oggi fa brutto.",
-            "failed": 0,
-            "question": "Today, it's bad.",
-            "tried": 0
-        },
-        {
-            "answer": "Voi vivete in periferia.",
-            "failed": 0,
-            "question": "Y'all live in the suburbs.",
-            "tried": 0
-        },
-        {
-            "answer": "Fate la spesa al centro commerciale.",
-            "failed": 0,
-            "question": "Y'all do the shopping at the mall.",
-            "tried": 0
-        },
-        {
-            "answer": "Oggi fa caldo.",
-            "failed": 0,
-            "question": "Today, it's hot.",
-            "tried": 0
-        },
-        {
-            "answer": "Loro vivono in campagna.",
-            "failed": 0,
-            "question": "They live in the countryside.",
-            "tried": 0
-        },
-        {
-            "answer": "Fanno ginnastica all'aperto.",
-            "failed": 0,
-            "question": "They exercise outdoors.",
-            "tried": 0
-        },
-        {
-            "answer": "Io e Mario viviamo a Milano.",
-            "failed": 0,
-            "question": "What is the definition of \"Mario and I live in Milan.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Mario and I live in Milan.",
-            "failed": 0,
-            "question": "Given the definition \"Io e Mario viviamo a Milano.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Lavoriamo in una boutique in via Montenapoleone.",
-            "failed": 0,
-            "question": "What is the definition of \"We work in a boutique on Montenapoleone Street.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "We work in a boutique on Montenapoleone Street.",
-            "failed": 0,
-            "question": "Given the definition \"Lavoriamo in una boutique in via Montenapoleone.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Facciamo sempre bella figura con i nostri clienti.",
-            "failed": 0,
-            "question": "What is the definition of \"We always make a good impression on our customers.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "We always make a good impression on our customers.",
-            "failed": 0,
-            "question": "Given the definition \"Facciamo sempre bella figura con i nostri clienti.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Tu e Valeria vivete a New York.",
-            "failed": 0,
-            "question": "What is the definition of \"You and Valeria live in New York City.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "You and Valeria live in New York City.",
-            "failed": 0,
-            "question": "Given the definition \"Tu e Valeria vivete a New York.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Leggete il Corriere della Sera tutti i giorni.",
-            "failed": 0,
-            "question": "What is the definition of \"Y'all read the Corriere della Sera every day.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Y'all read the Corriere della Sera every day.",
-            "failed": 0,
-            "question": "Given the definition \"Leggete il Corriere della Sera tutti i giorni.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Lucio e Nicolina vivono e lavorano a Roma.",
-            "failed": 0,
-            "question": "What is the definition of \"Lucio and Nicolina live and work in Rome.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Lucio and Nicolina live and work in Rome.",
-            "failed": 0,
-            "question": "Given the definition \"Lucio e Nicolina vivono e lavorano a Roma.\", what is the word?",
+            "question": "What is the definition of \"fare bella figura\"?",
             "tried": 0
         },
         {
@@ -254,243 +368,33 @@
             "tried": 0
         },
         {
-            "answer": "In the morning they often have breakfast at a cafe.",
-            "failed": 0,
-            "question": "Given the definition \"Spesso la mattina fanno colazione al bar.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Di solito il pomeriggio Lucio fa la spesa e Nicolina fa ginnastica.",
-            "failed": 0,
-            "question": "What is the definition of \"In the afternoon Lucio usually does the shopping and Nicolina exercises.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "In the afternoon Lucio usually does the shopping and Nicolina exercises.",
-            "failed": 0,
-            "question": "Given the definition \"Di solito il pomeriggio Lucio fa la spesa e Nicolina fa ginnastica.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Spesso la sera fanno un giro a piedi in centro.",
-            "failed": 0,
-            "question": "What is the definition of \"In the evening they often take a walk downtown.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "In the evening they often take a walk downtown.",
-            "failed": 0,
-            "question": "Given the definition \"Spesso la sera fanno un giro a piedi in centro.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "A volte fanno amicizia con i turisti stranieri.",
-            "failed": 0,
-            "question": "What is the definition of \"Sometimes they make friends with the foreign tourists.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Sometimes they make friends with the foreign tourists.",
-            "failed": 0,
-            "question": "Given the definition \"A volte fanno amicizia con i turisti stranieri.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "always",
-            "failed": 0,
-            "question": "What is the definition of \"sempre\"?",
-            "tried": 0
-        },
-        {
-            "answer": "sempre",
-            "failed": 0,
-            "question": "Given the definition \"always\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "every day",
-            "failed": 0,
-            "question": "What is the definition of \"tutti i giorni\"?",
-            "tried": 0
-        },
-        {
-            "answer": "tutti i giorni",
-            "failed": 0,
-            "question": "Given the definition \"every day\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "often",
-            "failed": 0,
-            "question": "What is the definition of \"spesso\"?",
-            "tried": 0
-        },
-        {
-            "answer": "spesso",
-            "failed": 0,
-            "question": "Given the definition \"often\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "usually",
-            "failed": 0,
-            "question": "What is the definition of \"di solito\"?",
-            "tried": 0
-        },
-        {
-            "answer": "di solito",
-            "failed": 0,
-            "question": "Given the definition \"usually\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "sometimes",
-            "failed": 0,
-            "question": "What is the definition of \"a volte\"?",
-            "tried": 0
-        },
-        {
-            "answer": "a volte",
-            "failed": 0,
-            "question": "Given the definition \"sometimes\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "ho",
-            "failed": 0,
-            "question": "io (avere)",
-            "tried": 0
-        },
-        {
-            "answer": "hai",
-            "failed": 0,
-            "question": "tu (avere)",
-            "tried": 0
-        },
-        {
-            "answer": "ha",
-            "failed": 0,
-            "question": "lui/lei (avere)",
-            "tried": 0
-        },
-        {
-            "answer": "abbiamo",
-            "failed": 0,
-            "question": "noi (avere)",
-            "tried": 0
-        },
-        {
-            "answer": "avete",
-            "failed": 0,
-            "question": "voi (avere)",
-            "tried": 0
-        },
-        {
-            "answer": "hanno",
-            "failed": 0,
-            "question": "loro (avere)",
-            "tried": 0
-        },
-        {
-            "answer": "sono",
-            "failed": 0,
-            "question": "io (essere)",
-            "tried": 0
-        },
-        {
-            "answer": "sei",
-            "failed": 0,
-            "question": "tu (essere)",
-            "tried": 0
-        },
-        {
-            "answer": "e'",
-            "failed": 0,
-            "question": "lui/lei (essere)",
-            "tried": 0
-        },
-        {
-            "answer": "siamo",
-            "failed": 0,
-            "question": "noi (essere)",
-            "tried": 0
-        },
-        {
-            "answer": "siete",
-            "failed": 0,
-            "question": "voi (essere)",
-            "tried": 0
-        },
-        {
-            "answer": "sono",
-            "failed": 0,
-            "question": "loro (essere)",
-            "tried": 0
-        },
-        {
-            "answer": "faccio",
-            "failed": 0,
-            "question": "io (fare)",
-            "tried": 0
-        },
-        {
-            "answer": "fai",
-            "failed": 0,
-            "question": "tu (fare)",
-            "tried": 0
-        },
-        {
-            "answer": "fa",
-            "failed": 0,
-            "question": "lui/lei (fare)",
-            "tried": 0
-        },
-        {
-            "answer": "facciamo",
-            "failed": 0,
-            "question": "noi (fare)",
-            "tried": 0
-        },
-        {
-            "answer": "fate",
-            "failed": 0,
-            "question": "voi (fare)",
-            "tried": 0
-        },
-        {
-            "answer": "fanno",
-            "failed": 0,
-            "question": "loro (fare)",
-            "tried": 0
-        },
-        {
-            "answer": "paghiamo",
-            "failed": 0,
-            "question": "noi (pagare)",
-            "tried": 0
-        },
-        {
-            "answer": "pagate",
-            "failed": 0,
-            "question": "voi (pagare)",
-            "tried": 0
-        },
-        {
-            "answer": "pagano",
-            "failed": 0,
-            "question": "loro (pagare)",
-            "tried": 0
-        },
-        {
             "answer": "chiamiamo",
             "failed": 0,
             "question": "noi (chiamare)",
             "tried": 0
         },
         {
-            "answer": "chiamate",
+            "answer": "fare colazione",
             "failed": 0,
-            "question": "voi (chiamare)",
+            "question": "Given the definition \"to have breakfast\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "It's cold (weather)",
+            "failed": 0,
+            "question": "What is the definition of \"fa freddo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "We work in a boutique on Montenapoleone Street.",
+            "failed": 0,
+            "question": "Given the definition \"Lavoriamo in una boutique in via Montenapoleone.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "It's hot (weather)",
+            "failed": 0,
+            "question": "What is the definition of \"fa caldo\"?",
             "tried": 0
         },
         {
@@ -500,15 +404,87 @@
             "tried": 0
         },
         {
+            "answer": "a volte",
+            "failed": 0,
+            "question": "Given the definition \"sometimes\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Voi vivete in periferia.",
+            "failed": 0,
+            "question": "Y'all live in the suburbs.",
+            "tried": 0
+        },
+        {
+            "answer": "pagate",
+            "failed": 0,
+            "question": "voi (pagare)",
+            "tried": 0
+        },
+        {
+            "answer": "Noi viviamo in citta.",
+            "failed": 0,
+            "question": "We live in town.",
+            "tried": 0
+        },
+        {
+            "answer": "to pay attention",
+            "failed": 0,
+            "question": "What is the definition of \"fare attenzione\"?",
+            "tried": 0
+        },
+        {
+            "answer": "sei",
+            "failed": 0,
+            "question": "tu (essere)",
+            "tried": 0
+        },
+        {
+            "answer": "paghiamo",
+            "failed": 0,
+            "question": "noi (pagare)",
+            "tried": 0
+        },
+        {
+            "answer": "Oggi fa brutto.",
+            "failed": 0,
+            "question": "Today, it's bad.",
+            "tried": 0
+        },
+        {
+            "answer": "In the afternoon Lucio usually does the shopping and Nicolina exercises.",
+            "failed": 0,
+            "question": "Given the definition \"Di solito il pomeriggio Lucio fa la spesa e Nicolina fa ginnastica.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "fare bella figura",
+            "failed": 0,
+            "question": "Given the definition \"to make a good impression\", what is the word?",
+            "tried": 0
+        },
+        {
             "answer": "prendiamo",
             "failed": 0,
             "question": "noi (prendere)",
             "tried": 0
         },
         {
-            "answer": "prendete",
+            "answer": "fare ginnastica",
             "failed": 0,
-            "question": "voi (prendere)",
+            "question": "Given the definition \"to exercise\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Fate la spesa al centro commerciale.",
+            "failed": 0,
+            "question": "Y'all do the shopping at the mall.",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo",
+            "failed": 0,
+            "question": "noi (avere)",
             "tried": 0
         },
         {
@@ -518,21 +494,93 @@
             "tried": 0
         },
         {
-            "answer": "lavoriamo",
+            "answer": "hanno",
             "failed": 0,
-            "question": "noi (lavorare)",
+            "question": "loro (avere)",
             "tried": 0
         },
         {
-            "answer": "lavorate",
+            "answer": "usually",
             "failed": 0,
-            "question": "voi (lavorare)",
+            "question": "What is the definition of \"di solito\"?",
             "tried": 0
         },
         {
-            "answer": "lavorano",
+            "answer": "sono",
             "failed": 0,
-            "question": "loro (lavorare)",
+            "question": "io (essere)",
+            "tried": 0
+        },
+        {
+            "answer": "sono",
+            "failed": 0,
+            "question": "loro (essere)",
+            "tried": 0
+        },
+        {
+            "answer": "A volte fanno amicizia con i turisti stranieri.",
+            "failed": 0,
+            "question": "What is the definition of \"Sometimes they make friends with the foreign tourists.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "fare un giro a piedi",
+            "failed": 0,
+            "question": "Given the definition \"to go for a walk\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "prendete",
+            "failed": 0,
+            "question": "voi (prendere)",
+            "tried": 0
+        },
+        {
+            "answer": "di solito",
+            "failed": 0,
+            "question": "Given the definition \"usually\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "fa caldo",
+            "failed": 0,
+            "question": "Given the definition \"It's hot (weather)\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Tu e Valeria vivete a New York.",
+            "failed": 0,
+            "question": "What is the definition of \"You and Valeria live in New York City.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "fate",
+            "failed": 0,
+            "question": "voi (fare)",
+            "tried": 0
+        },
+        {
+            "answer": "facciamo",
+            "failed": 0,
+            "question": "noi (fare)",
+            "tried": 0
+        },
+        {
+            "answer": "Y'all read the Corriere della Sera every day.",
+            "failed": 0,
+            "question": "Given the definition \"Leggete il Corriere della Sera tutti i giorni.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Facciamo sempre bella figura con i nostri clienti.",
+            "failed": 0,
+            "question": "What is the definition of \"We always make a good impression on our customers.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Lucio and Nicolina live and work in Rome.",
+            "failed": 0,
+            "question": "Given the definition \"Lucio e Nicolina vivono e lavorano a Roma.\", what is the word?",
             "tried": 0
         },
         {
@@ -542,33 +590,33 @@
             "tried": 0
         },
         {
-            "answer": "vivete",
+            "answer": "siamo",
             "failed": 0,
-            "question": "voi (vivere)",
+            "question": "noi (essere)",
             "tried": 0
         },
         {
-            "answer": "vivono",
+            "answer": "always",
             "failed": 0,
-            "question": "loro (vivere)",
+            "question": "What is the definition of \"sempre\"?",
             "tried": 0
         },
         {
-            "answer": "partiamo",
+            "answer": "faccio",
             "failed": 0,
-            "question": "noi (partire)",
+            "question": "io (fare)",
             "tried": 0
         },
         {
-            "answer": "partite",
+            "answer": "In the morning they often have breakfast at a cafe.",
             "failed": 0,
-            "question": "voi (partire)",
+            "question": "Given the definition \"Spesso la mattina fanno colazione al bar.\", what is the word?",
             "tried": 0
         },
         {
-            "answer": "partono",
+            "answer": "Oggi fa bello.",
             "failed": 0,
-            "question": "loro (partire)",
+            "question": "Today, it's nice.",
             "tried": 0
         }
     ]

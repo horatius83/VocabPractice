@@ -2,382 +2,382 @@
     "name": ".\\Italian\\VerbConjugations.json",
     "vocab": [
         {
-            "answer": "prendono",
-            "failed": 2,
-            "lastAsked": 1457115745.380028,
-            "question": "loro (prendere)",
-            "tried": 6
-        },
-        {
-            "answer": "hanno",
-            "failed": 2,
-            "lastAsked": 1457115749.9317713,
-            "question": "loro (avere)",
-            "tried": 6
-        },
-        {
             "answer": "fa",
-            "failed": 3,
-            "lastAsked": 1457115768.7076082,
+            "failed": 4,
+            "lastAsked": 1457374003.206007,
             "question": "lui/lei (fare)",
-            "tried": 7
-        },
-        {
-            "answer": "parte",
-            "failed": 2,
-            "lastAsked": 1457115739.9946816,
-            "question": "lui/lei (partire)",
-            "tried": 6
+            "tried": 9
         },
         {
             "answer": "lavorano",
             "failed": 2,
-            "lastAsked": 1457115732.027492,
+            "lastAsked": 1457373945.5360682,
             "question": "loro (lavorare)",
-            "tried": 6
+            "tried": 7
         },
         {
-            "answer": "chiamiamo",
-            "failed": 1,
-            "lastAsked": 1457115753.7396965,
-            "question": "noi (chiamare)",
-            "tried": 5
-        },
-        {
-            "answer": "pagano",
-            "failed": 1,
-            "lastAsked": 1457115724.5877895,
-            "question": "loro (pagare)",
-            "tried": 5
-        },
-        {
-            "answer": "lavoro",
-            "failed": 1,
-            "lastAsked": 1457115727.7072284,
-            "question": "io (lavorare)",
-            "tried": 5
+            "answer": "hanno",
+            "failed": 2,
+            "lastAsked": 1457373941.1360612,
+            "question": "loro (avere)",
+            "tried": 7
         },
         {
             "answer": "chiamano",
-            "failed": 2,
-            "lastAsked": 1457115827.8430045,
+            "failed": 4,
+            "lastAsked": 1457374009.7582726,
             "question": "loro (chiamare)",
-            "tried": 6
+            "tried": 9
         },
         {
-            "answer": "faccio",
-            "failed": 1,
-            "lastAsked": 1457115795.0823932,
-            "question": "io (fare)",
-            "tried": 5
-        },
-        {
-            "answer": "vive",
-            "failed": 1,
-            "lastAsked": 1457115774.786875,
-            "question": "lui/lei (vivere)",
-            "tried": 5
-        },
-        {
-            "answer": "sei",
-            "failed": 1,
-            "lastAsked": 1457115780.2428725,
-            "question": "tu (essere)",
-            "tried": 5
+            "answer": "prendono",
+            "failed": 2,
+            "lastAsked": 1457373936.6002543,
+            "question": "loro (prendere)",
+            "tried": 7
         },
         {
             "answer": "partite",
             "failed": 2,
-            "lastAsked": 1457115832.1539881,
+            "lastAsked": 1457373927.6078398,
             "question": "voi (partire)",
+            "tried": 7
+        },
+        {
+            "answer": "parte",
+            "failed": 3,
+            "lastAsked": 1457374001.2227662,
+            "question": "lui/lei (partire)",
+            "tried": 8
+        },
+        {
+            "answer": "lavora",
+            "failed": 3,
+            "lastAsked": 1457373998.2789383,
+            "question": "lui/lei (lavorare)",
+            "tried": 8
+        },
+        {
+            "answer": "faccio",
+            "failed": 1,
+            "lastAsked": 1457374020.4545372,
+            "question": "io (fare)",
+            "tried": 6
+        },
+        {
+            "answer": "vive",
+            "failed": 1,
+            "lastAsked": 1457374025.2535317,
+            "question": "lui/lei (vivere)",
+            "tried": 6
+        },
+        {
+            "answer": "chiama",
+            "failed": 1,
+            "lastAsked": 1457374033.014434,
+            "question": "lui/lei (chiamare)",
+            "tried": 6
+        },
+        {
+            "answer": "paga",
+            "failed": 1,
+            "lastAsked": 1457374030.9416194,
+            "question": "lui/lei (pagare)",
             "tried": 6
         },
         {
             "answer": "siamo",
             "failed": 1,
-            "lastAsked": 1457115802.0350566,
+            "lastAsked": 1457374037.1503181,
             "question": "noi (essere)",
-            "tried": 5
-        },
-        {
-            "answer": "fai",
-            "failed": 1,
-            "lastAsked": 1457115783.1632152,
-            "question": "tu (fare)",
-            "tried": 5
-        },
-        {
-            "answer": "prende",
-            "failed": 1,
-            "lastAsked": 1457115806.570938,
-            "question": "lui/lei (prendere)",
-            "tried": 5
-        },
-        {
-            "answer": "avete",
-            "failed": 1,
-            "lastAsked": 1457115859.3621378,
-            "question": "voi (avere)",
-            "tried": 5
-        },
-        {
-            "answer": "sono",
-            "failed": 1,
-            "lastAsked": 1457115863.9621985,
-            "question": "loro (essere)",
-            "tried": 5
+            "tried": 6
         },
         {
             "answer": "e'",
             "failed": 1,
-            "lastAsked": 1457115866.5540404,
+            "lastAsked": 1457374016.3185177,
             "question": "lui/lei (essere)",
-            "tried": 5
+            "tried": 6
+        },
+        {
+            "answer": "pagano",
+            "failed": 1,
+            "lastAsked": 1457374013.614271,
+            "question": "loro (pagare)",
+            "tried": 6
+        },
+        {
+            "answer": "sono",
+            "failed": 1,
+            "lastAsked": 1457374028.405764,
+            "question": "loro (essere)",
+            "tried": 6
+        },
+        {
+            "answer": "lavoro",
+            "failed": 2,
+            "lastAsked": 1457374077.6042962,
+            "question": "io (lavorare)",
+            "tried": 7
+        },
+        {
+            "answer": "chiamiamo",
+            "failed": 2,
+            "lastAsked": 1457374081.3175824,
+            "question": "noi (chiamare)",
+            "tried": 7
+        },
+        {
+            "answer": "fai",
+            "failed": 1,
+            "lastAsked": 1457374073.8213212,
+            "question": "tu (fare)",
+            "tried": 6
         },
         {
             "answer": "ho",
             "failed": 1,
-            "lastAsked": 1457115838.026762,
+            "lastAsked": 1457374061.4291153,
             "question": "io (avere)",
-            "tried": 5
+            "tried": 6
+        },
+        {
+            "answer": "prende",
+            "failed": 1,
+            "lastAsked": 1457374071.8937876,
+            "question": "lui/lei (prendere)",
+            "tried": 6
+        },
+        {
+            "answer": "avete",
+            "failed": 1,
+            "lastAsked": 1457374040.357679,
+            "question": "voi (avere)",
+            "tried": 6
         },
         {
             "answer": "paghiamo",
             "failed": 1,
-            "lastAsked": 1457115841.3616264,
+            "lastAsked": 1457374068.325296,
             "question": "noi (pagare)",
-            "tried": 5
-        },
-        {
-            "answer": "paga",
-            "failed": 1,
-            "lastAsked": 1457115845.5865211,
-            "question": "lui/lei (pagare)",
-            "tried": 5
-        },
-        {
-            "answer": "chiama",
-            "failed": 1,
-            "lastAsked": 1457115857.050309,
-            "question": "lui/lei (chiamare)",
-            "tried": 5
-        },
-        {
-            "answer": "lavora",
-            "failed": 2,
-            "lastAsked": 1457115869.433993,
-            "question": "lui/lei (lavorare)",
             "tried": 6
         },
         {
-            "answer": "chiamate",
-            "failed": 0,
-            "lastAsked": 1457115880.5857856,
-            "question": "voi (chiamare)",
-            "tried": 4
-        },
-        {
-            "answer": "chiamo",
-            "failed": 0,
-            "lastAsked": 1457115871.840922,
-            "question": "io (chiamare)",
-            "tried": 4
-        },
-        {
-            "answer": "parti",
-            "failed": 0,
-            "lastAsked": 1457115883.193563,
-            "question": "tu (partire)",
-            "tried": 4
-        },
-        {
-            "answer": "ha",
-            "failed": 0,
-            "lastAsked": 1457115874.8500047,
-            "question": "lui/lei (avere)",
-            "tried": 4
-        },
-        {
-            "answer": "pagate",
-            "failed": 0,
-            "lastAsked": 1457115885.577746,
-            "question": "voi (pagare)",
-            "tried": 4
-        },
-        {
-            "answer": "pago",
-            "failed": 0,
-            "lastAsked": 1457115892.8339202,
-            "question": "io (pagare)",
-            "tried": 4
-        },
-        {
-            "answer": "viviamo",
-            "failed": 0,
-            "lastAsked": 1457115895.2656958,
-            "question": "noi (vivere)",
-            "tried": 4
-        },
-        {
-            "answer": "abbiamo",
-            "failed": 0,
-            "lastAsked": 1457115890.9932172,
-            "question": "noi (avere)",
-            "tried": 4
-        },
-        {
-            "answer": "chiami",
-            "failed": 0,
-            "lastAsked": 1457115908.7293117,
-            "question": "tu (chiamare)",
-            "tried": 4
-        },
-        {
-            "answer": "vivi",
-            "failed": 0,
-            "lastAsked": 1457115910.4174685,
-            "question": "tu (vivere)",
-            "tried": 4
-        },
-        {
-            "answer": "fanno",
-            "failed": 0,
-            "lastAsked": 1457115906.4893513,
-            "question": "loro (fare)",
-            "tried": 4
-        },
-        {
-            "answer": "vivono",
-            "failed": 0,
-            "lastAsked": 1457115916.2966123,
-            "question": "loro (vivere)",
-            "tried": 4
-        },
-        {
-            "answer": "fate",
-            "failed": 0,
-            "lastAsked": 1457115918.7685473,
-            "question": "voi (fare)",
-            "tried": 4
-        },
-        {
-            "answer": "partiamo",
-            "failed": 0,
-            "lastAsked": 1457115927.136021,
-            "question": "noi (partire)",
-            "tried": 4
-        },
-        {
-            "answer": "facciamo",
-            "failed": 0,
-            "lastAsked": 1457115900.0814023,
-            "question": "noi (fare)",
-            "tried": 4
-        },
-        {
-            "answer": "vivete",
-            "failed": 0,
-            "lastAsked": 1457115924.4808812,
-            "question": "voi (vivere)",
-            "tried": 4
-        },
-        {
-            "answer": "lavoriamo",
-            "failed": 0,
-            "lastAsked": 1457115945.8325472,
-            "question": "noi (lavorare)",
-            "tried": 4
-        },
-        {
-            "answer": "lavori",
-            "failed": 0,
-            "lastAsked": 1457115950.711672,
-            "question": "tu (lavorare)",
-            "tried": 4
-        },
-        {
-            "answer": "parto",
-            "failed": 0,
-            "lastAsked": 1457115948.416162,
-            "question": "io (partire)",
-            "tried": 4
-        },
-        {
-            "answer": "hai",
-            "failed": 0,
-            "lastAsked": 1457115939.553101,
-            "question": "tu (avere)",
-            "tried": 4
+            "answer": "sei",
+            "failed": 1,
+            "lastAsked": 1457374065.46163,
+            "question": "tu (essere)",
+            "tried": 6
         },
         {
             "answer": "paghi",
             "failed": 1,
-            "lastAsked": 1457115957.7604544,
+            "lastAsked": 1457374093.924805,
             "question": "tu (pagare)",
+            "tried": 6
+        },
+        {
+            "answer": "chiamo",
+            "failed": 0,
+            "lastAsked": 1457374106.7006235,
+            "question": "io (chiamare)",
+            "tried": 5
+        },
+        {
+            "answer": "prendo",
+            "failed": 0,
+            "lastAsked": 1457374096.6459708,
+            "question": "io (prendere)",
+            "tried": 5
+        },
+        {
+            "answer": "hai",
+            "failed": 0,
+            "lastAsked": 1457374086.6846647,
+            "question": "tu (avere)",
+            "tried": 5
+        },
+        {
+            "answer": "chiami",
+            "failed": 0,
+            "lastAsked": 1457374091.292814,
+            "question": "tu (chiamare)",
+            "tried": 5
+        },
+        {
+            "answer": "prendete",
+            "failed": 0,
+            "lastAsked": 1457374109.2362864,
+            "question": "voi (prendere)",
+            "tried": 5
+        },
+        {
+            "answer": "partono",
+            "failed": 0,
+            "lastAsked": 1457374114.524777,
+            "question": "loro (partire)",
+            "tried": 5
+        },
+        {
+            "answer": "fanno",
+            "failed": 0,
+            "lastAsked": 1457374104.3731358,
+            "question": "loro (fare)",
+            "tried": 5
+        },
+        {
+            "answer": "pago",
+            "failed": 0,
+            "lastAsked": 1457374128.1162493,
+            "question": "io (pagare)",
+            "tried": 5
+        },
+        {
+            "answer": "chiamate",
+            "failed": 0,
+            "lastAsked": 1457374136.9166813,
+            "question": "voi (chiamare)",
+            "tried": 5
+        },
+        {
+            "answer": "abbiamo",
+            "failed": 0,
+            "lastAsked": 1457374122.092704,
+            "question": "noi (avere)",
+            "tried": 5
+        },
+        {
+            "answer": "pagate",
+            "failed": 0,
+            "lastAsked": 1457374134.2443266,
+            "question": "voi (pagare)",
+            "tried": 5
+        },
+        {
+            "answer": "ha",
+            "failed": 0,
+            "lastAsked": 1457374126.0846152,
+            "question": "lui/lei (avere)",
+            "tried": 5
+        },
+        {
+            "answer": "parto",
+            "failed": 0,
+            "lastAsked": 1457374129.9961486,
+            "question": "io (partire)",
+            "tried": 5
+        },
+        {
+            "answer": "vivi",
+            "failed": 0,
+            "lastAsked": 1457374117.8922875,
+            "question": "tu (vivere)",
             "tried": 5
         },
         {
             "answer": "prendi",
             "failed": 0,
-            "lastAsked": 1457115935.296471,
+            "lastAsked": 1457374131.9481642,
             "question": "tu (prendere)",
-            "tried": 4
+            "tried": 5
         },
         {
-            "answer": "prendo",
+            "answer": "viviamo",
             "failed": 0,
-            "lastAsked": 1457115954.7603123,
-            "question": "io (prendere)",
-            "tried": 4
-        },
-        {
-            "answer": "prendete",
-            "failed": 0,
-            "lastAsked": 1457115942.8252463,
-            "question": "voi (prendere)",
-            "tried": 4
-        },
-        {
-            "answer": "sono",
-            "failed": 0,
-            "lastAsked": 1457115967.1920624,
-            "question": "io (essere)",
-            "tried": 4
-        },
-        {
-            "answer": "lavorate",
-            "failed": 0,
-            "lastAsked": 1457115981.0160258,
-            "question": "voi (lavorare)",
-            "tried": 4
-        },
-        {
-            "answer": "prendiamo",
-            "failed": 0,
-            "lastAsked": 1457115972.0402567,
-            "question": "noi (prendere)",
-            "tried": 4
-        },
-        {
-            "answer": "partono",
-            "failed": 0,
-            "lastAsked": 1457115961.7523594,
-            "question": "loro (partire)",
-            "tried": 4
-        },
-        {
-            "answer": "siete",
-            "failed": 0,
-            "lastAsked": 1457115977.6403763,
-            "question": "voi (essere)",
-            "tried": 4
+            "lastAsked": 1457374140.8603559,
+            "question": "noi (vivere)",
+            "tried": 5
         },
         {
             "answer": "vivo",
             "failed": 0,
-            "lastAsked": 1457115969.2401476,
+            "lastAsked": 1457374169.1880958,
             "question": "io (vivere)",
-            "tried": 4
+            "tried": 5
+        },
+        {
+            "answer": "lavoriamo",
+            "failed": 0,
+            "lastAsked": 1457374143.196253,
+            "question": "noi (lavorare)",
+            "tried": 5
+        },
+        {
+            "answer": "lavori",
+            "failed": 0,
+            "lastAsked": 1457374166.2991748,
+            "question": "tu (lavorare)",
+            "tried": 5
+        },
+        {
+            "answer": "sono",
+            "failed": 0,
+            "lastAsked": 1457374158.708102,
+            "question": "io (essere)",
+            "tried": 5
+        },
+        {
+            "answer": "lavorate",
+            "failed": 0,
+            "lastAsked": 1457374163.084031,
+            "question": "voi (lavorare)",
+            "tried": 5
+        },
+        {
+            "answer": "prendiamo",
+            "failed": 0,
+            "lastAsked": 1457374171.523547,
+            "question": "noi (prendere)",
+            "tried": 5
+        },
+        {
+            "answer": "vivono",
+            "failed": 0,
+            "lastAsked": 1457374149.2197464,
+            "question": "loro (vivere)",
+            "tried": 5
+        },
+        {
+            "answer": "partiamo",
+            "failed": 0,
+            "lastAsked": 1457374176.3227606,
+            "question": "noi (partire)",
+            "tried": 5
+        },
+        {
+            "answer": "fate",
+            "failed": 0,
+            "lastAsked": 1457374189.9398117,
+            "question": "voi (fare)",
+            "tried": 5
+        },
+        {
+            "answer": "siete",
+            "failed": 0,
+            "lastAsked": 1457374183.7077105,
+            "question": "voi (essere)",
+            "tried": 5
+        },
+        {
+            "answer": "facciamo",
+            "failed": 0,
+            "lastAsked": 1457374187.1713195,
+            "question": "noi (fare)",
+            "tried": 5
+        },
+        {
+            "answer": "parti",
+            "failed": 0,
+            "lastAsked": 1457374173.9557054,
+            "question": "tu (partire)",
+            "tried": 5
+        },
+        {
+            "answer": "vivete",
+            "failed": 0,
+            "lastAsked": 1457374179.1072693,
+            "question": "voi (vivere)",
+            "tried": 5
         }
     ]
 }

@@ -1,0 +1,46 @@
+v0.1	Chapter 9
+v	to work from Monday to Friday	Lovorare dal lunedi al venerdi.
+v	I work on Mondays and Thursdays.	Io lavoro il lundedi e il giovedi.
+v	You work on Tuesdays, Wednesdays, and Fridays.	Tu lavori il martedi, il mercoledi e il venerdi.
+v	He/She doesn't work on Saturdays and Sundays.	Lui/Lei non lavora il sabato e la domenica.
+v	What's the time?	Che ora e'? Che ore sono?
+v	It's noon.	E' mezzogiorno.
+v	It's midnight.	E' mezzanotte.
+v	It's 1:00 am	E' l'una di notte.
+v	It's 11:15am	Sono le undici e un quarto di mattina.
+v	lunedi	Monday
+v	martedi	Tuesday
+v	mercoledi	Wednesday
+v	giovedi	Thursday
+v	venerdi	Friday
+v	sabato	Saturday
+v	domenica	Sunday
+v	il lunedi	on Mondays
+v	Sono le due.	It's two o'clock.
+v	di mattina	in the morning (from 4 to 11am)
+v	di pomeriggio	in the afternoon (from 1 to 5pm)
+v	di sera	in the evening (from 6 to 11pm)
+v	di notte	in the night (from midnight to 3am)
+v	Il viaggio e' durato due ore e mezza.	The trip lasted two and a half hours.
+v	Ci vediamo alle sette e mezzo.	Let's meet at 7:30
+v	the teacher	l'insegnante
+v	the artist	l'artista
+v	the vendor (male)	il commerciante
+v	the vender (female)	la commerciante
+v	the clerk (male)	l'impiegato
+v	the clerk (female)	l'impiegata
+v	the worker (male)	l'operaio
+v	the worker (female)	l'operaia
+v	the businessman	l'imprenditore
+v	the businesswoman	l'imprenditrice
+v	I am a professor (male).	Sono un professore.
+v	I am a professor (female).	Sono una professoressa.
+v	You are a doctor. (male)	Sei un dottore.
+v	You are a doctor. (female)	Sei una dottoressa.
+v	He is a medical doctor.	Lui fa il medico.
+v	She is a medical doctor.	Lei fa il medico.
+v	I am a lawyer.	Faccio l'avvocato
+v	You are an engineer.	Fai l'ingegnere.
+v	He is an architect.	Lui fa l'architetto.
+v	She is an architect.	Lei fa l'architetto.
+

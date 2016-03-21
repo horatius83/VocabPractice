@@ -117,7 +117,8 @@ def convertVocabularyFile(filename):
     firstLine = next(vocabFile)
     (version, title) = firstLine
     for line in vocabFile:
-        yield from parserDict[line[0]](line)
+        if line[0] != '':
+            yield from parserDict[line[0]](line)
 
 def createVocabJsonObj(filename,testName):
     """Given a vocab file, generate a json test"""

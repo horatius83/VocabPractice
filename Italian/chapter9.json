@@ -2,241 +2,402 @@
     "name": ".\\Italian\\chapter9.json",
     "vocab": [
         {
-            "answer": "il commerciante",
+            "answer": "di notte",
+            "failed": 0,
+            "lastAsked": 1458667447.8816912,
+            "question": "Given the definition \"in the night (from midnight to 3am)\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "in the evening (from 6 to 11pm)",
+            "failed": 1,
+            "lastAsked": 1458667833.2917988,
+            "question": "What is the definition of \"di sera\"?",
+            "tried": 2
+        },
+        {
+            "answer": "the vender (female)",
+            "failed": 1,
+            "lastAsked": 1458667911.0936365,
+            "question": "Given the definition \"la commerciante\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "Sono le due.",
+            "failed": 1,
+            "lastAsked": 1458667918.558028,
+            "question": "Given the definition \"It's two o'clock.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "Wednesday",
             "failed": 2,
-            "lastAsked": 1458581795.4615133,
-            "question": "What is the definition of \"the vendor (male)\"?",
+            "lastAsked": 1458667936.457376,
+            "question": "What is the definition of \"mercoledi\"?",
             "tried": 3
         },
         {
-            "answer": "It's two o'clock.",
+            "answer": "It's midnight.",
             "failed": 0,
-            "lastAsked": 1458581677.2981534,
-            "question": "What is the definition of \"Sono le due.\"?",
+            "lastAsked": 1458667823.4919498,
+            "question": "Given the definition \"E' mezzanotte.\", what is the word?",
             "tried": 1
         },
         {
-            "answer": "il lunedi",
+            "answer": "martedi",
             "failed": 1,
-            "lastAsked": 1458581767.9367976,
-            "question": "Given the definition \"on Mondays\", what is the word?",
+            "lastAsked": 1458667838.3731863,
+            "question": "Given the definition \"Tuesday\", what is the word?",
             "tried": 2
         },
         {
-            "answer": "You are a doctor. (female)",
-            "failed": 0,
-            "lastAsked": 1458581689.2550592,
-            "question": "Given the definition \"Sei una dottoressa.\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "Sono un professore.",
-            "failed": 1,
-            "lastAsked": 1458581790.061543,
-            "question": "What is the definition of \"I am a professor (male).\"?",
-            "tried": 2
-        },
-        {
-            "answer": "I am a professor (female).",
-            "failed": 0,
-            "lastAsked": 1458581719.353903,
-            "question": "Given the definition \"Sono una professoressa.\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "in the morning (from 4 to 11am)",
-            "failed": 0,
-            "lastAsked": 1458581731.4022202,
-            "question": "What is the definition of \"di mattina\"?",
-            "tried": 1
-        },
-        {
-            "answer": "la commerciante",
-            "failed": 0,
-            "lastAsked": 1458581707.4377859,
-            "question": "What is the definition of \"the vender (female)\"?",
-            "tried": 1
-        },
-        {
-            "answer": "di mattina",
-            "failed": 0,
-            "lastAsked": 1458581798.7410724,
-            "question": "Given the definition \"in the morning (from 4 to 11am)\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "I work on Mondays and Thursdays.",
-            "failed": 1,
-            "lastAsked": 1458582030.1259584,
-            "question": "Given the definition \"Io lavoro il lundedi e il giovedi.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Tu lavori il martedi, il mercoledi e il venerdi.",
+            "answer": "Lei fa l'architetto.",
             "failed": 2,
-            "lastAsked": 1458582054.7783391,
-            "question": "What is the definition of \"You work on Tuesdays, Wednesdays, and Fridays.\"?",
+            "lastAsked": 1458667933.6212516,
+            "question": "What is the definition of \"She is an architect.\"?",
             "tried": 3
         },
         {
-            "answer": "I am a professor (male).",
+            "answer": "Tuesday",
             "failed": 0,
-            "lastAsked": 1458581934.4266357,
-            "question": "Given the definition \"Sono un professore.\", what is the word?",
+            "lastAsked": 1458668028.7986264,
+            "question": "What is the definition of \"martedi\"?",
             "tried": 1
         },
         {
-            "answer": "venerdi",
-            "failed": 0,
-            "lastAsked": 1458581937.6857512,
-            "question": "Given the definition \"Friday\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "the artist",
-            "failed": 0,
-            "lastAsked": 1458581940.8625357,
-            "question": "Given the definition \"l'artista\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "lunedi",
-            "failed": 0,
-            "lastAsked": 1458581801.437547,
-            "question": "Given the definition \"Monday\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "the businessman",
+            "answer": "giovedi",
             "failed": 1,
-            "lastAsked": 1458582034.3351321,
-            "question": "Given the definition \"l'imprenditore\", what is the word?",
+            "lastAsked": 1458668059.196699,
+            "question": "Given the definition \"Thursday\", what is the word?",
             "tried": 2
         },
         {
-            "answer": "on Mondays",
-            "failed": 1,
-            "lastAsked": 1458582272.569157,
-            "question": "What is the definition of \"il lunedi\"?",
-            "tried": 2
-        },
-        {
-            "answer": "E' mezzanotte.",
-            "failed": 2,
-            "lastAsked": 1458582325.2325327,
-            "question": "What is the definition of \"It's midnight.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "Io lavoro il lundedi e il giovedi.",
-            "failed": 0,
-            "lastAsked": 1458582105.602763,
-            "question": "What is the definition of \"I work on Mondays and Thursdays.\"?",
-            "tried": 1
-        },
-        {
-            "answer": "l'impiegato",
-            "failed": 2,
-            "lastAsked": 1458582312.585042,
-            "question": "What is the definition of \"the clerk (male)\"?",
-            "tried": 3
-        },
-        {
-            "answer": "It's noon.",
-            "failed": 1,
-            "lastAsked": 1458582289.2284906,
-            "question": "Given the definition \"E' mezzogiorno.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Sono una professoressa.",
-            "failed": 2,
-            "lastAsked": 1458582331.5924616,
-            "question": "What is the definition of \"I am a professor (female).\"?",
-            "tried": 3
-        },
-        {
-            "answer": "The trip lasted two and a half hours.",
-            "failed": 1,
-            "lastAsked": 1458582295.3737907,
-            "question": "What is the definition of \"Il viaggio e' durato due ore e mezza.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "Lui/Lei non lavora il sabato e la domenica.",
-            "failed": 1,
-            "lastAsked": 1458582307.193376,
-            "question": "What is the definition of \"He/She doesn't work on Saturdays and Sundays.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "the clerk (male)",
-            "failed": 1,
-            "lastAsked": 1458582522.4457603,
-            "question": "Given the definition \"l'impiegato\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Faccio l'avvocato",
+            "answer": "Lei fa il medico.",
             "failed": 4,
-            "lastAsked": 1458582717.970117,
-            "question": "What is the definition of \"I am a lawyer.\"?",
+            "lastAsked": 1458668055.0848389,
+            "question": "What is the definition of \"She is a medical doctor.\"?",
             "tried": 5
         },
         {
-            "answer": "E' mezzogiorno.",
+            "answer": "Fai l'ingegnere.",
+            "failed": 3,
+            "lastAsked": 1458668142.3597174,
+            "question": "What is the definition of \"You are an engineer.\"?",
+            "tried": 4
+        },
+        {
+            "answer": "He is a medical doctor.",
+            "failed": 0,
+            "lastAsked": 1458667975.5302813,
+            "question": "Given the definition \"Lui fa il medico.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "You are a doctor. (male)",
             "failed": 1,
-            "lastAsked": 1458582533.7332077,
-            "question": "What is the definition of \"It's noon.\"?",
+            "lastAsked": 1458668050.468933,
+            "question": "Given the definition \"Sei un dottore.\", what is the word?",
             "tried": 2
         },
         {
-            "answer": "What's the time?",
+            "answer": "sabato",
             "failed": 0,
-            "lastAsked": 1458582472.1265516,
-            "question": "Given the definition \"Che ora e'? Che ore sono?\", what is the word?",
+            "lastAsked": 1458668012.3351238,
+            "question": "Given the definition \"Saturday\", what is the word?",
             "tried": 1
         },
         {
-            "answer": "in the night (from midnight to 3am)",
+            "answer": "Lui fa il medico.",
             "failed": 0,
-            "lastAsked": 1458582422.1353135,
-            "question": "What is the definition of \"di notte\"?",
+            "lastAsked": 1458667982.5117948,
+            "question": "What is the definition of \"He is a medical doctor.\"?",
             "tried": 1
+        },
+        {
+            "answer": "domenica",
+            "failed": 0,
+            "lastAsked": 1458668149.419613,
+            "question": "Given the definition \"Sunday\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "l'operaia",
+            "failed": 4,
+            "lastAsked": 1458668379.725211,
+            "question": "What is the definition of \"the worker (female)\"?",
+            "tried": 5
+        },
+        {
+            "answer": "Sei una dottoressa.",
+            "failed": 1,
+            "lastAsked": 1458668339.3388722,
+            "question": "What is the definition of \"You are a doctor. (female)\"?",
+            "tried": 2
+        },
+        {
+            "answer": "It's 1:00 am",
+            "failed": 1,
+            "lastAsked": 1458668346.2018628,
+            "question": "Given the definition \"E' l'una di notte.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "I am a lawyer.",
+            "failed": 0,
+            "lastAsked": 1458668160.0204237,
+            "question": "Given the definition \"Faccio l'avvocato\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "Lui fa l'architetto.",
+            "failed": 1,
+            "lastAsked": 1458668330.1920135,
+            "question": "What is the definition of \"He is an architect.\"?",
+            "tried": 2
+        },
+        {
+            "answer": "the businesswoman",
+            "failed": 2,
+            "lastAsked": 1458668362.8533864,
+            "question": "Given the definition \"l'imprenditrice\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "l'artista",
+            "failed": 2,
+            "lastAsked": 1458668365.5249028,
+            "question": "What is the definition of \"the artist\"?",
+            "tried": 3
+        },
+        {
+            "answer": "She is an architect.",
+            "failed": 0,
+            "lastAsked": 1458668557.1697938,
+            "question": "Given the definition \"Lei fa l'architetto.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "l'impiegata",
+            "failed": 2,
+            "lastAsked": 1458668681.881163,
+            "question": "What is the definition of \"the clerk (female)\"?",
+            "tried": 3
+        },
+        {
+            "answer": "Sunday",
+            "failed": 0,
+            "lastAsked": 1458668481.6698537,
+            "question": "What is the definition of \"domenica\"?",
+            "tried": 1
+        },
+        {
+            "answer": "E' l'una di notte.",
+            "failed": 4,
+            "lastAsked": 1458668715.7843575,
+            "question": "What is the definition of \"It's 1:00 am\"?",
+            "tried": 5
+        },
+        {
+            "answer": "Lovorare dal lunedi al venerdi.",
+            "failed": 1,
+            "lastAsked": 1458668634.0416613,
+            "question": "What is the definition of \"to work from Monday to Friday\"?",
+            "tried": 2
+        },
+        {
+            "answer": "in the afternoon (from 1 to 5pm)",
+            "failed": 1,
+            "lastAsked": 1458668599.110258,
+            "question": "What is the definition of \"di pomeriggio\"?",
+            "tried": 2
+        },
+        {
+            "answer": "Che ora e'? Che ore sono?",
+            "failed": 2,
+            "lastAsked": 1458668677.7064438,
+            "question": "What is the definition of \"What's the time?\"?",
+            "tried": 3
+        },
+        {
+            "answer": "mercoledi",
+            "failed": 0,
+            "lastAsked": 1458668484.55779,
+            "question": "Given the definition \"Wednesday\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "l'insegnante",
+            "failed": 3,
+            "lastAsked": 1458668953.8750906,
+            "question": "What is the definition of \"the teacher\"?",
+            "tried": 4
         },
         {
             "answer": "l'imprenditrice",
-            "failed": 4,
-            "lastAsked": 1458582723.113829,
+            "failed": 6,
+            "lastAsked": 1458668927.7658007,
             "question": "What is the definition of \"the businesswoman\"?",
+            "tried": 8
+        },
+        {
+            "answer": "Faccio l'avvocato",
+            "failed": 5,
+            "lastAsked": 1458668835.5932758,
+            "question": "What is the definition of \"I am a lawyer.\"?",
+            "tried": 7
+        },
+        {
+            "answer": "l'imprenditore",
+            "failed": 7,
+            "lastAsked": 1458668966.7870808,
+            "question": "What is the definition of \"the businessman\"?",
+            "tried": 9
+        },
+        {
+            "answer": "l'operaio",
+            "failed": 3,
+            "lastAsked": 1458668805.5420308,
+            "question": "What is the definition of \"the worker (male)\"?",
             "tried": 5
         },
         {
             "answer": "Sono le undici e un quarto di mattina.",
-            "failed": 2,
-            "lastAsked": 1458582652.954414,
+            "failed": 4,
+            "lastAsked": 1458668922.0686395,
             "question": "What is the definition of \"It's 11:15am\"?",
+            "tried": 6
+        },
+        {
+            "answer": "E' mezzanotte.",
+            "failed": 2,
+            "lastAsked": 1458668745.72427,
+            "question": "What is the definition of \"It's midnight.\"?",
+            "tried": 4
+        },
+        {
+            "answer": "the teacher",
+            "failed": 3,
+            "lastAsked": 1458668829.4483912,
+            "question": "Given the definition \"l'insegnante\", what is the word?",
+            "tried": 5
+        },
+        {
+            "answer": "Ci vediamo alle sette e mezzo.",
+            "failed": 4,
+            "lastAsked": 1458669252.6104844,
+            "question": "Given the definition \"Let's meet at 7:30\", what is the word?",
+            "tried": 6
+        },
+        {
+            "answer": "Sono una professoressa.",
+            "failed": 3,
+            "lastAsked": 1458669241.7400112,
+            "question": "What is the definition of \"I am a professor (female).\"?",
+            "tried": 5
+        },
+        {
+            "answer": "Sei un dottore.",
+            "failed": 3,
+            "lastAsked": 1458669174.896492,
+            "question": "What is the definition of \"You are a doctor. (male)\"?",
+            "tried": 5
+        },
+        {
+            "answer": "il commerciante",
+            "failed": 4,
+            "lastAsked": 1458669258.414794,
+            "question": "What is the definition of \"the vendor (male)\"?",
+            "tried": 6
+        },
+        {
+            "answer": "l'impiegato",
+            "failed": 4,
+            "lastAsked": 1458669263.143925,
+            "question": "What is the definition of \"the clerk (male)\"?",
+            "tried": 6
+        },
+        {
+            "answer": "Tu lavori il martedi, il mercoledi e il venerdi.",
+            "failed": 2,
+            "lastAsked": 1458669167.1827505,
+            "question": "What is the definition of \"You work on Tuesdays, Wednesdays, and Fridays.\"?",
+            "tried": 4
+        },
+        {
+            "answer": "the clerk (female)",
+            "failed": 2,
+            "lastAsked": 1458669185.7718656,
+            "question": "Given the definition \"l'impiegata\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "the businessman",
+            "failed": 1,
+            "lastAsked": 1458669100.6726723,
+            "question": "Given the definition \"l'imprenditore\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "Lui/Lei non lavora il sabato e la domenica.",
+            "failed": 2,
+            "lastAsked": 1458669436.0544193,
+            "question": "What is the definition of \"He/She doesn't work on Saturdays and Sundays.\"?",
             "tried": 3
         },
         {
             "answer": "You work on Tuesdays, Wednesdays, and Fridays.",
-            "failed": 1,
-            "lastAsked": 1458582515.7257273,
-            "question": "Given the definition \"Tu lavori il martedi, il mercoledi e il venerdi.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "the teacher",
             "failed": 2,
-            "lastAsked": 1458582859.8480356,
-            "question": "Given the definition \"l'insegnante\", what is the word?",
+            "lastAsked": 1458669493.8315463,
+            "question": "Given the definition \"Tu lavori il martedi, il mercoledi e il venerdi.\", what is the word?",
             "tried": 3
         },
         {
-            "answer": "You are an engineer.",
+            "answer": "the clerk (male)",
+            "failed": 3,
+            "lastAsked": 1458669646.7520373,
+            "question": "Given the definition \"l'impiegato\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "Il viaggio e' durato due ore e mezza.",
+            "failed": 2,
+            "lastAsked": 1458669543.012602,
+            "question": "Given the definition \"The trip lasted two and a half hours.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "Sono un professore.",
             "failed": 1,
-            "lastAsked": 1458582846.187991,
-            "question": "Given the definition \"Fai l'ingegnere.\", what is the word?",
+            "lastAsked": 1458669378.5919678,
+            "question": "What is the definition of \"I am a professor (male).\"?",
+            "tried": 3
+        },
+        {
+            "answer": "to work from Monday to Friday",
+            "failed": 2,
+            "lastAsked": 1458669667.8601172,
+            "question": "Given the definition \"Lovorare dal lunedi al venerdi.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "The trip lasted two and a half hours.",
+            "failed": 1,
+            "lastAsked": 1458669525.9666555,
+            "question": "What is the definition of \"Il viaggio e' durato due ore e mezza.\"?",
+            "tried": 3
+        },
+        {
+            "answer": "on Mondays",
+            "failed": 1,
+            "lastAsked": 1458669503.082998,
+            "question": "What is the definition of \"il lunedi\"?",
+            "tried": 3
+        },
+        {
+            "answer": "the vendor (male)",
+            "failed": 1,
+            "lastAsked": 1458583295.342761,
+            "question": "Given the definition \"il commerciante\", what is the word?",
             "tried": 2
         },
         {
@@ -247,10 +408,24 @@
             "tried": 2
         },
         {
-            "answer": "di pomeriggio",
+            "answer": "I work on Mondays and Thursdays.",
             "failed": 1,
-            "lastAsked": 1458582836.147872,
-            "question": "Given the definition \"in the afternoon (from 1 to 5pm)\", what is the word?",
+            "lastAsked": 1458582030.1259584,
+            "question": "Given the definition \"Io lavoro il lundedi e il giovedi.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "It's noon.",
+            "failed": 1,
+            "lastAsked": 1458582289.2284906,
+            "question": "Given the definition \"E' mezzogiorno.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "You are an engineer.",
+            "failed": 1,
+            "lastAsked": 1458582846.187991,
+            "question": "Given the definition \"Fai l'ingegnere.\", what is the word?",
             "tried": 2
         },
         {
@@ -261,6 +436,27 @@
             "tried": 2
         },
         {
+            "answer": "di pomeriggio",
+            "failed": 1,
+            "lastAsked": 1458582836.147872,
+            "question": "Given the definition \"in the afternoon (from 1 to 5pm)\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "il lunedi",
+            "failed": 1,
+            "lastAsked": 1458581767.9367976,
+            "question": "Given the definition \"on Mondays\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "E' mezzogiorno.",
+            "failed": 1,
+            "lastAsked": 1458582533.7332077,
+            "question": "What is the definition of \"It's noon.\"?",
+            "tried": 2
+        },
+        {
             "answer": "Friday",
             "failed": 0,
             "lastAsked": 1458582751.3649719,
@@ -268,11 +464,102 @@
             "tried": 1
         },
         {
-            "answer": "l'imprenditore",
-            "failed": 3,
-            "lastAsked": 1458582864.4078224,
-            "question": "What is the definition of \"the businessman\"?",
-            "tried": 4
+            "answer": "the worker (male)",
+            "failed": 0,
+            "lastAsked": 1458582886.499344,
+            "question": "Given the definition \"l'operaio\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "in the morning (from 4 to 11am)",
+            "failed": 0,
+            "lastAsked": 1458581731.4022202,
+            "question": "What is the definition of \"di mattina\"?",
+            "tried": 1
+        },
+        {
+            "answer": "venerdi",
+            "failed": 0,
+            "lastAsked": 1458581937.6857512,
+            "question": "Given the definition \"Friday\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "What's the time?",
+            "failed": 0,
+            "lastAsked": 1458582472.1265516,
+            "question": "Given the definition \"Che ora e'? Che ore sono?\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "la commerciante",
+            "failed": 0,
+            "lastAsked": 1458581707.4377859,
+            "question": "What is the definition of \"the vender (female)\"?",
+            "tried": 1
+        },
+        {
+            "answer": "Monday",
+            "failed": 0,
+            "lastAsked": 1458582874.8562038,
+            "question": "What is the definition of \"lunedi\"?",
+            "tried": 1
+        },
+        {
+            "answer": "I am a professor (male).",
+            "failed": 0,
+            "lastAsked": 1458581934.4266357,
+            "question": "Given the definition \"Sono un professore.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "the artist",
+            "failed": 0,
+            "lastAsked": 1458581940.8625357,
+            "question": "Given the definition \"l'artista\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "It's 11:15am",
+            "failed": 0,
+            "lastAsked": 1458583118.493228,
+            "question": "Given the definition \"Sono le undici e un quarto di mattina.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "di mattina",
+            "failed": 0,
+            "lastAsked": 1458581798.7410724,
+            "question": "Given the definition \"in the morning (from 4 to 11am)\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "He is an architect.",
+            "failed": 0,
+            "lastAsked": 1458583166.3414674,
+            "question": "Given the definition \"Lui fa l'architetto.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "I am a professor (female).",
+            "failed": 0,
+            "lastAsked": 1458581719.353903,
+            "question": "Given the definition \"Sono una professoressa.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "He/She doesn't work on Saturdays and Sundays.",
+            "failed": 0,
+            "lastAsked": 1458582900.6912425,
+            "question": "Given the definition \"Lui/Lei non lavora il sabato e la domenica.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "You are a doctor. (female)",
+            "failed": 0,
+            "lastAsked": 1458581689.2550592,
+            "question": "Given the definition \"Sei una dottoressa.\", what is the word?",
+            "tried": 1
         },
         {
             "answer": "Thursday",
@@ -289,46 +576,18 @@
             "tried": 1
         },
         {
-            "answer": "Il viaggio e' durato due ore e mezza.",
-            "failed": 1,
-            "lastAsked": 1458583077.2465522,
-            "question": "Given the definition \"The trip lasted two and a half hours.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "l'operaio",
-            "failed": 3,
-            "lastAsked": 1458583107.4338818,
-            "question": "What is the definition of \"the worker (male)\"?",
-            "tried": 4
-        },
-        {
-            "answer": "the worker (male)",
+            "answer": "lunedi",
             "failed": 0,
-            "lastAsked": 1458582886.499344,
-            "question": "Given the definition \"l'operaio\", what is the word?",
+            "lastAsked": 1458581801.437547,
+            "question": "Given the definition \"Monday\", what is the word?",
             "tried": 1
         },
         {
-            "answer": "He/She doesn't work on Saturdays and Sundays.",
+            "answer": "It's two o'clock.",
             "failed": 0,
-            "lastAsked": 1458582900.6912425,
-            "question": "Given the definition \"Lui/Lei non lavora il sabato e la domenica.\", what is the word?",
+            "lastAsked": 1458581677.2981534,
+            "question": "What is the definition of \"Sono le due.\"?",
             "tried": 1
-        },
-        {
-            "answer": "Monday",
-            "failed": 0,
-            "lastAsked": 1458582874.8562038,
-            "question": "What is the definition of \"lunedi\"?",
-            "tried": 1
-        },
-        {
-            "answer": "to work from Monday to Friday",
-            "failed": 1,
-            "lastAsked": 1458583089.4707127,
-            "question": "Given the definition \"Lovorare dal lunedi al venerdi.\", what is the word?",
-            "tried": 2
         },
         {
             "answer": "di sera",
@@ -338,38 +597,10 @@
             "tried": 1
         },
         {
-            "answer": "Lei fa il medico.",
-            "failed": 3,
-            "lastAsked": 1458583346.806461,
-            "question": "What is the definition of \"She is a medical doctor.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "It's 11:15am",
+            "answer": "Io lavoro il lundedi e il giovedi.",
             "failed": 0,
-            "lastAsked": 1458583118.493228,
-            "question": "Given the definition \"Sono le undici e un quarto di mattina.\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "Ci vediamo alle sette e mezzo.",
-            "failed": 2,
-            "lastAsked": 1458583331.9950552,
-            "question": "Given the definition \"Let's meet at 7:30\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "the vendor (male)",
-            "failed": 1,
-            "lastAsked": 1458583295.342761,
-            "question": "Given the definition \"il commerciante\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "He is an architect.",
-            "failed": 0,
-            "lastAsked": 1458583166.3414674,
-            "question": "Given the definition \"Lui fa l'architetto.\", what is the word?",
+            "lastAsked": 1458582105.602763,
+            "question": "What is the definition of \"I work on Mondays and Thursdays.\"?",
             "tried": 1
         },
         {
@@ -380,210 +611,11 @@
             "tried": 1
         },
         {
-            "answer": "Sei un dottore.",
-            "failed": 2,
-            "lastAsked": 1458583359.6708646,
-            "question": "What is the definition of \"You are a doctor. (male)\"?",
-            "tried": 3
-        },
-        {
-            "answer": "the clerk (female)",
-            "failed": 1,
-            "lastAsked": 1458583300.3591504,
-            "question": "Given the definition \"l'impiegata\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "l'artista",
+            "answer": "in the night (from midnight to 3am)",
             "failed": 0,
-            "question": "What is the definition of \"the artist\"?",
-            "tried": 0
-        },
-        {
-            "answer": "domenica",
-            "failed": 0,
-            "question": "Given the definition \"Sunday\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Sei una dottoressa.",
-            "failed": 0,
-            "question": "What is the definition of \"You are a doctor. (female)\"?",
-            "tried": 0
-        },
-        {
-            "answer": "She is an architect.",
-            "failed": 0,
-            "question": "Given the definition \"Lei fa l'architetto.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "It's 1:00 am",
-            "failed": 0,
-            "question": "Given the definition \"E' l'una di notte.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Lei fa l'architetto.",
-            "failed": 0,
-            "question": "What is the definition of \"She is an architect.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "the businesswoman",
-            "failed": 0,
-            "question": "Given the definition \"l'imprenditrice\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Sono le due.",
-            "failed": 0,
-            "question": "Given the definition \"It's two o'clock.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "l'operaia",
-            "failed": 0,
-            "question": "What is the definition of \"the worker (female)\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Lui fa il medico.",
-            "failed": 0,
-            "question": "What is the definition of \"He is a medical doctor.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Wednesday",
-            "failed": 0,
-            "question": "What is the definition of \"mercoledi\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Che ora e'? Che ore sono?",
-            "failed": 0,
-            "question": "What is the definition of \"What's the time?\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Lui fa l'architetto.",
-            "failed": 0,
-            "question": "What is the definition of \"He is an architect.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "sabato",
-            "failed": 0,
-            "question": "Given the definition \"Saturday\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "the vender (female)",
-            "failed": 0,
-            "question": "Given the definition \"la commerciante\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "in the evening (from 6 to 11pm)",
-            "failed": 0,
-            "question": "What is the definition of \"di sera\"?",
-            "tried": 0
-        },
-        {
-            "answer": "in the afternoon (from 1 to 5pm)",
-            "failed": 0,
-            "question": "What is the definition of \"di pomeriggio\"?",
-            "tried": 0
-        },
-        {
-            "answer": "He is a medical doctor.",
-            "failed": 0,
-            "question": "Given the definition \"Lui fa il medico.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "giovedi",
-            "failed": 0,
-            "question": "Given the definition \"Thursday\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "mercoledi",
-            "failed": 0,
-            "question": "Given the definition \"Wednesday\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Fai l'ingegnere.",
-            "failed": 0,
-            "question": "What is the definition of \"You are an engineer.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Lovorare dal lunedi al venerdi.",
-            "failed": 0,
-            "question": "What is the definition of \"to work from Monday to Friday\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Tuesday",
-            "failed": 0,
-            "question": "What is the definition of \"martedi\"?",
-            "tried": 0
-        },
-        {
-            "answer": "It's midnight.",
-            "failed": 0,
-            "question": "Given the definition \"E' mezzanotte.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "l'insegnante",
-            "failed": 0,
-            "question": "What is the definition of \"the teacher\"?",
-            "tried": 0
-        },
-        {
-            "answer": "martedi",
-            "failed": 0,
-            "question": "Given the definition \"Tuesday\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Sunday",
-            "failed": 0,
-            "question": "What is the definition of \"domenica\"?",
-            "tried": 0
-        },
-        {
-            "answer": "E' l'una di notte.",
-            "failed": 0,
-            "question": "What is the definition of \"It's 1:00 am\"?",
-            "tried": 0
-        },
-        {
-            "answer": "I am a lawyer.",
-            "failed": 0,
-            "question": "Given the definition \"Faccio l'avvocato\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "di notte",
-            "failed": 0,
-            "question": "Given the definition \"in the night (from midnight to 3am)\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "l'impiegata",
-            "failed": 0,
-            "question": "What is the definition of \"the clerk (female)\"?",
-            "tried": 0
-        },
-        {
-            "answer": "You are a doctor. (male)",
-            "failed": 0,
-            "question": "Given the definition \"Sei un dottore.\", what is the word?",
-            "tried": 0
+            "lastAsked": 1458582422.1353135,
+            "question": "What is the definition of \"di notte\"?",
+            "tried": 1
         }
     ]
 }

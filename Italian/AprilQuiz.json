@@ -1,0 +1,197 @@
+{
+    "name": ".\\Italian\\AprilQuiz.json",
+    "vocab": [
+        {
+            "answer": "Io ho tre fratelli e due sorelle.",
+            "failed": 0,
+            "question": "I have 3 brothers and 2 sisters.",
+            "tried": 0
+        },
+        {
+            "answer": "Ecco la mia famiglia.",
+            "failed": 0,
+            "question": "Here is my family.",
+            "tried": 0
+        },
+        {
+            "answer": "a sinistra",
+            "failed": 0,
+            "question": "On the left.",
+            "tried": 0
+        },
+        {
+            "answer": "a destra",
+            "failed": 0,
+            "question": "On the right.",
+            "tried": 0
+        },
+        {
+            "answer": "sempre dritto",
+            "failed": 0,
+            "question": "straight ahead",
+            "tried": 0
+        },
+        {
+            "answer": "Che un ristorante qui vicino.",
+            "failed": 0,
+            "question": "Is there a restaurant near by?",
+            "tried": 0
+        },
+        {
+            "answer": "il prima piatto",
+            "failed": 0,
+            "question": "The first plate.",
+            "tried": 0
+        },
+        {
+            "answer": "il contorno",
+            "failed": 0,
+            "question": "the side dish",
+            "tried": 0
+        },
+        {
+            "answer": "Vorrei il conto per favore.",
+            "failed": 0,
+            "question": "I would like the bill, please.",
+            "tried": 0
+        },
+        {
+            "answer": "Posso pagare con certa di credito.",
+            "failed": 0,
+            "question": "May I pay with a credit card?",
+            "tried": 0
+        },
+        {
+            "answer": "Vorrei un'insalata e un dolce.",
+            "failed": 0,
+            "question": "I take a salad, a dessert.",
+            "tried": 0
+        },
+        {
+            "answer": "Lui paga tutto.",
+            "failed": 0,
+            "question": "He pays all.",
+            "tried": 0
+        },
+        {
+            "answer": "Prendo una rosto di maiale con potate al forno.",
+            "failed": 0,
+            "question": "I take a pork roast with backed potatoes.",
+            "tried": 0
+        },
+        {
+            "answer": "Viviamo in la periferia.",
+            "failed": 0,
+            "question": "We live in the outskirts.",
+            "tried": 0
+        },
+        {
+            "answer": "Parliamo Italiano solo un po'.",
+            "failed": 0,
+            "question": "We speak Italian only a litte.",
+            "tried": 0
+        },
+        {
+            "answer": "Non cpisco, ripite per piacere.",
+            "failed": 0,
+            "question": "I don't understand, please repeat.",
+            "tried": 0
+        },
+        {
+            "answer": "Cosa significa?",
+            "failed": 0,
+            "question": "What does it mean?",
+            "tried": 0
+        },
+        {
+            "answer": "Che giorno e' oggi?",
+            "failed": 0,
+            "question": "What day is today?",
+            "tried": 0
+        },
+        {
+            "answer": "Sono le due e un quarto.",
+            "failed": 0,
+            "question": "it is 2 and 15 minutes.",
+            "tried": 0
+        },
+        {
+            "answer": "A che ora parte il treno.",
+            "failed": 0,
+            "question": "At what time does the train leave?",
+            "tried": 0
+        },
+        {
+            "answer": "Che lavoro fai?",
+            "failed": 0,
+            "question": "What job do you do?",
+            "tried": 0
+        },
+        {
+            "answer": "fare bella figura",
+            "failed": 0,
+            "question": "To make a good impression.",
+            "tried": 0
+        },
+        {
+            "answer": "fare brutto figura",
+            "failed": 0,
+            "question": "To make a bad impression.",
+            "tried": 0
+        },
+        {
+            "answer": "fare la collazione",
+            "failed": 0,
+            "question": "To have breakfast.",
+            "tried": 0
+        },
+        {
+            "answer": "Vivono in campagna.",
+            "failed": 0,
+            "question": "They live in the country.",
+            "tried": 0
+        },
+        {
+            "answer": "io vado, lui va",
+            "failed": 0,
+            "question": "I go, he goes",
+            "tried": 0
+        },
+        {
+            "answer": "noi andiamo",
+            "failed": 0,
+            "question": "We go",
+            "tried": 0
+        },
+        {
+            "answer": "solito",
+            "failed": 0,
+            "question": "Usually",
+            "tried": 0
+        },
+        {
+            "answer": "sempre",
+            "failed": 0,
+            "question": "always",
+            "tried": 0
+        },
+        {
+            "answer": "mai",
+            "failed": 0,
+            "question": "never",
+            "tried": 0
+        },
+        {
+            "answer": "a volte",
+            "failed": 0,
+            "question": "sometimes",
+            "tried": 0
+        },
+        {
+            "answer": "spesso",
+            "failed": 0,
+            "question": "often",
+            "tried": 0
+        }
+    ]
+}

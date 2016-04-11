@@ -1,0 +1,33 @@
+v0.1	April Quiz
+q	I have 3 brothers and 2 sisters.	Io ho tre fratelli e due sorelle.
+q	Here is my family.	Ecco la mia famiglia.
+q	On the left.	a sinistra
+q	On the right.	a destra
+q	straight ahead	sempre dritto
+q	Is there a restaurant near by?	Che un ristorante qui vicino.
+q	The first plate.	il prima piatto
+q	the side dish	il contorno
+q	I would like the bill, please.	Vorrei il conto per favore.
+q	May I pay with a credit card?	Posso pagare con certa di credito.
+q	I take a salad, a dessert.	Vorrei un'insalata e un dolce.
+q	He pays all.	Lui paga tutto.
+q	I take a pork roast with backed potatoes.	Prendo una rosto di maiale con potate al forno.
+q	We live in the outskirts.	Viviamo in la periferia.
+q	We speak Italian only a litte.	Parliamo Italiano solo un po'.
+q	I don't understand, please repeat.	Non cpisco, ripite per piacere.
+q	What does it mean?	Cosa significa?
+q	What day is today?	Che giorno e' oggi?
+q	it is 2 and 15 minutes.	Sono le due e un quarto.
+q	At what time does the train leave?	A che ora parte il treno.
+q	What job do you do?	Che lavoro fai?
+q	To make a good impression.	fare bella figura
+q	To make a bad impression.	fare brutto figura
+q	To have breakfast.	fare la collazione
+q	They live in the country.	Vivono in campagna.
+q	I go, he goes	io vado, lui va
+q	We go	noi andiamo
+q	Usually	solito
+q	always	sempre
+q	never	mai
+q	sometimes	a volte
+q	often	spesso

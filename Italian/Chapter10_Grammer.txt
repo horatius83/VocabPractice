@@ -1,0 +1,13 @@
+v0.1	Chapter 10 Grammer
+v	I like the movies.	Mi piace il cinema.
+v	I don't like love stories.	Non mi piacciono le storie d'amore.
+v	You like the theater.	Ti piace il teatro.
+v	You (formal) don't like classical music concerts.	Non Le piacciono i concerti di musica classica.
+v	He likes pop music.	Gli piace la musica pop.
+v	She likes British bands.	Le piacciono i gruppi inglesi.
+v	We like traveling.	Ci piace viaggiare.
+v	We don't like expensive hotels.	Non ci piacciono gli alberghi costosi.
+v	Y'all like dancing.	Vi piace ballare.
+v	Y'all like Latin American dancing.	piacciono i balli latinoamericani.
+v	They like reading.	Gli piace leggere.
+v	They like contemporary novels.	Gli piacciono i rmanzi contemporanei.

@@ -1,0 +1,159 @@
+{
+    "name": ".\\Italian\\Chapter10_Grammer.json",
+    "vocab": [
+        {
+            "answer": "Gli piace leggere.",
+            "failed": 1,
+            "lastAsked": 1461001445.2102537,
+            "question": "What is the definition of \"They like reading.\"?",
+            "tried": 2
+        },
+        {
+            "answer": "I don't like love stories.",
+            "failed": 0,
+            "lastAsked": 1461001337.9642189,
+            "question": "Given the definition \"Non mi piacciono le storie d'amore.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "Gli piace la musica pop.",
+            "failed": 1,
+            "lastAsked": 1461001475.5975945,
+            "question": "What is the definition of \"He likes pop music.\"?",
+            "tried": 2
+        },
+        {
+            "answer": "Y'all like dancing.",
+            "failed": 0,
+            "lastAsked": 1461001437.7550795,
+            "question": "Given the definition \"Vi piace ballare.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "He likes pop music.",
+            "failed": 1,
+            "lastAsked": 1461001459.6221223,
+            "question": "Given the definition \"Gli piace la musica pop.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "They like contemporary novels.",
+            "failed": 0,
+            "lastAsked": 1461001306.0886638,
+            "question": "Given the definition \"Gli piacciono i rmanzi contemporanei.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "Y'all like Latin American dancing.",
+            "failed": 2,
+            "lastAsked": 1461001504.108801,
+            "question": "Given the definition \"piacciono i balli latinoamericani.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "We don't like expensive hotels.",
+            "failed": 0,
+            "lastAsked": 1461001372.2679684,
+            "question": "Given the definition \"Non ci piacciono gli alberghi costosi.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "Non ci piacciono gli alberghi costosi.",
+            "failed": 0,
+            "question": "What is the definition of \"We don't like expensive hotels.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Mi piace il cinema.",
+            "failed": 1,
+            "lastAsked": 1461001522.8447213,
+            "question": "What is the definition of \"I like the movies.\"?",
+            "tried": 1
+        },
+        {
+            "answer": "You like the theater.",
+            "failed": 0,
+            "question": "Given the definition \"Ti piace il teatro.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "You (formal) don't like classical music concerts.",
+            "failed": 0,
+            "question": "Given the definition \"Non Le piacciono i concerti di musica classica.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Non Le piacciono i concerti di musica classica.",
+            "failed": 0,
+            "question": "What is the definition of \"You (formal) don't like classical music concerts.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Ti piace il teatro.",
+            "failed": 0,
+            "question": "What is the definition of \"You like the theater.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Non mi piacciono le storie d'amore.",
+            "failed": 1,
+            "lastAsked": 1461001963.9283574,
+            "question": "What is the definition of \"I don't like love stories.\"?",
+            "tried": 1
+        },
+        {
+            "answer": "piacciono i balli latinoamericani.",
+            "failed": 0,
+            "question": "What is the definition of \"Y'all like Latin American dancing.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "We like traveling.",
+            "failed": 0,
+            "question": "Given the definition \"Ci piace viaggiare.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ci piace viaggiare.",
+            "failed": 0,
+            "question": "What is the definition of \"We like traveling.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I like the movies.",
+            "failed": 0,
+            "question": "Given the definition \"Mi piace il cinema.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Vi piace ballare.",
+            "failed": 0,
+            "question": "What is the definition of \"Y'all like dancing.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "She likes British bands.",
+            "failed": 0,
+            "question": "Given the definition \"Le piacciono i gruppi inglesi.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Le piacciono i gruppi inglesi.",
+            "failed": 0,
+            "question": "What is the definition of \"She likes British bands.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Gli piacciono i rmanzi contemporanei.",
+            "failed": 0,
+            "question": "What is the definition of \"They like contemporary novels.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "They like reading.",
+            "failed": 0,
+            "question": "Given the definition \"Gli piace leggere.\", what is the word?",
+            "tried": 0
+        }
+    ]
+}

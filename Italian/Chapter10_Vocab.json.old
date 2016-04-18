@@ -2,280 +2,326 @@
     "name": ".\\Italian\\Chapter10_Vocab.json",
     "vocab": [
         {
-            "answer": "mi",
-            "failed": 0,
-            "question": "What is the definition of \"to me\"?",
-            "tried": 0
+            "answer": "nuotare",
+            "failed": 1,
+            "lastAsked": 1460396543.8857393,
+            "question": "What is the definition of \"to swim\"?",
+            "tried": 2
         },
         {
-            "answer": "to me",
-            "failed": 0,
-            "question": "Given the definition \"mi\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "ti",
-            "failed": 0,
-            "question": "What is the definition of \"to you (informal)\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to you (informal)",
-            "failed": 0,
-            "question": "Given the definition \"ti\", what is the word?",
-            "tried": 0
+            "answer": "andare in barca a vela",
+            "failed": 2,
+            "lastAsked": 1460396555.2610834,
+            "question": "Given the definition \"to sail\", what is the word?",
+            "tried": 3
         },
         {
             "answer": "Le",
-            "failed": 0,
+            "failed": 1,
+            "lastAsked": 1460396549.2626681,
             "question": "What is the definition of \"to you (formal)\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to you (formal)",
-            "failed": 0,
-            "question": "Given the definition \"Le\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "gli",
-            "failed": 0,
-            "question": "What is the definition of \"to him\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to him",
-            "failed": 0,
-            "question": "Given the definition \"gli\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "le",
-            "failed": 0,
-            "question": "What is the definition of \"to her\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to her",
-            "failed": 0,
-            "question": "Given the definition \"le\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "ci",
-            "failed": 0,
-            "question": "What is the definition of \"to us\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to us",
-            "failed": 0,
-            "question": "Given the definition \"ci\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "vi",
-            "failed": 0,
-            "question": "What is the definition of \"to y'all\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to y'all",
-            "failed": 0,
-            "question": "Given the definition \"vi\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "gli",
-            "failed": 0,
-            "question": "What is the definition of \"to them\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to them",
-            "failed": 0,
-            "question": "Given the definition \"gli\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "preferire",
-            "failed": 0,
-            "question": "What is the definition of \"to prefer\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to prefer",
-            "failed": 0,
-            "question": "Given the definition \"preferire\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "nuotare",
-            "failed": 0,
-            "question": "What is the definition of \"to swim\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to swim",
-            "failed": 0,
-            "question": "Given the definition \"nuotare\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "giocare a tennis",
-            "failed": 0,
-            "question": "What is the definition of \"to play tennis\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to play tennis",
-            "failed": 0,
-            "question": "Given the definition \"giocare a tennis\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "andare in bicicletta",
-            "failed": 0,
-            "question": "What is the definition of \"to ride a bike\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to ride a bike",
-            "failed": 0,
-            "question": "Given the definition \"andare in bicicletta\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "guardare lo sport in televisione",
-            "failed": 0,
-            "question": "What is the definition of \"to watch sports on TV\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to watch sports on TV",
-            "failed": 0,
-            "question": "Given the definition \"guardare lo sport in televisione\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "la pallacanestro, il basket",
-            "failed": 0,
-            "question": "What is the definition of \"basketball\"?",
-            "tried": 0
+            "tried": 2
         },
         {
             "answer": "basketball",
             "failed": 0,
+            "lastAsked": 1460396520.1311314,
             "question": "Given the definition \"la pallacanestro, il basket\", what is the word?",
-            "tried": 0
+            "tried": 1
         },
         {
-            "answer": "il calcio",
-            "failed": 0,
-            "question": "What is the definition of \"soccer\"?",
-            "tried": 0
-        },
-        {
-            "answer": "soccer",
-            "failed": 0,
-            "question": "Given the definition \"il calcio\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "capire",
-            "failed": 0,
-            "question": "What is the definition of \"to understand\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to understand",
-            "failed": 0,
-            "question": "Given the definition \"capire\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "finire",
-            "failed": 0,
-            "question": "What is the definition of \"to finish, to end\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to finish, to end",
-            "failed": 0,
-            "question": "Given the definition \"finire\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "interests",
-            "failed": 0,
-            "question": "What is the definition of \"interessi\"?",
-            "tried": 0
-        },
-        {
-            "answer": "interessi",
-            "failed": 0,
-            "question": "Given the definition \"interests\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "a passion for",
-            "failed": 0,
-            "question": "What is the definition of \"la passione per\"?",
-            "tried": 0
-        },
-        {
-            "answer": "la passione per",
-            "failed": 0,
-            "question": "Given the definition \"a passion for\", what is the word?",
-            "tried": 0
+            "answer": "to him",
+            "failed": 1,
+            "lastAsked": 1460396547.3986547,
+            "question": "Given the definition \"gli\", what is the word?",
+            "tried": 2
         },
         {
             "answer": "to share",
             "failed": 0,
+            "lastAsked": 1460396523.283259,
             "question": "What is the definition of \"avere in comune\"?",
-            "tried": 0
+            "tried": 1
         },
         {
-            "answer": "avere in comune",
+            "answer": "to play tennis",
             "failed": 0,
-            "question": "Given the definition \"to share\", what is the word?",
-            "tried": 0
+            "lastAsked": 1460396534.18308,
+            "question": "Given the definition \"giocare a tennis\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "to understand",
+            "failed": 0,
+            "lastAsked": 1460396531.1066823,
+            "question": "Given the definition \"capire\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "to prefer",
+            "failed": 0,
+            "lastAsked": 1460396625.9812953,
+            "question": "Given the definition \"preferire\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "finire",
+            "failed": 0,
+            "lastAsked": 1460396557.3822923,
+            "question": "What is the definition of \"to finish, to end\"?",
+            "tried": 1
+        },
+        {
+            "answer": "soccer",
+            "failed": 2,
+            "lastAsked": 1460396673.7517374,
+            "question": "Given the definition \"il calcio\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "guardare lo sport in televisione",
+            "failed": 1,
+            "lastAsked": 1460396665.319935,
+            "question": "What is the definition of \"to watch sports on TV\"?",
+            "tried": 2
+        },
+        {
+            "answer": "ti",
+            "failed": 1,
+            "lastAsked": 1460396668.4557395,
+            "question": "What is the definition of \"to you (informal)\"?",
+            "tried": 2
+        },
+        {
+            "answer": "gli",
+            "failed": 2,
+            "lastAsked": 1460396670.7923348,
+            "question": "What is the definition of \"to them\"?",
+            "tried": 3
         },
         {
             "answer": "cross-country skiing",
-            "failed": 0,
+            "failed": 2,
+            "lastAsked": 1460396678.4235845,
             "question": "What is the definition of \"sci di fondo\"?",
-            "tried": 0
+            "tried": 3
         },
         {
-            "answer": "sci di fondo",
-            "failed": 0,
-            "question": "Given the definition \"cross-country skiing\", what is the word?",
-            "tried": 0
+            "answer": "giocare a tennis",
+            "failed": 3,
+            "lastAsked": 1460396689.387984,
+            "question": "What is the definition of \"to play tennis\"?",
+            "tried": 4
         },
         {
-            "answer": "Alpine skiing",
+            "answer": "to y'all",
             "failed": 0,
-            "question": "What is the definition of \"sci alpino\"?",
-            "tried": 0
+            "lastAsked": 1460396695.9155927,
+            "question": "Given the definition \"vi\", what is the word?",
+            "tried": 1
         },
         {
-            "answer": "sci alpino",
+            "answer": "to you (formal)",
             "failed": 0,
-            "question": "Given the definition \"Alpine skiing\", what is the word?",
-            "tried": 0
+            "lastAsked": 1460396707.0875573,
+            "question": "Given the definition \"Le\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "avere in comune",
+            "failed": 1,
+            "lastAsked": 1460396753.4742055,
+            "question": "Given the definition \"to share\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "capire",
+            "failed": 1,
+            "lastAsked": 1460396743.3864305,
+            "question": "What is the definition of \"to understand\"?",
+            "tried": 2
         },
         {
             "answer": "to sail",
             "failed": 0,
+            "lastAsked": 1460396720.1355598,
             "question": "What is the definition of \"andare in barca a vela\"?",
-            "tried": 0
+            "tried": 1
         },
         {
-            "answer": "andare in barca a vela",
+            "answer": "il calcio",
+            "failed": 2,
+            "lastAsked": 1460396764.8541327,
+            "question": "What is the definition of \"soccer\"?",
+            "tried": 3
+        },
+        {
+            "answer": "mi",
+            "failed": 1,
+            "lastAsked": 1460396745.7058942,
+            "question": "What is the definition of \"to me\"?",
+            "tried": 2
+        },
+        {
+            "answer": "to them",
             "failed": 0,
-            "question": "Given the definition \"to sail\", what is the word?",
-            "tried": 0
+            "lastAsked": 1460396734.6991556,
+            "question": "Given the definition \"gli\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "interessi",
+            "failed": 1,
+            "lastAsked": 1460396899.24093,
+            "question": "Given the definition \"interests\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "sci di fondo",
+            "failed": 2,
+            "lastAsked": 1460396938.8721256,
+            "question": "Given the definition \"cross-country skiing\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "to her",
+            "failed": 1,
+            "lastAsked": 1460396834.5857253,
+            "question": "Given the definition \"le\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "a passion for",
+            "failed": 0,
+            "lastAsked": 1460396825.0780945,
+            "question": "What is the definition of \"la passione per\"?",
+            "tried": 1
+        },
+        {
+            "answer": "la pallacanestro, il basket",
+            "failed": 3,
+            "lastAsked": 1460396945.219768,
+            "question": "What is the definition of \"basketball\"?",
+            "tried": 4
+        },
+        {
+            "answer": "interests",
+            "failed": 0,
+            "lastAsked": 1460396767.5265045,
+            "question": "What is the definition of \"interessi\"?",
+            "tried": 1
+        },
+        {
+            "answer": "to swim",
+            "failed": 0,
+            "lastAsked": 1460396819.6528008,
+            "question": "Given the definition \"nuotare\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "preferire",
+            "failed": 1,
+            "lastAsked": 1460396830.9498641,
+            "question": "What is the definition of \"to prefer\"?",
+            "tried": 2
+        },
+        {
+            "answer": "to me",
+            "failed": 0,
+            "lastAsked": 1460396951.0032341,
+            "question": "Given the definition \"mi\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "vi",
+            "failed": 0,
+            "lastAsked": 1460396952.7722256,
+            "question": "What is the definition of \"to y'all\"?",
+            "tried": 1
+        },
+        {
+            "answer": "le",
+            "failed": 0,
+            "lastAsked": 1460396980.8714232,
+            "question": "What is the definition of \"to her\"?",
+            "tried": 1
+        },
+        {
+            "answer": "sci alpino",
+            "failed": 1,
+            "lastAsked": 1460397012.0705903,
+            "question": "Given the definition \"Alpine skiing\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "la passione per",
+            "failed": 2,
+            "lastAsked": 1460397022.5593548,
+            "question": "Given the definition \"a passion for\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "gli",
+            "failed": 1,
+            "lastAsked": 1460397003.1552508,
+            "question": "What is the definition of \"to him\"?",
+            "tried": 2
+        },
+        {
+            "answer": "to us",
+            "failed": 1,
+            "lastAsked": 1460397005.2115355,
+            "question": "Given the definition \"ci\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "ci",
+            "failed": 2,
+            "lastAsked": 1460397018.7067115,
+            "question": "What is the definition of \"to us\"?",
+            "tried": 3
+        },
+        {
+            "answer": "to finish, to end",
+            "failed": 0,
+            "lastAsked": 1460397040.3026867,
+            "question": "Given the definition \"finire\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "Alpine skiing",
+            "failed": 0,
+            "lastAsked": 1460397027.1985908,
+            "question": "What is the definition of \"sci alpino\"?",
+            "tried": 1
+        },
+        {
+            "answer": "to watch sports on TV",
+            "failed": 0,
+            "lastAsked": 1460397034.959067,
+            "question": "Given the definition \"guardare lo sport in televisione\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "to ride a bike",
+            "failed": 0,
+            "lastAsked": 1460397052.970522,
+            "question": "Given the definition \"andare in bicicletta\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "andare in bicicletta",
+            "failed": 2,
+            "lastAsked": 1460397100.8825872,
+            "question": "What is the definition of \"to ride a bike\"?",
+            "tried": 3
+        },
+        {
+            "answer": "to you (informal)",
+            "failed": 1,
+            "lastAsked": 1460397081.2145352,
+            "question": "Given the definition \"ti\", what is the word?",
+            "tried": 2
         }
     ]
 }

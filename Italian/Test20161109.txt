@@ -1,0 +1,56 @@
+v0.1    2016 11 09 Test
+q   How are you? (formal)   Come sta?
+q   How are you? (informal) Come stai?
+q   Not too bad.    Cosi cosi, non c'e male
+q   What is your name?  Come si chiama?
+q   The film    il film
+q   The films   i film
+q   The auto    la automobile
+q   The autos   le automobili
+q   The coffee  il caffe
+q   A coffee    un caffe
+q   2 coffees   due caffe
+q   A writer    uno scrittore
+q   A zero  uno zero
+q   A tree  un abero
+q   2 trees due aberi
+q   The trees   gli aberi
+q   A friend    un amico
+q   2 friends   due amici
+q   The eye l'occhio
+q   2 eyes  due ochi
+q   The eccelent and good book, the interesting and elegant men.    l'eccelente e buono libro, interessente e elegenti uomi.
+q   The tall woman is English.  la donna alta inglese.
+q   THe short women are French. Le donne piccole sono francese.
+q   My son lives by himself.    mio figlio abita in sole.
+q   The dress looks good on you.    Il vestito ti sta bene.
+q   He is my husband.   Lui e' mio marito.
+q   Where are you from? di dove sei?
+q   The party is at the Club.   La festa e' alle club.
+q   The sky is blue.    il celo e' blu.
+q   The grass is green. l'erba e' verde.
+q   The door is made of wood.   La porta e' fatta di legna.
+q   Are there elephants in the zoo. Ci sono elefante nello zoo.
+q   There is a student in the classroom.    C'e uno studente in classe.
+q   There is not bread on the table.    Non c'e panne sul tavolo.
+q   What a beautiful song!  che bella consone.
+q   What day is today.  Che giorno e' oggi.
+q   Who are those boys? Chi sono quei ragazzi?
+q   Who are those girls?    Queli ragazze?
+q   How many figli do you have? Quand figli hai?
+q   This book.  Questo libro.
+q   This child. Questo bambino.
+q   These coffees.  Questi caffe.
+q   Why?    Perche?
+q   Because.    Perche.
+q   On Mondays we have Italian lessons. lunedi abbiamo lezione di italiana.
+q   We are in the month of November.    Siamo in il novembre.
+q   July    luglio
+q   May maggio
+q   June    jiugno
+q   December    dicembre
+q   February    febraio
+q   Tuesday martedi
+q   Thursday    marcoledi
+q   A hundred dollars   centro dollori
+q   A thousand euros.   mille euro.

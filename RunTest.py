@@ -8,7 +8,6 @@
 import sys
 from FileManagement import OpenJsonFile, ProcessJsonObj, OutputJsonFile
 from Vocab import Quiz, EightsQuizFunction
-from Parsing import ConvertFile
 
 def RunTest(filename):
     print("Opening file: {0}".format(filename))

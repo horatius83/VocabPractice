@@ -2,6 +2,7 @@
     "name": ".\\Italian\\Test20161109.json",
     "vocab": [
         {
+<<<<<<< HEAD
             "alternates": [],
             "answer": "io canto",
             "failed": 0,
@@ -159,16 +160,198 @@
             "failed": 0,
             "question": "Who are those girls?",
             "tried": 0
+=======
+            "answer": "parliamo italiano",
+            "failed": 0,
+            "lastAsked": 1480200260.161323,
+            "question": "We speak Italian",
+            "tried": 1
+        },
+        {
+            "answer": "Oggi e' undici di novembre.",
+            "failed": 1,
+            "lastAsked": 1480200347.4402728,
+            "question": "Today is the 11th of November.",
+            "tried": 2
+        },
+        {
+            "answer": "due ochi",
+            "failed": 0,
+            "lastAsked": 1480200249.7782807,
+            "question": "2 eyes",
+            "tried": 1
+        },
+        {
+            "answer": "io canto",
+            "failed": 1,
+            "lastAsked": 1480200374.814191,
+            "question": "I sing",
+            "tried": 2
+        },
+        {
+            "answer": "Questo bambino.",
+            "failed": 1,
+            "lastAsked": 1480200359.2515514,
+            "question": "This child.",
+            "tried": 2
+        },
+        {
+            "answer": "Sono le tre.",
+            "failed": 1,
+            "lastAsked": 1480200365.1448147,
+            "question": "It is 3 o'clock.",
+            "tried": 2
+        },
+        {
+            "answer": "uno scrittore",
+            "failed": 1,
+            "lastAsked": 1480200352.4145448,
+            "question": "A writer",
+            "tried": 2
+        },
+        {
+            "answer": "Cosi cosi, non c'e male",
+            "failed": 1,
+            "lastAsked": 1480200372.2029076,
+            "question": "Not too bad.",
+            "tried": 2
+        },
+        {
+            "answer": "il film",
+            "failed": 1,
+            "lastAsked": 1480200518.4160306,
+            "question": "The film",
+            "tried": 2
+        },
+        {
+            "answer": "secundo",
+            "failed": 2,
+            "lastAsked": 1480200521.218307,
+            "question": "Second",
+            "tried": 3
+        },
+        {
+            "answer": "la automobile",
+            "failed": 0,
+            "lastAsked": 1480200422.999684,
+            "question": "The auto",
+            "tried": 1
+        },
+        {
+            "answer": "fare un viaggio.",
+            "failed": 1,
+            "lastAsked": 1480200506.0627718,
+            "question": "To take a trip.",
+            "tried": 2
+        },
+        {
+            "answer": "Ci sono elefante nello zoo.",
+            "failed": 1,
+            "lastAsked": 1480200484.0526803,
+            "question": "Are there elephants in the zoo.",
+            "tried": 2
+        },
+        {
+            "answer": "Questo libro.",
+            "failed": 0,
+            "lastAsked": 1480200388.1672063,
+            "question": "This book.",
+            "tried": 1
+        },
+        {
+            "answer": "Che tempo fa?",
+            "failed": 0,
+            "lastAsked": 1480200382.902829,
+            "question": "How is the weather?",
+            "tried": 1
+        },
+        {
+            "answer": "Queli ragazze?",
+            "failed": 1,
+            "lastAsked": 1480200514.6720018,
+            "question": "Who are those girls?",
+            "tried": 2
+        },
+        {
+            "answer": "Il vestito ti sta bene.",
+            "failed": 1,
+            "lastAsked": 1480200746.561764,
+            "question": "The dress looks good on you.",
+            "tried": 2
+        },
+        {
+            "answer": "Quand figli hai?",
+            "failed": 2,
+            "lastAsked": 1480200871.3619576,
+            "question": "How many figli do you have?",
+            "tried": 3
+        },
+        {
+            "answer": "prendo una tazza di te'",
+            "failed": 2,
+            "lastAsked": 1480200843.000724,
+            "question": "You take a cup of tea.",
+            "tried": 3
+        },
+        {
+            "answer": "l'eccelente e buono libro, interessente e elegenti uomi.",
+            "failed": 2,
+            "lastAsked": 1480200996.270532,
+            "question": "The eccelent and good book, the interesting and elegant men.",
+            "tried": 3
+        },
+        {
+            "answer": "marcoledi",
+            "failed": 1,
+            "lastAsked": 1480200834.3394372,
+            "question": "Thursday",
+            "tried": 2
+        },
+        {
+            "answer": "vediamo",
+            "failed": 0,
+            "lastAsked": 1480200628.6676426,
+            "question": "We see",
+            "tried": 1
+        },
+        {
+            "answer": "il caffe",
+            "failed": 0,
+            "lastAsked": 1480200688.266119,
+            "question": "The coffee",
+            "tried": 1
+        },
+        {
+            "answer": "un caffe",
+            "failed": 0,
+            "lastAsked": 1480200685.1634343,
+            "question": "A coffee",
+            "tried": 1
+        },
+        {
+            "answer": "fare il compito",
+            "failed": 2,
+            "lastAsked": 1480201219.953437,
+            "question": "To do homework.",
+            "tried": 2
+>>>>>>> origin/master
         },
         {
             "answer": "Che giorno e' oggi.",
             "failed": 0,
+<<<<<<< HEAD
             "question": "What day is today.",
             "tried": 0
+=======
+            "lastAsked": 1480201108.8446057,
+            "question": "How are you? (formal)",
+            "tried": 1
+>>>>>>> origin/master
         },
         {
             "answer": "centro dollori",
             "failed": 1,
+<<<<<<< HEAD
             "lastAsked": 1480443605.6844468,
             "question": "A hundred dollars",
             "tried": 1
@@ -213,15 +396,61 @@
             "answer": "fare collazione",
             "failed": 0,
             "question": "To have breakfast.",
-            "tried": 0
+=======
+            "lastAsked": 1480201213.4879637,
+            "question": "A hundred dollars",
+            "tried": 2
         },
         {
-            "answer": "l'erba e' verde.",
+            "answer": "fare collazione",
+            "failed": 1,
+            "lastAsked": 1480201135.4445114,
+            "question": "To have breakfast.",
+            "tried": 2
+        },
+        {
+            "answer": "C'e uno studente in classe.",
+            "failed": 1,
+            "lastAsked": 1480201124.2725613,
+            "question": "There is a student in the classroom.",
+            "tried": 2
+        },
+        {
+            "answer": "fa brutto tempo",
+            "failed": 2,
+            "lastAsked": 1480201155.5105543,
+            "question": "The weather is bad.",
+            "tried": 2
+        },
+        {
+            "answer": "le automobili",
+            "failed": 2,
+            "lastAsked": 1480201210.0612223,
+            "question": "The autos",
+            "tried": 2
+        },
+        {
+            "answer": "Questi caffe.",
+            "failed": 1,
+            "lastAsked": 1480201132.0668366,
+            "question": "These coffees.",
+            "tried": 2
+        },
+        {
+            "answer": "di dove sei?",
             "failed": 0,
-            "question": "The grass is green.",
+            "question": "Where are you from?",
+>>>>>>> origin/master
             "tried": 0
         },
         {
+            "answer": "uno zero",
+            "failed": 0,
+            "question": "A zero",
+            "tried": 0
+        },
+        {
+<<<<<<< HEAD
             "answer": "l'eccelente e buono libro, interessente e elegenti uomi.",
             "failed": 0,
             "question": "The eccelent and good book, the interesting and elegant men.",
@@ -411,6 +640,193 @@
             "lastAsked": 1479493708.4689772,
             "question": "The trees",
             "tried": 3
+=======
+            "answer": "due amici",
+            "failed": 0,
+            "question": "2 friends",
+            "tried": 0
+        },
+        {
+            "answer": "Come stai?",
+            "failed": 0,
+            "question": "How are you? (informal)",
+            "tried": 0
+        },
+        {
+            "answer": "Perche?",
+            "failed": 0,
+            "question": "Why?",
+            "tried": 0
+        },
+        {
+            "answer": "e presto",
+            "failed": 0,
+            "question": "It is early.",
+            "tried": 0
+        },
+        {
+            "answer": "che bella consone.",
+            "failed": 0,
+            "question": "What a beautiful song!",
+            "tried": 0
+        },
+        {
+            "answer": "La festa e' alle club.",
+            "failed": 0,
+            "question": "The party is at the Club.",
+            "tried": 0
+        },
+        {
+            "answer": "due caffe",
+            "failed": 0,
+            "question": "2 coffees",
+            "tried": 0
+        },
+        {
+            "answer": "Lui e' mio marito.",
+            "failed": 0,
+            "question": "He is my husband.",
+            "tried": 0
+        },
+        {
+            "answer": "luglio",
+            "failed": 0,
+            "question": "July",
+            "tried": 0
+        },
+        {
+            "answer": "febraio",
+            "failed": 0,
+            "question": "February",
+            "tried": 0
+        },
+        {
+            "answer": "quinto",
+            "failed": 0,
+            "question": "Fifth",
+            "tried": 0
+        },
+        {
+            "answer": "lunedi abbiamo lezione di italiana.",
+            "failed": 0,
+            "question": "On Mondays we have Italian lessons.",
+            "tried": 0
+        },
+        {
+            "answer": "la donna alta inglese.",
+            "failed": 0,
+            "question": "The tall woman is English.",
+            "tried": 0
+        },
+        {
+            "answer": "deccino",
+            "failed": 0,
+            "question": "Tenth",
+            "tried": 0
+        },
+        {
+            "answer": "un amico",
+            "failed": 0,
+            "question": "A friend",
+            "tried": 0
+        },
+        {
+            "answer": "martedi",
+            "failed": 0,
+            "question": "Tuesday",
+            "tried": 0
+        },
+        {
+            "answer": "nonno",
+            "failed": 0,
+            "question": "Ninth",
+            "tried": 0
+        },
+        {
+            "answer": "fare domanda",
+            "failed": 0,
+            "question": "To ask a question.",
+            "tried": 0
+        },
+        {
+            "answer": "Come si chiama?",
+            "failed": 0,
+            "question": "What is your name?",
+            "tried": 0
+        },
+        {
+            "answer": "dicembre",
+            "failed": 0,
+            "question": "December",
+            "tried": 0
+        },
+        {
+            "answer": "l'erba e' verde.",
+            "failed": 0,
+            "question": "The grass is green.",
+            "tried": 0
+        },
+        {
+            "answer": "Che giorno e' oggi.",
+            "failed": 0,
+            "question": "What day is today.",
+            "tried": 0
+        },
+        {
+            "answer": "Perche.",
+            "failed": 0,
+            "question": "Because.",
+            "tried": 0
+        },
+        {
+            "answer": "Siamo in il novembre.",
+            "failed": 0,
+            "question": "We are in the month of November.",
+            "tried": 0
+        },
+        {
+            "answer": "primo",
+            "failed": 0,
+            "question": "First",
+            "tried": 0
+        },
+        {
+            "answer": "Chi sono quei ragazzi?",
+            "failed": 0,
+            "question": "Who are those boys?",
+            "tried": 0
+        },
+        {
+            "answer": "maggio",
+            "failed": 0,
+            "question": "May",
+            "tried": 0
+        },
+        {
+            "answer": "un abero",
+            "failed": 0,
+            "question": "A tree",
+            "tried": 0
+        },
+        {
+            "answer": "jiugno",
+            "failed": 0,
+            "question": "June",
+            "tried": 0
+        },
+        {
+            "answer": "Sono le venti due ora e trenta quatro minuti.",
+            "failed": 1,
+            "lastAsked": 1479494937.23832,
+            "question": "It is 22:00 and 34 minutes.",
+            "tried": 1
+        },
+        {
+            "answer": "fare un bagno",
+            "failed": 0,
+            "question": "To take a bath.",
+            "tried": 0
+>>>>>>> origin/master
         },
         {
             "answer": "Chi sono quei ragazzi?",
@@ -420,6 +836,7 @@
             "tried": 3
         },
         {
+<<<<<<< HEAD
             "answer": "la automobile",
             "failed": 1,
             "lastAsked": 1480443864.012712,
@@ -557,6 +974,129 @@
             "failed": 0,
             "lastAsked": 1480444119.4194992,
             "question": "Why?",
+=======
+            "answer": "fare un spessa",
+            "failed": 0,
+            "question": "To go shopping.",
+            "tried": 0
+        },
+        {
+            "answer": "i film",
+            "failed": 0,
+            "question": "The films",
+            "tried": 0
+        },
+        {
+            "answer": "fare la valigia",
+            "failed": 3,
+            "lastAsked": 1479494661.0856261,
+            "question": "To pack the suitcase.",
+            "tried": 4
+        },
+        {
+            "answer": "Sono sette in puto.",
+            "failed": 3,
+            "lastAsked": 1479493716.2567463,
+            "question": "It is 7 o'clock sharp.",
+            "tried": 4
+        },
+        {
+            "answer": "il celo e' blu.",
+            "failed": 2,
+            "lastAsked": 1479493687.7483628,
+            "question": "The sky is blue.",
+            "tried": 3
+        },
+        {
+            "answer": "gli aberi",
+            "failed": 2,
+            "lastAsked": 1479493708.4689772,
+            "question": "The trees",
+            "tried": 3
+        },
+        {
+            "answer": "La porta e' fatta di legna.",
+            "failed": 2,
+            "lastAsked": 1479494613.1739154,
+            "question": "The door is made of wood.",
+            "tried": 3
+        },
+        {
+            "answer": "Le donne piccole sono francese.",
+            "failed": 2,
+            "lastAsked": 1479494435.0400815,
+            "question": "THe short women are French.",
+            "tried": 3
+        },
+        {
+            "answer": "mille euro.",
+            "failed": 1,
+            "lastAsked": 1479493675.2288823,
+            "question": "A thousand euros.",
+            "tried": 2
+        },
+        {
+            "answer": "Che ora",
+            "failed": 1,
+            "lastAsked": 1479493645.7854946,
+            "question": "What time is it?",
+            "tried": 2
+        },
+        {
+            "answer": "l'occhio",
+            "failed": 1,
+            "lastAsked": 1479493681.0142393,
+            "question": "The eye",
+            "tried": 2
+        },
+        {
+            "answer": "Parlate tedesco",
+            "failed": 1,
+            "lastAsked": 1479493628.5900881,
+            "question": "You all speak German.",
+            "tried": 2
+        },
+        {
+            "answer": "a mezzogiorno.",
+            "failed": 1,
+            "lastAsked": 1479494420.5320187,
+            "question": "It is noon.",
+            "tried": 2
+        },
+        {
+            "answer": "Non c'e panne sul tavolo.",
+            "failed": 1,
+            "lastAsked": 1479493662.469334,
+            "question": "There is not bread on the table.",
+            "tried": 2
+        },
+        {
+            "answer": "mio figlio abita in sole.",
+            "failed": 1,
+            "lastAsked": 1479494275.454437,
+            "question": "My son lives by himself.",
+            "tried": 2
+        },
+        {
+            "answer": "e tardi",
+            "failed": 0,
+            "lastAsked": 1479494252.5301626,
+            "question": "It is late.",
+            "tried": 1
+        },
+        {
+            "answer": "e' mezzonotte",
+            "failed": 0,
+            "lastAsked": 1479494242.794547,
+            "question": "It is midnight.",
+            "tried": 1
+        },
+        {
+            "answer": "due mille cinque cento",
+            "failed": 0,
+            "lastAsked": 1479494048.6438951,
+            "question": "Two thaousand five hundred.",
+>>>>>>> origin/master
             "tried": 1
         }
     ]

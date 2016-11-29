@@ -4,21 +4,24 @@ from FileManagement import OutputJsonFile, ProcessJsonObj, OpenJsonFile
 from Utility import GetTime, CutIntoLengths, ShuffleList, Clear
 from itertools import islice
 
-def AskQuestion(question,answer):
+def AskQuestion(question,answer, alternateAnswers):
     """Ask the question, compare to answer, if doesn't match ask for verification"""
     userAnswer = input("Question: {0} ".format(question))
     exitTokens = ['X', 'EXIT', 'Q', 'QUIT']
     if(userAnswer.upper() in exitTokens and userAnswer not in exitTokens):
-        return None
-    if(userAnswer != answer):
+        return (None, alternateAnswers)
+    # Get the alternate answers
+    if(userAnswer not in ([answer] + alternateAnswers)):
         if userAnswer == '':
             print('Answer was: {0}'.format(answer))
             _ = input('Press any key to continue...')
-            return False
+            return (False, alternateAnswers)
         check = input("Answer was     : {0}\nYour answer was: {1}\nIs this correct? ".format(answer,userAnswer))
         if(check.upper() not in ['Y','YES', 'T', 'TRUE']):
-            return False
-    return True
+            return (False, alternateAnswers)
+        else:
+            return (True, [userAnswer] + alternateAnswers)
+    return (True, alternateAnswers)
 
 def EightsQuizFunction(vocabWords):
     """Cut the quiz into eights, then quiz over each section until 100% accuracy"""
@@ -52,9 +55,10 @@ def EightsQuizFunction(vocabWords):
             print('{1} of {2} {0}%'.format(100.0 * count / lengthOfSections, count, lengthOfSections))
             for question in section:
                 q = question["question"]
+                alternateAnswers = [] if 'alternates' not in question else question['alternates']
                 if(correctWords[q] == True):
                     continue
-                result = AskQuestion(q, question['answer'])
+                (result, newAlternates) = AskQuestion(q, question['answer'], alternateAnswers)
                 if q not in session.keys():
                     session[q] = {'tried' : 0, 'failed' : 0}
                 if result == None:
@@ -66,12 +70,13 @@ def EightsQuizFunction(vocabWords):
                     while result == False:
                         if result != "":
                             Clear()
-                        result = AskQuestion(q,question['answer'])
+                        (result, newAlternates) = AskQuestion(q,question['answer'], alternateAnswers)
                 else:
                     correctWords[q] = True
                 question['tried'] += 1
                 session[q]['tried'] += 1
                 question['lastAsked'] = GetTime()
+                question['alternates'] = newAlternates
     return (session, vocabWords)
             
 def StandardQuizFunction(vocabWords):
@@ -81,13 +86,18 @@ def StandardQuizFunction(vocabWords):
         question = word['question']
         answer = word['answer']
         word['tried'] += 1
+        # Get any alternate answers, that is answers that are not exact but were considered acceptable
+        alternateAnswers = [] if 'alternates' not in word else word['alternates'] 
         userAnswer = input("Question: {0} ".format(question))
         if(userAnswer.upper() in ['X', 'EXIT', 'Q', 'QUIT']):
             break
-        if(userAnswer != answer):
+        if(userAnswer != answer and userAnswer not in alternateAnswers):
             check = input("Answer was: {0}\nYour answer was: {1}\nIs this correct? ".format(answer,userAnswer))
             if(check.upper() in ['Y','YES', 'T', 'TRUE']):
-                pass
+                try:
+                    word['alternates'].append(userAnswer)
+                except:
+                    word['alternates'] = [userAnswer]
             else:
                 word['failed'] += 1
     return (vocabWords, vocabWords)

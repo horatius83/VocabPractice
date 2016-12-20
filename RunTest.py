@@ -9,6 +9,7 @@ import sys
 from FileManagement import OpenJsonFile, ProcessJsonObj, OutputJsonFile
 from Vocab import Quiz, EightsQuizFunction
 from Parsing import ConvertFile
+from os.path import isfile
 
 def RunTest(filename):
     print("Opening file: {0}".format(filename))
@@ -31,7 +32,8 @@ def RunTest(filename):
 #file = './Genki2/Chapter15.json'
 #file = './Italian/Italian1.json'
 #file = './Italian/Italian2.json'
-defaultFile = './Italian/Italian3.json'
+#defaultFile = './Italian/Italian3.json'
+recent_files = './recent_files.txt'
 
 if len(sys.argv) > 1:
     for arg in sys.argv[1:]:
@@ -40,4 +42,22 @@ if len(sys.argv) > 1:
         elif arg.endswith('.json'):
             RunTest(arg)
 else:
-    RunTest(defaultFile)
+    #RunTest(defaultFile)
+    files = []
+    if isfile(recent_files): 
+        with open(recent_files,'r') as in_data:
+            files = [x for x in in_data.read().split('\n') if x.strip() is not '']
+            print('--==((Recent Files))==--')
+            for (selection, file) in enumerate(files):
+                print('({0}): {1}'.format(selection, file))
+    selection = input('Enter Selection: ')
+    try:
+        selection_as_number = int(selection)
+        RunTest(files[selection_as_number])
+    except:
+        RunTest(selection)
+        files = [selection] + files[:9]
+        with open(recent_files,'w') as out_data:
+            for file in files:
+                out_data.write(file + '\n')
+    

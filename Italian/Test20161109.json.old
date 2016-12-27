@@ -7,33 +7,87 @@
             ],
             "answer": "che bella consone.",
             "failed": 9,
-            "lastAsked": 1482173095.382934,
+            "lastAsked": 1482264180.9652078,
             "question": "What a beautiful song!",
+            "tried": 14
+        },
+        {
+            "alternates": [],
+            "answer": "fare il compito",
+            "failed": 9,
+            "lastAsked": 1482264254.7362566,
+            "question": "To do homework.",
+            "tried": 14
+        },
+        {
+            "alternates": [],
+            "answer": "fare la valigia",
+            "failed": 9,
+            "lastAsked": 1482264251.0772083,
+            "question": "To pack the suitcase.",
+            "tried": 14
+        },
+        {
+            "alternates": [
+                "e' presto"
+            ],
+            "answer": "e presto",
+            "failed": 8,
+            "lastAsked": 1482264241.8042643,
+            "question": "It is early.",
             "tried": 13
         },
         {
             "alternates": [],
             "answer": "deccino",
             "failed": 7,
-            "lastAsked": 1482173063.3499844,
+            "lastAsked": 1482264184.789488,
             "question": "Tenth",
+            "tried": 12
+        },
+        {
+            "alternates": [],
+            "answer": "fa brutto tempo",
+            "failed": 9,
+            "lastAsked": 1482264246.788821,
+            "question": "The weather is bad.",
+            "tried": 15
+        },
+        {
+            "alternates": [],
+            "answer": "l'occhio",
+            "failed": 7,
+            "lastAsked": 1482264257.167904,
+            "question": "The eye",
+            "tried": 12
+        },
+        {
+            "alternates": [],
+            "answer": "e' mezzonotte",
+            "failed": 6,
+            "lastAsked": 1482264234.9008882,
+            "question": "It is midnight.",
             "tried": 11
         },
         {
-            "alternates": [],
-            "answer": "fare la valigia",
-            "failed": 8,
-            "lastAsked": 1482173106.342197,
-            "question": "To pack the suitcase.",
-            "tried": 12
+            "alternates": [
+                "il celo e' blu"
+            ],
+            "answer": "il celo e' blu.",
+            "failed": 6,
+            "lastAsked": 1482264313.9753006,
+            "question": "The sky is blue.",
+            "tried": 11
         },
         {
-            "alternates": [],
-            "answer": "fare il compito",
-            "failed": 8,
-            "lastAsked": 1482173110.0781252,
-            "question": "To do homework.",
-            "tried": 12
+            "alternates": [
+                "sono sette in punto"
+            ],
+            "answer": "Sono sette in puto.",
+            "failed": 6,
+            "lastAsked": 1482264279.777254,
+            "question": "It is 7 o'clock sharp.",
+            "tried": 11
         },
         {
             "alternates": [
@@ -42,53 +96,17 @@
             ],
             "answer": "La porta e' fatta di legna.",
             "failed": 6,
-            "lastAsked": 1482173016.5785487,
+            "lastAsked": 1482264267.0482347,
             "question": "The door is made of wood.",
-            "tried": 10
-        },
-        {
-            "alternates": [],
-            "answer": "fa brutto tempo",
-            "failed": 8,
-            "lastAsked": 1482173085.5223308,
-            "question": "The weather is bad.",
-            "tried": 13
-        },
-        {
-            "alternates": [
-                "sono sette in punto"
-            ],
-            "answer": "Sono sette in puto.",
-            "failed": 6,
-            "lastAsked": 1482173101.4381175,
-            "question": "It is 7 o'clock sharp.",
-            "tried": 10
-        },
-        {
-            "alternates": [],
-            "answer": "l'occhio",
-            "failed": 6,
-            "lastAsked": 1482173088.6548803,
-            "question": "The eye",
-            "tried": 10
-        },
-        {
-            "alternates": [
-                "e' presto"
-            ],
-            "answer": "e presto",
-            "failed": 7,
-            "lastAsked": 1482173291.136011,
-            "question": "It is early.",
             "tried": 11
         },
         {
             "alternates": [],
             "answer": "fare un spessa",
-            "failed": 6,
-            "lastAsked": 1482173272.653682,
+            "failed": 7,
+            "lastAsked": 1482264355.30682,
             "question": "To go shopping.",
-            "tried": 10
+            "tried": 12
         },
         {
             "alternates": [
@@ -96,75 +114,49 @@
             ],
             "answer": "prendo una tazza di te'",
             "failed": 4,
-            "lastAsked": 1482173279.1688042,
+            "lastAsked": 1482264344.026291,
             "question": "You take a cup of tea.",
-            "tried": 7
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "di dove sei?",
+            "failed": 5,
+            "lastAsked": 1482264350.994281,
+            "question": "Where are you from?",
+            "tried": 10
+        },
+        {
+            "alternates": [
+                "l'eccelente e buono libro, interessente e elegenti uomi",
+                "l'eccelente e bueno libro, interessente e elegente uomi"
+            ],
+            "answer": "l'eccelente e buono libro, interessente e elegenti uomi.",
+            "failed": 5,
+            "lastAsked": 1482264337.4669018,
+            "question": "The eccelent and good book, the interesting and elegant men.",
+            "tried": 10
         },
         {
             "alternates": [
                 "la donna alta inglese"
             ],
             "answer": "la donna alta inglese.",
-            "failed": 5,
-            "lastAsked": 1482173261.2290103,
+            "failed": 6,
+            "lastAsked": 1482264363.038047,
             "question": "The tall woman is English.",
-            "tried": 9
+            "tried": 11
         },
         {
-            "alternates": [],
-            "answer": "luglio",
+            "alternates": [
+                "che ora",
+                "Che ora?",
+                "che ora?"
+            ],
+            "answer": "Che ora",
             "failed": 4,
-            "lastAsked": 1482173233.248269,
-            "question": "July",
-            "tried": 8
-        },
-        {
-            "alternates": [
-                "il celo e' blu"
-            ],
-            "answer": "il celo e' blu.",
-            "failed": 6,
-            "lastAsked": 1482173287.136361,
-            "question": "The sky is blue.",
-            "tried": 10
-        },
-        {
-            "alternates": [
-                "queli ragazze?"
-            ],
-            "answer": "Queli ragazze?",
-            "failed": 4,
-            "lastAsked": 1482173166.3655972,
-            "question": "Who are those girls?",
-            "tried": 8
-        },
-        {
-            "alternates": [],
-            "answer": "e' mezzonotte",
-            "failed": 6,
-            "lastAsked": 1482173283.0404844,
-            "question": "It is midnight.",
-            "tried": 10
-        },
-        {
-            "alternates": [
-                "le donne piccole sono francese"
-            ],
-            "answer": "Le donne piccole sono francese.",
-            "failed": 2,
-            "lastAsked": 1482173351.0560744,
-            "question": "THe short women are French.",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "chi sono quei ragazzi?",
-                "chi sono quei ragazzi"
-            ],
-            "answer": "Chi sono quei ragazzi?",
-            "failed": 4,
-            "lastAsked": 1482173386.8412251,
-            "question": "Who are those boys?",
+            "lastAsked": 1482264462.2783492,
+            "question": "What time is it?",
             "tried": 8
         },
         {
@@ -172,86 +164,58 @@
                 "e' tardi"
             ],
             "answer": "e tardi",
-            "failed": 3,
-            "lastAsked": 1482173396.151708,
-            "question": "It is late.",
-            "tried": 6
-        },
-        {
-            "alternates": [
-                "sono le tre"
-            ],
-            "answer": "Sono le tre.",
-            "failed": 3,
-            "lastAsked": 1482173355.0290575,
-            "question": "It is 3 o'clock.",
-            "tried": 7
-        },
-        {
-            "alternates": [
-                "a mezzogiorno"
-            ],
-            "answer": "a mezzogiorno.",
-            "failed": 3,
-            "lastAsked": 1482173314.172242,
-            "question": "It is noon.",
-            "tried": 7
-        },
-        {
-            "alternates": [],
-            "answer": "fare domanda",
             "failed": 4,
-            "lastAsked": 1482173390.040037,
-            "question": "To ask a question.",
+            "lastAsked": 1482264457.798233,
+            "question": "It is late.",
             "tried": 8
         },
         {
             "alternates": [
-                "non c'e' panne sul tavolo",
-                "Non c'e' panne sul tavolo",
-                "non c'e panne sul tavolo"
+                "chi sono quei ragazzi?",
+                "chi sono quei ragazzi"
             ],
-            "answer": "Non c'e panne sul tavolo.",
-            "failed": 2,
-            "lastAsked": 1482173307.5094213,
-            "question": "There is not bread on the table.",
-            "tried": 5
+            "answer": "Chi sono quei ragazzi?",
+            "failed": 5,
+            "lastAsked": 1482264468.994839,
+            "question": "Who are those boys?",
+            "tried": 10
         },
         {
             "alternates": [],
             "answer": "gli aberi",
-            "failed": 4,
-            "lastAsked": 1482173393.0956812,
+            "failed": 5,
+            "lastAsked": 1482264481.6573193,
             "question": "The trees",
-            "tried": 8
+            "tried": 10
         },
         {
             "alternates": [],
-            "answer": "di dove sei?",
-            "failed": 5,
-            "lastAsked": 1482173555.986439,
-            "question": "Where are you from?",
+            "answer": "jiugno",
+            "failed": 4,
+            "lastAsked": 1482264448.302281,
+            "question": "June",
             "tried": 9
         },
         {
             "alternates": [
-                "lunedi abbiamo lezione di italiana"
+                "fare un viaggio"
             ],
-            "answer": "lunedi abbiamo lezione di italiana.",
+            "answer": "fare un viaggio.",
             "failed": 4,
-            "lastAsked": 1482173527.8546512,
-            "question": "On Mondays we have Italian lessons.",
-            "tried": 8
+            "lastAsked": 1482264497.0372126,
+            "question": "To take a trip.",
+            "tried": 7
         },
         {
             "alternates": [
-                "come si chiama?"
+                "quali ragazze",
+                "queli ragazze?"
             ],
-            "answer": "Come si chiama?",
-            "failed": 3,
-            "lastAsked": 1482173490.1384628,
-            "question": "What is your name?",
-            "tried": 7
+            "answer": "Queli ragazze?",
+            "failed": 4,
+            "lastAsked": 1482264385.9769723,
+            "question": "Who are those girls?",
+            "tried": 9
         },
         {
             "alternates": [
@@ -259,18 +223,10 @@
                 "siamo in il novembre"
             ],
             "answer": "Siamo in il novembre.",
-            "failed": 4,
-            "lastAsked": 1482173520.3827384,
+            "failed": 6,
+            "lastAsked": 1482264493.6375446,
             "question": "We are in the month of November.",
-            "tried": 8
-        },
-        {
-            "alternates": [],
-            "answer": "jiugno",
-            "failed": 4,
-            "lastAsked": 1482173531.1265566,
-            "question": "June",
-            "tried": 8
+            "tried": 11
         },
         {
             "alternates": [
@@ -280,66 +236,89 @@
             ],
             "answer": "Che giorno e' oggi.",
             "failed": 4,
-            "lastAsked": 1482173507.550441,
+            "lastAsked": 1482264547.9593492,
             "question": "What day is today.",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "fare domanda",
+            "failed": 5,
+            "lastAsked": 1482264635.9802382,
+            "question": "To ask a question.",
+            "tried": 10
+        },
+        {
+            "alternates": [
+                "mio figlio abita in sole"
+            ],
+            "answer": "mio figlio abita in sole.",
+            "failed": 4,
+            "lastAsked": 1482264644.228313,
+            "question": "My son lives by himself.",
             "tried": 8
         },
         {
             "alternates": [
-                "che ora",
-                "Che ora?",
-                "che ora?"
+                "la festa e' alle club"
             ],
-            "answer": "Che ora",
-            "failed": 3,
-            "lastAsked": 1482173513.0302494,
-            "question": "What time is it?",
-            "tried": 6
+            "answer": "La festa e' alle club.",
+            "failed": 2,
+            "lastAsked": 1482264506.0847304,
+            "question": "The party is at the Club.",
+            "tried": 5
         },
         {
             "alternates": [],
             "answer": "un abero",
             "failed": 4,
-            "lastAsked": 1482173537.6263826,
+            "lastAsked": 1482264567.0627697,
             "question": "A tree",
-            "tried": 8
+            "tried": 9
         },
         {
             "alternates": [],
-            "answer": "parliamo italiano",
-            "failed": 2,
-            "lastAsked": 1482173737.3885508,
-            "question": "We speak Italian",
-            "tried": 5
+            "answer": "un caffe",
+            "failed": 3,
+            "lastAsked": 1482264509.6447103,
+            "question": "A coffee",
+            "tried": 7
         },
         {
             "alternates": [
-                "ci sono elefante nello zoo?",
-                "Ci sono elefante nello zoo?"
+                "lunedi abbiamo lezione di italiana"
             ],
-            "answer": "Ci sono elefante nello zoo.",
-            "failed": 3,
-            "lastAsked": 1482173751.6239862,
-            "question": "Are there elephants in the zoo.",
-            "tried": 7
+            "answer": "lunedi abbiamo lezione di italiana.",
+            "failed": 5,
+            "lastAsked": 1482264661.9924655,
+            "question": "On Mondays we have Italian lessons.",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "luglio",
+            "failed": 5,
+            "lastAsked": 1482264648.1940773,
+            "question": "July",
+            "tried": 10
         },
         {
             "alternates": [],
             "answer": "nonno",
             "failed": 3,
-            "lastAsked": 1482173927.9943552,
+            "lastAsked": 1482264691.3960657,
             "question": "Ninth",
-            "tried": 7
+            "tried": 8
         },
         {
             "alternates": [
-                "cento dollori"
+                "il vestito ti sta bene"
             ],
-            "answer": "centro dollori",
-            "failed": 2,
-            "lastAsked": 1482173731.9081693,
-            "question": "A hundred dollars",
-            "tried": 6
+            "answer": "Il vestito ti sta bene.",
+            "failed": 3,
+            "lastAsked": 1482264712.1590056,
+            "question": "The dress looks good on you.",
+            "tried": 8
         },
         {
             "alternates": [
@@ -348,21 +327,52 @@
                 "c'e uno studente in classe"
             ],
             "answer": "C'e uno studente in classe.",
-            "failed": 3,
-            "lastAsked": 1482173759.752509,
+            "failed": 4,
+            "lastAsked": 1482264743.3222651,
             "question": "There is a student in the classroom.",
-            "tried": 7
+            "tried": 9
         },
         {
             "alternates": [
-                "l'eccelente e buono libro, interessente e elegenti uomi",
-                "l'eccelente e bueno libro, interessente e elegente uomi"
+                "come si chiama?"
             ],
-            "answer": "l'eccelente e buono libro, interessente e elegenti uomi.",
-            "failed": 5,
-            "lastAsked": 1482173999.41946,
-            "question": "The eccelent and good book, the interesting and elegant men.",
-            "tried": 9
+            "answer": "Come si chiama?",
+            "failed": 3,
+            "lastAsked": 1482264689.1237037,
+            "question": "What is your name?",
+            "tried": 8
+        },
+        {
+            "alternates": [
+                "ci sono elefante nello zoo?",
+                "Ci sono elefante nello zoo?"
+            ],
+            "answer": "Ci sono elefante nello zoo.",
+            "failed": 3,
+            "lastAsked": 1482264720.4149537,
+            "question": "Are there elephants in the zoo.",
+            "tried": 8
+        },
+        {
+            "alternates": [
+                "sono le tre"
+            ],
+            "answer": "Sono le tre.",
+            "failed": 3,
+            "lastAsked": 1482264732.4745908,
+            "question": "It is 3 o'clock.",
+            "tried": 8
+        },
+        {
+            "alternates": [
+                "e' mezzogiorno",
+                "a mezzogiorno"
+            ],
+            "answer": "a mezzogiorno.",
+            "failed": 3,
+            "lastAsked": 1482264729.3908093,
+            "question": "It is noon.",
+            "tried": 8
         },
         {
             "alternates": [
@@ -370,53 +380,47 @@
             ],
             "answer": "l'erba e' verde.",
             "failed": 3,
-            "lastAsked": 1482173931.7795851,
+            "lastAsked": 1482264697.6601484,
             "question": "The grass is green.",
-            "tried": 7
-        },
-        {
-            "alternates": [
-                "il vestito ti sta bene"
-            ],
-            "answer": "Il vestito ti sta bene.",
-            "failed": 3,
-            "lastAsked": 1482173939.1366491,
-            "question": "The dress looks good on you.",
-            "tried": 7
-        },
-        {
-            "alternates": [
-                "mio figlio abita in sole"
-            ],
-            "answer": "mio figlio abita in sole.",
-            "failed": 3,
-            "lastAsked": 1482174107.6352432,
-            "question": "My son lives by himself.",
-            "tried": 6
+            "tried": 8
         },
         {
             "alternates": [],
             "answer": "due aberi",
             "failed": 2,
-            "lastAsked": 1481136748.04178,
+            "lastAsked": 1482264789.4092145,
             "question": "2 trees",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "un caffe",
-            "failed": 3,
-            "lastAsked": 1482174018.0211523,
-            "question": "A coffee",
             "tried": 6
         },
         {
             "alternates": [],
-            "answer": "quinto",
+            "answer": "parliamo italiano",
             "failed": 2,
-            "lastAsked": 1482174003.0016592,
-            "question": "Fifth",
+            "lastAsked": 1482264786.3058426,
+            "question": "We speak Italian",
             "tried": 6
+        },
+        {
+            "alternates": [
+                "le donne piccole sono francese"
+            ],
+            "answer": "Le donne piccole sono francese.",
+            "failed": 2,
+            "lastAsked": 1482264757.1106398,
+            "question": "THe short women are French.",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "non c'e' panne sul tavolo",
+                "Non c'e' panne sul tavolo",
+                "non c'e panne sul tavolo"
+            ],
+            "answer": "Non c'e panne sul tavolo.",
+            "failed": 3,
+            "lastAsked": 1482264835.4279132,
+            "question": "There is not bread on the table.",
+            "tried": 7
         },
         {
             "alternates": [
@@ -424,19 +428,9 @@
             ],
             "answer": "Parlate tedesco",
             "failed": 2,
-            "lastAsked": 1481136744.672347,
+            "lastAsked": 1482264763.3261678,
             "question": "You all speak German.",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "fare un viaggio"
-            ],
-            "answer": "fare un viaggio.",
-            "failed": 2,
-            "lastAsked": 1482174009.4083536,
-            "question": "To take a trip.",
-            "tried": 4
+            "tried": 6
         },
         {
             "alternates": [
@@ -444,88 +438,64 @@
             ],
             "answer": "Oggi e' undici di novembre.",
             "failed": 1,
-            "lastAsked": 1481049861.6442537,
+            "lastAsked": 1482264818.2763257,
             "question": "Today is the 11th of November.",
-            "tried": 3
-        },
-        {
-            "alternates": [
-                "la festa e' alle club"
-            ],
-            "answer": "La festa e' alle club.",
-            "failed": 2,
-            "lastAsked": 1482174041.2275045,
-            "question": "The party is at the Club.",
             "tried": 4
         },
         {
-            "alternates": [],
-            "answer": "marcoledi",
-            "failed": 1,
-            "lastAsked": 1481048770.5171075,
-            "question": "Thursday",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "fare un bagno",
-            "failed": 1,
-            "lastAsked": 1481049599.3166666,
-            "question": "To take a bath.",
-            "tried": 3
-        },
-        {
             "alternates": [
-                "sono le venti due ora e trenta quatro minuti",
-                "Sono le venti due ora e trenta quatro minuti"
+                "quand figli hai?"
             ],
-            "answer": "Sono le venti due ora e trenta quatro minuti.",
-            "failed": 1,
-            "lastAsked": 1481049852.995401,
-            "question": "It is 22:00 and 34 minutes.",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "le automobili",
-            "failed": 1,
-            "lastAsked": 1481048935.9806755,
-            "question": "The autos",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "uno zero",
-            "failed": 1,
-            "lastAsked": 1481050034.6269634,
-            "question": "A zero",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "due ochi",
-            "failed": 1,
-            "lastAsked": 1481049128.0751362,
-            "question": "2 eyes",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "secundo",
-            "failed": 1,
-            "lastAsked": 1481050012.2348819,
-            "question": "Second",
-            "tried": 3
+            "answer": "Quand figli hai?",
+            "failed": 2,
+            "lastAsked": 1482264844.168995,
+            "question": "How many figli do you have?",
+            "tried": 5
         },
         {
             "alternates": [
                 "mille euro"
             ],
             "answer": "mille euro.",
-            "failed": 1,
-            "lastAsked": 1481049010.1037993,
+            "failed": 2,
+            "lastAsked": 1482264847.4481587,
             "question": "A thousand euros.",
-            "tried": 3
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "due ochi",
+            "failed": 2,
+            "lastAsked": 1482264952.478222,
+            "question": "2 eyes",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "cosi cosi, non c'e' male",
+                "cosi cosi, non c'e male"
+            ],
+            "answer": "Cosi cosi, non c'e male",
+            "failed": 1,
+            "lastAsked": 1482264865.0278976,
+            "question": "Not too bad.",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "fare collazione",
+            "failed": 2,
+            "lastAsked": 1482264949.7178886,
+            "question": "To have breakfast.",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "due mille cinque cento",
+            "failed": 2,
+            "lastAsked": 1482264963.5378976,
+            "question": "Two thaousand five hundred.",
+            "tried": 5
         },
         {
             "alternates": [
@@ -533,60 +503,221 @@
             ],
             "answer": "Lui e' mio marito.",
             "failed": 1,
-            "lastAsked": 1481049606.049136,
+            "lastAsked": 1482264872.275161,
             "question": "He is my husband.",
-            "tried": 3
+            "tried": 4
         },
         {
             "alternates": [
-                "quand figli hai?"
+                "sono le venti due ora e trenta quatro minuti",
+                "Sono le venti due ora e trenta quatro minuti"
             ],
-            "answer": "Quand figli hai?",
-            "failed": 1,
-            "lastAsked": 1481049979.0513427,
-            "question": "How many figli do you have?",
-            "tried": 3
-        },
-        {
-            "alternates": [
-                "cosi cosi, non c'e male"
-            ],
-            "answer": "Cosi cosi, non c'e male",
-            "failed": 1,
-            "lastAsked": 1481049470.6452477,
-            "question": "Not too bad.",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "fare collazione",
-            "failed": 1,
-            "lastAsked": 1481049832.0714433,
-            "question": "To have breakfast.",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "due mille cinque cento",
-            "failed": 1,
-            "lastAsked": 1481049972.5308657,
-            "question": "Two thaousand five hundred.",
-            "tried": 3
+            "answer": "Sono le venti due ora e trenta quatro minuti.",
+            "failed": 2,
+            "lastAsked": 1482264981.0734396,
+            "question": "It is 22:00 and 34 minutes.",
+            "tried": 5
         },
         {
             "alternates": [],
             "answer": "uno scrittore",
-            "failed": 1,
-            "lastAsked": 1481050038.1315908,
+            "failed": 2,
+            "lastAsked": 1482264966.7780166,
             "question": "A writer",
-            "tried": 3
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "quinto",
+            "failed": 2,
+            "lastAsked": 1482264946.0703268,
+            "question": "Fifth",
+            "tried": 7
         },
         {
             "alternates": [],
             "answer": "maggio",
-            "failed": 1,
-            "lastAsked": 1481050014.115846,
+            "failed": 2,
+            "lastAsked": 1482265041.776283,
             "question": "May",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "cento dollori"
+            ],
+            "answer": "centro dollori",
+            "failed": 3,
+            "lastAsked": 1482265052.4921627,
+            "question": "A hundred dollars",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "fare un bagno",
+            "failed": 1,
+            "lastAsked": 1482265005.8933055,
+            "question": "To take a bath.",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "secundo",
+            "failed": 2,
+            "lastAsked": 1482265054.9413075,
+            "question": "Second",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "le automobili",
+            "failed": 2,
+            "lastAsked": 1482265048.8448272,
+            "question": "The autos",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "marcoledi",
+            "failed": 2,
+            "lastAsked": 1482265044.076495,
+            "question": "Thursday",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "uno zero",
+            "failed": 1,
+            "lastAsked": 1482265001.0453877,
+            "question": "A zero",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "due amici",
+            "failed": 0,
+            "lastAsked": 1482265030.0733445,
+            "question": "2 friends",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "i film",
+            "failed": 0,
+            "lastAsked": 1482265080.6963625,
+            "question": "The films",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "febraio",
+            "failed": 0,
+            "lastAsked": 1482265098.3679922,
+            "question": "February",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "la automobile",
+            "failed": 1,
+            "lastAsked": 1482265108.9954314,
+            "question": "The auto",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "il caffe",
+            "failed": 0,
+            "lastAsked": 1482265096.1680114,
+            "question": "The coffee",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "questo libro"
+            ],
+            "answer": "Questo libro.",
+            "failed": 0,
+            "lastAsked": 1482265086.1283283,
+            "question": "This book.",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "un amico",
+            "failed": 0,
+            "lastAsked": 1482265090.464148,
+            "question": "A friend",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "martedi",
+            "failed": 1,
+            "lastAsked": 1482265103.724123,
+            "question": "Tuesday",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "dicembre",
+            "failed": 0,
+            "lastAsked": 1482265101.4200883,
+            "question": "December",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "questo bambino"
+            ],
+            "answer": "Questo bambino.",
+            "failed": 1,
+            "lastAsked": 1482265168.1514282,
+            "question": "This child.",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "perche"
+            ],
+            "answer": "Perche.",
+            "failed": 0,
+            "lastAsked": 1482265112.4115534,
+            "question": "Because.",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "come stai?"
+            ],
+            "answer": "Come stai?",
+            "failed": 0,
+            "lastAsked": 1482265157.811191,
+            "question": "How are you? (informal)",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "io canto",
+            "failed": 1,
+            "lastAsked": 1482265161.4988942,
+            "question": "I sing",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "vediamo",
+            "failed": 1,
+            "lastAsked": 1482265163.9792361,
+            "question": "We see",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "primo",
+            "failed": 0,
+            "lastAsked": 1482265154.250771,
+            "question": "First",
             "tried": 3
         },
         {
@@ -595,123 +726,9 @@
             ],
             "answer": "Perche?",
             "failed": 0,
-            "lastAsked": 1481050029.7306278,
+            "lastAsked": 1482265127.1835182,
             "question": "Why?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "il caffe",
-            "failed": 0,
-            "lastAsked": 1481050010.1268888,
-            "question": "The coffee",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "dicembre",
-            "failed": 0,
-            "lastAsked": 1481049995.2866652,
-            "question": "December",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "un amico",
-            "failed": 0,
-            "lastAsked": 1481049611.5608027,
-            "question": "A friend",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "come stai?"
-            ],
-            "answer": "Come stai?",
-            "failed": 0,
-            "lastAsked": 1481050004.574764,
-            "question": "How are you? (informal)",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "due amici",
-            "failed": 0,
-            "lastAsked": 1481049768.4961188,
-            "question": "2 friends",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "io canto",
-            "failed": 0,
-            "lastAsked": 1481049920.2113616,
-            "question": "I sing",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "i film",
-            "failed": 0,
-            "lastAsked": 1481049922.5070317,
-            "question": "The films",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "che tempo fa?"
-            ],
-            "answer": "Che tempo fa?",
-            "failed": 0,
-            "lastAsked": 1481049617.5211067,
-            "question": "How is the weather?",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "come sta?"
-            ],
-            "answer": "Come sta?",
-            "failed": 0,
-            "lastAsked": 1481049965.1872149,
-            "question": "How are you? (formal)",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "questo libro"
-            ],
-            "answer": "Questo libro.",
-            "failed": 0,
-            "lastAsked": 1481049710.8082936,
-            "question": "This book.",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "vediamo",
-            "failed": 0,
-            "lastAsked": 1481049987.422909,
-            "question": "We see",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "questo bambino"
-            ],
-            "answer": "Questo bambino.",
-            "failed": 0,
-            "lastAsked": 1481049932.6269567,
-            "question": "This child.",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "martedi",
-            "failed": 0,
-            "lastAsked": 1481050032.1471317,
-            "question": "Tuesday",
-            "tried": 2
+            "tried": 3
         },
         {
             "alternates": [
@@ -719,59 +736,45 @@
             ],
             "answer": "Questi caffe.",
             "failed": 0,
-            "lastAsked": 1481049927.7791948,
+            "lastAsked": 1482265149.786897,
             "question": "These coffees.",
-            "tried": 2
+            "tried": 3
         },
         {
-            "alternates": [],
-            "answer": "il film",
+            "alternates": [
+                "che tempo fa?"
+            ],
+            "answer": "Che tempo fa?",
             "failed": 0,
-            "lastAsked": 1481049799.203774,
-            "question": "The film",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "la automobile",
-            "failed": 0,
-            "lastAsked": 1481049672.544002,
-            "question": "The auto",
-            "tried": 2
+            "lastAsked": 1482265171.7547584,
+            "question": "How is the weather?",
+            "tried": 3
         },
         {
             "alternates": [],
             "answer": "due caffe",
             "failed": 0,
-            "lastAsked": 1481049935.2149136,
+            "lastAsked": 1482265174.1149378,
             "question": "2 coffees",
-            "tried": 2
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "il film",
+            "failed": 0,
+            "lastAsked": 1482265182.2428522,
+            "question": "The film",
+            "tried": 3
         },
         {
             "alternates": [
-                "perche"
+                "come sta?"
             ],
-            "answer": "Perche.",
+            "answer": "Come sta?",
             "failed": 0,
-            "lastAsked": 1481049989.8466952,
-            "question": "Because.",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "primo",
-            "failed": 0,
-            "lastAsked": 1481049765.9196763,
-            "question": "First",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "febraio",
-            "failed": 0,
-            "lastAsked": 1481049992.3198023,
-            "question": "February",
-            "tried": 2
+            "lastAsked": 1482265177.1066003,
+            "question": "How are you? (formal)",
+            "tried": 3
         }
     ]
 }

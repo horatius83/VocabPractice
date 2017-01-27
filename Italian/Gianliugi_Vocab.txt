@@ -1,0 +1,68 @@
+v0.1	Gianluigi Vocab
+v	andare a trovare	to visit someone
+v	ascoltare	to listen to
+v	avere	to have
+v	conoscere	to know a person
+v	divertirsi	to have fun
+v	essere	to be
+v	fare	to do, make
+v	fare quattro chicchiere	to chat
+v	guardare	to look at, watch
+v	inventare	to invent
+v	lavorare	to work
+v	nascere	to be born
+v	parlare	to speak, talk
+v	piacere	to like
+v	raccontare	to tell stories
+v	riposarsi	to relax
+v	ritornare	to return
+v	stare	to be, stay
+v	vedere	to see
+v	vivere	to live
+v	alto	tall, high
+v	astuto	astute, clever
+v	castano	chestnut (color)
+v	curioso	curious
+v	forte	strong
+v	grande	large, big
+v	grasso	chubby, fat
+v	incredibile	unbelievable
+v	indimenticabile	unforgettable
+v	nascosto	hidden
+v	piacevole	pleasant, enjoyable
+v	piccolo	small
+v	sorridente	smiling
+v	sorprendente	amazing
+v	straordinario	extraordinary
+v	tranquillo	calm, quiet, tranquil
+v	soltanto	only
+v	sottile	thin(voice)
+v	veloce	fast
+v	gli abitanti	residents, inhabitants
+v	l'anno scorso	last year
+v	i capelli	hair
+v	il cruciverba	crossword puzzle
+v	la domanda	question
+v	l'estate	summer
+v	l'eta	age
+v	la faccia	face
+v	la macelleria	butcher shop
+v	il nipote	nephew, grandson
+v	gli occhi	eyes
+v	il pasese	town
+v	i parenti	relatives
+v	il posto	place
+v	la provincia	province
+v	il ragazzino	a little boy
+v	il significato	meaning
+v	il soggiorno	stay, duration
+v	la voce	voice
+v	di tanto in tanto	once in a while
+v	dove	where
+v	infatti	in fact
+v	mentre	while
+v	nemmeno	not even
+v	perche'	because
+v	pero	but, however
+v	secondo me	in my opinion
+v	un po'	a bit

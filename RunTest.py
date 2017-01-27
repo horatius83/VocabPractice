@@ -33,31 +33,44 @@ def RunTest(filename):
 #file = './Italian/Italian1.json'
 #file = './Italian/Italian2.json'
 #defaultFile = './Italian/Italian3.json'
-recent_files = './recent_files.txt'
+recent_files_path = './recent_files.txt'
+def get_recent_files():
+    with open(recent_files_path,'r') as in_data:
+        files = [x for x in in_data.read().split('\n') if x.strip() is not '']
+        return files
+
+def update_recent_files(files):
+    with open(recent_files_path, 'w') as out_data:
+        out_data.write('\n'.join(files))
 
 if len(sys.argv) > 1:
     for arg in sys.argv[1:]:
         if arg.endswith('.txt'):
             ConvertFile(arg)
         elif arg.endswith('.json'):
+            # open recent_files
+            recent_files = get_recent_files()
+            # check if the file is in there
+            # if not, add it
+            if arg not in recent_files:
+                print(recent_files)
+                print(recent_files[:9])
+                print(arg)
+                print([arg])
+                update_recent_files(recent_files[:9] + [arg])
             RunTest(arg)
 else:
     #RunTest(defaultFile)
     files = []
-    if isfile(recent_files): 
-        with open(recent_files,'r') as in_data:
-            files = [x for x in in_data.read().split('\n') if x.strip() is not '']
-            print('--==((Recent Files))==--')
-            for (selection, file) in enumerate(files):
-                print('({0}): {1}'.format(selection, file))
+    if isfile(recent_files_path): 
+        files = get_recent_files()
+        print('--==((Recent Files))==--')
+        for (selection, file) in enumerate(files):
+            print('({0}): {1}'.format(selection, file))
     selection = input('Enter Selection: ')
     try:
         selection_as_number = int(selection)
         RunTest(files[selection_as_number])
     except:
         RunTest(selection)
-        files = [selection] + files[:9]
-        with open(recent_files,'w') as out_data:
-            for file in files:
-                out_data.write(file + '\n')
-    
+        update_recent_files(recent_files[:9] + [selection])

@@ -4,26 +4,60 @@
         {
             "alternates": [],
             "answer": "riposarsi",
-            "failed": 13,
-            "lastAsked": 1485783927.3344185,
+            "failed": 14,
+            "lastAsked": 1485801874.354893,
             "question": "Given the definition \"to relax\", what is the word?",
-            "tried": 16
+            "tried": 18
         },
         {
             "alternates": [],
             "answer": "divertirsi",
             "failed": 11,
-            "lastAsked": 1485783911.46621,
+            "lastAsked": 1485801842.474993,
             "question": "Given the definition \"to have fun\", what is the word?",
-            "tried": 14
+            "tried": 15
         },
         {
             "alternates": [],
             "answer": "soltanto",
-            "failed": 10,
-            "lastAsked": 1485783922.9941554,
+            "failed": 12,
+            "lastAsked": 1485801926.2133355,
             "question": "Given the definition \"only\", what is the word?",
-            "tried": 13
+            "tried": 16
+        },
+        {
+            "alternates": [],
+            "answer": "nascosto",
+            "failed": 11,
+            "lastAsked": 1485801941.4568307,
+            "question": "Given the definition \"hidden\", what is the word?",
+            "tried": 15
+        },
+        {
+            "alternates": [
+                "cruciverba"
+            ],
+            "answer": "il cruciverba",
+            "failed": 8,
+            "lastAsked": 1485801821.0634987,
+            "question": "Given the definition \"crossword puzzle\", what is the word?",
+            "tried": 12
+        },
+        {
+            "alternates": [],
+            "answer": "indimenticabile",
+            "failed": 10,
+            "lastAsked": 1485801949.040992,
+            "question": "Given the definition \"unforgettable\", what is the word?",
+            "tried": 14
+        },
+        {
+            "alternates": [],
+            "answer": "sottile",
+            "failed": 7,
+            "lastAsked": 1485801795.208189,
+            "question": "Given the definition \"thin(voice)\", what is the word?",
+            "tried": 11
         },
         {
             "alternates": [
@@ -31,16 +65,40 @@
             ],
             "answer": "residents, inhabitants",
             "failed": 4,
-            "lastAsked": 1485783852.2139425,
+            "lastAsked": 1485801832.783326,
             "question": "What is the definition of \"gli abitanti\"?",
-            "tried": 6
+            "tried": 7
         },
         {
             "alternates": [],
-            "answer": "il cruciverba",
+            "answer": "castano",
+            "failed": 4,
+            "lastAsked": 1485801964.284466,
+            "question": "Given the definition \"chestnut (color)\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "amazing",
             "failed": 8,
-            "lastAsked": 1485783839.7858582,
-            "question": "Given the definition \"crossword puzzle\", what is the word?",
+            "lastAsked": 1485802031.2346237,
+            "question": "What is the definition of \"sorprendente\"?",
+            "tried": 12
+        },
+        {
+            "alternates": [],
+            "answer": "il significato",
+            "failed": 6,
+            "lastAsked": 1485801995.8479075,
+            "question": "Given the definition \"meaning\", what is the word?",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "gli abitanti",
+            "failed": 7,
+            "lastAsked": 1485802010.1919048,
+            "question": "Given the definition \"residents, inhabitants\", what is the word?",
             "tried": 11
         },
         {
@@ -49,138 +107,26 @@
                 "thin (voice)"
             ],
             "answer": "thin(voice)",
-            "failed": 6,
-            "lastAsked": 1485783892.005218,
+            "failed": 7,
+            "lastAsked": 1485802027.139371,
             "question": "What is the definition of \"sottile\"?",
-            "tried": 9
-        },
-        {
-            "alternates": [],
-            "answer": "sottile",
-            "failed": 7,
-            "lastAsked": 1485783894.1662073,
-            "question": "Given the definition \"thin(voice)\", what is the word?",
-            "tried": 10
-        },
-        {
-            "alternates": [],
-            "answer": "il significato",
-            "failed": 6,
-            "lastAsked": 1485783905.489723,
-            "question": "Given the definition \"meaning\", what is the word?",
-            "tried": 9
-        },
-        {
-            "alternates": [],
-            "answer": "nascosto",
-            "failed": 8,
-            "lastAsked": 1485784003.2509274,
-            "question": "Given the definition \"hidden\", what is the word?",
             "tried": 11
-        },
-        {
-            "alternates": [],
-            "answer": "amazing",
-            "failed": 6,
-            "lastAsked": 1485783976.5309582,
-            "question": "What is the definition of \"sorprendente\"?",
-            "tried": 9
-        },
-        {
-            "alternates": [],
-            "answer": "indimenticabile",
-            "failed": 7,
-            "lastAsked": 1485784000.5033875,
-            "question": "Given the definition \"unforgettable\", what is the word?",
-            "tried": 10
-        },
-        {
-            "alternates": [],
-            "answer": "raccontare",
-            "failed": 4,
-            "lastAsked": 1485783950.8343492,
-            "question": "Given the definition \"to tell stories\", what is the word?",
-            "tried": 7
-        },
-        {
-            "alternates": [],
-            "answer": "ritornare",
-            "failed": 4,
-            "lastAsked": 1485783948.0304124,
-            "question": "Given the definition \"to return\", what is the word?",
-            "tried": 7
-        },
-        {
-            "alternates": [],
-            "answer": "to be born",
-            "failed": 4,
-            "lastAsked": 1485783930.1423442,
-            "question": "What is the definition of \"nascere\"?",
-            "tried": 7
-        },
-        {
-            "alternates": [],
-            "answer": "piacevole",
-            "failed": 4,
-            "lastAsked": 1485783938.9825935,
-            "question": "Given the definition \"pleasant, enjoyable\", what is the word?",
-            "tried": 7
-        },
-        {
-            "alternates": [],
-            "answer": "l'anno scorso",
-            "failed": 4,
-            "lastAsked": 1485783973.1632063,
-            "question": "Given the definition \"last year\", what is the word?",
-            "tried": 7
         },
         {
             "alternates": [],
             "answer": "unforgettable",
             "failed": 5,
-            "lastAsked": 1485784132.7139676,
+            "lastAsked": 1485802005.3667748,
             "question": "What is the definition of \"indimenticabile\"?",
-            "tried": 8
-        },
-        {
-            "alternates": [],
-            "answer": "la macelleria",
-            "failed": 3,
-            "lastAsked": 1485784105.7007208,
-            "question": "Given the definition \"butcher shop\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "sorprendente",
-            "failed": 5,
-            "lastAsked": 1485784108.5009644,
-            "question": "Given the definition \"amazing\", what is the word?",
-            "tried": 8
-        },
-        {
-            "alternates": [],
-            "answer": "gli abitanti",
-            "failed": 6,
-            "lastAsked": 1485784141.2897594,
-            "question": "Given the definition \"residents, inhabitants\", what is the word?",
             "tried": 9
         },
         {
             "alternates": [],
-            "answer": "castano",
-            "failed": 4,
-            "lastAsked": 1485784135.1613798,
-            "question": "Given the definition \"chestnut (color)\", what is the word?",
-            "tried": 6
-        },
-        {
-            "alternates": [],
-            "answer": "di tanto in tanto",
-            "failed": 3,
-            "lastAsked": 1485784080.3803275,
-            "question": "Given the definition \"once in a while\", what is the word?",
-            "tried": 6
+            "answer": "hidden",
+            "failed": 5,
+            "lastAsked": 1485801967.4927874,
+            "question": "What is the definition of \"nascosto\"?",
+            "tried": 9
         },
         {
             "alternates": [
@@ -188,296 +134,244 @@
             ],
             "answer": "but, however",
             "failed": 5,
-            "lastAsked": 1485784144.5142028,
+            "lastAsked": 1485801979.044134,
             "question": "What is the definition of \"pero\"?",
-            "tried": 8
+            "tried": 9
         },
         {
             "alternates": [],
-            "answer": "hidden",
+            "answer": "sorprendente",
             "failed": 5,
-            "lastAsked": 1485784138.0736523,
-            "question": "What is the definition of \"nascosto\"?",
-            "tried": 8
-        },
-        {
-            "alternates": [
-                "chestnut color"
-            ],
-            "answer": "chestnut (color)",
-            "failed": 3,
-            "lastAsked": 1485784154.0376437,
-            "question": "What is the definition of \"castano\"?",
-            "tried": 6
+            "lastAsked": 1485802103.2698784,
+            "question": "Given the definition \"amazing\", what is the word?",
+            "tried": 9
         },
         {
             "alternates": [],
-            "answer": "stay, duration",
-            "failed": 3,
-            "lastAsked": 1485784184.5147748,
-            "question": "What is the definition of \"il soggiorno\"?",
-            "tried": 6
+            "answer": "to relax",
+            "failed": 6,
+            "lastAsked": 1485802166.8961437,
+            "question": "What is the definition of \"riposarsi\"?",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "la macelleria",
+            "failed": 4,
+            "lastAsked": 1485802174.091588,
+            "question": "Given the definition \"butcher shop\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "piacevole",
+            "failed": 4,
+            "lastAsked": 1485802070.1824718,
+            "question": "Given the definition \"pleasant, enjoyable\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "ritornare",
+            "failed": 5,
+            "lastAsked": 1485802163.9404037,
+            "question": "Given the definition \"to return\", what is the word?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "raccontare",
+            "failed": 4,
+            "lastAsked": 1485802112.221197,
+            "question": "Given the definition \"to tell stories\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "to be born",
+            "failed": 4,
+            "lastAsked": 1485802100.3451958,
+            "question": "What is the definition of \"nascere\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "l'anno scorso",
+            "failed": 4,
+            "lastAsked": 1485802076.5659664,
+            "question": "Given the definition \"last year\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "incredibile",
+            "failed": 5,
+            "lastAsked": 1485802281.4383566,
+            "question": "Given the definition \"unbelievable\", what is the word?",
+            "tried": 9
         },
         {
             "alternates": [],
             "answer": "andare a trovare",
             "failed": 3,
-            "lastAsked": 1485784194.090901,
+            "lastAsked": 1485802264.533944,
             "question": "Given the definition \"to visit someone\", what is the word?",
-            "tried": 6
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "paese",
+                "il paese"
+            ],
+            "answer": "il pasese",
+            "failed": 2,
+            "lastAsked": 1485802277.4775133,
+            "question": "Given the definition \"town\", what is the word?",
+            "tried": 5
         },
         {
             "alternates": [],
-            "answer": "incredibile",
+            "answer": "di tanto in tanto",
+            "failed": 5,
+            "lastAsked": 1485802309.7450862,
+            "question": "Given the definition \"once in a while\", what is the word?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "inventare",
             "failed": 4,
-            "lastAsked": 1485784207.0224028,
-            "question": "Given the definition \"unbelievable\", what is the word?",
+            "lastAsked": 1485802299.8813462,
+            "question": "Given the definition \"to invent\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "tranquillo",
+            "failed": 4,
+            "lastAsked": 1485802296.4971547,
+            "question": "Given the definition \"calm, quiet, tranquil\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "stare",
+            "failed": 4,
+            "lastAsked": 1485802304.3292646,
+            "question": "Given the definition \"to be, stay\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "once in a while",
+            "failed": 3,
+            "lastAsked": 1485802199.4831204,
+            "question": "What is the definition of \"di tanto in tanto\"?",
             "tried": 7
         },
         {
             "alternates": [],
             "answer": "straordinario",
             "failed": 3,
-            "lastAsked": 1485784149.5737731,
+            "lastAsked": 1485802316.652654,
             "question": "Given the definition \"extraordinary\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "chestnut",
+                "chestnut color"
+            ],
+            "answer": "chestnut (color)",
+            "failed": 3,
+            "lastAsked": 1485802339.0368564,
+            "question": "What is the definition of \"castano\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "fare quattro chicchiere",
+            "failed": 3,
+            "lastAsked": 1485802407.0628984,
+            "question": "Given the definition \"to chat\", what is the word?",
             "tried": 6
         },
         {
             "alternates": [],
-            "answer": "to relax",
-            "failed": 5,
-            "lastAsked": 1485784209.6545339,
-            "question": "What is the definition of \"riposarsi\"?",
+            "answer": "unbelievable",
+            "failed": 4,
+            "lastAsked": 1485802393.2878704,
+            "question": "What is the definition of \"incredibile\"?",
             "tried": 8
         },
         {
-            "alternates": [],
-            "answer": "tranquillo",
+            "alternates": [
+                "stay, period of time"
+            ],
+            "answer": "stay, duration",
             "failed": 3,
-            "lastAsked": 1485784159.446093,
-            "question": "Given the definition \"calm, quiet, tranquil\", what is the word?",
-            "tried": 6
-        },
-        {
-            "alternates": [],
-            "answer": "once in a while",
-            "failed": 3,
-            "lastAsked": 1485784178.0586298,
-            "question": "What is the definition of \"di tanto in tanto\"?",
-            "tried": 6
+            "lastAsked": 1485802349.1043875,
+            "question": "What is the definition of \"il soggiorno\"?",
+            "tried": 7
         },
         {
             "alternates": [],
             "answer": "smiling",
             "failed": 3,
-            "lastAsked": 1485784231.6384454,
+            "lastAsked": 1485802312.536726,
             "question": "What is the definition of \"sorridente\"?",
-            "tried": 6
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "l'eta",
+            "failed": 2,
+            "lastAsked": 1485802351.4884307,
+            "question": "Given the definition \"age\", what is the word?",
+            "tried": 5
         },
         {
             "alternates": [
-                "to know someone"
+                "nephew or grandson"
             ],
-            "answer": "to know a person",
+            "answer": "nephew, grandson",
             "failed": 2,
-            "lastAsked": 1485784246.2786388,
-            "question": "What is the definition of \"conoscere\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "relatives",
-            "failed": 1,
-            "lastAsked": 1485784239.6985877,
-            "question": "What is the definition of \"i parenti\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "to invent",
-            "failed": 2,
-            "lastAsked": 1485784228.526104,
-            "question": "What is the definition of \"inventare\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "secondo me",
-            "failed": 2,
-            "lastAsked": 1485784250.039144,
-            "question": "Given the definition \"in my opinion\", what is the word?",
+            "lastAsked": 1485802328.260656,
+            "question": "What is the definition of \"il nipote\"?",
             "tried": 5
         },
         {
             "alternates": [],
             "answer": "nemmeno",
             "failed": 3,
-            "lastAsked": 1485784252.9185221,
+            "lastAsked": 1485802413.887412,
             "question": "Given the definition \"not even\", what is the word?",
-            "tried": 6
-        },
-        {
-            "alternates": [],
-            "answer": "unbelievable",
-            "failed": 3,
-            "lastAsked": 1485784257.5904193,
-            "question": "What is the definition of \"incredibile\"?",
-            "tried": 6
-        },
-        {
-            "alternates": [],
-            "answer": "to listen to",
-            "failed": 2,
-            "lastAsked": 1485784242.7983284,
-            "question": "What is the definition of \"ascoltare\"?",
-            "tried": 5
+            "tried": 7
         },
         {
             "alternates": [
-                "provincia"
+                "faccia"
             ],
-            "answer": "la provincia",
+            "answer": "la faccia",
             "failed": 2,
-            "lastAsked": 1485784309.7184825,
-            "question": "Given the definition \"province\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "while",
-            "failed": 2,
-            "lastAsked": 1485784264.4423306,
-            "question": "What is the definition of \"mentre\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "the town"
-            ],
-            "answer": "town",
-            "failed": 2,
-            "lastAsked": 1485784311.9108512,
-            "question": "What is the definition of \"il pasese\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "fare quattro chicchiere",
-            "failed": 2,
-            "lastAsked": 1485784326.5143187,
-            "question": "Given the definition \"to chat\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "fast",
-            "failed": 2,
-            "lastAsked": 1485784303.6063862,
-            "question": "What is the definition of \"veloce\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "dove'"
-            ],
-            "answer": "dove",
-            "failed": 2,
-            "lastAsked": 1485784261.4305065,
-            "question": "Given the definition \"where\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "il paese"
-            ],
-            "answer": "il pasese",
-            "failed": 2,
-            "lastAsked": 1485784315.1186075,
-            "question": "Given the definition \"town\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "perche"
-            ],
-            "answer": "perche'",
-            "failed": 1,
-            "lastAsked": 1485784269.9787633,
-            "question": "Given the definition \"because\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [
-                "pleasant"
-            ],
-            "answer": "pleasant, enjoyable",
-            "failed": 1,
-            "lastAsked": 1485784344.8547862,
-            "question": "What is the definition of \"piacevole\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "la voce",
-            "failed": 2,
-            "lastAsked": 1485784330.5063322,
-            "question": "Given the definition \"voice\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "mentre",
-            "failed": 1,
-            "lastAsked": 1485784357.054501,
-            "question": "Given the definition \"while\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "grasso",
-            "failed": 2,
-            "lastAsked": 1485784336.8666153,
-            "question": "Given the definition \"chubby, fat\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "infatti",
-            "failed": 1,
-            "lastAsked": 1485784339.7543838,
-            "question": "Given the definition \"in fact\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "nephew, grandson",
-            "failed": 2,
-            "lastAsked": 1485784361.4461653,
-            "question": "What is the definition of \"il nipote\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "not even",
-            "failed": 2,
-            "lastAsked": 1485784333.3543706,
-            "question": "What is the definition of \"nemmeno\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "pero",
-            "failed": 2,
-            "lastAsked": 1485784342.0303102,
-            "question": "Given the definition \"but, however\", what is the word?",
+            "lastAsked": 1485802425.0661497,
+            "question": "Given the definition \"face\", what is the word?",
             "tried": 5
         },
         {
             "alternates": [],
             "answer": "only",
             "failed": 3,
-            "lastAsked": 1485784407.4576542,
+            "lastAsked": 1485802417.9227796,
             "question": "What is the definition of \"soltanto\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "fast",
+            "failed": 2,
+            "lastAsked": 1485802453.8136442,
+            "question": "What is the definition of \"veloce\"?",
             "tried": 6
         },
         {
@@ -486,205 +380,226 @@
             ],
             "answer": "il ragazzino",
             "failed": 2,
-            "lastAsked": 1485784397.9019685,
+            "lastAsked": 1485802410.3919032,
             "question": "Given the definition \"a little boy\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "to visit someone",
-            "failed": 2,
-            "lastAsked": 1485784401.0138507,
-            "question": "What is the definition of \"andare a trovare\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "avere",
-            "failed": 2,
-            "lastAsked": 1485784394.8618386,
-            "question": "Given the definition \"to have\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "inventare",
-            "failed": 3,
-            "lastAsked": 1485784413.3182888,
-            "question": "Given the definition \"to invent\", what is the word?",
             "tried": 6
-        },
-        {
-            "alternates": [],
-            "answer": "l'eta",
-            "failed": 2,
-            "lastAsked": 1485784403.2143934,
-            "question": "Given the definition \"age\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "la faccia",
-            "failed": 2,
-            "lastAsked": 1485784410.22185,
-            "question": "Given the definition \"face\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "butcher shop",
-            "failed": 1,
-            "lastAsked": 1485784370.8939378,
-            "question": "What is the definition of \"la macelleria\"?",
-            "tried": 4
         },
         {
             "alternates": [],
             "answer": "vivere",
             "failed": 2,
-            "lastAsked": 1485784473.085406,
+            "lastAsked": 1485802442.1780255,
             "question": "Given the definition \"to live\", what is the word?",
-            "tried": 5
+            "tried": 6
         },
         {
             "alternates": [],
-            "answer": "lavorare",
+            "answer": "avere",
             "failed": 2,
-            "lastAsked": 1485784481.0700653,
-            "question": "Given the definition \"to work\", what is the word?",
-            "tried": 5
+            "lastAsked": 1485802431.5055969,
+            "question": "Given the definition \"to have\", what is the word?",
+            "tried": 6
         },
         {
             "alternates": [],
-            "answer": "extraordinary",
-            "failed": 1,
-            "lastAsked": 1485784464.5898385,
-            "question": "What is the definition of \"straordinario\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "il soggiorno",
+            "answer": "secondo me",
             "failed": 2,
-            "lastAsked": 1485784485.8702302,
-            "question": "Given the definition \"stay, duration\", what is the word?",
-            "tried": 5
+            "lastAsked": 1485802428.5945444,
+            "question": "Given the definition \"in my opinion\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "to know someone"
+            ],
+            "answer": "to know a person",
+            "failed": 2,
+            "lastAsked": 1485802480.825206,
+            "question": "What is the definition of \"conoscere\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "dove'"
+            ],
+            "answer": "dove",
+            "failed": 2,
+            "lastAsked": 1485802469.1657708,
+            "question": "Given the definition \"where\", what is the word?",
+            "tried": 6
         },
         {
             "alternates": [],
-            "answer": "age",
-            "failed": 1,
-            "lastAsked": 1485784451.370344,
-            "question": "What is the definition of \"l'eta\"?",
-            "tried": 4
+            "answer": "while",
+            "failed": 2,
+            "lastAsked": 1485802473.1936128,
+            "question": "What is the definition of \"mentre\"?",
+            "tried": 6
         },
         {
             "alternates": [],
-            "answer": "stare",
-            "failed": 3,
-            "lastAsked": 1485784490.5137055,
-            "question": "Given the definition \"to be, stay\", what is the word?",
+            "answer": "to visit someone",
+            "failed": 2,
+            "lastAsked": 1485802467.0935602,
+            "question": "What is the definition of \"andare a trovare\"?",
             "tried": 6
         },
         {
             "alternates": [],
             "answer": "gli occhi",
             "failed": 2,
-            "lastAsked": 1485784488.1860082,
+            "lastAsked": 1485802456.8616767,
             "question": "Given the definition \"eyes\", what is the word?",
-            "tried": 5
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "to invent",
+            "failed": 2,
+            "lastAsked": 1485802463.3978426,
+            "question": "What is the definition of \"inventare\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "lavorare",
+            "failed": 2,
+            "lastAsked": 1485802477.7932842,
+            "question": "Given the definition \"to work\", what is the word?",
+            "tried": 6
         },
         {
             "alternates": [
-                "to have a chat"
+                "the town"
             ],
-            "answer": "to chat",
+            "answer": "town",
+            "failed": 2,
+            "lastAsked": 1485802459.9018133,
+            "question": "What is the definition of \"il pasese\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "il soggiorno",
+            "failed": 2,
+            "lastAsked": 1485802486.6250362,
+            "question": "Given the definition \"stay, duration\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "sorridente",
+            "failed": 2,
+            "lastAsked": 1485802514.6438487,
+            "question": "Given the definition \"smiling\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "pero",
+            "failed": 2,
+            "lastAsked": 1485802492.5369177,
+            "question": "Given the definition \"but, however\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "voce"
+            ],
+            "answer": "la voce",
+            "failed": 3,
+            "lastAsked": 1485802517.6848285,
+            "question": "Given the definition \"voice\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "not even",
+            "failed": 2,
+            "lastAsked": 1485802489.888987,
+            "question": "What is the definition of \"nemmeno\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "to listen to someone"
+            ],
+            "answer": "to listen to",
+            "failed": 2,
+            "lastAsked": 1485802511.908761,
+            "question": "What is the definition of \"ascoltare\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "grasso",
+            "failed": 2,
+            "lastAsked": 1485802494.7370038,
+            "question": "Given the definition \"chubby, fat\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "provencia",
+                "provincia"
+            ],
+            "answer": "la provincia",
+            "failed": 2,
+            "lastAsked": 1485802500.1728969,
+            "question": "Given the definition \"province\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "pleasant"
+            ],
+            "answer": "pleasant, enjoyable",
             "failed": 1,
-            "lastAsked": 1485784449.3380208,
-            "question": "What is the definition of \"fare quattro chicchiere\"?",
+            "lastAsked": 1485802585.4148183,
+            "question": "What is the definition of \"piacevole\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "perche"
+            ],
+            "answer": "perche'",
+            "failed": 1,
+            "lastAsked": 1485802582.8920386,
+            "question": "Given the definition \"because\", what is the word?",
             "tried": 4
         },
         {
             "alternates": [],
-            "answer": "crossword puzzle",
+            "answer": "infatti",
             "failed": 1,
-            "lastAsked": 1485784497.969735,
-            "question": "What is the definition of \"il cruciverba\"?",
+            "lastAsked": 1485802520.3242579,
+            "question": "Given the definition \"in fact\", what is the word?",
             "tried": 4
         },
         {
             "alternates": [],
-            "answer": "in fact",
+            "answer": "mentre",
             "failed": 1,
-            "lastAsked": 1485784505.233633,
-            "question": "What is the definition of \"infatti\"?",
+            "lastAsked": 1485802526.376242,
+            "question": "Given the definition \"while\", what is the word?",
             "tried": 4
         },
         {
             "alternates": [],
-            "answer": "ascoltare",
+            "answer": "relatives",
             "failed": 1,
-            "lastAsked": 1485784493.6817467,
-            "question": "Given the definition \"to listen to\", what is the word?",
+            "lastAsked": 1485802523.52435,
+            "question": "What is the definition of \"i parenti\"?",
             "tried": 4
         },
         {
             "alternates": [],
             "answer": "un po'",
             "failed": 1,
-            "lastAsked": 1485784502.8572454,
+            "lastAsked": 1485802587.9109013,
             "question": "Given the definition \"a bit\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "fare",
-            "failed": 1,
-            "lastAsked": 1485784506.9300613,
-            "question": "Given the definition \"to do, make\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "vedere",
-            "failed": 1,
-            "lastAsked": 1485784509.617482,
-            "question": "Given the definition \"to see\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "the face"
-            ],
-            "answer": "face",
-            "failed": 1,
-            "lastAsked": 1485784500.0021956,
-            "question": "What is the definition of \"la faccia\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "sorridente",
-            "failed": 2,
-            "lastAsked": 1485784519.0302157,
-            "question": "Given the definition \"smiling\", what is the word?",
             "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "forte",
-            "failed": 1,
-            "lastAsked": 1485784542.6727464,
-            "question": "Given the definition \"strong\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "astuto",
-            "failed": 1,
-            "lastAsked": 1485784535.2132533,
-            "question": "Given the definition \"astute, clever\", what is the word?",
-            "tried": 4
         },
         {
             "alternates": [
@@ -692,154 +607,151 @@
             ],
             "answer": "to tell stories",
             "failed": 1,
-            "lastAsked": 1485784527.3171837,
+            "lastAsked": 1485802591.7587614,
             "question": "What is the definition of \"raccontare\"?",
-            "tried": 4
+            "tried": 5
         },
         {
             "alternates": [],
-            "answer": "curioso",
+            "answer": "in fact",
             "failed": 1,
-            "lastAsked": 1485784521.4693089,
-            "question": "Given the definition \"curious\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "piacere",
-            "failed": 1,
-            "lastAsked": 1485784532.54944,
-            "question": "Given the definition \"to like\", what is the word?",
-            "tried": 4
+            "lastAsked": 1485802529.3120975,
+            "question": "What is the definition of \"infatti\"?",
+            "tried": 5
         },
         {
             "alternates": [],
             "answer": "nascere",
             "failed": 1,
-            "lastAsked": 1485784538.944692,
+            "lastAsked": 1485802597.431613,
             "question": "Given the definition \"to be born\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "butcher shop",
+            "failed": 2,
+            "lastAsked": 1485802626.1066594,
+            "question": "What is the definition of \"la macelleria\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "to have a chat"
+            ],
+            "answer": "to chat",
+            "failed": 1,
+            "lastAsked": 1485802618.4021502,
+            "question": "What is the definition of \"fare quattro chicchiere\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "extraordinary",
+            "failed": 1,
+            "lastAsked": 1485802609.2389736,
+            "question": "What is the definition of \"straordinario\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "vedere",
+            "failed": 1,
+            "lastAsked": 1485802595.0709937,
+            "question": "Given the definition \"to see\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "crossword puzzle",
+            "failed": 1,
+            "lastAsked": 1485802615.2662802,
+            "question": "What is the definition of \"il cruciverba\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "astuto",
+            "failed": 1,
+            "lastAsked": 1485802611.434394,
+            "question": "Given the definition \"astute, clever\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "piacere",
+            "failed": 1,
+            "lastAsked": 1485802622.7862687,
+            "question": "Given the definition \"to like\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "forte",
+            "failed": 1,
+            "lastAsked": 1485802646.149813,
+            "question": "Given the definition \"strong\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "ascoltare",
+            "failed": 1,
+            "lastAsked": 1485802651.0061307,
+            "question": "Given the definition \"to listen to\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "fare",
+            "failed": 1,
+            "lastAsked": 1485802627.9379838,
+            "question": "Given the definition \"to do, make\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "curioso",
+            "failed": 2,
+            "lastAsked": 1485802659.1137009,
+            "question": "Given the definition \"curious\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "the face"
+            ],
+            "answer": "face",
+            "failed": 1,
+            "lastAsked": 1485802656.4453714,
+            "question": "What is the definition of \"la faccia\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "age",
+            "failed": 1,
+            "lastAsked": 1485802637.9898803,
+            "question": "What is the definition of \"l'eta\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "little"
+            ],
+            "answer": "small",
+            "failed": 0,
+            "lastAsked": 1485802654.0778337,
+            "question": "What is the definition of \"piccolo\"?",
             "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "to be",
-            "failed": 0,
-            "lastAsked": 1485784529.365702,
-            "question": "What is the definition of \"essere\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "to live",
-            "failed": 0,
-            "lastAsked": 1485784544.8931375,
-            "question": "What is the definition of \"vivere\"?",
-            "tried": 3
         },
         {
             "alternates": [],
             "answer": "strong",
             "failed": 0,
-            "lastAsked": 1485784559.3086357,
+            "lastAsked": 1485802648.1418412,
             "question": "What is the definition of \"forte\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [
-                "the year before"
-            ],
-            "answer": "last year",
-            "failed": 0,
-            "lastAsked": 1485784563.1007013,
-            "question": "What is the definition of \"l'anno scorso\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "i parenti",
-            "failed": 0,
-            "lastAsked": 1485784553.5129266,
-            "question": "Given the definition \"relatives\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [
-                "a little"
-            ],
-            "answer": "a bit",
-            "failed": 0,
-            "lastAsked": 1485784568.2129216,
-            "question": "What is the definition of \"un po'\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "meaning",
-            "failed": 0,
-            "lastAsked": 1485784557.3647647,
-            "question": "What is the definition of \"il significato\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [
-                "why, because",
-                "why"
-            ],
-            "answer": "because",
-            "failed": 0,
-            "lastAsked": 1485784566.2530239,
-            "question": "What is the definition of \"perche'\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "l'estate",
-            "failed": 0,
-            "lastAsked": 1485784547.6689606,
-            "question": "Given the definition \"summer\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "to do"
-            ],
-            "answer": "to do, make",
-            "failed": 0,
-            "lastAsked": 1485784569.9485888,
-            "question": "What is the definition of \"fare\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "to have fun",
-            "failed": 0,
-            "lastAsked": 1485784609.9166393,
-            "question": "What is the definition of \"divertirsi\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "in my opinion",
-            "failed": 0,
-            "lastAsked": 1485784580.2166545,
-            "question": "What is the definition of \"secondo me\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "to see",
-            "failed": 0,
-            "lastAsked": 1485784590.1362867,
-            "question": "What is the definition of \"vedere\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "alto",
-            "failed": 0,
-            "lastAsked": 1485784605.4319448,
-            "question": "Given the definition \"tall, high\", what is the word?",
-            "tried": 3
+            "tried": 4
         },
         {
             "alternates": [
@@ -849,73 +761,41 @@
             ],
             "answer": "astute, clever",
             "failed": 0,
-            "lastAsked": 1485784583.728536,
+            "lastAsked": 1485802697.8364866,
             "question": "What is the definition of \"astuto\"?",
-            "tried": 3
+            "tried": 4
         },
         {
             "alternates": [],
-            "answer": "parlare",
+            "answer": "curious",
             "failed": 0,
-            "lastAsked": 1485784575.7167766,
-            "question": "Given the definition \"to speak, talk\", what is the word?",
-            "tried": 3
+            "lastAsked": 1485802694.4365585,
+            "question": "What is the definition of \"curioso\"?",
+            "tried": 4
         },
         {
             "alternates": [],
-            "answer": "to return",
+            "answer": "grande",
             "failed": 0,
-            "lastAsked": 1485784588.4164762,
-            "question": "What is the definition of \"ritornare\"?",
-            "tried": 3
+            "lastAsked": 1485802700.1410406,
+            "question": "Given the definition \"large, big\", what is the word?",
+            "tried": 4
         },
         {
             "alternates": [],
-            "answer": "to have",
+            "answer": "il posto",
             "failed": 0,
-            "lastAsked": 1485784585.9688365,
-            "question": "What is the definition of \"avere\"?",
-            "tried": 3
+            "lastAsked": 1485802664.20943,
+            "question": "Given the definition \"place\", what is the word?",
+            "tried": 4
         },
         {
             "alternates": [],
-            "answer": "summer",
+            "answer": "piccolo",
             "failed": 0,
-            "lastAsked": 1485784617.2520201,
-            "question": "What is the definition of \"l'estate\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "hair",
-            "failed": 0,
-            "lastAsked": 1485784622.0280387,
-            "question": "What is the definition of \"i capelli\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "to like",
-            "failed": 0,
-            "lastAsked": 1485784629.5514753,
-            "question": "What is the definition of \"piacere\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "to work",
-            "failed": 0,
-            "lastAsked": 1485784619.2756956,
-            "question": "What is the definition of \"lavorare\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "veloce",
-            "failed": 0,
-            "lastAsked": 1485784627.52803,
-            "question": "Given the definition \"fast\", what is the word?",
-            "tried": 3
+            "lastAsked": 1485802688.2489731,
+            "question": "Given the definition \"small\", what is the word?",
+            "tried": 4
         },
         {
             "alternates": [
@@ -923,20 +803,17 @@
             ],
             "answer": "question",
             "failed": 0,
-            "lastAsked": 1485784612.420274,
+            "lastAsked": 1485802667.2335541,
             "question": "What is the definition of \"la domanda\"?",
-            "tried": 3
+            "tried": 4
         },
         {
-            "alternates": [
-                "tranquil",
-                "tranquil, peaceful"
-            ],
-            "answer": "calm, quiet, tranquil",
+            "alternates": [],
+            "answer": "parlare",
             "failed": 0,
-            "lastAsked": 1485784615.3800266,
-            "question": "What is the definition of \"tranquillo\"?",
-            "tried": 3
+            "lastAsked": 1485802691.3328702,
+            "question": "Given the definition \"to speak, talk\", what is the word?",
+            "tried": 4
         },
         {
             "alternates": [
@@ -944,79 +821,9 @@
             ],
             "answer": "to speak, talk",
             "failed": 0,
-            "lastAsked": 1485784624.0480568,
+            "lastAsked": 1485802686.1167355,
             "question": "What is the definition of \"parlare\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [
-                "to stay"
-            ],
-            "answer": "to be, stay",
-            "failed": 0,
-            "lastAsked": 1485784636.703903,
-            "question": "What is the definition of \"stare\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "conoscere",
-            "failed": 0,
-            "lastAsked": 1485784652.3628895,
-            "question": "Given the definition \"to know a person\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "il posto",
-            "failed": 0,
-            "lastAsked": 1485784648.575489,
-            "question": "Given the definition \"place\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "piccolo",
-            "failed": 0,
-            "lastAsked": 1485784654.8035448,
-            "question": "Given the definition \"small\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [
-                "little"
-            ],
-            "answer": "small",
-            "failed": 0,
-            "lastAsked": 1485784656.8510542,
-            "question": "What is the definition of \"piccolo\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "essere",
-            "failed": 0,
-            "lastAsked": 1485784631.8160655,
-            "question": "Given the definition \"to be\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "guardare",
-            "failed": 0,
-            "lastAsked": 1485784640.9355671,
-            "question": "Given the definition \"to look at, watch\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [
-                "to watch"
-            ],
-            "answer": "to look at, watch",
-            "failed": 0,
-            "lastAsked": 1485784634.2241595,
-            "question": "What is the definition of \"guardare\"?",
-            "tried": 3
+            "tried": 4
         },
         {
             "alternates": [
@@ -1025,105 +832,96 @@
             ],
             "answer": "place",
             "failed": 0,
-            "lastAsked": 1485784663.170945,
+            "lastAsked": 1485802708.8043277,
             "question": "What is the definition of \"il posto\"?",
-            "tried": 3
+            "tried": 4
         },
         {
-            "alternates": [
-                "capelli",
-                "cappelli"
-            ],
-            "answer": "i capelli",
+            "alternates": [],
+            "answer": "summer",
             "failed": 0,
-            "lastAsked": 1485784676.0510068,
-            "question": "Given the definition \"hair\", what is the word?",
-            "tried": 3
+            "lastAsked": 1485802702.7172503,
+            "question": "What is the definition of \"l'estate\"?",
+            "tried": 4
         },
         {
-            "alternates": [
-                "tall"
-            ],
-            "answer": "tall, high",
+            "alternates": [],
+            "answer": "to be",
             "failed": 0,
-            "lastAsked": 1485784665.2430959,
-            "question": "What is the definition of \"alto\"?",
-            "tried": 3
+            "lastAsked": 1485802706.7086473,
+            "question": "What is the definition of \"essere\"?",
+            "tried": 4
         },
         {
-            "alternates": [
-                "small boy",
-                "the little boy"
-            ],
-            "answer": "a little boy",
+            "alternates": [],
+            "answer": "l'estate",
             "failed": 0,
-            "lastAsked": 1485784659.4594085,
-            "question": "What is the definition of \"il ragazzino\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [
-                "nipote"
-            ],
-            "answer": "il nipote",
-            "failed": 0,
-            "lastAsked": 1485784673.5949638,
-            "question": "Given the definition \"nephew, grandson\", what is the word?",
+            "lastAsked": 1485802719.2403982,
+            "question": "Given the definition \"summer\", what is the word?",
             "tried": 3
         },
         {
             "alternates": [],
-            "answer": "curious",
+            "answer": "in my opinion",
             "failed": 0,
-            "lastAsked": 1485784678.1754568,
-            "question": "What is the definition of \"curioso\"?",
-            "tried": 3
+            "lastAsked": 1485802716.6558948,
+            "question": "What is the definition of \"secondo me\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "the year before"
+            ],
+            "answer": "last year",
+            "failed": 0,
+            "lastAsked": 1485802722.5840364,
+            "question": "What is the definition of \"l'anno scorso\"?",
+            "tried": 4
         },
         {
             "alternates": [],
-            "answer": "grande",
+            "answer": "conoscere",
             "failed": 0,
-            "lastAsked": 1485784671.5471137,
-            "question": "Given the definition \"large, big\", what is the word?",
-            "tried": 3
+            "lastAsked": 1485802712.2366633,
+            "question": "Given the definition \"to know a person\", what is the word?",
+            "tried": 4
         },
         {
             "alternates": [],
             "answer": "where",
             "failed": 0,
-            "lastAsked": 1485784667.0194263,
+            "lastAsked": 1485802704.572157,
             "question": "What is the definition of \"dove\"?",
-            "tried": 3
+            "tried": 4
         },
         {
             "alternates": [
-                "the eyes"
+                "the voice"
             ],
-            "answer": "eyes",
+            "answer": "voice",
             "failed": 0,
-            "lastAsked": 1485784680.3430948,
-            "question": "What is the definition of \"gli occhi\"?",
-            "tried": 3
+            "lastAsked": 1485802730.6877642,
+            "question": "What is the definition of \"la voce\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "to like",
+            "failed": 0,
+            "lastAsked": 1485802726.4481337,
+            "question": "What is the definition of \"piacere\"?",
+            "tried": 4
         },
         {
             "alternates": [
-                "domanda"
+                "why, because",
+                "why"
             ],
-            "answer": "la domanda",
+            "answer": "because",
             "failed": 0,
-            "lastAsked": 1485784684.823281,
-            "question": "Given the definition \"question\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [
-                "the province"
-            ],
-            "answer": "province",
-            "failed": 0,
-            "lastAsked": 1485784692.5068736,
-            "question": "What is the definition of \"la provincia\"?",
-            "tried": 3
+            "lastAsked": 1485802741.3639832,
+            "question": "What is the definition of \"perche'\"?",
+            "tried": 4
         },
         {
             "alternates": [
@@ -1132,9 +930,27 @@
             ],
             "answer": "chubby, fat",
             "failed": 0,
-            "lastAsked": 1485784689.619032,
+            "lastAsked": 1485802728.663131,
             "question": "What is the definition of \"grasso\"?",
-            "tried": 3
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "to watch"
+            ],
+            "answer": "to look at, watch",
+            "failed": 0,
+            "lastAsked": 1485802736.7039611,
+            "question": "What is the definition of \"guardare\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "to return",
+            "failed": 0,
+            "lastAsked": 1485802739.5554714,
+            "question": "What is the definition of \"ritornare\"?",
+            "tried": 4
         },
         {
             "alternates": [
@@ -1142,19 +958,218 @@
             ],
             "answer": "large, big",
             "failed": 0,
-            "lastAsked": 1485784694.111355,
+            "lastAsked": 1485802724.2488308,
             "question": "What is the definition of \"grande\"?",
-            "tried": 3
+            "tried": 4
         },
         {
             "alternates": [
-                "the voice"
+                "capelli",
+                "cappelli"
             ],
-            "answer": "voice",
+            "answer": "i capelli",
             "failed": 0,
-            "lastAsked": 1485784681.926695,
-            "question": "What is the definition of \"la voce\"?",
-            "tried": 3
+            "lastAsked": 1485802734.0562627,
+            "question": "Given the definition \"hair\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "the province"
+            ],
+            "answer": "province",
+            "failed": 0,
+            "lastAsked": 1485802756.2515357,
+            "question": "What is the definition of \"la provincia\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "nipote"
+            ],
+            "answer": "il nipote",
+            "failed": 0,
+            "lastAsked": 1485802752.1235826,
+            "question": "Given the definition \"nephew, grandson\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "to have",
+            "failed": 0,
+            "lastAsked": 1485802754.1157713,
+            "question": "What is the definition of \"avere\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "tall"
+            ],
+            "answer": "tall, high",
+            "failed": 0,
+            "lastAsked": 1485802760.1633239,
+            "question": "What is the definition of \"alto\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "tranquil",
+                "tranquil, peaceful"
+            ],
+            "answer": "calm, quiet, tranquil",
+            "failed": 0,
+            "lastAsked": 1485802746.8675573,
+            "question": "What is the definition of \"tranquillo\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "to live",
+            "failed": 0,
+            "lastAsked": 1485802758.163225,
+            "question": "What is the definition of \"vivere\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "to stay"
+            ],
+            "answer": "to be, stay",
+            "failed": 0,
+            "lastAsked": 1485802744.3476124,
+            "question": "What is the definition of \"stare\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "small boy",
+                "the little boy"
+            ],
+            "answer": "a little boy",
+            "failed": 0,
+            "lastAsked": 1485802749.923586,
+            "question": "What is the definition of \"il ragazzino\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "to do"
+            ],
+            "answer": "to do, make",
+            "failed": 0,
+            "lastAsked": 1485802766.631526,
+            "question": "What is the definition of \"fare\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "meaning",
+            "failed": 0,
+            "lastAsked": 1485802769.3984914,
+            "question": "What is the definition of \"il significato\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "to work",
+            "failed": 0,
+            "lastAsked": 1485802771.9185052,
+            "question": "What is the definition of \"lavorare\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "guardare",
+            "failed": 0,
+            "lastAsked": 1485802764.9631472,
+            "question": "Given the definition \"to look at, watch\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "to have fun",
+            "failed": 0,
+            "lastAsked": 1485802779.7033186,
+            "question": "What is the definition of \"divertirsi\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "domanda"
+            ],
+            "answer": "la domanda",
+            "failed": 0,
+            "lastAsked": 1485802774.3752778,
+            "question": "Given the definition \"question\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "a little"
+            ],
+            "answer": "a bit",
+            "failed": 0,
+            "lastAsked": 1485802776.9590364,
+            "question": "What is the definition of \"un po'\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "to see",
+            "failed": 0,
+            "lastAsked": 1485802781.670527,
+            "question": "What is the definition of \"vedere\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "hair",
+            "failed": 0,
+            "lastAsked": 1485802794.8023658,
+            "question": "What is the definition of \"i capelli\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "essere",
+            "failed": 0,
+            "lastAsked": 1485802800.410103,
+            "question": "Given the definition \"to be\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "veloce",
+            "failed": 0,
+            "lastAsked": 1485802792.6907184,
+            "question": "Given the definition \"fast\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "the eyes"
+            ],
+            "answer": "eyes",
+            "failed": 0,
+            "lastAsked": 1485802797.0189457,
+            "question": "What is the definition of \"gli occhi\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "alto",
+            "failed": 0,
+            "lastAsked": 1485802784.7507024,
+            "question": "Given the definition \"tall, high\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "i parenti",
+            "failed": 0,
+            "lastAsked": 1485802790.3984814,
+            "question": "Given the definition \"relatives\", what is the word?",
+            "tried": 4
         }
     ]
 }

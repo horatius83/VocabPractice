@@ -1,0 +1,53 @@
+v0.1	Gianluigi 2
+v	andare	to go
+v	andare in bicicletta	to ride a bicycle
+v	arrivare	to arrive
+v	cambiare	to change
+v	comandare	to command, to give orders
+v	convincere	to convince
+v	dire	to say, tell
+v	dovere	to have to, must
+v	fermare	to stop
+v	guidare	to drive
+v	imparare	to learn
+v	insegnare	to teach
+v	leggere	to read
+v	promettere	to promise
+v	provare	to try
+v	scrivere	to write
+v	spiegare	to explain
+v	vincere	to win
+v	volere	to wish, want
+v	bianco	white
+v	antipatico	unpleasant, nasty
+v	domani	tomorrow
+v	ostinato	stubborn
+v	povero	poor
+v	sempre	always
+v	simpatico	nice, compatible
+v	tutto	everything, all
+v	l'asilo	kindergarten
+v	la cosa	thing
+v	la maestra	teacher
+v	la permanenza	stay
+v	la settimana	week
+v	la fatica	work
+v	Chi?	Who?
+v	Come?	What? What was that?
+v	durante	during
+v	intorno	around
+v	ma	but
+v	Perche'?	Why?
+v	poi	then
+v	I do	Io faccio
+v	You do	Tu fai
+v	He/She/You do	Lui/Lei fa
+v	We do	Noi facciamo
+v	Y'all do	Voi fate
+v	They do	Loro fanno
+v	I want	Io voglio
+v	You want	Tu vuoi
+v	He/She/You want	Lui/Lei vuole
+v	We want	Noi vogliamo
+v	Y'all want	Voi volete
+v	They want	Loro vogliono

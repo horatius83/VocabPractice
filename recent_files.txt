@@ -2,3 +2,4 @@
 .\Italian\Gianliugi_Vocab.json
 .\Italian\Chapter7.json
 .\Italian\Chapter7_2.json
+.\Italian\Gianluigi2.json

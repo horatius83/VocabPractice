@@ -1,0 +1,629 @@
+{
+    "name": ".\\Italian\\Gianluigi2.json",
+    "vocab": [
+        {
+            "answer": "to go",
+            "failed": 0,
+            "question": "What is the definition of \"andare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "andare",
+            "failed": 0,
+            "question": "Given the definition \"to go\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to ride a bicycle",
+            "failed": 0,
+            "question": "What is the definition of \"andare in bicicletta\"?",
+            "tried": 0
+        },
+        {
+            "answer": "andare in bicicletta",
+            "failed": 0,
+            "question": "Given the definition \"to ride a bicycle\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to arrive",
+            "failed": 0,
+            "question": "What is the definition of \"arrivare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "arrivare",
+            "failed": 0,
+            "question": "Given the definition \"to arrive\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to change",
+            "failed": 0,
+            "question": "What is the definition of \"cambiare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "cambiare",
+            "failed": 0,
+            "question": "Given the definition \"to change\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to command, to give orders",
+            "failed": 0,
+            "question": "What is the definition of \"comandare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "comandare",
+            "failed": 0,
+            "question": "Given the definition \"to command, to give orders\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to convince",
+            "failed": 0,
+            "question": "What is the definition of \"convincere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "convincere",
+            "failed": 0,
+            "question": "Given the definition \"to convince\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to say, tell",
+            "failed": 0,
+            "question": "What is the definition of \"dire\"?",
+            "tried": 0
+        },
+        {
+            "answer": "dire",
+            "failed": 0,
+            "question": "Given the definition \"to say, tell\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to have to, must",
+            "failed": 0,
+            "question": "What is the definition of \"dovere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "dovere",
+            "failed": 0,
+            "question": "Given the definition \"to have to, must\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to stop",
+            "failed": 0,
+            "question": "What is the definition of \"fermare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "fermare",
+            "failed": 0,
+            "question": "Given the definition \"to stop\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to drive",
+            "failed": 0,
+            "question": "What is the definition of \"guidare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "guidare",
+            "failed": 0,
+            "question": "Given the definition \"to drive\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to learn",
+            "failed": 0,
+            "question": "What is the definition of \"imparare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "imparare",
+            "failed": 0,
+            "question": "Given the definition \"to learn\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to teach",
+            "failed": 0,
+            "question": "What is the definition of \"insegnare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "insegnare",
+            "failed": 0,
+            "question": "Given the definition \"to teach\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to read",
+            "failed": 0,
+            "question": "What is the definition of \"leggere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "leggere",
+            "failed": 0,
+            "question": "Given the definition \"to read\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to promise",
+            "failed": 0,
+            "question": "What is the definition of \"promettere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "promettere",
+            "failed": 0,
+            "question": "Given the definition \"to promise\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to try",
+            "failed": 0,
+            "question": "What is the definition of \"provare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "provare",
+            "failed": 0,
+            "question": "Given the definition \"to try\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to write",
+            "failed": 0,
+            "question": "What is the definition of \"scrivere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "scrivere",
+            "failed": 0,
+            "question": "Given the definition \"to write\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to explain",
+            "failed": 0,
+            "question": "What is the definition of \"spiegare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "spiegare",
+            "failed": 0,
+            "question": "Given the definition \"to explain\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to win",
+            "failed": 0,
+            "question": "What is the definition of \"vincere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "vincere",
+            "failed": 0,
+            "question": "Given the definition \"to win\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to wish, want",
+            "failed": 0,
+            "question": "What is the definition of \"volere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "volere",
+            "failed": 0,
+            "question": "Given the definition \"to wish, want\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "white",
+            "failed": 0,
+            "question": "What is the definition of \"bianco\"?",
+            "tried": 0
+        },
+        {
+            "answer": "bianco",
+            "failed": 0,
+            "question": "Given the definition \"white\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "unpleasant, nasty",
+            "failed": 0,
+            "question": "What is the definition of \"antipatico\"?",
+            "tried": 0
+        },
+        {
+            "answer": "antipatico",
+            "failed": 0,
+            "question": "Given the definition \"unpleasant, nasty\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "tomorrow",
+            "failed": 0,
+            "question": "What is the definition of \"domani\"?",
+            "tried": 0
+        },
+        {
+            "answer": "domani",
+            "failed": 0,
+            "question": "Given the definition \"tomorrow\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "stubborn",
+            "failed": 0,
+            "question": "What is the definition of \"ostinato\"?",
+            "tried": 0
+        },
+        {
+            "answer": "ostinato",
+            "failed": 0,
+            "question": "Given the definition \"stubborn\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "poor",
+            "failed": 0,
+            "question": "What is the definition of \"povero\"?",
+            "tried": 0
+        },
+        {
+            "answer": "povero",
+            "failed": 0,
+            "question": "Given the definition \"poor\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "always",
+            "failed": 0,
+            "question": "What is the definition of \"sempre\"?",
+            "tried": 0
+        },
+        {
+            "answer": "sempre",
+            "failed": 0,
+            "question": "Given the definition \"always\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "nice, compatible",
+            "failed": 0,
+            "question": "What is the definition of \"simpatico\"?",
+            "tried": 0
+        },
+        {
+            "answer": "simpatico",
+            "failed": 0,
+            "question": "Given the definition \"nice, compatible\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "everything, all",
+            "failed": 0,
+            "question": "What is the definition of \"tutto\"?",
+            "tried": 0
+        },
+        {
+            "answer": "tutto",
+            "failed": 0,
+            "question": "Given the definition \"everything, all\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "kindergarten",
+            "failed": 0,
+            "question": "What is the definition of \"l'asilo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "l'asilo",
+            "failed": 0,
+            "question": "Given the definition \"kindergarten\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "thing",
+            "failed": 0,
+            "question": "What is the definition of \"la cosa\"?",
+            "tried": 0
+        },
+        {
+            "answer": "la cosa",
+            "failed": 0,
+            "question": "Given the definition \"thing\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "teacher",
+            "failed": 0,
+            "question": "What is the definition of \"la maestra\"?",
+            "tried": 0
+        },
+        {
+            "answer": "la maestra",
+            "failed": 0,
+            "question": "Given the definition \"teacher\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "stay",
+            "failed": 0,
+            "question": "What is the definition of \"la permanenza\"?",
+            "tried": 0
+        },
+        {
+            "answer": "la permanenza",
+            "failed": 0,
+            "question": "Given the definition \"stay\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "week",
+            "failed": 0,
+            "question": "What is the definition of \"la settimana\"?",
+            "tried": 0
+        },
+        {
+            "answer": "la settimana",
+            "failed": 0,
+            "question": "Given the definition \"week\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "work",
+            "failed": 0,
+            "question": "What is the definition of \"la fatica\"?",
+            "tried": 0
+        },
+        {
+            "answer": "la fatica",
+            "failed": 0,
+            "question": "Given the definition \"work\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Who?",
+            "failed": 0,
+            "question": "What is the definition of \"Chi?\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Chi?",
+            "failed": 0,
+            "question": "Given the definition \"Who?\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "What? What was that?",
+            "failed": 0,
+            "question": "What is the definition of \"Come?\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Come?",
+            "failed": 0,
+            "question": "Given the definition \"What? What was that?\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "during",
+            "failed": 0,
+            "question": "What is the definition of \"durante\"?",
+            "tried": 0
+        },
+        {
+            "answer": "durante",
+            "failed": 0,
+            "question": "Given the definition \"during\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "around",
+            "failed": 0,
+            "question": "What is the definition of \"intorno\"?",
+            "tried": 0
+        },
+        {
+            "answer": "intorno",
+            "failed": 0,
+            "question": "Given the definition \"around\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "but",
+            "failed": 0,
+            "question": "What is the definition of \"ma\"?",
+            "tried": 0
+        },
+        {
+            "answer": "ma",
+            "failed": 0,
+            "question": "Given the definition \"but\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Why?",
+            "failed": 0,
+            "question": "What is the definition of \"Perche'?\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Perche'?",
+            "failed": 0,
+            "question": "Given the definition \"Why?\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "then",
+            "failed": 0,
+            "question": "What is the definition of \"poi\"?",
+            "tried": 0
+        },
+        {
+            "answer": "poi",
+            "failed": 0,
+            "question": "Given the definition \"then\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Io faccio",
+            "failed": 0,
+            "question": "What is the definition of \"I do\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I do",
+            "failed": 0,
+            "question": "Given the definition \"Io faccio\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Tu fai",
+            "failed": 0,
+            "question": "What is the definition of \"You do\"?",
+            "tried": 0
+        },
+        {
+            "answer": "You do",
+            "failed": 0,
+            "question": "Given the definition \"Tu fai\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Lui/Lei fa",
+            "failed": 0,
+            "question": "What is the definition of \"He/She/You do\"?",
+            "tried": 0
+        },
+        {
+            "answer": "He/She/You do",
+            "failed": 0,
+            "question": "Given the definition \"Lui/Lei fa\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Noi facciamo",
+            "failed": 0,
+            "question": "What is the definition of \"We do\"?",
+            "tried": 0
+        },
+        {
+            "answer": "We do",
+            "failed": 0,
+            "question": "Given the definition \"Noi facciamo\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Voi fate",
+            "failed": 0,
+            "question": "What is the definition of \"Y'all do\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Y'all do",
+            "failed": 0,
+            "question": "Given the definition \"Voi fate\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Loro fanno",
+            "failed": 0,
+            "question": "What is the definition of \"They do\"?",
+            "tried": 0
+        },
+        {
+            "answer": "They do",
+            "failed": 0,
+            "question": "Given the definition \"Loro fanno\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Io voglio",
+            "failed": 0,
+            "question": "What is the definition of \"I want\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I want",
+            "failed": 0,
+            "question": "Given the definition \"Io voglio\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Tu vuoi",
+            "failed": 0,
+            "question": "What is the definition of \"You want\"?",
+            "tried": 0
+        },
+        {
+            "answer": "You want",
+            "failed": 0,
+            "question": "Given the definition \"Tu vuoi\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Lui/Lei vuole",
+            "failed": 0,
+            "question": "What is the definition of \"He/She/You want\"?",
+            "tried": 0
+        },
+        {
+            "answer": "He/She/You want",
+            "failed": 0,
+            "question": "Given the definition \"Lui/Lei vuole\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Noi vogliamo",
+            "failed": 0,
+            "question": "What is the definition of \"We want\"?",
+            "tried": 0
+        },
+        {
+            "answer": "We want",
+            "failed": 0,
+            "question": "Given the definition \"Noi vogliamo\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Voi volete",
+            "failed": 0,
+            "question": "What is the definition of \"Y'all want\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Y'all want",
+            "failed": 0,
+            "question": "Given the definition \"Voi volete\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Loro vogliono",
+            "failed": 0,
+            "question": "What is the definition of \"They want\"?",
+            "tried": 0
+        },
+        {
+            "answer": "They want",
+            "failed": 0,
+            "question": "Given the definition \"Loro vogliono\", what is the word?",
+            "tried": 0
+        }
+    ]
+}

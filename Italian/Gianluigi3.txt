@@ -1,0 +1,56 @@
+v0.1	Gianluigi Vocab Chapter 3
+v	alzarsi	to get up
+v	arrabbiarsi	to get angry
+v	chiudere	to close
+v	contare	to count
+v	creare	to create
+v	dormire	to sleep
+v	eliminare	to eliminate
+v	entrare	to enter
+v	fare finta di	to pretend
+v	giocare	to play a sport, cards
+v	mangiare	to eat
+v	osservare	to observe
+v	potere	to be able, can
+v	prendere	to take (in)
+v	raccongliere	to pick up, collect
+v	riunirsi	to get together
+v	sapere	to know how, a fact
+v	scoprire	to find out, discover
+v	sedersi	to set down
+v	vestirsi	to get dressed
+v	ancora	still, yet
+v	Certo!	Of course!
+v	di tanto in tanto	every now & then
+v	gia	already
+v	in pensione	retired
+v	intruso	intruded
+v	persino	even, also
+v	popolare	popular
+v	spesso	often
+v	tardi	late
+v	un'altra volta	again, another time
+v	l'appetito	appetite, hunger
+v	l'asso	ace
+v	l'aranciata	orange drink
+v	la cannuccia	drinking straw
+v	le carte	playing cards
+v	il cavallo	horse
+v	il fante	queen in cards
+v	il frigorifero (frigo)	refrigerator
+v	il giocatore	player
+v	il gioco	game
+v	l'inizio	the beginning
+v	il mazzo di carte	deck of cards
+v	la meraviglia	wonder, surprise
+v	il nonno	grandfather
+v	il papa	father
+v	il pranzo	dinner
+v	il proprietario	owner, proprieter
+v	il punteggio	score, points
+v	il re	king
+v	l'uomo	man
+v	gli uomini	men
+v	gli zii	aunts and uncles
+v	dunque	therefore, well
+v	piu'	more

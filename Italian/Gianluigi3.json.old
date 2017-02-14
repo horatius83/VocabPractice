@@ -1,0 +1,665 @@
+{
+    "name": ".\\Italian\\Gianluigi3.json",
+    "vocab": [
+        {
+            "answer": "to get up",
+            "failed": 0,
+            "question": "What is the definition of \"alzarsi\"?",
+            "tried": 0
+        },
+        {
+            "answer": "alzarsi",
+            "failed": 0,
+            "question": "Given the definition \"to get up\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to get angry",
+            "failed": 0,
+            "question": "What is the definition of \"arrabbiarsi\"?",
+            "tried": 0
+        },
+        {
+            "answer": "arrabbiarsi",
+            "failed": 0,
+            "question": "Given the definition \"to get angry\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to close",
+            "failed": 0,
+            "question": "What is the definition of \"chiudere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "chiudere",
+            "failed": 0,
+            "question": "Given the definition \"to close\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to count",
+            "failed": 0,
+            "question": "What is the definition of \"contare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "contare",
+            "failed": 0,
+            "question": "Given the definition \"to count\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to create",
+            "failed": 0,
+            "question": "What is the definition of \"creare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "creare",
+            "failed": 0,
+            "question": "Given the definition \"to create\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to sleep",
+            "failed": 0,
+            "question": "What is the definition of \"dormire\"?",
+            "tried": 0
+        },
+        {
+            "answer": "dormire",
+            "failed": 0,
+            "question": "Given the definition \"to sleep\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to eliminate",
+            "failed": 0,
+            "question": "What is the definition of \"eliminare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "eliminare",
+            "failed": 0,
+            "question": "Given the definition \"to eliminate\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to enter",
+            "failed": 0,
+            "question": "What is the definition of \"entrare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "entrare",
+            "failed": 0,
+            "question": "Given the definition \"to enter\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to pretend",
+            "failed": 0,
+            "question": "What is the definition of \"fare finta di\"?",
+            "tried": 0
+        },
+        {
+            "answer": "fare finta di",
+            "failed": 0,
+            "question": "Given the definition \"to pretend\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to play a sport, cards",
+            "failed": 0,
+            "question": "What is the definition of \"giocare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "giocare",
+            "failed": 0,
+            "question": "Given the definition \"to play a sport, cards\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to eat",
+            "failed": 0,
+            "question": "What is the definition of \"mangiare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "mangiare",
+            "failed": 0,
+            "question": "Given the definition \"to eat\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to observe",
+            "failed": 0,
+            "question": "What is the definition of \"osservare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "osservare",
+            "failed": 0,
+            "question": "Given the definition \"to observe\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to be able, can",
+            "failed": 0,
+            "question": "What is the definition of \"potere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "potere",
+            "failed": 0,
+            "question": "Given the definition \"to be able, can\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to take (in)",
+            "failed": 0,
+            "question": "What is the definition of \"prendere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "prendere",
+            "failed": 0,
+            "question": "Given the definition \"to take (in)\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to pick up, collect",
+            "failed": 0,
+            "question": "What is the definition of \"raccongliere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "raccongliere",
+            "failed": 0,
+            "question": "Given the definition \"to pick up, collect\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to get together",
+            "failed": 0,
+            "question": "What is the definition of \"riunirsi\"?",
+            "tried": 0
+        },
+        {
+            "answer": "riunirsi",
+            "failed": 0,
+            "question": "Given the definition \"to get together\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to know how, a fact",
+            "failed": 0,
+            "question": "What is the definition of \"sapere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "sapere",
+            "failed": 0,
+            "question": "Given the definition \"to know how, a fact\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to find out, discover",
+            "failed": 0,
+            "question": "What is the definition of \"scoprire\"?",
+            "tried": 0
+        },
+        {
+            "answer": "scoprire",
+            "failed": 0,
+            "question": "Given the definition \"to find out, discover\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to set down",
+            "failed": 0,
+            "question": "What is the definition of \"sedersi\"?",
+            "tried": 0
+        },
+        {
+            "answer": "sedersi",
+            "failed": 0,
+            "question": "Given the definition \"to set down\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to get dressed",
+            "failed": 0,
+            "question": "What is the definition of \"vestirsi\"?",
+            "tried": 0
+        },
+        {
+            "answer": "vestirsi",
+            "failed": 0,
+            "question": "Given the definition \"to get dressed\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "still, yet",
+            "failed": 0,
+            "question": "What is the definition of \"ancora\"?",
+            "tried": 0
+        },
+        {
+            "answer": "ancora",
+            "failed": 0,
+            "question": "Given the definition \"still, yet\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Of course!",
+            "failed": 0,
+            "question": "What is the definition of \"Certo!\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Certo!",
+            "failed": 0,
+            "question": "Given the definition \"Of course!\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "every now & then",
+            "failed": 0,
+            "question": "What is the definition of \"di tanto in tanto\"?",
+            "tried": 0
+        },
+        {
+            "answer": "di tanto in tanto",
+            "failed": 0,
+            "question": "Given the definition \"every now & then\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "already",
+            "failed": 0,
+            "question": "What is the definition of \"gia\"?",
+            "tried": 0
+        },
+        {
+            "answer": "gia",
+            "failed": 0,
+            "question": "Given the definition \"already\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "retired",
+            "failed": 0,
+            "question": "What is the definition of \"in pensione\"?",
+            "tried": 0
+        },
+        {
+            "answer": "in pensione",
+            "failed": 0,
+            "question": "Given the definition \"retired\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "intruded",
+            "failed": 0,
+            "question": "What is the definition of \"intruso\"?",
+            "tried": 0
+        },
+        {
+            "answer": "intruso",
+            "failed": 0,
+            "question": "Given the definition \"intruded\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "even, also",
+            "failed": 0,
+            "question": "What is the definition of \"persino\"?",
+            "tried": 0
+        },
+        {
+            "answer": "persino",
+            "failed": 0,
+            "question": "Given the definition \"even, also\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "popular",
+            "failed": 0,
+            "question": "What is the definition of \"popolare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "popolare",
+            "failed": 0,
+            "question": "Given the definition \"popular\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "often",
+            "failed": 0,
+            "question": "What is the definition of \"spesso\"?",
+            "tried": 0
+        },
+        {
+            "answer": "spesso",
+            "failed": 0,
+            "question": "Given the definition \"often\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "late",
+            "failed": 0,
+            "question": "What is the definition of \"tardi\"?",
+            "tried": 0
+        },
+        {
+            "answer": "tardi",
+            "failed": 0,
+            "question": "Given the definition \"late\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "again, another time",
+            "failed": 0,
+            "question": "What is the definition of \"un'altra volta\"?",
+            "tried": 0
+        },
+        {
+            "answer": "un'altra volta",
+            "failed": 0,
+            "question": "Given the definition \"again, another time\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "appetite, hunger",
+            "failed": 0,
+            "question": "What is the definition of \"l'appetito\"?",
+            "tried": 0
+        },
+        {
+            "answer": "l'appetito",
+            "failed": 0,
+            "question": "Given the definition \"appetite, hunger\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "ace",
+            "failed": 0,
+            "question": "What is the definition of \"l'asso\"?",
+            "tried": 0
+        },
+        {
+            "answer": "l'asso",
+            "failed": 0,
+            "question": "Given the definition \"ace\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "orange drink",
+            "failed": 0,
+            "question": "What is the definition of \"l'aranciata\"?",
+            "tried": 0
+        },
+        {
+            "answer": "l'aranciata",
+            "failed": 0,
+            "question": "Given the definition \"orange drink\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "drinking straw",
+            "failed": 0,
+            "question": "What is the definition of \"la cannuccia\"?",
+            "tried": 0
+        },
+        {
+            "answer": "la cannuccia",
+            "failed": 0,
+            "question": "Given the definition \"drinking straw\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "playing cards",
+            "failed": 0,
+            "question": "What is the definition of \"le carte\"?",
+            "tried": 0
+        },
+        {
+            "answer": "le carte",
+            "failed": 0,
+            "question": "Given the definition \"playing cards\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "horse",
+            "failed": 0,
+            "question": "What is the definition of \"il cavallo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il cavallo",
+            "failed": 0,
+            "question": "Given the definition \"horse\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "queen in cards",
+            "failed": 0,
+            "question": "What is the definition of \"il fante\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il fante",
+            "failed": 0,
+            "question": "Given the definition \"queen in cards\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "refrigerator",
+            "failed": 0,
+            "question": "What is the definition of \"il frigorifero (frigo)\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il frigorifero (frigo)",
+            "failed": 0,
+            "question": "Given the definition \"refrigerator\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "player",
+            "failed": 0,
+            "question": "What is the definition of \"il giocatore\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il giocatore",
+            "failed": 0,
+            "question": "Given the definition \"player\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "game",
+            "failed": 0,
+            "question": "What is the definition of \"il gioco\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il gioco",
+            "failed": 0,
+            "question": "Given the definition \"game\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "the beginning",
+            "failed": 0,
+            "question": "What is the definition of \"l'inizio\"?",
+            "tried": 0
+        },
+        {
+            "answer": "l'inizio",
+            "failed": 0,
+            "question": "Given the definition \"the beginning\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "deck of cards",
+            "failed": 0,
+            "question": "What is the definition of \"il mazzo di carte\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il mazzo di carte",
+            "failed": 0,
+            "question": "Given the definition \"deck of cards\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "wonder, surprise",
+            "failed": 0,
+            "question": "What is the definition of \"la meraviglia\"?",
+            "tried": 0
+        },
+        {
+            "answer": "la meraviglia",
+            "failed": 0,
+            "question": "Given the definition \"wonder, surprise\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "grandfather",
+            "failed": 0,
+            "question": "What is the definition of \"il nonno\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il nonno",
+            "failed": 0,
+            "question": "Given the definition \"grandfather\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "father",
+            "failed": 0,
+            "question": "What is the definition of \"il papa\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il papa",
+            "failed": 0,
+            "question": "Given the definition \"father\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "dinner",
+            "failed": 0,
+            "question": "What is the definition of \"il pranzo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il pranzo",
+            "failed": 0,
+            "question": "Given the definition \"dinner\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "owner, proprieter",
+            "failed": 0,
+            "question": "What is the definition of \"il proprietario\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il proprietario",
+            "failed": 0,
+            "question": "Given the definition \"owner, proprieter\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "score, points",
+            "failed": 0,
+            "question": "What is the definition of \"il punteggio\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il punteggio",
+            "failed": 0,
+            "question": "Given the definition \"score, points\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "king",
+            "failed": 0,
+            "question": "What is the definition of \"il re\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il re",
+            "failed": 0,
+            "question": "Given the definition \"king\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "man",
+            "failed": 0,
+            "question": "What is the definition of \"l'uomo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "l'uomo",
+            "failed": 0,
+            "question": "Given the definition \"man\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "men",
+            "failed": 0,
+            "question": "What is the definition of \"gli uomini\"?",
+            "tried": 0
+        },
+        {
+            "answer": "gli uomini",
+            "failed": 0,
+            "question": "Given the definition \"men\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "aunts and uncles",
+            "failed": 0,
+            "question": "What is the definition of \"gli zii\"?",
+            "tried": 0
+        },
+        {
+            "answer": "gli zii",
+            "failed": 0,
+            "question": "Given the definition \"aunts and uncles\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "therefore, well",
+            "failed": 0,
+            "question": "What is the definition of \"dunque\"?",
+            "tried": 0
+        },
+        {
+            "answer": "dunque",
+            "failed": 0,
+            "question": "Given the definition \"therefore, well\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "more",
+            "failed": 0,
+            "question": "What is the definition of \"piu'\"?",
+            "tried": 0
+        },
+        {
+            "answer": "piu'",
+            "failed": 0,
+            "question": "Given the definition \"more\", what is the word?",
+            "tried": 0
+        }
+    ]
+}

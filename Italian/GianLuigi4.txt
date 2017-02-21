@@ -1,0 +1,67 @@
+v0.1	Gianluigi Vocab Chapter 4
+v	aggiungere	to add
+v	aspettare	to wait (for)
+v	assagiare	to taste
+v	avere fame	to be hungry
+v	bruciarsi	to get burned
+v	contare	to sing
+v	completare	to complete
+v	cucinare	to cook
+v	decidere	to decide
+v	farsi male	to get hurt
+v	friggere	to fry
+v	girare	to stir, turn
+v	mettersi	to put on
+v	prepparare	to prepare
+v	ridere	to laugh
+v	ripetere	to repeat
+v	sentire	to listen
+v	suggerire	to suggest
+v	toccare	to touch
+v	giusto	corret, fair
+v	preferito	favorite
+v	vicino a	near
+v	primo	first
+v	second	second
+v	terzo	third
+v	quarto	fourth
+v	quinto	fifth
+v	sesto	sixth
+v	settimo	seventh
+v	ottavo	eighth
+v	nono	ninth
+v	decimo	tenth
+v	undicesimo	eleventh
+v	dodicesimo	twelveth
+v	il brano	passage
+v	il carciofo	artichoke
+v	la carota	carrot
+v	il cavolo	cabbage
+v	il cavolino	brussel sprout
+v	la cipolla	onion
+v	il contrario	opposite, antonym
+v	la correzione	correction
+v	la cucina elettica	stove
+v	l'estate	summer
+v	il fagiolo	bean
+v	il formaggino	cheese
+v	il forno	oven
+v	l'insalata	salad
+v	la melanzana	eggplant
+v	il nomignolo	nickname
+v	l'olio	oil
+v	il passsatempo	hobby, passtime
+v	la patata	potato
+v	i peperoni	peppers
+v	il pepe	pepper
+v	la pietanza	dish or food
+v	il pisello	pea
+v	il pollo	chicken
+v	il pollo fritto	fried chicken
+v	il pomodoro	tomato
+v	il profumo	smell, odor, perfume
+v	il ravanello	radish
+v	il rosmarino	rosemary (spice)
+v	il sale	salt
+v	Che altro?	What else?
+v	nient	nothing

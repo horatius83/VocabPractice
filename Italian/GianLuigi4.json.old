@@ -1,0 +1,797 @@
+{
+    "name": ".\\Italian\\GianLuigi4.json",
+    "vocab": [
+        {
+            "answer": "to add",
+            "failed": 0,
+            "question": "What is the definition of \"aggiungere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "aggiungere",
+            "failed": 0,
+            "question": "Given the definition \"to add\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to wait (for)",
+            "failed": 0,
+            "question": "What is the definition of \"aspettare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "aspettare",
+            "failed": 0,
+            "question": "Given the definition \"to wait (for)\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to taste",
+            "failed": 0,
+            "question": "What is the definition of \"assagiare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "assagiare",
+            "failed": 0,
+            "question": "Given the definition \"to taste\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to be hungry",
+            "failed": 0,
+            "question": "What is the definition of \"avere fame\"?",
+            "tried": 0
+        },
+        {
+            "answer": "avere fame",
+            "failed": 0,
+            "question": "Given the definition \"to be hungry\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to get burned",
+            "failed": 0,
+            "question": "What is the definition of \"bruciarsi\"?",
+            "tried": 0
+        },
+        {
+            "answer": "bruciarsi",
+            "failed": 0,
+            "question": "Given the definition \"to get burned\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to sing",
+            "failed": 0,
+            "question": "What is the definition of \"contare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "contare",
+            "failed": 0,
+            "question": "Given the definition \"to sing\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to complete",
+            "failed": 0,
+            "question": "What is the definition of \"completare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "completare",
+            "failed": 0,
+            "question": "Given the definition \"to complete\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to cook",
+            "failed": 0,
+            "question": "What is the definition of \"cucinare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "cucinare",
+            "failed": 0,
+            "question": "Given the definition \"to cook\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to decide",
+            "failed": 0,
+            "question": "What is the definition of \"decidere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "decidere",
+            "failed": 0,
+            "question": "Given the definition \"to decide\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to get hurt",
+            "failed": 0,
+            "question": "What is the definition of \"farsi male\"?",
+            "tried": 0
+        },
+        {
+            "answer": "farsi male",
+            "failed": 0,
+            "question": "Given the definition \"to get hurt\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to fry",
+            "failed": 0,
+            "question": "What is the definition of \"friggere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "friggere",
+            "failed": 0,
+            "question": "Given the definition \"to fry\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to stir, turn",
+            "failed": 0,
+            "question": "What is the definition of \"girare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "girare",
+            "failed": 0,
+            "question": "Given the definition \"to stir, turn\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to put on",
+            "failed": 0,
+            "question": "What is the definition of \"mettersi\"?",
+            "tried": 0
+        },
+        {
+            "answer": "mettersi",
+            "failed": 0,
+            "question": "Given the definition \"to put on\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to prepare",
+            "failed": 0,
+            "question": "What is the definition of \"prepparare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "prepparare",
+            "failed": 0,
+            "question": "Given the definition \"to prepare\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to laugh",
+            "failed": 0,
+            "question": "What is the definition of \"ridere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "ridere",
+            "failed": 0,
+            "question": "Given the definition \"to laugh\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to repeat",
+            "failed": 0,
+            "question": "What is the definition of \"ripetere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "ripetere",
+            "failed": 0,
+            "question": "Given the definition \"to repeat\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to listen",
+            "failed": 0,
+            "question": "What is the definition of \"sentire\"?",
+            "tried": 0
+        },
+        {
+            "answer": "sentire",
+            "failed": 0,
+            "question": "Given the definition \"to listen\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to suggest",
+            "failed": 0,
+            "question": "What is the definition of \"suggerire\"?",
+            "tried": 0
+        },
+        {
+            "answer": "suggerire",
+            "failed": 0,
+            "question": "Given the definition \"to suggest\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to touch",
+            "failed": 0,
+            "question": "What is the definition of \"toccare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "toccare",
+            "failed": 0,
+            "question": "Given the definition \"to touch\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "corret, fair",
+            "failed": 0,
+            "question": "What is the definition of \"giusto\"?",
+            "tried": 0
+        },
+        {
+            "answer": "giusto",
+            "failed": 0,
+            "question": "Given the definition \"corret, fair\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "favorite",
+            "failed": 0,
+            "question": "What is the definition of \"preferito\"?",
+            "tried": 0
+        },
+        {
+            "answer": "preferito",
+            "failed": 0,
+            "question": "Given the definition \"favorite\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "near",
+            "failed": 0,
+            "question": "What is the definition of \"vicino a\"?",
+            "tried": 0
+        },
+        {
+            "answer": "vicino a",
+            "failed": 0,
+            "question": "Given the definition \"near\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "first",
+            "failed": 0,
+            "question": "What is the definition of \"primo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "primo",
+            "failed": 0,
+            "question": "Given the definition \"first\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "second",
+            "failed": 0,
+            "question": "What is the definition of \"second\"?",
+            "tried": 0
+        },
+        {
+            "answer": "second",
+            "failed": 0,
+            "question": "Given the definition \"second\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "third",
+            "failed": 0,
+            "question": "What is the definition of \"terzo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "terzo",
+            "failed": 0,
+            "question": "Given the definition \"third\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "fourth",
+            "failed": 0,
+            "question": "What is the definition of \"quarto\"?",
+            "tried": 0
+        },
+        {
+            "answer": "quarto",
+            "failed": 0,
+            "question": "Given the definition \"fourth\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "fifth",
+            "failed": 0,
+            "question": "What is the definition of \"quinto\"?",
+            "tried": 0
+        },
+        {
+            "answer": "quinto",
+            "failed": 0,
+            "question": "Given the definition \"fifth\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "sixth",
+            "failed": 0,
+            "question": "What is the definition of \"sesto\"?",
+            "tried": 0
+        },
+        {
+            "answer": "sesto",
+            "failed": 0,
+            "question": "Given the definition \"sixth\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "seventh",
+            "failed": 0,
+            "question": "What is the definition of \"settimo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "settimo",
+            "failed": 0,
+            "question": "Given the definition \"seventh\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "eighth",
+            "failed": 0,
+            "question": "What is the definition of \"ottavo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "ottavo",
+            "failed": 0,
+            "question": "Given the definition \"eighth\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "ninth",
+            "failed": 0,
+            "question": "What is the definition of \"nono\"?",
+            "tried": 0
+        },
+        {
+            "answer": "nono",
+            "failed": 0,
+            "question": "Given the definition \"ninth\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "tenth",
+            "failed": 0,
+            "question": "What is the definition of \"decimo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "decimo",
+            "failed": 0,
+            "question": "Given the definition \"tenth\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "eleventh",
+            "failed": 0,
+            "question": "What is the definition of \"undicesimo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "undicesimo",
+            "failed": 0,
+            "question": "Given the definition \"eleventh\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "twelveth",
+            "failed": 0,
+            "question": "What is the definition of \"dodicesimo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "dodicesimo",
+            "failed": 0,
+            "question": "Given the definition \"twelveth\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "passage",
+            "failed": 0,
+            "question": "What is the definition of \"il brano\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il brano",
+            "failed": 0,
+            "question": "Given the definition \"passage\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "artichoke",
+            "failed": 0,
+            "question": "What is the definition of \"il carciofo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il carciofo",
+            "failed": 0,
+            "question": "Given the definition \"artichoke\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "carrot",
+            "failed": 0,
+            "question": "What is the definition of \"la carota\"?",
+            "tried": 0
+        },
+        {
+            "answer": "la carota",
+            "failed": 0,
+            "question": "Given the definition \"carrot\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "cabbage",
+            "failed": 0,
+            "question": "What is the definition of \"il cavolo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il cavolo",
+            "failed": 0,
+            "question": "Given the definition \"cabbage\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "brussel sprout",
+            "failed": 0,
+            "question": "What is the definition of \"il cavolino\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il cavolino",
+            "failed": 0,
+            "question": "Given the definition \"brussel sprout\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "onion",
+            "failed": 0,
+            "question": "What is the definition of \"la cipolla\"?",
+            "tried": 0
+        },
+        {
+            "answer": "la cipolla",
+            "failed": 0,
+            "question": "Given the definition \"onion\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "opposite, antonym",
+            "failed": 0,
+            "question": "What is the definition of \"il contrario\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il contrario",
+            "failed": 0,
+            "question": "Given the definition \"opposite, antonym\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "correction",
+            "failed": 0,
+            "question": "What is the definition of \"la correzione\"?",
+            "tried": 0
+        },
+        {
+            "answer": "la correzione",
+            "failed": 0,
+            "question": "Given the definition \"correction\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "stove",
+            "failed": 0,
+            "question": "What is the definition of \"la cucina elettica\"?",
+            "tried": 0
+        },
+        {
+            "answer": "la cucina elettica",
+            "failed": 0,
+            "question": "Given the definition \"stove\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "summer",
+            "failed": 0,
+            "question": "What is the definition of \"l'estate\"?",
+            "tried": 0
+        },
+        {
+            "answer": "l'estate",
+            "failed": 0,
+            "question": "Given the definition \"summer\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "bean",
+            "failed": 0,
+            "question": "What is the definition of \"il fagiolo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il fagiolo",
+            "failed": 0,
+            "question": "Given the definition \"bean\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "cheese",
+            "failed": 0,
+            "question": "What is the definition of \"il formaggino\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il formaggino",
+            "failed": 0,
+            "question": "Given the definition \"cheese\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "oven",
+            "failed": 0,
+            "question": "What is the definition of \"il forno\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il forno",
+            "failed": 0,
+            "question": "Given the definition \"oven\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "salad",
+            "failed": 0,
+            "question": "What is the definition of \"l'insalata\"?",
+            "tried": 0
+        },
+        {
+            "answer": "l'insalata",
+            "failed": 0,
+            "question": "Given the definition \"salad\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "eggplant",
+            "failed": 0,
+            "question": "What is the definition of \"la melanzana\"?",
+            "tried": 0
+        },
+        {
+            "answer": "la melanzana",
+            "failed": 0,
+            "question": "Given the definition \"eggplant\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "nickname",
+            "failed": 0,
+            "question": "What is the definition of \"il nomignolo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il nomignolo",
+            "failed": 0,
+            "question": "Given the definition \"nickname\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "oil",
+            "failed": 0,
+            "question": "What is the definition of \"l'olio\"?",
+            "tried": 0
+        },
+        {
+            "answer": "l'olio",
+            "failed": 0,
+            "question": "Given the definition \"oil\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "hobby, passtime",
+            "failed": 0,
+            "question": "What is the definition of \"il passsatempo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il passsatempo",
+            "failed": 0,
+            "question": "Given the definition \"hobby, passtime\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "potato",
+            "failed": 0,
+            "question": "What is the definition of \"la patata\"?",
+            "tried": 0
+        },
+        {
+            "answer": "la patata",
+            "failed": 0,
+            "question": "Given the definition \"potato\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "peppers",
+            "failed": 0,
+            "question": "What is the definition of \"i peperoni\"?",
+            "tried": 0
+        },
+        {
+            "answer": "i peperoni",
+            "failed": 0,
+            "question": "Given the definition \"peppers\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "pepper",
+            "failed": 0,
+            "question": "What is the definition of \"il pepe\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il pepe",
+            "failed": 0,
+            "question": "Given the definition \"pepper\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "dish or food",
+            "failed": 0,
+            "question": "What is the definition of \"la pietanza\"?",
+            "tried": 0
+        },
+        {
+            "answer": "la pietanza",
+            "failed": 0,
+            "question": "Given the definition \"dish or food\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "pea",
+            "failed": 0,
+            "question": "What is the definition of \"il pisello\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il pisello",
+            "failed": 0,
+            "question": "Given the definition \"pea\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "chicken",
+            "failed": 0,
+            "question": "What is the definition of \"il pollo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il pollo",
+            "failed": 0,
+            "question": "Given the definition \"chicken\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "fried chicken",
+            "failed": 0,
+            "question": "What is the definition of \"il pollo fritto\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il pollo fritto",
+            "failed": 0,
+            "question": "Given the definition \"fried chicken\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "tomato",
+            "failed": 0,
+            "question": "What is the definition of \"il pomodoro\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il pomodoro",
+            "failed": 0,
+            "question": "Given the definition \"tomato\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "smell, odor, perfume",
+            "failed": 0,
+            "question": "What is the definition of \"il profumo\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il profumo",
+            "failed": 0,
+            "question": "Given the definition \"smell, odor, perfume\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "radish",
+            "failed": 0,
+            "question": "What is the definition of \"il ravanello\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il ravanello",
+            "failed": 0,
+            "question": "Given the definition \"radish\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "rosemary (spice)",
+            "failed": 0,
+            "question": "What is the definition of \"il rosmarino\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il rosmarino",
+            "failed": 0,
+            "question": "Given the definition \"rosemary (spice)\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "salt",
+            "failed": 0,
+            "question": "What is the definition of \"il sale\"?",
+            "tried": 0
+        },
+        {
+            "answer": "il sale",
+            "failed": 0,
+            "question": "Given the definition \"salt\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "What else?",
+            "failed": 0,
+            "question": "What is the definition of \"Che altro?\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Che altro?",
+            "failed": 0,
+            "question": "Given the definition \"What else?\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "nothing",
+            "failed": 0,
+            "question": "What is the definition of \"nient\"?",
+            "tried": 0
+        },
+        {
+            "answer": "nient",
+            "failed": 0,
+            "question": "Given the definition \"nothing\", what is the word?",
+            "tried": 0
+        }
+    ]
+}

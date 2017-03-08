@@ -1,0 +1,24 @@
+v0.1	Gianluigi Vocab Chapter 5
+v	abbinare	to match
+v	avere molto da fare	to have a lot to do
+v	avere voglia di	to feel like
+v	capire(isc)	to understand
+v	divertirsi	to have fun
+v	fare colazione	to have breakfast
+v	incoraggiare	to encourage
+v	provare	to try
+v	recitare	to recite
+v	ripassare	to review
+v	riuscire	to succeed
+v	stufarsi	to get tired with
+v	adesso	now
+v	invece di	instead
+v	qualche volta	sometimes
+v	la calma	quietness, calm
+v	l'insegnante	teacher, instructor
+v	il lavoro	work, job
+v	la parola	word
+v	la pazienza	patience
+v	allora	therefore, well
+v	cosi	so
+v	soltanto	only

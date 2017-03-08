@@ -1,0 +1,39 @@
+v0.1	Gianluigi Vocab Chapter 8
+v	chiedere	to ask (for)
+v	correre	to run
+v	guastarsi	to spoil, to go bad
+v	odiare	to dislike, hate
+v	richiedere	to require, request
+v	sapere	to know
+v	a seconda della stagione	depending on the season
+v	caldo	warm, hot
+v	fresco	fresh
+v	ovale	oval
+v	parecchie volte	several times
+v	rettangolare	rectangular
+v	rotondo	round
+v	saggio	wise
+v	saporito	tasty, savoury
+v	secco	dry, dried
+v	sicuro	sure
+v	squisito	delicious
+v	stamattina	this morning
+v	l'arancia	orange
+v	la banana	banana
+v	la ciotola	bowl
+v	la cipolla	onion
+v	il fruttivendolo	fruit vendor
+v	i funghi	mushrooms
+v	la mela	apple
+v	il mercato	outdoor market
+v	i peperoni	peppers
+v	la pera	pear
+v	la pesca	peach
+v	il sapore	taste
+v	la tavola	table
+v	l'uva	grapes
+v	la verdura	vegetables
+v	la verita	truth
+v	le zucchine	zucchini
+v	anche	also
+v	percio	for that reason

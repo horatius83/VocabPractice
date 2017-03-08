@@ -5,3 +5,5 @@
 .\Italian\Gianluigi2.json
 .\Italian\Gianluigi3.json
 .\Italian\GianLuigi4.json
+.\Italian\Gianluigi5.json
+.\Italian\Gianluigi7.json

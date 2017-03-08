@@ -1,0 +1,51 @@
+v0.1	Gianluigi Vocab Chapter 7
+v	abbracciare	to hug
+v	amare	to love
+v	aprire	to open
+v	ascoltare	to listen to
+v	avere paura	to be afraid
+v	cadere	to fall
+v	camminare	to walk
+v	chiudere	to close
+v	guardare	to watch, to look at
+v	innervosire(isc)	to get nervous
+v	lasciare	to leave, to let go
+v	lavare	to wash
+v	masticare	to chew
+v	muovere	to move
+v	nuotare	to swim
+v	prepararsi	to get ready
+v	prommetere	to promise
+v	riuscire	to succeed
+v	salutare	to greet
+v	scrivere	to write
+v	sembrare	to seem, appear
+v	sentire	to hear
+v	tenere	to hold
+v	vedere	to see
+v	affamato	hungry
+v	alcuno	some
+v	contemporaneamente	at the same time
+v	da lontano	from afar
+v	del tutto diverso	very different
+v	ecco	here, there
+v	furbo	cunning, clever
+v	pauroso	scary, fearful
+v	subito	immediately, quickly
+v	l'asciugamano	towel
+v	la borsa	bag, pocketbook
+v	il berretto	cap
+v	le bevande	beverages
+v	il braccio	arm
+v	la crema per l'abbronzatura	tanning lotion
+v	i denti	teeth
+v	la gamba	leg
+v	il mare	sea, sea-side
+v	gli occhiali da sole	sunglasses
+v	le onde	waves
+v	le orecchie	ears
+v	il/la parente	relative
+v	il prosciutto	ham
+v	lo strillo	scream, shriek
+v	insieme	together
+v	secondo	according to

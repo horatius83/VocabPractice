@@ -1,0 +1,395 @@
+{
+    "name": ".\\Italian\\Gianluigi5.json",
+    "vocab": [
+        {
+            "alternates": [],
+            "answer": "provare",
+            "failed": 9,
+            "lastAsked": 1488824873.7696824,
+            "question": "Given the definition \"to try\", what is the word?",
+            "tried": 11
+        },
+        {
+            "alternates": [],
+            "answer": "abbinare",
+            "failed": 8,
+            "lastAsked": 1488824914.2971141,
+            "question": "Given the definition \"to match\", what is the word?",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "to succeed",
+            "failed": 9,
+            "lastAsked": 1488824938.5050967,
+            "question": "What is the definition of \"riuscire\"?",
+            "tried": 11
+        },
+        {
+            "alternates": [],
+            "answer": "stufarsi",
+            "failed": 7,
+            "lastAsked": 1488824853.074185,
+            "question": "Given the definition \"to get tired with\", what is the word?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "ripassare",
+            "failed": 7,
+            "lastAsked": 1488824921.8609636,
+            "question": "Given the definition \"to review\", what is the word?",
+            "tried": 9
+        },
+        {
+            "alternates": [
+                "to get tired of"
+            ],
+            "answer": "to get tired with",
+            "failed": 6,
+            "lastAsked": 1488824889.3255825,
+            "question": "What is the definition of \"stufarsi\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "l'insegnante",
+            "failed": 5,
+            "lastAsked": 1488824918.2772007,
+            "question": "Given the definition \"teacher, instructor\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "incoraggiare",
+            "failed": 5,
+            "lastAsked": 1488824909.0179484,
+            "question": "Given the definition \"to encourage\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "avere molto da fare",
+            "failed": 4,
+            "lastAsked": 1488393941.752898,
+            "question": "Given the definition \"to have a lot to do\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "allora",
+            "failed": 4,
+            "lastAsked": 1488393703.161414,
+            "question": "Given the definition \"therefore, well\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "la pazienza",
+            "failed": 3,
+            "lastAsked": 1488393914.5812898,
+            "question": "Given the definition \"patience\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "cosi",
+            "failed": 3,
+            "lastAsked": 1488394040.8067322,
+            "question": "Given the definition \"so\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "riuscire",
+            "failed": 3,
+            "lastAsked": 1488393896.5334518,
+            "question": "Given the definition \"to succeed\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "encourage"
+            ],
+            "answer": "to encourage",
+            "failed": 3,
+            "lastAsked": 1488393710.893176,
+            "question": "What is the definition of \"incoraggiare\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "now",
+            "failed": 3,
+            "lastAsked": 1488394113.6937308,
+            "question": "What is the definition of \"adesso\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "invece"
+            ],
+            "answer": "invece di",
+            "failed": 2,
+            "lastAsked": 1488393824.2991183,
+            "question": "Given the definition \"instead\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "recitare",
+            "failed": 2,
+            "lastAsked": 1488393657.2056847,
+            "question": "Given the definition \"to recite\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "il lavoro",
+            "failed": 2,
+            "lastAsked": 1488394111.7981243,
+            "question": "Given the definition \"work, job\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "divertirsi",
+            "failed": 2,
+            "lastAsked": 1488394019.0554414,
+            "question": "Given the definition \"to have fun\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "to review",
+            "failed": 2,
+            "lastAsked": 1488394035.959092,
+            "question": "What is the definition of \"ripassare\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "avere voglia di",
+            "failed": 2,
+            "lastAsked": 1488394104.541947,
+            "question": "Given the definition \"to feel like\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "only",
+            "failed": 2,
+            "lastAsked": 1488394032.2631924,
+            "question": "What is the definition of \"soltanto\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "to feel like",
+            "failed": 2,
+            "lastAsked": 1488393918.0531123,
+            "question": "What is the definition of \"avere voglia di\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "calm, tranquil, quiet"
+            ],
+            "answer": "quietness, calm",
+            "failed": 1,
+            "lastAsked": 1488393994.0318756,
+            "question": "What is the definition of \"la calma\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "parola"
+            ],
+            "answer": "la parola",
+            "failed": 1,
+            "lastAsked": 1488394092.698276,
+            "question": "Given the definition \"word\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "qualche volta",
+            "failed": 1,
+            "lastAsked": 1488393970.5445032,
+            "question": "Given the definition \"sometimes\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "to match",
+            "failed": 1,
+            "lastAsked": 1488394097.6301239,
+            "question": "What is the definition of \"abbinare\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "soltanto",
+            "failed": 1,
+            "lastAsked": 1488394124.7693398,
+            "question": "Given the definition \"only\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "to have much to do"
+            ],
+            "answer": "to have a lot to do",
+            "failed": 1,
+            "lastAsked": 1488394068.3424323,
+            "question": "What is the definition of \"avere molto da fare\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "therefore"
+            ],
+            "answer": "therefore, well",
+            "failed": 1,
+            "lastAsked": 1488394151.5088356,
+            "question": "What is the definition of \"allora\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "to try",
+            "failed": 1,
+            "lastAsked": 1488394146.389363,
+            "question": "What is the definition of \"provare\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "to recite",
+            "failed": 1,
+            "lastAsked": 1488394087.4702966,
+            "question": "What is the definition of \"recitare\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "fare colazione",
+            "failed": 1,
+            "lastAsked": 1488393869.2503936,
+            "question": "Given the definition \"to have breakfast\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "capire"
+            ],
+            "answer": "capire(isc)",
+            "failed": 1,
+            "lastAsked": 1488394143.920861,
+            "question": "Given the definition \"to understand\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "to have fun",
+            "failed": 1,
+            "lastAsked": 1488394071.190503,
+            "question": "What is the definition of \"divertirsi\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "patience",
+            "failed": 1,
+            "lastAsked": 1488393958.908621,
+            "question": "What is the definition of \"la pazienza\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "sometimes",
+            "failed": 0,
+            "lastAsked": 1488394117.5418394,
+            "question": "What is the definition of \"qualche volta\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "have breakfast"
+            ],
+            "answer": "to have breakfast",
+            "failed": 0,
+            "lastAsked": 1488394139.0171428,
+            "question": "What is the definition of \"fare colazione\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "instead of"
+            ],
+            "answer": "instead",
+            "failed": 0,
+            "lastAsked": 1488394171.0688956,
+            "question": "What is the definition of \"invece di\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "word",
+            "failed": 0,
+            "lastAsked": 1488394158.286183,
+            "question": "What is the definition of \"la parola\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "job"
+            ],
+            "answer": "work, job",
+            "failed": 0,
+            "lastAsked": 1488394140.8968897,
+            "question": "What is the definition of \"il lavoro\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "adesso",
+            "failed": 0,
+            "lastAsked": 1488394156.5808582,
+            "question": "Given the definition \"now\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to understand",
+            "failed": 0,
+            "lastAsked": 1488394161.668874,
+            "question": "What is the definition of \"capire(isc)\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "teacher, instructor",
+            "failed": 0,
+            "lastAsked": 1488394121.4337628,
+            "question": "What is the definition of \"l'insegnante\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "la calma",
+            "failed": 0,
+            "lastAsked": 1488394166.1327572,
+            "question": "Given the definition \"quietness, calm\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "so",
+            "failed": 0,
+            "lastAsked": 1488394153.3409364,
+            "question": "What is the definition of \"cosi\"?",
+            "tried": 2
+        }
+    ]
+}

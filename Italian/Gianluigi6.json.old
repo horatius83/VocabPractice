@@ -1,0 +1,526 @@
+{
+    "name": ".\\Italian\\Gianluigi6.json",
+    "vocab": [
+        {
+            "alternates": [],
+            "answer": "lontano da",
+            "failed": 1,
+            "lastAsked": 1489772761.3667781,
+            "question": "Given the definition \"far from\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "succedere",
+            "failed": 1,
+            "lastAsked": 1489772776.5700533,
+            "question": "Given the definition \"to happen\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "curly",
+            "failed": 3,
+            "lastAsked": 1489772835.4335964,
+            "question": "What is the definition of \"riccio\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "to worry",
+            "failed": 3,
+            "lastAsked": 1489772840.9138272,
+            "question": "What is the definition of \"preoccuparsi\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "amazing, fascinating",
+            "failed": 4,
+            "lastAsked": 1489772853.3732655,
+            "question": "What is the definition of \"affascinante\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "smile",
+            "failed": 2,
+            "lastAsked": 1489772779.2942393,
+            "question": "What is the definition of \"il sorriso\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "liscio",
+            "failed": 3,
+            "lastAsked": 1489772838.377227,
+            "question": "Given the definition \"straight\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "scendere",
+            "failed": 1,
+            "lastAsked": 1489772744.1750162,
+            "question": "Given the definition \"to descend\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "store",
+            "failed": 0,
+            "lastAsked": 1489772873.64942,
+            "question": "What is the definition of \"il negozio\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "per fortuna",
+            "failed": 2,
+            "lastAsked": 1489772932.8797288,
+            "question": "Given the definition \"luckily, fortunately\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "fissare",
+            "failed": 3,
+            "lastAsked": 1489772935.2885432,
+            "question": "Given the definition \"to set\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "barber",
+            "failed": 1,
+            "lastAsked": 1489772915.5047085,
+            "question": "What is the definition of \"il bariere\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to descend",
+            "failed": 0,
+            "lastAsked": 1489772895.988866,
+            "question": "What is the definition of \"scendere\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "preoccuparsi",
+            "failed": 0,
+            "lastAsked": 1489772861.4410572,
+            "question": "Given the definition \"to worry\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to get a hair cut",
+            "failed": 1,
+            "lastAsked": 1489772921.4802318,
+            "question": "What is the definition of \"farsi tagliare i capelli\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "road",
+            "failed": 1,
+            "lastAsked": 1489772923.592772,
+            "question": "What is the definition of \"la strada\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to remember, to remind",
+            "failed": 1,
+            "lastAsked": 1489773005.571606,
+            "question": "What is the definition of \"ricordare\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "capace",
+            "failed": 2,
+            "lastAsked": 1489773035.9435349,
+            "question": "Given the definition \"able, capable\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "troppo",
+            "failed": 2,
+            "lastAsked": 1489773019.011232,
+            "question": "Given the definition \"too, too much\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "esitare",
+            "failed": 3,
+            "lastAsked": 1489773038.4070559,
+            "question": "Given the definition \"to hesitate\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "without",
+            "failed": 0,
+            "lastAsked": 1489772950.572241,
+            "question": "What is the definition of \"senza\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "fortunately"
+            ],
+            "answer": "luckily, fortunately",
+            "failed": 0,
+            "lastAsked": 1489772940.6318197,
+            "question": "What is the definition of \"per fortuna\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "capable"
+            ],
+            "answer": "able, capable",
+            "failed": 2,
+            "lastAsked": 1489773033.943418,
+            "question": "What is the definition of \"capace\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "to come",
+            "failed": 1,
+            "lastAsked": 1489773016.6352818,
+            "question": "What is the definition of \"venire\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "ogni volta",
+            "failed": 1,
+            "lastAsked": 1489773115.9299247,
+            "question": "Given the definition \"each time, every time\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "accompagnare",
+            "failed": 2,
+            "lastAsked": 1489773134.206275,
+            "question": "Given the definition \"to accompany\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "venire",
+            "failed": 0,
+            "lastAsked": 1489773074.562664,
+            "question": "Given the definition \"to come\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "nobody, no one",
+            "failed": 1,
+            "lastAsked": 1489773119.250214,
+            "question": "What is the definition of \"nessuno\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "every time, each time"
+            ],
+            "answer": "each time, every time",
+            "failed": 1,
+            "lastAsked": 1489773102.0545716,
+            "question": "What is the definition of \"ogni volta\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "stairs",
+            "failed": 3,
+            "lastAsked": 1489773136.2775314,
+            "question": "What is the definition of \"le scale\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "la strada",
+            "failed": 1,
+            "lastAsked": 1489773094.6620424,
+            "question": "Given the definition \"road\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to hesitate",
+            "failed": 0,
+            "lastAsked": 1489773068.6906967,
+            "question": "What is the definition of \"esitare\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "pericoloso",
+            "failed": 3,
+            "lastAsked": 1489773294.3166804,
+            "question": "Given the definition \"dangerous\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "attraversare",
+            "failed": 3,
+            "lastAsked": 1489773289.7742412,
+            "question": "Given the definition \"to cross\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "to cross",
+            "failed": 1,
+            "lastAsked": 1489773206.7457223,
+            "question": "What is the definition of \"attraversare\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "farsi tagliare i capelli",
+            "failed": 2,
+            "lastAsked": 1489773264.3058062,
+            "question": "Given the definition \"to get a hair cut\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "to happen",
+            "failed": 1,
+            "lastAsked": 1489773203.9536722,
+            "question": "What is the definition of \"succedere\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "le scale",
+            "failed": 0,
+            "lastAsked": 1489773142.7576358,
+            "question": "Given the definition \"stairs\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "far from",
+            "failed": 0,
+            "lastAsked": 1489773183.1219516,
+            "question": "What is the definition of \"lontano da\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "il negozio",
+            "failed": 1,
+            "lastAsked": 1489773243.4786253,
+            "question": "Given the definition \"store\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to be located",
+            "failed": 3,
+            "lastAsked": 1489773445.8244534,
+            "question": "What is the definition of \"trovarsi\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "il sorriso",
+            "failed": 1,
+            "lastAsked": 1489773366.448747,
+            "question": "Given the definition \"smile\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to notice, note",
+            "failed": 3,
+            "lastAsked": 1489773441.2960465,
+            "question": "What is the definition of \"notare\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "scissors",
+            "failed": 2,
+            "lastAsked": 1489773438.0086854,
+            "question": "What is the definition of \"le forbici\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "to accompany",
+            "failed": 0,
+            "lastAsked": 1489773299.57368,
+            "question": "What is the definition of \"accompagnare\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "riccio",
+            "failed": 1,
+            "lastAsked": 1489773359.564932,
+            "question": "Given the definition \"curly\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "ricordare",
+            "failed": 1,
+            "lastAsked": 1489773377.569247,
+            "question": "Given the definition \"to remember, to remind\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "l'attesa",
+            "failed": 3,
+            "lastAsked": 1489773450.2325513,
+            "question": "Given the definition \"waiting time\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "waiting time",
+            "failed": 0,
+            "lastAsked": 1489773486.1401124,
+            "question": "What is the definition of \"l'attesa\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "tutt'intorno",
+            "failed": 2,
+            "lastAsked": 1489773533.0483096,
+            "question": "Given the definition \"all around\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "nessuno",
+            "failed": 1,
+            "lastAsked": 1489773509.052467,
+            "question": "Given the definition \"nobody, no one\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "all around",
+            "failed": 2,
+            "lastAsked": 1489773529.5759997,
+            "question": "What is the definition of \"tutt'intorno\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "to set",
+            "failed": 2,
+            "lastAsked": 1489773534.9675727,
+            "question": "What is the definition of \"fissare\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "affascinante",
+            "failed": 3,
+            "lastAsked": 1489773553.6681862,
+            "question": "Given the definition \"amazing, fascinating\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "straight",
+            "failed": 3,
+            "lastAsked": 1489773551.1636384,
+            "question": "What is the definition of \"liscio\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "il bariere",
+            "failed": 2,
+            "lastAsked": 1489773540.9401636,
+            "question": "Given the definition \"barber\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "le forbici",
+            "failed": 7,
+            "lastAsked": 1489773613.9835043,
+            "question": "Given the definition \"scissors\", what is the word?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "notare",
+            "failed": 4,
+            "lastAsked": 1489773607.3434663,
+            "question": "Given the definition \"to notice, note\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "trovarsi",
+            "failed": 4,
+            "lastAsked": 1489773592.4038243,
+            "question": "Given the definition \"to be located\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "il turno",
+            "failed": 2,
+            "lastAsked": 1489773579.6918306,
+            "question": "Given the definition \"turn; shift\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "too, too much",
+            "failed": 3,
+            "lastAsked": 1489773603.9676309,
+            "question": "What is the definition of \"troppo\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "turn",
+                "turn, shift"
+            ],
+            "answer": "turn; shift",
+            "failed": 1,
+            "lastAsked": 1489773558.2839446,
+            "question": "What is the definition of \"il turno\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "dangerous",
+            "failed": 1,
+            "lastAsked": 1489773561.8801842,
+            "question": "What is the definition of \"pericoloso\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "senza",
+            "failed": 2,
+            "lastAsked": 1489773595.3318415,
+            "question": "Given the definition \"without\", what is the word?",
+            "tried": 4
+        }
+    ]
+}

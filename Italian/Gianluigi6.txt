@@ -1,0 +1,33 @@
+v0.1	Gianluigi Chapter 6
+v	accompagnare	to accompany
+v	attraversare	to cross
+v	esitare	to hesitate
+v	farsi tagliare i capelli	to get a hair cut
+v	fissare	to set
+v	notare	to notice, note
+v	preoccuparsi	to worry
+v	ricordare	to remember, to remind
+v	scendere	to descend
+v	succedere	to happen
+v	trovarsi	to be located
+v	venire	to come
+v	affascinante	amazing, fascinating
+v	capace	able, capable
+v	liscio	straight
+v	lontano da	far from
+v	ogni volta	each time, every time
+v	per fortuna	luckily, fortunately
+v	pericoloso	dangerous
+v	riccio	curly
+v	troppo	too, too much
+v	tutt'intorno	all around
+v	l'attesa	waiting time
+v	il bariere	barber
+v	le forbici	scissors
+v	il negozio	store
+v	le scale	stairs
+v	il sorriso	smile
+v	la strada	road
+v	il turno	turn; shift
+v	nessuno	nobody, no one
+v	senza	without

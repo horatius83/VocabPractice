@@ -3,141 +3,601 @@
     "vocab": [
         {
             "alternates": [],
-            "answer": "la tavola",
-            "failed": 1,
-            "lastAsked": 1488997366.2345817,
-            "question": "Given the definition \"table\", what is the word?",
-            "tried": 2
+            "answer": "sicuro",
+            "failed": 11,
+            "lastAsked": 1490376999.2599657,
+            "question": "Given the definition \"sure\", what is the word?",
+            "tried": 16
         },
         {
             "alternates": [],
-            "answer": "la pera",
-            "failed": 1,
-            "lastAsked": 1488997346.9428747,
-            "question": "Given the definition \"pear\", what is the word?",
-            "tried": 2
+            "answer": "guastarsi",
+            "failed": 11,
+            "lastAsked": 1490376996.5568702,
+            "question": "Given the definition \"to spoil, to go bad\", what is the word?",
+            "tried": 16
         },
         {
             "alternates": [],
-            "answer": "percio",
-            "failed": 3,
-            "lastAsked": 1488997414.1062617,
-            "question": "Given the definition \"for that reason\", what is the word?",
-            "tried": 4
+            "answer": "parecchie volte",
+            "failed": 10,
+            "lastAsked": 1490377061.4711802,
+            "question": "Given the definition \"several times\", what is the word?",
+            "tried": 15
         },
         {
-            "alternates": [],
-            "answer": "zucchini",
-            "failed": 1,
-            "lastAsked": 1488997349.8590014,
-            "question": "What is the definition of \"le zucchine\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "sure",
-            "failed": 2,
-            "lastAsked": 1488997397.9182138,
-            "question": "What is the definition of \"sicuro\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "a seconda della stagione",
-            "failed": 2,
-            "lastAsked": 1488997390.2861643,
-            "question": "Given the definition \"depending on the season\", what is the word?",
-            "tried": 3
+            "alternates": [
+                "sapore"
+            ],
+            "answer": "il sapore",
+            "failed": 9,
+            "lastAsked": 1490377041.275716,
+            "question": "Given the definition \"taste\", what is the word?",
+            "tried": 14
         },
         {
             "alternates": [],
             "answer": "for that reason",
-            "failed": 2,
-            "lastAsked": 1488997394.8141887,
+            "failed": 9,
+            "lastAsked": 1490377056.879197,
             "question": "What is the definition of \"percio\"?",
-            "tried": 3
+            "tried": 14
+        },
+        {
+            "alternates": [],
+            "answer": "saporito",
+            "failed": 8,
+            "lastAsked": 1490377006.5521915,
+            "question": "Given the definition \"tasty, savoury\", what is the word?",
+            "tried": 13
+        },
+        {
+            "alternates": [],
+            "answer": "saggio",
+            "failed": 7,
+            "lastAsked": 1490377002.2479668,
+            "question": "Given the definition \"wise\", what is the word?",
+            "tried": 12
+        },
+        {
+            "alternates": [],
+            "answer": "a seconda della stagione",
+            "failed": 7,
+            "lastAsked": 1490377047.8671994,
+            "question": "Given the definition \"depending on the season\", what is the word?",
+            "tried": 12
+        },
+        {
+            "alternates": [],
+            "answer": "taste",
+            "failed": 7,
+            "lastAsked": 1490377133.6081235,
+            "question": "What is the definition of \"il sapore\"?",
+            "tried": 12
+        },
+        {
+            "alternates": [],
+            "answer": "la pesca",
+            "failed": 8,
+            "lastAsked": 1490377155.7805474,
+            "question": "Given the definition \"peach\", what is the word?",
+            "tried": 13
+        },
+        {
+            "alternates": [],
+            "answer": "dry, dried",
+            "failed": 7,
+            "lastAsked": 1490377085.554353,
+            "question": "What is the definition of \"secco\"?",
+            "tried": 12
+        },
+        {
+            "alternates": [],
+            "answer": "correre",
+            "failed": 7,
+            "lastAsked": 1490377153.2447262,
+            "question": "Given the definition \"to run\", what is the word?",
+            "tried": 12
+        },
+        {
+            "alternates": [],
+            "answer": "il fruttivendolo",
+            "failed": 7,
+            "lastAsked": 1490377160.0914478,
+            "question": "Given the definition \"fruit vendor\", what is the word?",
+            "tried": 12
+        },
+        {
+            "alternates": [
+                "to spoil",
+                "to spoil, to go rotten"
+            ],
+            "answer": "to spoil, to go bad",
+            "failed": 6,
+            "lastAsked": 1490377078.4267323,
+            "question": "What is the definition of \"guastarsi\"?",
+            "tried": 11
+        },
+        {
+            "alternates": [],
+            "answer": "percio",
+            "failed": 5,
+            "lastAsked": 1490377130.880878,
+            "question": "Given the definition \"for that reason\", what is the word?",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "richiedere",
+            "failed": 5,
+            "lastAsked": 1490377150.8851168,
+            "question": "Given the definition \"to require, request\", what is the word?",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "la tavola",
+            "failed": 5,
+            "lastAsked": 1490377195.3674946,
+            "question": "Given the definition \"table\", what is the word?",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "rotondo",
+            "failed": 4,
+            "lastAsked": 1490377182.1918292,
+            "question": "Given the definition \"round\", what is the word?",
+            "tried": 9
+        },
+        {
+            "alternates": [
+                "to request, require",
+                "to request"
+            ],
+            "answer": "to require, request",
+            "failed": 4,
+            "lastAsked": 1490377175.3204339,
+            "question": "What is the definition of \"richiedere\"?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "rettangolare",
+            "failed": 4,
+            "lastAsked": 1490377165.2129414,
+            "question": "Given the definition \"rectangular\", what is the word?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "peach",
+            "failed": 5,
+            "lastAsked": 1490377204.9795713,
+            "question": "What is the definition of \"la pesca\"?",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "la pera",
+            "failed": 5,
+            "lastAsked": 1490377202.0198987,
+            "question": "Given the definition \"pear\", what is the word?",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "wise",
+            "failed": 4,
+            "lastAsked": 1490377191.8238845,
+            "question": "What is the definition of \"saggio\"?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "rectangular",
+            "failed": 3,
+            "lastAsked": 1490377198.6597822,
+            "question": "What is the definition of \"rettangolare\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [
+                "ciotola"
+            ],
+            "answer": "la ciotola",
+            "failed": 3,
+            "lastAsked": 1490377215.0913339,
+            "question": "Given the definition \"bowl\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [
+                "tasty, savory"
+            ],
+            "answer": "tasty, savoury",
+            "failed": 5,
+            "lastAsked": 1490377259.5620117,
+            "question": "What is the definition of \"saporito\"?",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "anche",
+            "failed": 3,
+            "lastAsked": 1490377236.9267437,
+            "question": "Given the definition \"also\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "stamattina",
+            "failed": 3,
+            "lastAsked": 1490377221.4317195,
+            "question": "Given the definition \"this morning\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "to know",
+            "failed": 3,
+            "lastAsked": 1490377240.1827629,
+            "question": "What is the definition of \"sapere\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "odiare",
+            "failed": 3,
+            "lastAsked": 1490377207.0358748,
+            "question": "Given the definition \"to dislike, hate\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "fresco",
+            "failed": 3,
+            "lastAsked": 1490377242.7108595,
+            "question": "Given the definition \"fresh\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [
+                "zucchinis"
+            ],
+            "answer": "zucchini",
+            "failed": 2,
+            "lastAsked": 1490377218.2837093,
+            "question": "What is the definition of \"le zucchine\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "several times",
+            "failed": 2,
+            "lastAsked": 1490377262.793942,
+            "question": "What is the definition of \"parecchie volte\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "outdoor market",
+            "failed": 2,
+            "lastAsked": 1490377290.5215127,
+            "question": "What is the definition of \"il mercato\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "le zucchine",
+            "failed": 2,
+            "lastAsked": 1490377302.2647705,
+            "question": "Given the definition \"zucchini\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "il mercato",
+            "failed": 2,
+            "lastAsked": 1490377278.8621604,
+            "question": "Given the definition \"outdoor market\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "sure",
+            "failed": 3,
+            "lastAsked": 1490377304.0972302,
+            "question": "What is the definition of \"sicuro\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "to run",
+            "failed": 2,
+            "lastAsked": 1490377280.9017005,
+            "question": "What is the definition of \"correre\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "verita"
+            ],
+            "answer": "la verita",
+            "failed": 3,
+            "lastAsked": 1490377306.8007393,
+            "question": "Given the definition \"truth\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "ovale",
+            "failed": 2,
+            "lastAsked": 1490377292.321868,
+            "question": "Given the definition \"oval\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "delicious",
+            "failed": 2,
+            "lastAsked": 1490377309.5769072,
+            "question": "What is the definition of \"squisito\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "fruit vendor",
+            "failed": 2,
+            "lastAsked": 1490377339.116302,
+            "question": "What is the definition of \"il fruttivendolo\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "pear",
+            "failed": 1,
+            "lastAsked": 1490377311.5296462,
+            "question": "What is the definition of \"la pera\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "squisito",
+            "failed": 1,
+            "lastAsked": 1490377320.2130423,
+            "question": "Given the definition \"delicious\", what is the word?",
+            "tried": 6
         },
         {
             "alternates": [],
             "answer": "secco",
             "failed": 1,
-            "lastAsked": 1488997360.1866899,
+            "lastAsked": 1490377328.1633985,
             "question": "Given the definition \"dry, dried\", what is the word?",
-            "tried": 2
+            "tried": 6
         },
         {
-            "alternates": [],
-            "answer": "la ciotola",
+            "alternates": [
+                "to hate, dislike",
+                "to hate"
+            ],
+            "answer": "to dislike, hate",
             "failed": 1,
-            "lastAsked": 1488997459.6453407,
-            "question": "Given the definition \"bowl\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "bowl",
-            "failed": 0,
-            "lastAsked": 1488997426.8338888,
-            "question": "What is the definition of \"la ciotola\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "delicious",
-            "failed": 1,
-            "lastAsked": 1488997476.3854568,
-            "question": "What is the definition of \"squisito\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "taste",
-            "failed": 5,
-            "lastAsked": 1488997539.2406354,
-            "question": "What is the definition of \"il sapore\"?",
+            "lastAsked": 1490377322.212983,
+            "question": "What is the definition of \"odiare\"?",
             "tried": 6
         },
         {
             "alternates": [],
-            "answer": "to know",
+            "answer": "i peperoni",
+            "failed": 2,
+            "lastAsked": 1490377342.9762316,
+            "question": "Given the definition \"peppers\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "le banane",
+                "banana"
+            ],
+            "answer": "la banana",
             "failed": 1,
-            "lastAsked": 1488997461.9134126,
-            "question": "What is the definition of \"sapere\"?",
-            "tried": 2
+            "lastAsked": 1490377325.780368,
+            "question": "Given the definition \"banana\", what is the word?",
+            "tried": 6
         },
         {
             "alternates": [],
-            "answer": "guastarsi",
-            "failed": 4,
-            "lastAsked": 1488997532.627984,
-            "question": "Given the definition \"to spoil, to go bad\", what is the word?",
+            "answer": "depending on the season",
+            "failed": 1,
+            "lastAsked": 1490377368.21173,
+            "question": "What is the definition of \"a seconda della stagione\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "chiedere",
+            "failed": 1,
+            "lastAsked": 1490377349.4401577,
+            "question": "Given the definition \"to ask (for)\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "fresh",
+            "failed": 1,
+            "lastAsked": 1490377358.8241959,
+            "question": "What is the definition of \"fresco\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "cipolla"
+            ],
+            "answer": "la cipolla",
+            "failed": 1,
+            "lastAsked": 1490377356.9045334,
+            "question": "Given the definition \"onion\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "sapere",
+            "failed": 1,
+            "lastAsked": 1490377346.640906,
+            "question": "Given the definition \"to know\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "also",
+            "failed": 1,
+            "lastAsked": 1490377344.6405852,
+            "question": "What is the definition of \"anche\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "l'arancia",
+            "failed": 0,
+            "lastAsked": 1490377361.1717305,
+            "question": "Given the definition \"orange\", what is the word?",
             "tried": 5
         },
         {
             "alternates": [],
-            "answer": "odiare",
-            "failed": 2,
-            "lastAsked": 1488997498.128552,
-            "question": "Given the definition \"to dislike, hate\", what is the word?",
-            "tried": 3
+            "answer": "this morning",
+            "failed": 0,
+            "lastAsked": 1490377352.1928895,
+            "question": "What is the definition of \"stamattina\"?",
+            "tried": 5
         },
         {
             "alternates": [],
-            "answer": "rectangular",
-            "failed": 1,
-            "lastAsked": 1488997473.8814309,
-            "question": "What is the definition of \"rettangolare\"?",
-            "tried": 2
+            "answer": "orange",
+            "failed": 0,
+            "lastAsked": 1490377372.3155866,
+            "question": "What is the definition of \"l'arancia\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "truth",
+            "failed": 0,
+            "lastAsked": 1490377389.3117855,
+            "question": "What is the definition of \"la verita\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "l'uva",
+            "failed": 0,
+            "lastAsked": 1490377380.0275016,
+            "question": "Given the definition \"grapes\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "oval",
+            "failed": 0,
+            "lastAsked": 1490377370.3636236,
+            "question": "What is the definition of \"ovale\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "i funghi",
+            "failed": 0,
+            "lastAsked": 1490377374.7798898,
+            "question": "Given the definition \"mushrooms\", what is the word?",
+            "tried": 5
         },
         {
             "alternates": [
-                "to request"
+                "vegetable"
             ],
-            "answer": "to require, request",
-            "failed": 1,
-            "lastAsked": 1488997603.5956125,
-            "question": "What is the definition of \"richiedere\"?",
-            "tried": 2
+            "answer": "vegetables",
+            "failed": 0,
+            "lastAsked": 1490377386.8717287,
+            "question": "What is the definition of \"la verdura\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "mela"
+            ],
+            "answer": "la mela",
+            "failed": 0,
+            "lastAsked": 1490377391.206966,
+            "question": "Given the definition \"apple\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "peppers",
+            "failed": 0,
+            "lastAsked": 1490377377.5547845,
+            "question": "What is the definition of \"i peperoni\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "round",
+            "failed": 0,
+            "lastAsked": 1490377413.1464682,
+            "question": "What is the definition of \"rotondo\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "banana",
+            "failed": 0,
+            "lastAsked": 1490377395.2231164,
+            "question": "What is the definition of \"la banana\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "mushrooms",
+            "failed": 0,
+            "lastAsked": 1490377416.0188978,
+            "question": "What is the definition of \"i funghi\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "table",
+            "failed": 0,
+            "lastAsked": 1490377397.511366,
+            "question": "What is the definition of \"la tavola\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "grape"
+            ],
+            "answer": "grapes",
+            "failed": 0,
+            "lastAsked": 1490377406.1745973,
+            "question": "What is the definition of \"l'uva\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "apple",
+            "failed": 0,
+            "lastAsked": 1490377400.3747132,
+            "question": "What is the definition of \"la mela\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "caldo",
+            "failed": 0,
+            "lastAsked": 1490377411.1635463,
+            "question": "Given the definition \"warm, hot\", what is the word?",
+            "tried": 5
         },
         {
             "alternates": [
@@ -145,473 +605,46 @@
             ],
             "answer": "warm, hot",
             "failed": 0,
-            "lastAsked": 1488997593.6273942,
+            "lastAsked": 1490377417.6827083,
             "question": "What is the definition of \"caldo\"?",
-            "tried": 1
+            "tried": 5
         },
         {
             "alternates": [],
-            "answer": "wise",
-            "failed": 3,
-            "lastAsked": 1488997627.8430412,
-            "question": "What is the definition of \"saggio\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "pear",
-            "failed": 1,
-            "lastAsked": 1488997598.4317586,
-            "question": "What is the definition of \"la pera\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "depending on the season",
-            "failed": 1,
-            "lastAsked": 1488997609.3236136,
-            "question": "What is the definition of \"a seconda della stagione\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "banana",
+            "answer": "bowl",
             "failed": 0,
-            "lastAsked": 1488997552.340269,
-            "question": "What is the definition of \"la banana\"?",
-            "tried": 1
+            "lastAsked": 1490377425.4745536,
+            "question": "What is the definition of \"la ciotola\"?",
+            "tried": 5
         },
         {
-            "alternates": [],
-            "answer": "to run",
-            "failed": 2,
-            "lastAsked": 1488997622.6190698,
-            "question": "What is the definition of \"correre\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "le zucchine",
-            "failed": 1,
-            "lastAsked": 1488997617.668207,
-            "question": "Given the definition \"zucchini\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "table",
+            "alternates": [
+                "to ask for",
+                "to ask"
+            ],
+            "answer": "to ask (for)",
             "failed": 0,
-            "lastAsked": 1488997630.199457,
-            "question": "What is the definition of \"la tavola\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "i funghi",
-            "failed": 0,
-            "lastAsked": 1488997641.0791202,
-            "question": "Given the definition \"mushrooms\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "la pesca",
-            "failed": 1,
-            "lastAsked": 1488997674.7670016,
-            "question": "Given the definition \"peach\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "il mercato",
-            "failed": 1,
-            "lastAsked": 1488997665.659023,
-            "question": "Given the definition \"outdoor market\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "sicuro",
-            "failed": 5,
-            "lastAsked": 1488997726.7024114,
-            "question": "Given the definition \"sure\", what is the word?",
-            "tried": 6
-        },
-        {
-            "alternates": [],
-            "answer": "dry, dried",
-            "failed": 3,
-            "lastAsked": 1488997711.718811,
-            "question": "What is the definition of \"secco\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "orange",
-            "failed": 0,
-            "lastAsked": 1488997637.2467504,
-            "question": "What is the definition of \"l'arancia\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "la verita",
-            "failed": 1,
-            "lastAsked": 1488997686.382601,
-            "question": "Given the definition \"truth\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "grapes",
-            "failed": 0,
-            "lastAsked": 1488997755.3780174,
-            "question": "What is the definition of \"l'uva\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "l'uva",
-            "failed": 0,
-            "lastAsked": 1488997753.2978475,
-            "question": "Given the definition \"grapes\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "stamattina",
-            "failed": 1,
-            "lastAsked": 1488997794.6735134,
-            "question": "Given the definition \"this morning\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "saporito",
-            "failed": 2,
-            "lastAsked": 1488997818.1011624,
-            "question": "Given the definition \"tasty, savoury\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "la verdura",
-            "failed": 0,
-            "lastAsked": 1488997750.9254694,
-            "question": "Given the definition \"vegetables\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "peach",
-            "failed": 1,
-            "lastAsked": 1488997784.1619968,
-            "question": "What is the definition of \"la pesca\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "this morning",
-            "failed": 0,
-            "lastAsked": 1488997757.833827,
-            "question": "What is the definition of \"stamattina\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "il sapore",
-            "failed": 3,
-            "lastAsked": 1488997822.3334155,
-            "question": "Given the definition \"taste\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "richiedere",
-            "failed": 2,
-            "lastAsked": 1488997912.9520056,
-            "question": "Given the definition \"to require, request\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "apple",
-            "failed": 0,
-            "lastAsked": 1488997844.0644956,
-            "question": "What is the definition of \"la mela\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "fruit vendor",
-            "failed": 1,
-            "lastAsked": 1488997906.5836556,
-            "question": "What is the definition of \"il fruttivendolo\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "chiedere",
-            "failed": 0,
-            "lastAsked": 1488997826.4044478,
-            "question": "Given the definition \"to ask (for)\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "truth",
-            "failed": 0,
-            "lastAsked": 1488997861.6641786,
-            "question": "What is the definition of \"la verita\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to dislike, hate",
-            "failed": 1,
-            "lastAsked": 1488997903.48048,
-            "question": "What is the definition of \"odiare\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "squisito",
-            "failed": 1,
-            "lastAsked": 1488997887.3965135,
-            "question": "Given the definition \"delicious\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "la banana",
-            "failed": 1,
-            "lastAsked": 1488997883.7123175,
-            "question": "Given the definition \"banana\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "peppers",
-            "failed": 0,
-            "lastAsked": 1488997922.4598086,
-            "question": "What is the definition of \"i peperoni\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "anche",
-            "failed": 2,
-            "lastAsked": 1488998062.3303962,
-            "question": "Given the definition \"also\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "il fruttivendolo",
-            "failed": 1,
-            "lastAsked": 1488998060.035042,
-            "question": "Given the definition \"fruit vendor\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "to spoil, to go bad",
-            "failed": 3,
-            "lastAsked": 1488998075.7980704,
-            "question": "What is the definition of \"guastarsi\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "fresh",
-            "failed": 1,
-            "lastAsked": 1488998016.9870481,
-            "question": "What is the definition of \"fresco\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "outdoor market",
-            "failed": 1,
-            "lastAsked": 1488998041.9620867,
-            "question": "What is the definition of \"il mercato\"?",
-            "tried": 2
+            "lastAsked": 1490377421.2025065,
+            "question": "What is the definition of \"chiedere\"?",
+            "tried": 5
         },
         {
             "alternates": [],
             "answer": "onion",
             "failed": 0,
-            "lastAsked": 1488997938.0598845,
+            "lastAsked": 1490377423.2588472,
             "question": "What is the definition of \"la cipolla\"?",
-            "tried": 1
+            "tried": 5
         },
         {
-            "alternates": [],
-            "answer": "saggio",
-            "failed": 2,
-            "lastAsked": 1488998064.7147624,
-            "question": "Given the definition \"wise\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "caldo",
+            "alternates": [
+                "verdura"
+            ],
+            "answer": "la verdura",
             "failed": 0,
-            "lastAsked": 1488998106.978101,
-            "question": "Given the definition \"warm, hot\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "parecchie volte",
-            "failed": 2,
-            "lastAsked": 1488998155.3892603,
-            "question": "Given the definition \"several times\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "mushrooms",
-            "failed": 0,
-            "lastAsked": 1488998110.3778782,
-            "question": "What is the definition of \"i funghi\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "vegetables",
-            "failed": 0,
-            "lastAsked": 1488998079.2342658,
-            "question": "What is the definition of \"la verdura\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to ask (for)",
-            "failed": 0,
-            "lastAsked": 1488998113.4018974,
-            "question": "What is the definition of \"chiedere\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "la cipolla",
-            "failed": 1,
-            "lastAsked": 1488998147.998242,
-            "question": "Given the definition \"onion\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "several times",
-            "failed": 1,
-            "lastAsked": 1488998151.6610255,
-            "question": "What is the definition of \"parecchie volte\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "sapere",
-            "failed": 0,
-            "lastAsked": 1488998096.5463767,
-            "question": "Given the definition \"to know\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "rotondo",
-            "failed": 1,
-            "lastAsked": 1488998203.165192,
-            "question": "Given the definition \"round\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "correre",
-            "failed": 2,
-            "lastAsked": 1488998211.588924,
-            "question": "Given the definition \"to run\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "oval",
-            "failed": 0,
-            "lastAsked": 1488998165.2091985,
-            "question": "What is the definition of \"ovale\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "i peperoni",
-            "failed": 0,
-            "lastAsked": 1488998159.4931433,
-            "question": "Given the definition \"peppers\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "round",
-            "failed": 0,
-            "lastAsked": 1488998176.1768472,
-            "question": "What is the definition of \"rotondo\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "rettangolare",
-            "failed": 1,
-            "lastAsked": 1488998198.8450646,
-            "question": "Given the definition \"rectangular\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "fresco",
-            "failed": 1,
-            "lastAsked": 1488998193.4003322,
-            "question": "Given the definition \"fresh\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "ovale",
-            "failed": 1,
-            "lastAsked": 1488998200.717675,
-            "question": "Given the definition \"oval\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "tasty, savoury",
-            "failed": 1,
-            "lastAsked": 1488998267.0721228,
-            "question": "What is the definition of \"saporito\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "l'arancia",
-            "failed": 0,
-            "lastAsked": 1488998244.1282969,
-            "question": "Given the definition \"orange\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "also",
-            "failed": 0,
-            "lastAsked": 1488998246.1130393,
-            "question": "What is the definition of \"anche\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "la mela",
-            "failed": 0,
-            "lastAsked": 1488998261.1122775,
-            "question": "Given the definition \"apple\", what is the word?",
-            "tried": 1
+            "lastAsked": 1490377427.9469419,
+            "question": "Given the definition \"vegetables\", what is the word?",
+            "tried": 5
         }
     ]
 }

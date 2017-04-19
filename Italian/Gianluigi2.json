@@ -4,58 +4,178 @@
         {
             "alternates": [],
             "answer": "promettere",
-            "failed": 9,
-            "lastAsked": 1487012153.9782553,
+            "failed": 13,
+            "lastAsked": 1492104601.5329025,
             "question": "Given the definition \"to promise\", what is the word?",
-            "tried": 11
+            "tried": 16
         },
         {
             "alternates": [],
-            "answer": "intorno",
-            "failed": 6,
-            "lastAsked": 1487012134.566659,
-            "question": "Given the definition \"around\", what is the word?",
-            "tried": 8
+            "answer": "provare",
+            "failed": 15,
+            "lastAsked": 1492104618.9880447,
+            "question": "Given the definition \"to try\", what is the word?",
+            "tried": 18
+        },
+        {
+            "alternates": [],
+            "answer": "to change",
+            "failed": 7,
+            "lastAsked": 1492104477.3489547,
+            "question": "What is the definition of \"cambiare\"?",
+            "tried": 10
         },
         {
             "alternates": [],
             "answer": "imparare",
-            "failed": 6,
-            "lastAsked": 1487012131.6307886,
+            "failed": 7,
+            "lastAsked": 1492104482.8728516,
             "question": "Given the definition \"to learn\", what is the word?",
-            "tried": 8
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "intorno",
+            "failed": 9,
+            "lastAsked": 1492104563.2545242,
+            "question": "Given the definition \"around\", what is the word?",
+            "tried": 12
+        },
+        {
+            "alternates": [],
+            "answer": "spiegare",
+            "failed": 11,
+            "lastAsked": 1492104612.3968549,
+            "question": "Given the definition \"to explain\", what is the word?",
+            "tried": 14
         },
         {
             "alternates": [],
             "answer": "insegnare",
-            "failed": 4,
-            "lastAsked": 1487012105.0837495,
+            "failed": 6,
+            "lastAsked": 1492104540.9751458,
             "question": "Given the definition \"to teach\", what is the word?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "domani",
+            "failed": 4,
+            "lastAsked": 1492104508.611889,
+            "question": "Given the definition \"tomorrow\", what is the word?",
             "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "antipatico",
+            "failed": 5,
+            "lastAsked": 1492104682.5664272,
+            "question": "Given the definition \"unpleasant, nasty\", what is the word?",
+            "tried": 8
         },
         {
             "alternates": [],
             "answer": "fermare",
-            "failed": 4,
-            "lastAsked": 1487012071.7258527,
+            "failed": 8,
+            "lastAsked": 1492104742.944818,
             "question": "Given the definition \"to stop\", what is the word?",
-            "tried": 6
+            "tried": 11
         },
         {
             "alternates": [],
             "answer": "la permanenza",
-            "failed": 4,
-            "lastAsked": 1487012066.2688465,
+            "failed": 8,
+            "lastAsked": 1492104746.8364315,
             "question": "Given the definition \"stay\", what is the word?",
-            "tried": 6
+            "tried": 11
+        },
+        {
+            "alternates": [],
+            "answer": "andare in bicicletta",
+            "failed": 3,
+            "lastAsked": 1492104672.450495,
+            "question": "Given the definition \"to ride a bicycle\", what is the word?",
+            "tried": 5
         },
         {
             "alternates": [],
             "answer": "guidare",
-            "failed": 4,
-            "lastAsked": 1487012068.9012027,
+            "failed": 5,
+            "lastAsked": 1492104685.7264805,
             "question": "Given the definition \"to drive\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "l'asilo",
+            "failed": 4,
+            "lastAsked": 1492104675.1306868,
+            "question": "Given the definition \"kindergarten\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "to teach",
+            "failed": 3,
+            "lastAsked": 1492104653.8912656,
+            "question": "What is the definition of \"insegnare\"?",
             "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "dovere",
+            "failed": 6,
+            "lastAsked": 1492104729.0407693,
+            "question": "Given the definition \"to have to, must\", what is the word?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "to have to, must",
+            "failed": 3,
+            "lastAsked": 1492104750.772244,
+            "question": "What is the definition of \"dovere\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "povero",
+            "failed": 4,
+            "lastAsked": 1492104783.0710454,
+            "question": "Given the definition \"poor\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "comandare",
+            "failed": 4,
+            "lastAsked": 1492104792.102714,
+            "question": "Given the definition \"to command, to give orders\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "work",
+            "failed": 4,
+            "lastAsked": 1492104795.2709131,
+            "question": "What is the definition of \"la fatica\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "around",
+            "failed": 4,
+            "lastAsked": 1492104780.6232803,
+            "question": "What is the definition of \"intorno\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "vincere",
+            "failed": 4,
+            "lastAsked": 1492104789.190817,
+            "question": "Given the definition \"to win\", what is the word?",
+            "tried": 7
         },
         {
             "alternates": [
@@ -63,137 +183,17 @@
                 "loro fanno"
             ],
             "answer": "Loro fanno",
-            "failed": 3,
-            "lastAsked": 1487012031.1341476,
-            "question": "What is the definition of \"They do\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "provare",
-            "failed": 7,
-            "lastAsked": 1487012257.7437112,
-            "question": "Given the definition \"to try\", what is the word?",
-            "tried": 9
-        },
-        {
-            "alternates": [],
-            "answer": "to teach",
-            "failed": 3,
-            "lastAsked": 1487012169.0020087,
-            "question": "What is the definition of \"insegnare\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "dovere",
-            "failed": 3,
-            "lastAsked": 1487012174.053758,
-            "question": "Given the definition \"to have to, must\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "vincere",
-            "failed": 3,
-            "lastAsked": 1487012196.929175,
-            "question": "Given the definition \"to win\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "ma",
-            "failed": 2,
-            "lastAsked": 1487012175.7656646,
-            "question": "Given the definition \"but\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "work",
-            "failed": 3,
-            "lastAsked": 1487012212.7926538,
-            "question": "What is the definition of \"la fatica\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "spiegare",
-            "failed": 5,
-            "lastAsked": 1487012255.1524467,
-            "question": "Given the definition \"to explain\", what is the word?",
-            "tried": 7
-        },
-        {
-            "alternates": [],
-            "answer": "antipatico",
             "failed": 4,
-            "lastAsked": 1487012239.6520886,
-            "question": "Given the definition \"unpleasant, nasty\", what is the word?",
-            "tried": 6
-        },
-        {
-            "alternates": [],
-            "answer": "l'asilo",
-            "failed": 3,
-            "lastAsked": 1487012326.106919,
-            "question": "Given the definition \"kindergarten\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "comandare",
-            "failed": 3,
-            "lastAsked": 1487012337.2178388,
-            "question": "Given the definition \"to command, to give orders\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "arrivare",
-            "failed": 2,
-            "lastAsked": 1487012290.8271027,
-            "question": "Given the definition \"to arrive\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "to have to, must",
-            "failed": 3,
-            "lastAsked": 1487012319.4227276,
-            "question": "What is the definition of \"dovere\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "to change",
-            "failed": 5,
-            "lastAsked": 1487012346.7380264,
-            "question": "What is the definition of \"cambiare\"?",
+            "lastAsked": 1492104798.618826,
+            "question": "What is the definition of \"They do\"?",
             "tried": 7
         },
         {
             "alternates": [],
-            "answer": "around",
-            "failed": 3,
-            "lastAsked": 1487012331.1467154,
-            "question": "What is the definition of \"intorno\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "povero",
-            "failed": 3,
-            "lastAsked": 1487012334.4185317,
-            "question": "Given the definition \"poor\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "durante",
+            "answer": "convincere",
             "failed": 2,
-            "lastAsked": 1487012328.7864494,
-            "question": "Given the definition \"during\", what is the word?",
+            "lastAsked": 1492104786.663606,
+            "question": "Given the definition \"to convince\", what is the word?",
             "tried": 4
         },
         {
@@ -201,200 +201,98 @@
                 "tu vuoi"
             ],
             "answer": "Tu vuoi",
-            "failed": 1,
-            "lastAsked": 1486493514.2626197,
+            "failed": 2,
+            "lastAsked": 1492104911.763083,
             "question": "What is the definition of \"You want\"?",
-            "tried": 2
+            "tried": 4
         },
         {
             "alternates": [],
-            "answer": "andare in bicicletta",
+            "answer": "tutto",
             "failed": 2,
-            "lastAsked": 1487012367.7661107,
-            "question": "Given the definition \"to ride a bicycle\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "dire",
-            "failed": 1,
-            "lastAsked": 1486492912.4435387,
-            "question": "Given the definition \"to say, tell\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "domani",
-            "failed": 2,
-            "lastAsked": 1487012354.9022439,
-            "question": "Given the definition \"tomorrow\", what is the word?",
-            "tried": 3
+            "lastAsked": 1492104943.0781312,
+            "question": "Given the definition \"everything, all\", what is the word?",
+            "tried": 4
         },
         {
             "alternates": [
-                "settimana"
+                "chi?"
             ],
-            "answer": "la settimana",
-            "failed": 1,
-            "lastAsked": 1486493687.315186,
-            "question": "Given the definition \"week\", what is the word?",
-            "tried": 2
+            "answer": "Chi?",
+            "failed": 2,
+            "lastAsked": 1492104917.8505657,
+            "question": "Given the definition \"Who?\", what is the word?",
+            "tried": 4
         },
         {
-            "alternates": [],
-            "answer": "to promise",
-            "failed": 1,
-            "lastAsked": 1486493774.037441,
-            "question": "What is the definition of \"promettere\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
+            "alternates": [
+                "come?"
+            ],
             "answer": "Come?",
-            "failed": 1,
-            "lastAsked": 1486493144.4945776,
+            "failed": 3,
+            "lastAsked": 1492104961.5460203,
             "question": "Given the definition \"What? What was that?\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "to learn",
-            "failed": 1,
-            "lastAsked": 1486493612.5361853,
-            "question": "What is the definition of \"imparare\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "lui/lei vuole"
-            ],
-            "answer": "Lui/Lei vuole",
-            "failed": 1,
-            "lastAsked": 1486493889.418605,
-            "question": "What is the definition of \"He/She/You want\"?",
-            "tried": 2
+            "tried": 5
         },
         {
             "alternates": [
                 "io faccio"
             ],
             "answer": "Io faccio",
-            "failed": 1,
-            "lastAsked": 1486492980.4420397,
+            "failed": 2,
+            "lastAsked": 1492104946.9902725,
             "question": "What is the definition of \"I do\"?",
-            "tried": 2
+            "tried": 4
         },
         {
             "alternates": [],
-            "answer": "la cosa",
+            "answer": "to learn",
             "failed": 1,
-            "lastAsked": 1486492991.2417297,
-            "question": "Given the definition \"thing\", what is the word?",
-            "tried": 2
+            "lastAsked": 1492104816.5302622,
+            "question": "What is the definition of \"imparare\"?",
+            "tried": 3
         },
         {
             "alternates": [],
             "answer": "la maestra",
-            "failed": 1,
-            "lastAsked": 1486493528.8463745,
+            "failed": 3,
+            "lastAsked": 1492104965.1455214,
             "question": "Given the definition \"teacher\", what is the word?",
-            "tried": 2
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "lui/lei vuole"
+            ],
+            "answer": "Lui/Lei vuole",
+            "failed": 3,
+            "lastAsked": 1492104971.321248,
+            "question": "What is the definition of \"He/She/You want\"?",
+            "tried": 5
         },
         {
             "alternates": [],
-            "answer": "nice, compatible",
-            "failed": 1,
-            "lastAsked": 1486493260.4681072,
-            "question": "What is the definition of \"simpatico\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "Chi?",
-            "failed": 1,
-            "lastAsked": 1486493709.2342377,
-            "question": "Given the definition \"Who?\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "to try",
-            "failed": 1,
-            "lastAsked": 1486492905.0599046,
-            "question": "What is the definition of \"provare\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "convincere",
-            "failed": 1,
-            "lastAsked": 1486493071.1247175,
-            "question": "Given the definition \"to convince\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "during",
-            "failed": 1,
-            "lastAsked": 1486493326.36308,
-            "question": "What is the definition of \"durante\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "cambiare",
-            "failed": 1,
-            "lastAsked": 1486493518.230899,
-            "question": "Given the definition \"to change\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "tutto",
-            "failed": 1,
-            "lastAsked": 1486493265.3638968,
-            "question": "Given the definition \"everything, all\", what is the word?",
-            "tried": 2
+            "answer": "la cosa",
+            "failed": 3,
+            "lastAsked": 1492105046.6588767,
+            "question": "Given the definition \"thing\", what is the word?",
+            "tried": 5
         },
         {
             "alternates": [],
             "answer": "volere",
-            "failed": 1,
-            "lastAsked": 1486493267.7558892,
+            "failed": 2,
+            "lastAsked": 1492105025.735441,
             "question": "Given the definition \"to wish, want\", what is the word?",
-            "tried": 2
+            "tried": 4
         },
         {
             "alternates": [],
-            "answer": "ostinato",
-            "failed": 1,
-            "lastAsked": 1486492910.8914106,
-            "question": "Given the definition \"stubborn\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "poi",
-            "failed": 1,
-            "lastAsked": 1486493263.2118692,
-            "question": "Given the definition \"then\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "stay",
-            "failed": 1,
-            "lastAsked": 1486493819.6481085,
-            "question": "What is the definition of \"la permanenza\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "to explain",
-            "failed": 1,
-            "lastAsked": 1486493690.4472349,
-            "question": "What is the definition of \"spiegare\"?",
-            "tried": 2
+            "answer": "arrivare",
+            "failed": 4,
+            "lastAsked": 1492105044.6596034,
+            "question": "Given the definition \"to arrive\", what is the word?",
+            "tried": 7
         },
         {
             "alternates": [
@@ -402,77 +300,115 @@
             ],
             "answer": "Noi vogliamo",
             "failed": 1,
-            "lastAsked": 1486492908.6124341,
+            "lastAsked": 1492104999.7204006,
             "question": "What is the definition of \"We want\"?",
-            "tried": 2
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "to promise",
+            "failed": 2,
+            "lastAsked": 1492105030.479237,
+            "question": "What is the definition of \"promettere\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "durante",
+            "failed": 3,
+            "lastAsked": 1492105034.215874,
+            "question": "Given the definition \"during\", what is the word?",
+            "tried": 6
         },
         {
             "alternates": [
-                "to ride a bike"
+                "settimana"
             ],
-            "answer": "to ride a bicycle",
-            "failed": 0,
-            "lastAsked": 1486492959.186431,
-            "question": "What is the definition of \"andare in bicicletta\"?",
-            "tried": 1
+            "answer": "la settimana",
+            "failed": 1,
+            "lastAsked": 1492105017.9918811,
+            "question": "Given the definition \"week\", what is the word?",
+            "tried": 3
         },
         {
             "alternates": [],
-            "answer": "to write",
-            "failed": 0,
-            "lastAsked": 1486492893.6238873,
-            "question": "What is the definition of \"scrivere\"?",
-            "tried": 1
+            "answer": "to explain",
+            "failed": 2,
+            "lastAsked": 1492105042.2351036,
+            "question": "What is the definition of \"spiegare\"?",
+            "tried": 4
         },
         {
             "alternates": [],
-            "answer": "white",
-            "failed": 0,
-            "lastAsked": 1486493388.7177129,
-            "question": "What is the definition of \"bianco\"?",
-            "tried": 1
+            "answer": "cambiare",
+            "failed": 4,
+            "lastAsked": 1492105130.9237008,
+            "question": "Given the definition \"to change\", what is the word?",
+            "tried": 6
         },
         {
             "alternates": [],
-            "answer": "bianco",
-            "failed": 0,
-            "lastAsked": 1486493038.713206,
-            "question": "Given the definition \"white\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "to command"
-            ],
-            "answer": "to command, to give orders",
-            "failed": 0,
-            "lastAsked": 1486493253.9204876,
-            "question": "What is the definition of \"comandare\"?",
-            "tried": 1
+            "answer": "poi",
+            "failed": 3,
+            "lastAsked": 1492105127.6923985,
+            "question": "Given the definition \"then\", what is the word?",
+            "tried": 5
         },
         {
             "alternates": [],
-            "answer": "stubborn",
-            "failed": 0,
-            "lastAsked": 1486493291.5440168,
-            "question": "What is the definition of \"ostinato\"?",
-            "tried": 1
+            "answer": "stay",
+            "failed": 1,
+            "lastAsked": 1492105049.1333003,
+            "question": "What is the definition of \"la permanenza\"?",
+            "tried": 3
         },
         {
             "alternates": [],
-            "answer": "teacher",
-            "failed": 0,
-            "lastAsked": 1486493541.9300542,
-            "question": "What is the definition of \"la maestra\"?",
-            "tried": 1
+            "answer": "ostinato",
+            "failed": 2,
+            "lastAsked": 1492105096.1854944,
+            "question": "Given the definition \"stubborn\", what is the word?",
+            "tried": 4
         },
         {
             "alternates": [],
-            "answer": "tomorrow",
-            "failed": 0,
-            "lastAsked": 1486493563.59344,
-            "question": "What is the definition of \"domani\"?",
-            "tried": 1
+            "answer": "during",
+            "failed": 4,
+            "lastAsked": 1492105133.2923546,
+            "question": "What is the definition of \"durante\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "ma",
+            "failed": 3,
+            "lastAsked": 1492105097.6570976,
+            "question": "Given the definition \"but\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "to try",
+            "failed": 3,
+            "lastAsked": 1492105110.8252025,
+            "question": "What is the definition of \"provare\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "nice, compatible",
+            "failed": 5,
+            "lastAsked": 1492105144.2366478,
+            "question": "What is the definition of \"simpatico\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "dire",
+            "failed": 2,
+            "lastAsked": 1492105186.178255,
+            "question": "Given the definition \"to say, tell\", what is the word?",
+            "tried": 4
         },
         {
             "alternates": [
@@ -480,67 +416,9 @@
             ],
             "answer": "Voi fate",
             "failed": 0,
-            "lastAsked": 1486493093.0237327,
+            "lastAsked": 1492105183.8261907,
             "question": "What is the definition of \"Y'all do\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "y'all want"
-            ],
-            "answer": "Y'all want",
-            "failed": 0,
-            "lastAsked": 1486492942.2142415,
-            "question": "Given the definition \"Voi volete\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "lui/lei fa"
-            ],
-            "answer": "Lui/Lei fa",
-            "failed": 0,
-            "lastAsked": 1486493492.0830464,
-            "question": "What is the definition of \"He/She/You do\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "to tell"
-            ],
-            "answer": "to say, tell",
-            "failed": 0,
-            "lastAsked": 1486493311.1835449,
-            "question": "What is the definition of \"dire\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "to want"
-            ],
-            "answer": "to wish, want",
-            "failed": 0,
-            "lastAsked": 1486493241.3686237,
-            "question": "What is the definition of \"volere\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "io voglio"
-            ],
-            "answer": "Io voglio",
-            "failed": 0,
-            "lastAsked": 1486493797.6884918,
-            "question": "What is the definition of \"I want\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "poor",
-            "failed": 0,
-            "lastAsked": 1486493749.5938582,
-            "question": "What is the definition of \"povero\"?",
-            "tried": 1
+            "tried": 2
         },
         {
             "alternates": [
@@ -548,261 +426,9 @@
             ],
             "answer": "Voi volete",
             "failed": 0,
-            "lastAsked": 1486493629.5127091,
+            "lastAsked": 1492105180.9548616,
             "question": "What is the definition of \"Y'all want\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "they do"
-            ],
-            "answer": "They do",
-            "failed": 0,
-            "lastAsked": 1486493410.8162038,
-            "question": "Given the definition \"Loro fanno\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "then",
-            "failed": 0,
-            "lastAsked": 1486493767.9938903,
-            "question": "What is the definition of \"poi\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "tu fai"
-            ],
-            "answer": "Tu fai",
-            "failed": 0,
-            "lastAsked": 1486492973.8507357,
-            "question": "What is the definition of \"You do\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "noi facciamo"
-            ],
-            "answer": "Noi facciamo",
-            "failed": 0,
-            "lastAsked": 1486493399.5402486,
-            "question": "What is the definition of \"We do\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to drive",
-            "failed": 0,
-            "lastAsked": 1486493558.730564,
-            "question": "What is the definition of \"guidare\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "all"
-            ],
-            "answer": "everything, all",
-            "failed": 0,
-            "lastAsked": 1486493771.1968699,
-            "question": "What is the definition of \"tutto\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to win",
-            "failed": 0,
-            "lastAsked": 1486493790.2449,
-            "question": "What is the definition of \"vincere\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "leggere",
-            "failed": 0,
-            "lastAsked": 1486493561.3816926,
-            "question": "Given the definition \"to read\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "the week"
-            ],
-            "answer": "week",
-            "failed": 0,
-            "lastAsked": 1486493866.8392832,
-            "question": "What is the definition of \"la settimana\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "who?"
-            ],
-            "answer": "Who?",
-            "failed": 0,
-            "lastAsked": 1486493755.4979732,
-            "question": "What is the definition of \"Chi?\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "we want"
-            ],
-            "answer": "We want",
-            "failed": 0,
-            "lastAsked": 1486493485.2115996,
-            "question": "Given the definition \"Noi vogliamo\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "la fatica",
-            "failed": 0,
-            "lastAsked": 1486493752.66665,
-            "question": "Given the definition \"work\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "Perche?"
-            ],
-            "answer": "Perche'?",
-            "failed": 0,
-            "lastAsked": 1486493134.3032622,
-            "question": "Given the definition \"Why?\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "kindergarten",
-            "failed": 0,
-            "lastAsked": 1486492977.0576801,
-            "question": "What is the definition of \"l'asilo\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "he/she wants"
-            ],
-            "answer": "He/She/You want",
-            "failed": 0,
-            "lastAsked": 1486493013.3817828,
-            "question": "Given the definition \"Lui/Lei vuole\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to go",
-            "failed": 0,
-            "lastAsked": 1486493417.1606457,
-            "question": "What is the definition of \"andare\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to read",
-            "failed": 0,
-            "lastAsked": 1486493840.107575,
-            "question": "What is the definition of \"leggere\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "sempre",
-            "failed": 0,
-            "lastAsked": 1486493005.621831,
-            "question": "Given the definition \"always\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "not pleasant"
-            ],
-            "answer": "unpleasant, nasty",
-            "failed": 0,
-            "lastAsked": 1486493873.7709239,
-            "question": "What is the definition of \"antipatico\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "andare",
-            "failed": 0,
-            "lastAsked": 1486493555.1225166,
-            "question": "Given the definition \"to go\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "You want",
-            "failed": 0,
-            "lastAsked": 1486492855.3018765,
-            "question": "Given the definition \"Tu vuoi\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "always",
-            "failed": 0,
-            "lastAsked": 1486493313.49909,
-            "question": "What is the definition of \"sempre\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "they want"
-            ],
-            "answer": "They want",
-            "failed": 0,
-            "lastAsked": 1486493785.94066,
-            "question": "Given the definition \"Loro vogliono\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "why?"
-            ],
-            "answer": "Why?",
-            "failed": 0,
-            "lastAsked": 1486493793.4207668,
-            "question": "What is the definition of \"Perche'?\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "thing",
-            "failed": 0,
-            "lastAsked": 1486493758.3696368,
-            "question": "What is the definition of \"la cosa\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "I do",
-            "failed": 0,
-            "lastAsked": 1486493243.9525473,
-            "question": "Given the definition \"Io faccio\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "you do"
-            ],
-            "answer": "You do",
-            "failed": 0,
-            "lastAsked": 1486493042.408996,
-            "question": "Given the definition \"Tu fai\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "we do"
-            ],
-            "answer": "We do",
-            "failed": 0,
-            "lastAsked": 1486493407.4249482,
-            "question": "Given the definition \"Noi facciamo\", what is the word?",
-            "tried": 1
+            "tried": 2
         },
         {
             "alternates": [
@@ -810,69 +436,29 @@
             ],
             "answer": "Loro vogliono",
             "failed": 0,
-            "lastAsked": 1486492950.7668214,
+            "lastAsked": 1492105152.0635006,
             "question": "What is the definition of \"They want\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "I want",
-            "failed": 0,
-            "lastAsked": 1486493654.0995343,
-            "question": "Given the definition \"Io voglio\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "scrivere",
-            "failed": 0,
-            "lastAsked": 1486493761.5620265,
-            "question": "Given the definition \"to write\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to convince",
-            "failed": 0,
-            "lastAsked": 1486493854.8545747,
-            "question": "What is the definition of \"convincere\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to stop",
-            "failed": 0,
-            "lastAsked": 1486493319.363102,
-            "question": "What is the definition of \"fermare\"?",
-            "tried": 1
+            "tried": 2
         },
         {
             "alternates": [
-                "what?"
+                "they want"
             ],
-            "answer": "What? What was that?",
+            "answer": "They want",
             "failed": 0,
-            "lastAsked": 1486493803.0406249,
-            "question": "What is the definition of \"Come?\"?",
-            "tried": 1
+            "lastAsked": 1492105148.0639746,
+            "question": "Given the definition \"Loro vogliono\", what is the word?",
+            "tried": 2
         },
         {
             "alternates": [
-                "y'all do"
+                "lui/lei fa"
             ],
-            "answer": "Y'all do",
+            "answer": "Lui/Lei fa",
             "failed": 0,
-            "lastAsked": 1486492886.9043972,
-            "question": "Given the definition \"Voi fate\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to arrive",
-            "failed": 0,
-            "lastAsked": 1486493860.575762,
-            "question": "What is the definition of \"arrivare\"?",
-            "tried": 1
+            "lastAsked": 1492105162.1756444,
+            "question": "What is the definition of \"He/She/You do\"?",
+            "tried": 2
         },
         {
             "alternates": [
@@ -880,25 +466,448 @@
             ],
             "answer": "He/She/You do",
             "failed": 0,
-            "lastAsked": 1486493496.8585777,
+            "lastAsked": 1492105155.6320348,
             "question": "Given the definition \"Lui/Lei fa\", what is the word?",
-            "tried": 1
+            "tried": 2
         },
         {
             "alternates": [],
-            "answer": "simpatico",
+            "answer": "leggere",
+            "failed": 1,
+            "lastAsked": 1492105188.2663631,
+            "question": "Given the definition \"to read\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "kindergarten",
             "failed": 0,
-            "lastAsked": 1486493115.0754666,
-            "question": "Given the definition \"nice, compatible\", what is the word?",
-            "tried": 1
+            "lastAsked": 1492105196.8987913,
+            "question": "What is the definition of \"l'asilo\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to read",
+            "failed": 0,
+            "lastAsked": 1492105199.4783216,
+            "question": "What is the definition of \"leggere\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to go",
+            "failed": 0,
+            "lastAsked": 1492105215.6540184,
+            "question": "What is the definition of \"andare\"?",
+            "tried": 2
         },
         {
             "alternates": [],
             "answer": "but",
             "failed": 0,
-            "lastAsked": 1486493418.8484602,
+            "lastAsked": 1492105189.7616012,
             "question": "What is the definition of \"ma\"?",
-            "tried": 1
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "they do"
+            ],
+            "answer": "They do",
+            "failed": 0,
+            "lastAsked": 1492105204.87823,
+            "question": "Given the definition \"Loro fanno\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "y'all do"
+            ],
+            "answer": "Y'all do",
+            "failed": 0,
+            "lastAsked": 1492105202.3982599,
+            "question": "Given the definition \"Voi fate\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "you do"
+            ],
+            "answer": "You do",
+            "failed": 0,
+            "lastAsked": 1492105193.2825768,
+            "question": "Given the definition \"Tu fai\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "to command"
+            ],
+            "answer": "to command, to give orders",
+            "failed": 1,
+            "lastAsked": 1492105237.5765529,
+            "question": "What is the definition of \"comandare\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "the week"
+            ],
+            "answer": "week",
+            "failed": 0,
+            "lastAsked": 1492105265.0041237,
+            "question": "What is the definition of \"la settimana\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "I want",
+            "failed": 0,
+            "lastAsked": 1492105240.9533248,
+            "question": "Given the definition \"Io voglio\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "noi facciamo"
+            ],
+            "answer": "Noi facciamo",
+            "failed": 0,
+            "lastAsked": 1492105251.5844007,
+            "question": "What is the definition of \"We do\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to stop",
+            "failed": 1,
+            "lastAsked": 1492105272.7480447,
+            "question": "What is the definition of \"fermare\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Who",
+                "who?"
+            ],
+            "answer": "Who?",
+            "failed": 0,
+            "lastAsked": 1492105270.25222,
+            "question": "What is the definition of \"Chi?\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "all"
+            ],
+            "answer": "everything, all",
+            "failed": 0,
+            "lastAsked": 1492105261.979946,
+            "question": "What is the definition of \"tutto\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "he/she wants"
+            ],
+            "answer": "He/She/You want",
+            "failed": 1,
+            "lastAsked": 1492105275.7640579,
+            "question": "Given the definition \"Lui/Lei vuole\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "teacher",
+            "failed": 0,
+            "lastAsked": 1492105247.4561965,
+            "question": "What is the definition of \"la maestra\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "Perche?"
+            ],
+            "answer": "Perche'?",
+            "failed": 2,
+            "lastAsked": 1492105318.9856787,
+            "question": "Given the definition \"Why?\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "tu fai"
+            ],
+            "answer": "Tu fai",
+            "failed": 0,
+            "lastAsked": 1492105304.8968692,
+            "question": "What is the definition of \"You do\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "then",
+            "failed": 0,
+            "lastAsked": 1492105277.6557813,
+            "question": "What is the definition of \"poi\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "thing",
+            "failed": 0,
+            "lastAsked": 1492105287.6714823,
+            "question": "What is the definition of \"la cosa\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "tomorrow",
+            "failed": 0,
+            "lastAsked": 1492105296.0882828,
+            "question": "What is the definition of \"domani\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "What?",
+                "what?"
+            ],
+            "answer": "What? What was that?",
+            "failed": 0,
+            "lastAsked": 1492105281.96795,
+            "question": "What is the definition of \"Come?\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "white",
+            "failed": 0,
+            "lastAsked": 1492105284.9195025,
+            "question": "What is the definition of \"bianco\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "unpleasant",
+                "not pleasant"
+            ],
+            "answer": "unpleasant, nasty",
+            "failed": 0,
+            "lastAsked": 1492105310.6157358,
+            "question": "What is the definition of \"antipatico\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "bianco",
+            "failed": 0,
+            "lastAsked": 1492105343.8117518,
+            "question": "Given the definition \"white\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "sempre",
+            "failed": 1,
+            "lastAsked": 1492105350.0677278,
+            "question": "Given the definition \"always\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "la fatica",
+            "failed": 1,
+            "lastAsked": 1492105352.3654737,
+            "question": "Given the definition \"work\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "to ride a bike"
+            ],
+            "answer": "to ride a bicycle",
+            "failed": 0,
+            "lastAsked": 1492105341.5047665,
+            "question": "What is the definition of \"andare in bicicletta\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "stubborn",
+            "failed": 0,
+            "lastAsked": 1492105324.4920855,
+            "question": "What is the definition of \"ostinato\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to drive",
+            "failed": 0,
+            "lastAsked": 1492105321.5974648,
+            "question": "What is the definition of \"guidare\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "to want"
+            ],
+            "answer": "to wish, want",
+            "failed": 0,
+            "lastAsked": 1492105347.5838468,
+            "question": "What is the definition of \"volere\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "andare",
+            "failed": 0,
+            "lastAsked": 1492105345.5501654,
+            "question": "Given the definition \"to go\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to convince",
+            "failed": 0,
+            "lastAsked": 1492105388.7934012,
+            "question": "What is the definition of \"convincere\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "always",
+            "failed": 0,
+            "lastAsked": 1492105354.4244335,
+            "question": "What is the definition of \"sempre\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "poor",
+            "failed": 0,
+            "lastAsked": 1492105374.804291,
+            "question": "What is the definition of \"povero\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to win",
+            "failed": 0,
+            "lastAsked": 1492105385.6932766,
+            "question": "What is the definition of \"vincere\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "io voglio"
+            ],
+            "answer": "Io voglio",
+            "failed": 1,
+            "lastAsked": 1492105397.451879,
+            "question": "What is the definition of \"I want\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "you want"
+            ],
+            "answer": "You want",
+            "failed": 0,
+            "lastAsked": 1492105382.8017967,
+            "question": "Given the definition \"Tu vuoi\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to write",
+            "failed": 0,
+            "lastAsked": 1492105371.9378548,
+            "question": "What is the definition of \"scrivere\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "simpatico",
+            "failed": 0,
+            "lastAsked": 1492105369.2620652,
+            "question": "Given the definition \"nice, compatible\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "we do"
+            ],
+            "answer": "We do",
+            "failed": 0,
+            "lastAsked": 1492105399.9668038,
+            "question": "Given the definition \"Noi facciamo\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to arrive",
+            "failed": 0,
+            "lastAsked": 1492105420.7317934,
+            "question": "What is the definition of \"arrivare\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "we want"
+            ],
+            "answer": "We want",
+            "failed": 0,
+            "lastAsked": 1492105423.5108044,
+            "question": "Given the definition \"Noi vogliamo\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "I do",
+            "failed": 0,
+            "lastAsked": 1492105418.3446796,
+            "question": "Given the definition \"Io faccio\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "to tell"
+            ],
+            "answer": "to say, tell",
+            "failed": 0,
+            "lastAsked": 1492105413.5551102,
+            "question": "What is the definition of \"dire\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "y'all want"
+            ],
+            "answer": "Y'all want",
+            "failed": 1,
+            "lastAsked": 1492105426.2502518,
+            "question": "Given the definition \"Voi volete\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "why?"
+            ],
+            "answer": "Why?",
+            "failed": 0,
+            "lastAsked": 1492105416.4944348,
+            "question": "What is the definition of \"Perche'?\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "scrivere",
+            "failed": 0,
+            "lastAsked": 1492105411.1684473,
+            "question": "Given the definition \"to write\", what is the word?",
+            "tried": 2
         }
     ]
 }

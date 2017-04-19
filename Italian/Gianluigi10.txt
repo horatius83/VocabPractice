@@ -1,0 +1,46 @@
+v0.1	Gianluigi Vocab Chapter 10
+v	abbracciare	to hug
+v	alzare	to lift, raise
+v	avere fretta	to be in a hurry
+v	baciare	to kiss
+v	dare	to give
+v	desiderare	to wish
+v	giurare	to swear
+v	mancare	to miss
+v	nascondere	to hide
+v	pagare	to pay (for)
+v	piangere	to cry
+v	portare	to bring
+v	potere	to be able, can
+v	sorridere	to smile
+v	svegliare	to wake
+v	svegliarsi	to wake up
+v	telefonare a	to telephone
+v	volere bene	to love
+v	almeno	at least
+v	costoso	constly
+v	presto	soon
+v	prossimo	next
+v	soprattutto	above all
+v	triste	sad
+v	ultimo	last
+v	l'abbraccio	hug
+v	l'aeroporto	airport
+v	l'affetto	affection, love
+v	il bacio	kiss
+v	il divertimento	amusement, fun
+v	la Francia	France
+v	l'Inghilterra	England
+v	l'inizio	beginning
+v	la partenza	departure
+v	il posto	place
+v	il preside	school, principal
+v	lo squardo	look, glance
+v	il sole	sun
+v	la Spagna	Spain
+v	i soldi	money
+v	il viaggio	trip
+v	mai	never, ever
+v	fra	in, between, among
+v	purtroppo	unfortunately
+v	soltanto	only

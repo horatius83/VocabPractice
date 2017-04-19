@@ -4,26 +4,52 @@
         {
             "alternates": [],
             "answer": "la meraviglia",
-            "failed": 8,
-            "lastAsked": 1487636026.7297583,
+            "failed": 10,
+            "lastAsked": 1492105620.3428867,
             "question": "Given the definition \"wonder, surprise\", what is the word?",
-            "tried": 9
+            "tried": 12
         },
         {
             "alternates": [],
             "answer": "sedersi",
-            "failed": 8,
-            "lastAsked": 1487635985.061663,
+            "failed": 11,
+            "lastAsked": 1492105642.147083,
             "question": "Given the definition \"to set down\", what is the word?",
-            "tried": 9
+            "tried": 13
         },
         {
             "alternates": [],
             "answer": "il punteggio",
-            "failed": 8,
-            "lastAsked": 1487635975.230443,
+            "failed": 10,
+            "lastAsked": 1492105599.400888,
             "question": "Given the definition \"score, points\", what is the word?",
-            "tried": 9
+            "tried": 12
+        },
+        {
+            "alternates": [],
+            "answer": "even, also",
+            "failed": 13,
+            "lastAsked": 1492105586.1057298,
+            "question": "What is the definition of \"persino\"?",
+            "tried": 16
+        },
+        {
+            "alternates": [],
+            "answer": "alzarsi",
+            "failed": 12,
+            "lastAsked": 1492105734.320753,
+            "question": "Given the definition \"to get up\", what is the word?",
+            "tried": 14
+        },
+        {
+            "alternates": [
+                "still"
+            ],
+            "answer": "still, yet",
+            "failed": 17,
+            "lastAsked": 1492105758.4471598,
+            "question": "What is the definition of \"ancora\"?",
+            "tried": 20
         },
         {
             "alternates": [
@@ -31,52 +57,18 @@
                 "well, therefore"
             ],
             "answer": "therefore, well",
-            "failed": 12,
-            "lastAsked": 1487636038.1220534,
+            "failed": 17,
+            "lastAsked": 1492105711.88466,
             "question": "What is the definition of \"dunque\"?",
-            "tried": 15
-        },
-        {
-            "alternates": [],
-            "answer": "ace",
-            "failed": 6,
-            "lastAsked": 1487636029.868857,
-            "question": "What is the definition of \"l'asso\"?",
-            "tried": 8
-        },
-        {
-            "alternates": [],
-            "answer": "even, also",
-            "failed": 12,
-            "lastAsked": 1487635995.0033166,
-            "question": "What is the definition of \"persino\"?",
-            "tried": 14
-        },
-        {
-            "alternates": [],
-            "answer": "alzarsi",
-            "failed": 6,
-            "lastAsked": 1487638620.6301498,
-            "question": "Given the definition \"to get up\", what is the word?",
-            "tried": 7
-        },
-        {
-            "alternates": [
-                "still"
-            ],
-            "answer": "still, yet",
-            "failed": 9,
-            "lastAsked": 1487635989.3463948,
-            "question": "What is the definition of \"ancora\"?",
-            "tried": 11
+            "tried": 21
         },
         {
             "alternates": [],
             "answer": "persino",
-            "failed": 8,
-            "lastAsked": 1487598942.0313635,
+            "failed": 15,
+            "lastAsked": 1492105749.6515794,
             "question": "Given the definition \"even, also\", what is the word?",
-            "tried": 10
+            "tried": 18
         },
         {
             "alternates": [],
@@ -87,38 +79,54 @@
             "tried": 9
         },
         {
-            "alternates": [
-                "il frigorifero"
-            ],
-            "answer": "il frigorifero (frigo)",
-            "failed": 3,
-            "lastAsked": 1487097273.98452,
-            "question": "Given the definition \"refrigerator\", what is the word?",
-            "tried": 4
-        },
-        {
             "alternates": [],
             "answer": "fare finta di",
-            "failed": 6,
-            "lastAsked": 1487598945.0680707,
+            "failed": 7,
+            "lastAsked": 1492105889.5131125,
             "question": "Given the definition \"to pretend\", what is the word?",
-            "tried": 8
-        },
-        {
-            "alternates": [],
-            "answer": "riunirsi",
-            "failed": 3,
-            "lastAsked": 1487097266.0410857,
-            "question": "Given the definition \"to get together\", what is the word?",
-            "tried": 4
+            "tried": 9
         },
         {
             "alternates": [],
             "answer": "often",
-            "failed": 3,
-            "lastAsked": 1487096927.7629306,
+            "failed": 4,
+            "lastAsked": 1492105884.5908313,
             "question": "What is the definition of \"spesso\"?",
-            "tried": 4
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "l'aranciata",
+            "failed": 7,
+            "lastAsked": 1492105817.6236033,
+            "question": "Given the definition \"orange drink\", what is the word?",
+            "tried": 9
+        },
+        {
+            "alternates": [
+                "il frigorifero"
+            ],
+            "answer": "il frigorifero (frigo)",
+            "failed": 4,
+            "lastAsked": 1492105881.2775104,
+            "question": "Given the definition \"refrigerator\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "ace",
+            "failed": 7,
+            "lastAsked": 1492105820.9368465,
+            "question": "What is the definition of \"l'asso\"?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "riunirsi",
+            "failed": 4,
+            "lastAsked": 1492105894.7863483,
+            "question": "Given the definition \"to get together\", what is the word?",
+            "tried": 5
         },
         {
             "alternates": [],
@@ -127,14 +135,6 @@
             "lastAsked": 1487097925.5928152,
             "question": "What is the definition of \"alzarsi\"?",
             "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "l'aranciata",
-            "failed": 6,
-            "lastAsked": 1487598894.2932298,
-            "question": "Given the definition \"orange drink\", what is the word?",
-            "tried": 8
         },
         {
             "alternates": [
@@ -154,6 +154,110 @@
             "lastAsked": 1487599115.721704,
             "question": "Given the definition \"again, another time\", what is the word?",
             "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "intruso",
+            "failed": 2,
+            "lastAsked": 1487097428.7177608,
+            "question": "Given the definition \"intruded\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "dunque",
+            "failed": 2,
+            "lastAsked": 1487096912.875075,
+            "question": "Given the definition \"therefore, well\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "wonder, surprise",
+            "failed": 2,
+            "lastAsked": 1487097683.2101164,
+            "question": "What is the definition of \"la meraviglia\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "queen in cards",
+            "failed": 2,
+            "lastAsked": 1487097357.7513175,
+            "question": "What is the definition of \"il fante\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "to pretend",
+            "failed": 2,
+            "lastAsked": 1487098096.4217744,
+            "question": "What is the definition of \"fare finta di\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "scoprire",
+            "failed": 2,
+            "lastAsked": 1487098244.3715725,
+            "question": "Given the definition \"to find out, discover\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "intruded",
+            "failed": 2,
+            "lastAsked": 1487096996.6293433,
+            "question": "What is the definition of \"intruso\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "il fante",
+            "failed": 2,
+            "lastAsked": 1487097088.7359087,
+            "question": "Given the definition \"queen in cards\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "player",
+            "failed": 2,
+            "lastAsked": 1487097353.077307,
+            "question": "What is the definition of \"il giocatore\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "ancora",
+            "failed": 4,
+            "lastAsked": 1487598980.6635985,
+            "question": "Given the definition \"still, yet\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "already",
+            "failed": 2,
+            "lastAsked": 1487098233.316295,
+            "question": "What is the definition of \"gia\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "il re",
+            "failed": 2,
+            "lastAsked": 1487097359.783165,
+            "question": "Given the definition \"king\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "la cannuccia",
+            "failed": 4,
+            "lastAsked": 1487599044.3103397,
+            "question": "Given the definition \"drinking straw\", what is the word?",
+            "tried": 6
         },
         {
             "alternates": [],
@@ -181,50 +285,10 @@
         },
         {
             "alternates": [],
-            "answer": "il fante",
+            "answer": "osservare",
             "failed": 2,
-            "lastAsked": 1487097088.7359087,
-            "question": "Given the definition \"queen in cards\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "scoprire",
-            "failed": 2,
-            "lastAsked": 1487098244.3715725,
-            "question": "Given the definition \"to find out, discover\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "intruded",
-            "failed": 2,
-            "lastAsked": 1487096996.6293433,
-            "question": "What is the definition of \"intruso\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "wonder, surprise",
-            "failed": 2,
-            "lastAsked": 1487097683.2101164,
-            "question": "What is the definition of \"la meraviglia\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "dunque",
-            "failed": 2,
-            "lastAsked": 1487096912.875075,
-            "question": "Given the definition \"therefore, well\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "queen in cards",
-            "failed": 2,
-            "lastAsked": 1487097357.7513175,
-            "question": "What is the definition of \"il fante\"?",
+            "lastAsked": 1487096991.8697972,
+            "question": "Given the definition \"to observe\", what is the word?",
             "tried": 3
         },
         {
@@ -237,34 +301,18 @@
         },
         {
             "alternates": [],
-            "answer": "il re",
-            "failed": 2,
-            "lastAsked": 1487097359.783165,
-            "question": "Given the definition \"king\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "already",
-            "failed": 2,
-            "lastAsked": 1487098233.316295,
-            "question": "What is the definition of \"gia\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "la cannuccia",
-            "failed": 4,
-            "lastAsked": 1487599044.3103397,
-            "question": "Given the definition \"drinking straw\", what is the word?",
-            "tried": 6
-        },
-        {
-            "alternates": [],
             "answer": "il gioco",
             "failed": 2,
             "lastAsked": 1487097536.915617,
             "question": "Given the definition \"game\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "to take (in)",
+            "failed": 2,
+            "lastAsked": 1487097349.6593533,
+            "question": "What is the definition of \"prendere\"?",
             "tried": 3
         },
         {
@@ -277,38 +325,6 @@
         },
         {
             "alternates": [],
-            "answer": "to pretend",
-            "failed": 2,
-            "lastAsked": 1487098096.4217744,
-            "question": "What is the definition of \"fare finta di\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "ancora",
-            "failed": 4,
-            "lastAsked": 1487598980.6635985,
-            "question": "Given the definition \"still, yet\", what is the word?",
-            "tried": 6
-        },
-        {
-            "alternates": [],
-            "answer": "to take (in)",
-            "failed": 2,
-            "lastAsked": 1487097349.6593533,
-            "question": "What is the definition of \"prendere\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "intruso",
-            "failed": 2,
-            "lastAsked": 1487097428.7177608,
-            "question": "Given the definition \"intruded\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
             "answer": "piu'",
             "failed": 2,
             "lastAsked": 1487096994.2133908,
@@ -317,34 +333,10 @@
         },
         {
             "alternates": [],
-            "answer": "osservare",
-            "failed": 2,
-            "lastAsked": 1487096991.8697972,
-            "question": "Given the definition \"to observe\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "player",
-            "failed": 2,
-            "lastAsked": 1487097353.077307,
-            "question": "What is the definition of \"il giocatore\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "drinking straw",
+            "answer": "le carte",
             "failed": 1,
-            "lastAsked": 1487096974.0096064,
-            "question": "What is the definition of \"la cannuccia\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "creare",
-            "failed": 1,
-            "lastAsked": 1487096988.0857205,
-            "question": "Given the definition \"to create\", what is the word?",
+            "lastAsked": 1487097852.8463216,
+            "question": "Given the definition \"playing cards\", what is the word?",
             "tried": 2
         },
         {
@@ -357,6 +349,72 @@
         },
         {
             "alternates": [],
+            "answer": "gia",
+            "failed": 1,
+            "lastAsked": 1487098231.0996284,
+            "question": "Given the definition \"already\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "game",
+            "failed": 1,
+            "lastAsked": 1487097405.1065476,
+            "question": "What is the definition of \"il gioco\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "chiudere",
+            "failed": 1,
+            "lastAsked": 1487096889.9677062,
+            "question": "Given the definition \"to close\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "in pensione",
+            "failed": 1,
+            "lastAsked": 1487097858.8259256,
+            "question": "Given the definition \"retired\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "il giocatore",
+            "failed": 1,
+            "lastAsked": 1487097979.5519338,
+            "question": "Given the definition \"player\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "creare",
+            "failed": 1,
+            "lastAsked": 1487096988.0857205,
+            "question": "Given the definition \"to create\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "To get together"
+            ],
+            "answer": "to get together",
+            "failed": 1,
+            "lastAsked": 1487096834.913132,
+            "question": "What is the definition of \"riunirsi\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "spesso",
+            "failed": 1,
+            "lastAsked": 1487097653.5902045,
+            "question": "Given the definition \"often\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
             "answer": "gli zii",
             "failed": 1,
             "lastAsked": 1487097165.9060202,
@@ -365,18 +423,10 @@
         },
         {
             "alternates": [],
-            "answer": "gli uomini",
+            "answer": "to get dressed",
             "failed": 1,
-            "lastAsked": 1487098084.0453472,
-            "question": "Given the definition \"men\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "popolare",
-            "failed": 1,
-            "lastAsked": 1487096966.5141854,
-            "question": "Given the definition \"popular\", what is the word?",
+            "lastAsked": 1487097910.0054178,
+            "question": "What is the definition of \"vestirsi\"?",
             "tried": 2
         },
         {
@@ -391,34 +441,26 @@
         },
         {
             "alternates": [],
-            "answer": "spesso",
+            "answer": "popolare",
             "failed": 1,
-            "lastAsked": 1487097653.5902045,
-            "question": "Given the definition \"often\", what is the word?",
+            "lastAsked": 1487096966.5141854,
+            "question": "Given the definition \"popular\", what is the word?",
             "tried": 2
         },
         {
             "alternates": [],
-            "answer": "le carte",
+            "answer": "drinking straw",
             "failed": 1,
-            "lastAsked": 1487097852.8463216,
-            "question": "Given the definition \"playing cards\", what is the word?",
+            "lastAsked": 1487096974.0096064,
+            "question": "What is the definition of \"la cannuccia\"?",
             "tried": 2
         },
         {
             "alternates": [],
-            "answer": "game",
+            "answer": "il proprietario",
             "failed": 1,
-            "lastAsked": 1487097405.1065476,
-            "question": "What is the definition of \"il gioco\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "il mazzo di carte",
-            "failed": 1,
-            "lastAsked": 1487096818.5051942,
-            "question": "Given the definition \"deck of cards\", what is the word?",
+            "lastAsked": 1487098215.8313422,
+            "question": "Given the definition \"owner, proprieter\", what is the word?",
             "tried": 2
         },
         {
@@ -431,14 +473,6 @@
         },
         {
             "alternates": [],
-            "answer": "in pensione",
-            "failed": 1,
-            "lastAsked": 1487097858.8259256,
-            "question": "Given the definition \"retired\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
             "answer": "the beginning",
             "failed": 1,
             "lastAsked": 1487097913.8009088,
@@ -447,10 +481,28 @@
         },
         {
             "alternates": [],
-            "answer": "to get dressed",
+            "answer": "sapere",
             "failed": 1,
-            "lastAsked": 1487097910.0054178,
-            "question": "What is the definition of \"vestirsi\"?",
+            "lastAsked": 1487096820.8411274,
+            "question": "Given the definition \"to know how, a fact\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "di tanto in tanto",
+            "failed": 1,
+            "lastAsked": 1487097515.5122654,
+            "question": "Given the definition \"every now & then\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "to know how, fact"
+            ],
+            "answer": "to know how, a fact",
+            "failed": 1,
+            "lastAsked": 1487097511.8247108,
+            "question": "What is the definition of \"sapere\"?",
             "tried": 2
         },
         {
@@ -462,23 +514,11 @@
             "tried": 2
         },
         {
-            "alternates": [
-                "To get together"
-            ],
-            "answer": "to get together",
+            "alternates": [],
+            "answer": "gli uomini",
             "failed": 1,
-            "lastAsked": 1487096834.913132,
-            "question": "What is the definition of \"riunirsi\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "to know how, fact"
-            ],
-            "answer": "to know how, a fact",
-            "failed": 1,
-            "lastAsked": 1487097511.8247108,
-            "question": "What is the definition of \"sapere\"?",
+            "lastAsked": 1487098084.0453472,
+            "question": "Given the definition \"men\", what is the word?",
             "tried": 2
         },
         {
@@ -501,51 +541,45 @@
         },
         {
             "alternates": [],
-            "answer": "sapere",
+            "answer": "il mazzo di carte",
             "failed": 1,
-            "lastAsked": 1487096820.8411274,
-            "question": "Given the definition \"to know how, a fact\", what is the word?",
+            "lastAsked": 1487096818.5051942,
+            "question": "Given the definition \"deck of cards\", what is the word?",
             "tried": 2
         },
         {
             "alternates": [],
-            "answer": "il giocatore",
-            "failed": 1,
-            "lastAsked": 1487097979.5519338,
-            "question": "Given the definition \"player\", what is the word?",
-            "tried": 2
+            "answer": "dormire",
+            "failed": 0,
+            "lastAsked": 1487097930.4170907,
+            "question": "Given the definition \"to sleep\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "uomo"
+            ],
+            "answer": "l'uomo",
+            "failed": 0,
+            "lastAsked": 1487097364.7989237,
+            "question": "Given the definition \"man\", what is the word?",
+            "tried": 1
         },
         {
             "alternates": [],
-            "answer": "il proprietario",
-            "failed": 1,
-            "lastAsked": 1487098215.8313422,
-            "question": "Given the definition \"owner, proprieter\", what is the word?",
-            "tried": 2
+            "answer": "popular",
+            "failed": 0,
+            "lastAsked": 1487096853.6962144,
+            "question": "What is the definition of \"popolare\"?",
+            "tried": 1
         },
         {
             "alternates": [],
-            "answer": "gia",
-            "failed": 1,
-            "lastAsked": 1487098231.0996284,
-            "question": "Given the definition \"already\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "di tanto in tanto",
-            "failed": 1,
-            "lastAsked": 1487097515.5122654,
-            "question": "Given the definition \"every now & then\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "chiudere",
-            "failed": 1,
-            "lastAsked": 1487096889.9677062,
-            "question": "Given the definition \"to close\", what is the word?",
-            "tried": 2
+            "answer": "to count",
+            "failed": 0,
+            "lastAsked": 1487096953.1830196,
+            "question": "What is the definition of \"contare\"?",
+            "tried": 1
         },
         {
             "alternates": [],
@@ -556,65 +590,35 @@
             "tried": 1
         },
         {
-            "alternates": [
-                "appetite"
-            ],
-            "answer": "appetite, hunger",
+            "alternates": [],
+            "answer": "Of course!",
             "failed": 0,
-            "lastAsked": 1487097374.6073055,
-            "question": "What is the definition of \"l'appetito\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "to be able to do"
-            ],
-            "answer": "to be able, can",
-            "failed": 0,
-            "lastAsked": 1487098025.9511163,
-            "question": "What is the definition of \"potere\"?",
+            "lastAsked": 1487097596.3304415,
+            "question": "What is the definition of \"Certo!\"?",
             "tried": 1
         },
         {
             "alternates": [],
-            "answer": "to close",
+            "answer": "men",
             "failed": 0,
-            "lastAsked": 1487097829.978758,
-            "question": "What is the definition of \"chiudere\"?",
+            "lastAsked": 1487096932.9589603,
+            "question": "What is the definition of \"gli uomini\"?",
             "tried": 1
         },
         {
             "alternates": [],
-            "answer": "potere",
+            "answer": "l'asso",
             "failed": 0,
-            "lastAsked": 1487097310.0721955,
-            "question": "Given the definition \"to be able, can\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "the father"
-            ],
-            "answer": "father",
-            "failed": 0,
-            "lastAsked": 1487097402.5790403,
-            "question": "What is the definition of \"il papa\"?",
+            "lastAsked": 1487097933.6573539,
+            "question": "Given the definition \"ace\", what is the word?",
             "tried": 1
         },
         {
             "alternates": [],
-            "answer": "to get angry",
+            "answer": "king",
             "failed": 0,
-            "lastAsked": 1487097880.6256576,
-            "question": "What is the definition of \"arrabbiarsi\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to set down",
-            "failed": 0,
-            "lastAsked": 1487097937.0569303,
-            "question": "What is the definition of \"sedersi\"?",
+            "lastAsked": 1487097958.7162416,
+            "question": "What is the definition of \"il re\"?",
             "tried": 1
         },
         {
@@ -629,64 +633,6 @@
         },
         {
             "alternates": [],
-            "answer": "eliminare",
-            "failed": 0,
-            "lastAsked": 1487096789.7976658,
-            "question": "Given the definition \"to eliminate\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "aunts and uncles",
-            "failed": 0,
-            "lastAsked": 1487097889.2615616,
-            "question": "What is the definition of \"gli zii\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "to collect, to pick up"
-            ],
-            "answer": "to pick up, collect",
-            "failed": 0,
-            "lastAsked": 1487097944.0283616,
-            "question": "What is the definition of \"raccongliere\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "deck of cards",
-            "failed": 0,
-            "lastAsked": 1487096800.4773166,
-            "question": "What is the definition of \"il mazzo di carte\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to create",
-            "failed": 0,
-            "lastAsked": 1487097604.9188924,
-            "question": "What is the definition of \"creare\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "more",
-            "failed": 0,
-            "lastAsked": 1487097808.8751955,
-            "question": "What is the definition of \"piu'\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "vestirsi",
-            "failed": 0,
-            "lastAsked": 1487097901.7813768,
-            "question": "Given the definition \"to get dressed\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
             "answer": "late",
             "failed": 0,
             "lastAsked": 1487096998.605599,
@@ -694,11 +640,13 @@
             "tried": 1
         },
         {
-            "alternates": [],
-            "answer": "men",
+            "alternates": [
+                "cavallo"
+            ],
+            "answer": "il cavallo",
             "failed": 0,
-            "lastAsked": 1487096932.9589603,
-            "question": "What is the definition of \"gli uomini\"?",
+            "lastAsked": 1487097906.7813697,
+            "question": "Given the definition \"horse\", what is the word?",
             "tried": 1
         },
         {
@@ -709,146 +657,6 @@
             "failed": 0,
             "lastAsked": 1487097051.5493174,
             "question": "What is the definition of \"entrare\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "Of course!",
-            "failed": 0,
-            "lastAsked": 1487097596.3304415,
-            "question": "What is the definition of \"Certo!\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "the man"
-            ],
-            "answer": "man",
-            "failed": 0,
-            "lastAsked": 1487097445.7296865,
-            "question": "What is the definition of \"l'uomo\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "pranzo"
-            ],
-            "answer": "il pranzo",
-            "failed": 0,
-            "lastAsked": 1487097322.1519399,
-            "question": "Given the definition \"dinner\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "another time"
-            ],
-            "answer": "again, another time",
-            "failed": 0,
-            "lastAsked": 1487096866.0282235,
-            "question": "What is the definition of \"un'altra volta\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "orange drink",
-            "failed": 0,
-            "lastAsked": 1487098179.3567176,
-            "question": "What is the definition of \"l'aranciata\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "giocare",
-            "failed": 0,
-            "lastAsked": 1487097469.1890259,
-            "question": "Given the definition \"to play a sport, cards\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "retired",
-            "failed": 0,
-            "lastAsked": 1487097811.8909132,
-            "question": "What is the definition of \"in pensione\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "entrare",
-            "failed": 0,
-            "lastAsked": 1487097846.030215,
-            "question": "Given the definition \"to enter\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to eat",
-            "failed": 0,
-            "lastAsked": 1487096776.689725,
-            "question": "What is the definition of \"mangiare\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "il nonno",
-            "failed": 0,
-            "lastAsked": 1487098012.5714316,
-            "question": "Given the definition \"grandfather\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "uomo"
-            ],
-            "answer": "l'uomo",
-            "failed": 0,
-            "lastAsked": 1487097364.7989237,
-            "question": "Given the definition \"man\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "observe"
-            ],
-            "answer": "to observe",
-            "failed": 0,
-            "lastAsked": 1487097326.5518641,
-            "question": "What is the definition of \"osservare\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "popular",
-            "failed": 0,
-            "lastAsked": 1487096853.6962144,
-            "question": "What is the definition of \"popolare\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to sleep",
-            "failed": 0,
-            "lastAsked": 1487097113.1718955,
-            "question": "What is the definition of \"dormire\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "grandpa"
-            ],
-            "answer": "grandfather",
-            "failed": 0,
-            "lastAsked": 1487097131.0716944,
-            "question": "What is the definition of \"il nonno\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "king",
-            "failed": 0,
-            "lastAsked": 1487097958.7162416,
-            "question": "What is the definition of \"il re\"?",
             "tried": 1
         },
         {
@@ -863,52 +671,90 @@
         },
         {
             "alternates": [],
-            "answer": "to count",
+            "answer": "entrare",
             "failed": 0,
-            "lastAsked": 1487096953.1830196,
-            "question": "What is the definition of \"contare\"?",
+            "lastAsked": 1487097846.030215,
+            "question": "Given the definition \"to enter\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "il nonno",
+            "failed": 0,
+            "lastAsked": 1487098012.5714316,
+            "question": "Given the definition \"grandfather\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "deck of cards",
+            "failed": 0,
+            "lastAsked": 1487096800.4773166,
+            "question": "What is the definition of \"il mazzo di carte\"?",
             "tried": 1
         },
         {
             "alternates": [
-                "cavallo"
+                "pranzo"
             ],
-            "answer": "il cavallo",
+            "answer": "il pranzo",
             "failed": 0,
-            "lastAsked": 1487097906.7813697,
-            "question": "Given the definition \"horse\", what is the word?",
+            "lastAsked": 1487097322.1519399,
+            "question": "Given the definition \"dinner\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "the man"
+            ],
+            "answer": "man",
+            "failed": 0,
+            "lastAsked": 1487097445.7296865,
+            "question": "What is the definition of \"l'uomo\"?",
             "tried": 1
         },
         {
             "alternates": [],
-            "answer": "refrigerator",
+            "answer": "to get angry",
             "failed": 0,
-            "lastAsked": 1487096774.185673,
-            "question": "What is the definition of \"il frigorifero (frigo)\"?",
+            "lastAsked": 1487097880.6256576,
+            "question": "What is the definition of \"arrabbiarsi\"?",
             "tried": 1
         },
         {
             "alternates": [],
-            "answer": "horse",
+            "answer": "vestirsi",
             "failed": 0,
-            "lastAsked": 1487097091.8480055,
-            "question": "What is the definition of \"il cavallo\"?",
+            "lastAsked": 1487097901.7813768,
+            "question": "Given the definition \"to get dressed\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "grandpa"
+            ],
+            "answer": "grandfather",
+            "failed": 0,
+            "lastAsked": 1487097131.0716944,
+            "question": "What is the definition of \"il nonno\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "appetite"
+            ],
+            "answer": "appetite, hunger",
+            "failed": 0,
+            "lastAsked": 1487097374.6073055,
+            "question": "What is the definition of \"l'appetito\"?",
             "tried": 1
         },
         {
             "alternates": [],
-            "answer": "l'asso",
+            "answer": "giocare",
             "failed": 0,
-            "lastAsked": 1487097933.6573539,
-            "question": "Given the definition \"ace\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "dormire",
-            "failed": 0,
-            "lastAsked": 1487097930.4170907,
-            "question": "Given the definition \"to sleep\", what is the word?",
+            "lastAsked": 1487097469.1890259,
+            "question": "Given the definition \"to play a sport, cards\", what is the word?",
             "tried": 1
         },
         {
@@ -923,10 +769,164 @@
         },
         {
             "alternates": [],
+            "answer": "orange drink",
+            "failed": 0,
+            "lastAsked": 1487098179.3567176,
+            "question": "What is the definition of \"l'aranciata\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to create",
+            "failed": 0,
+            "lastAsked": 1487097604.9188924,
+            "question": "What is the definition of \"creare\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "horse",
+            "failed": 0,
+            "lastAsked": 1487097091.8480055,
+            "question": "What is the definition of \"il cavallo\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to set down",
+            "failed": 0,
+            "lastAsked": 1487097937.0569303,
+            "question": "What is the definition of \"sedersi\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to eat",
+            "failed": 0,
+            "lastAsked": 1487096776.689725,
+            "question": "What is the definition of \"mangiare\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "retired",
+            "failed": 0,
+            "lastAsked": 1487097811.8909132,
+            "question": "What is the definition of \"in pensione\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "refrigerator",
+            "failed": 0,
+            "lastAsked": 1487096774.185673,
+            "question": "What is the definition of \"il frigorifero (frigo)\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "to collect, to pick up"
+            ],
+            "answer": "to pick up, collect",
+            "failed": 0,
+            "lastAsked": 1487097944.0283616,
+            "question": "What is the definition of \"raccongliere\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
             "answer": "mangiare",
             "failed": 0,
             "lastAsked": 1487097307.5923169,
             "question": "Given the definition \"to eat\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "observe"
+            ],
+            "answer": "to observe",
+            "failed": 0,
+            "lastAsked": 1487097326.5518641,
+            "question": "What is the definition of \"osservare\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "the father"
+            ],
+            "answer": "father",
+            "failed": 0,
+            "lastAsked": 1487097402.5790403,
+            "question": "What is the definition of \"il papa\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "aunts and uncles",
+            "failed": 0,
+            "lastAsked": 1487097889.2615616,
+            "question": "What is the definition of \"gli zii\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "to be able to do"
+            ],
+            "answer": "to be able, can",
+            "failed": 0,
+            "lastAsked": 1487098025.9511163,
+            "question": "What is the definition of \"potere\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "eliminare",
+            "failed": 0,
+            "lastAsked": 1487096789.7976658,
+            "question": "Given the definition \"to eliminate\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to sleep",
+            "failed": 0,
+            "lastAsked": 1487097113.1718955,
+            "question": "What is the definition of \"dormire\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "more",
+            "failed": 0,
+            "lastAsked": 1487097808.8751955,
+            "question": "What is the definition of \"piu'\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "potere",
+            "failed": 0,
+            "lastAsked": 1487097310.0721955,
+            "question": "Given the definition \"to be able, can\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to close",
+            "failed": 0,
+            "lastAsked": 1487097829.978758,
+            "question": "What is the definition of \"chiudere\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "another time"
+            ],
+            "answer": "again, another time",
+            "failed": 0,
+            "lastAsked": 1487096866.0282235,
+            "question": "What is the definition of \"un'altra volta\"?",
             "tried": 1
         }
     ]

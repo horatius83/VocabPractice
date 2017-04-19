@@ -1,0 +1,28 @@
+v0.1	Gianluigi Vocab Chapter 9
+v	cenare	to have dinner
+v	dividere	to divide, share
+v	dovere	to have to, must
+v	lavare	to wash
+v	sbucciare	to peel
+v	spiegare	to explain
+v	tagliare	to cut
+v	abbondante	abundant, plentiful
+v	delizioso	delicious
+v	di solito	usually
+v	dolce	sweet
+v	ovale	oval
+v	preferito	favorite
+v	rotondo	round
+v	succoso	juicy
+v	l'armadietto	cupboard
+v	la ciliegia	cherry
+v	il grappolo	brunch
+v	la macedonia	fruit cocktail
+v	la passione	passion
+v	il pezzettino	small piece
+v	il piattino	saucer
+v	lo zucchero	sugar
+v	a che ora?	a what time?
+v	di solito	usually
+v	dopo	after
+v	prima	before

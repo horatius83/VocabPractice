@@ -57,7 +57,7 @@ if len(sys.argv) > 1:
                 print(recent_files[:9])
                 print(arg)
                 print([arg])
-                update_recent_files(recent_files[:9] + [arg])
+                update_recent_files(recent_files[-9:] + [arg])
             RunTest(arg)
 else:
     #RunTest(defaultFile)

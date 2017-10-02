@@ -3,35 +3,99 @@
     "vocab": [
         {
             "alternates": [],
-            "answer": "England",
-            "failed": 1,
-            "lastAsked": 1492622721.1700666,
-            "question": "What is the definition of \"l'Inghilterra\"?",
-            "tried": 2
+            "answer": "piangere",
+            "failed": 5,
+            "lastAsked": 1492622962.4312131,
+            "question": "Given the definition \"to cry\", what is the word?",
+            "tried": 6
         },
         {
             "alternates": [],
-            "answer": "airport",
-            "failed": 0,
-            "lastAsked": 1492622675.5233893,
-            "question": "What is the definition of \"l'aeroporto\"?",
-            "tried": 1
+            "answer": "above all",
+            "failed": 4,
+            "lastAsked": 1492623404.6473086,
+            "question": "What is the definition of \"soprattutto\"?",
+            "tried": 5
         },
         {
             "alternates": [],
-            "answer": "next",
-            "failed": 1,
-            "lastAsked": 1492622727.0022602,
-            "question": "What is the definition of \"prossimo\"?",
-            "tried": 2
+            "answer": "to be able, can",
+            "failed": 4,
+            "lastAsked": 1492622956.671134,
+            "question": "What is the definition of \"potere\"?",
+            "tried": 5
         },
         {
             "alternates": [],
-            "answer": "la Spagna",
-            "failed": 1,
-            "lastAsked": 1492622724.1781428,
-            "question": "Given the definition \"Spain\", what is the word?",
-            "tried": 2
+            "answer": "mancare",
+            "failed": 4,
+            "lastAsked": 1492623031.1532795,
+            "question": "Given the definition \"to miss\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "giurare",
+            "failed": 3,
+            "lastAsked": 1492623661.1222098,
+            "question": "Given the definition \"to swear\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "prossimo",
+            "failed": 3,
+            "lastAsked": 1492623398.7097669,
+            "question": "Given the definition \"next\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "at least",
+            "failed": 3,
+            "lastAsked": 1492623393.7504969,
+            "question": "What is the definition of \"almeno\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "to wish",
+            "failed": 3,
+            "lastAsked": 1492622935.7078485,
+            "question": "What is the definition of \"desiderare\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "la partenza",
+            "failed": 3,
+            "lastAsked": 1492623764.1833334,
+            "question": "Given the definition \"departure\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "lo squardo",
+            "failed": 3,
+            "lastAsked": 1492623761.4873772,
+            "question": "Given the definition \"look, glance\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "nascondere",
+            "failed": 3,
+            "lastAsked": 1492623505.4509122,
+            "question": "Given the definition \"to hide\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "departure",
+            "failed": 3,
+            "lastAsked": 1492622951.9112744,
+            "question": "What is the definition of \"la partenza\"?",
+            "tried": 4
         },
         {
             "alternates": [],
@@ -40,90 +104,6 @@
             "lastAsked": 1492622747.5889835,
             "question": "Given the definition \"kiss\", what is the word?",
             "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "dare",
-            "failed": 2,
-            "lastAsked": 1492622744.9897678,
-            "question": "Given the definition \"to give\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "il preside",
-            "failed": 1,
-            "lastAsked": 1492622718.6342754,
-            "question": "Given the definition \"school, principal\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "l'affetto",
-            "failed": 1,
-            "lastAsked": 1492622730.4255347,
-            "question": "Given the definition \"affection, love\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "to kiss",
-            "failed": 0,
-            "lastAsked": 1492622751.2616127,
-            "question": "What is the definition of \"baciare\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "place",
-            "failed": 0,
-            "lastAsked": 1492622753.9817152,
-            "question": "What is the definition of \"il posto\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "to pay"
-            ],
-            "answer": "to pay (for)",
-            "failed": 0,
-            "lastAsked": 1492622782.3444843,
-            "question": "What is the definition of \"pagare\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "never"
-            ],
-            "answer": "never, ever",
-            "failed": 1,
-            "lastAsked": 1492622813.4593954,
-            "question": "What is the definition of \"mai\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "to give",
-            "failed": 0,
-            "lastAsked": 1492622775.9689398,
-            "question": "What is the definition of \"dare\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "svegliarsi",
-            "failed": 2,
-            "lastAsked": 1492622823.4392812,
-            "question": "Given the definition \"to wake up\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "to swear",
-            "failed": 1,
-            "lastAsked": 1492622792.948187,
-            "question": "What is the definition of \"giurare\"?",
-            "tried": 2
         },
         {
             "alternates": [
@@ -137,140 +117,26 @@
         },
         {
             "alternates": [],
-            "answer": "il posto",
-            "failed": 1,
-            "lastAsked": 1492622878.933501,
-            "question": "Given the definition \"place\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "only",
-            "failed": 1,
-            "lastAsked": 1492622876.1338973,
-            "question": "What is the definition of \"soltanto\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "to wish",
-            "failed": 3,
-            "lastAsked": 1492622935.7078485,
-            "question": "What is the definition of \"desiderare\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "svegliare",
-            "failed": 1,
-            "lastAsked": 1492622897.1131203,
-            "question": "Given the definition \"to wake\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "to be able, can",
-            "failed": 4,
-            "lastAsked": 1492622956.671134,
-            "question": "What is the definition of \"potere\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "piangere",
-            "failed": 5,
-            "lastAsked": 1492622962.4312131,
-            "question": "Given the definition \"to cry\", what is the word?",
-            "tried": 6
-        },
-        {
-            "alternates": [],
-            "answer": "to cry",
-            "failed": 0,
-            "lastAsked": 1492622859.866506,
-            "question": "What is the definition of \"piangere\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "departure",
-            "failed": 3,
-            "lastAsked": 1492622951.9112744,
-            "question": "What is the definition of \"la partenza\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "portare",
+            "answer": "soprattutto",
             "failed": 2,
-            "lastAsked": 1492623016.9016826,
-            "question": "Given the definition \"to bring\", what is the word?",
+            "lastAsked": 1492623758.499448,
+            "question": "Given the definition \"above all\", what is the word?",
             "tried": 3
         },
         {
             "alternates": [],
-            "answer": "mancare",
-            "failed": 4,
-            "lastAsked": 1492623031.1532795,
-            "question": "Given the definition \"to miss\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "money",
-            "failed": 0,
-            "lastAsked": 1492622985.2184625,
-            "question": "What is the definition of \"i soldi\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to love",
-            "failed": 1,
-            "lastAsked": 1492623000.6058738,
-            "question": "What is the definition of \"volere bene\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "ultimo",
-            "failed": 1,
-            "lastAsked": 1492623003.8779836,
-            "question": "Given the definition \"last\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "principal"
-            ],
-            "answer": "school, principal",
-            "failed": 0,
-            "lastAsked": 1492622979.4986672,
-            "question": "What is the definition of \"il preside\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "France",
-            "failed": 0,
-            "lastAsked": 1492622968.6702905,
-            "question": "What is the definition of \"la Francia\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "potere",
-            "failed": 0,
-            "lastAsked": 1492622974.3026874,
-            "question": "Given the definition \"to be able, can\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "presto",
+            "answer": "dare",
             "failed": 2,
-            "lastAsked": 1492623138.2298152,
-            "question": "Given the definition \"soon\", what is the word?",
+            "lastAsked": 1492622744.9897678,
+            "question": "Given the definition \"to give\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "svegliarsi",
+            "failed": 2,
+            "lastAsked": 1492622823.4392812,
+            "question": "Given the definition \"to wake up\", what is the word?",
             "tried": 3
         },
         {
@@ -283,94 +149,10 @@
         },
         {
             "alternates": [],
-            "answer": "trip",
-            "failed": 1,
-            "lastAsked": 1492623129.4501486,
-            "question": "What is the definition of \"il viaggio\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "to hide",
-            "failed": 2,
-            "lastAsked": 1492623140.4854724,
-            "question": "What is the definition of \"nascondere\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
             "answer": "l'Inghilterra",
             "failed": 2,
             "lastAsked": 1492623133.2622023,
             "question": "Given the definition \"England\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "Spain",
-            "failed": 0,
-            "lastAsked": 1492623068.4600627,
-            "question": "What is the definition of \"la Spagna\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "la Francia",
-            "failed": 1,
-            "lastAsked": 1492623106.410049,
-            "question": "Given the definition \"France\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "alzare",
-            "failed": 1,
-            "lastAsked": 1492623108.8981187,
-            "question": "Given the definition \"to lift, raise\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "to call"
-            ],
-            "answer": "to telephone",
-            "failed": 1,
-            "lastAsked": 1492623212.6396453,
-            "question": "What is the definition of \"telefonare a\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "between"
-            ],
-            "answer": "in, between, among",
-            "failed": 0,
-            "lastAsked": 1492623190.5559783,
-            "question": "What is the definition of \"fra\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "sad",
-            "failed": 1,
-            "lastAsked": 1492623246.6031618,
-            "question": "What is the definition of \"triste\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "telefonare a",
-            "failed": 1,
-            "lastAsked": 1492623240.3067997,
-            "question": "Given the definition \"to telephone\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "baciare",
-            "failed": 2,
-            "lastAsked": 1492623263.0418072,
-            "question": "Given the definition \"to kiss\", what is the word?",
             "tried": 3
         },
         {
@@ -383,27 +165,51 @@
         },
         {
             "alternates": [],
-            "answer": "purtroppo",
+            "answer": "mai",
             "failed": 2,
-            "lastAsked": 1492623266.1418283,
-            "question": "Given the definition \"unfortunately\", what is the word?",
+            "lastAsked": 1492623651.2626967,
+            "question": "Given the definition \"never, ever\", what is the word?",
             "tried": 3
         },
         {
             "alternates": [],
-            "answer": "to be in a hurry",
-            "failed": 0,
-            "lastAsked": 1492623204.332389,
-            "question": "What is the definition of \"avere fretta\"?",
-            "tried": 1
+            "answer": "unfortunately",
+            "failed": 2,
+            "lastAsked": 1492623654.5544353,
+            "question": "What is the definition of \"purtroppo\"?",
+            "tried": 3
         },
         {
             "alternates": [],
-            "answer": "prossimo",
-            "failed": 3,
-            "lastAsked": 1492623398.7097669,
-            "question": "Given the definition \"next\", what is the word?",
-            "tried": 4
+            "answer": "to hide",
+            "failed": 2,
+            "lastAsked": 1492623140.4854724,
+            "question": "What is the definition of \"nascondere\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "portare",
+            "failed": 2,
+            "lastAsked": 1492623016.9016826,
+            "question": "Given the definition \"to bring\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "baciare",
+            "failed": 2,
+            "lastAsked": 1492623263.0418072,
+            "question": "Given the definition \"to kiss\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "il divertimento",
+            "failed": 2,
+            "lastAsked": 1492623490.2591758,
+            "question": "Given the definition \"amusement, fun\", what is the word?",
+            "tried": 3
         },
         {
             "alternates": [
@@ -425,11 +231,59 @@
         },
         {
             "alternates": [],
-            "answer": "above all",
-            "failed": 4,
-            "lastAsked": 1492623404.6473086,
-            "question": "What is the definition of \"soprattutto\"?",
-            "tried": 5
+            "answer": "to miss",
+            "failed": 2,
+            "lastAsked": 1492623569.296853,
+            "question": "What is the definition of \"mancare\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "to smile",
+            "failed": 2,
+            "lastAsked": 1492623485.6311505,
+            "question": "What is the definition of \"sorridere\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "purtroppo",
+            "failed": 2,
+            "lastAsked": 1492623266.1418283,
+            "question": "Given the definition \"unfortunately\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "desiderare",
+            "failed": 2,
+            "lastAsked": 1492623574.12888,
+            "question": "Given the definition \"to wish\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "presto",
+            "failed": 2,
+            "lastAsked": 1492623138.2298152,
+            "question": "Given the definition \"soon\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "l'affetto",
+            "failed": 1,
+            "lastAsked": 1492622730.4255347,
+            "question": "Given the definition \"affection, love\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "il preside",
+            "failed": 1,
+            "lastAsked": 1492622718.6342754,
+            "question": "Given the definition \"school, principal\", what is the word?",
+            "tried": 2
         },
         {
             "alternates": [],
@@ -441,26 +295,316 @@
         },
         {
             "alternates": [],
-            "answer": "at least",
-            "failed": 3,
-            "lastAsked": 1492623393.7504969,
-            "question": "What is the definition of \"almeno\"?",
-            "tried": 4
+            "answer": "to love",
+            "failed": 1,
+            "lastAsked": 1492623000.6058738,
+            "question": "What is the definition of \"volere bene\"?",
+            "tried": 2
         },
         {
             "alternates": [],
-            "answer": "il viaggio",
+            "answer": "sad",
+            "failed": 1,
+            "lastAsked": 1492623246.6031618,
+            "question": "What is the definition of \"triste\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "ultimo",
+            "failed": 1,
+            "lastAsked": 1492623003.8779836,
+            "question": "Given the definition \"last\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "trip",
+            "failed": 1,
+            "lastAsked": 1492623129.4501486,
+            "question": "What is the definition of \"il viaggio\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "to call"
+            ],
+            "answer": "to telephone",
+            "failed": 1,
+            "lastAsked": 1492623212.6396453,
+            "question": "What is the definition of \"telefonare a\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "telefonare a",
+            "failed": 1,
+            "lastAsked": 1492623240.3067997,
+            "question": "Given the definition \"to telephone\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "svegliare",
+            "failed": 1,
+            "lastAsked": 1492622897.1131203,
+            "question": "Given the definition \"to wake\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "costoso",
+            "failed": 1,
+            "lastAsked": 1492623642.7825718,
+            "question": "Given the definition \"constly\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "il posto",
+            "failed": 1,
+            "lastAsked": 1492622878.933501,
+            "question": "Given the definition \"place\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "alzare",
+            "failed": 1,
+            "lastAsked": 1492623108.8981187,
+            "question": "Given the definition \"to lift, raise\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "never"
+            ],
+            "answer": "never, ever",
+            "failed": 1,
+            "lastAsked": 1492622813.4593954,
+            "question": "What is the definition of \"mai\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "soltanto",
+            "failed": 1,
+            "lastAsked": 1492623545.812669,
+            "question": "Given the definition \"only\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "la Spagna",
+            "failed": 1,
+            "lastAsked": 1492622724.1781428,
+            "question": "Given the definition \"Spain\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "il sole",
+            "failed": 1,
+            "lastAsked": 1492623739.9717963,
+            "question": "Given the definition \"sun\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "sun",
+            "failed": 1,
+            "lastAsked": 1492623649.4469705,
+            "question": "What is the definition of \"il sole\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "l'abbraccio",
+            "failed": 1,
+            "lastAsked": 1492623729.720003,
+            "question": "Given the definition \"hug\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "l'inizio",
+            "failed": 1,
+            "lastAsked": 1492623564.2248676,
+            "question": "Given the definition \"beginning\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "next",
+            "failed": 1,
+            "lastAsked": 1492622727.0022602,
+            "question": "What is the definition of \"prossimo\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "England",
+            "failed": 1,
+            "lastAsked": 1492622721.1700666,
+            "question": "What is the definition of \"l'Inghilterra\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "la Francia",
+            "failed": 1,
+            "lastAsked": 1492623106.410049,
+            "question": "Given the definition \"France\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "volere bene",
+            "failed": 1,
+            "lastAsked": 1492623550.9938056,
+            "question": "Given the definition \"to love\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "only",
+            "failed": 1,
+            "lastAsked": 1492622876.1338973,
+            "question": "What is the definition of \"soltanto\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to swear",
+            "failed": 1,
+            "lastAsked": 1492622792.948187,
+            "question": "What is the definition of \"giurare\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "France",
             "failed": 0,
-            "lastAsked": 1492623303.3608189,
-            "question": "Given the definition \"trip\", what is the word?",
+            "lastAsked": 1492622968.6702905,
+            "question": "What is the definition of \"la Francia\"?",
             "tried": 1
         },
         {
             "alternates": [],
-            "answer": "sorridere",
+            "answer": "avere fretta",
             "failed": 0,
-            "lastAsked": 1492623294.457112,
-            "question": "Given the definition \"to smile\", what is the word?",
+            "lastAsked": 1492623532.0779727,
+            "question": "Given the definition \"to be in a hurry\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "soon",
+            "failed": 0,
+            "lastAsked": 1492623522.1543562,
+            "question": "What is the definition of \"presto\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to give",
+            "failed": 0,
+            "lastAsked": 1492622775.9689398,
+            "question": "What is the definition of \"dare\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "hug",
+            "failed": 0,
+            "lastAsked": 1492623411.4135187,
+            "question": "What is the definition of \"l'abbraccio\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "Spain",
+            "failed": 0,
+            "lastAsked": 1492623068.4600627,
+            "question": "What is the definition of \"la Spagna\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "potere",
+            "failed": 0,
+            "lastAsked": 1492622974.3026874,
+            "question": "Given the definition \"to be able, can\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "fun"
+            ],
+            "answer": "amusement, fun",
+            "failed": 0,
+            "lastAsked": 1492623768.4312105,
+            "question": "What is the definition of \"il divertimento\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to cry",
+            "failed": 0,
+            "lastAsked": 1492622859.866506,
+            "question": "What is the definition of \"piangere\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to bring",
+            "failed": 0,
+            "lastAsked": 1492623702.5725188,
+            "question": "What is the definition of \"portare\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "to pay"
+            ],
+            "answer": "to pay (for)",
+            "failed": 0,
+            "lastAsked": 1492622782.3444843,
+            "question": "What is the definition of \"pagare\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "money",
+            "failed": 0,
+            "lastAsked": 1492622985.2184625,
+            "question": "What is the definition of \"i soldi\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "kiss",
+            "failed": 0,
+            "lastAsked": 1492623519.4351256,
+            "question": "What is the definition of \"il bacio\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to be in a hurry",
+            "failed": 0,
+            "lastAsked": 1492623204.332389,
+            "question": "What is the definition of \"avere fretta\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "to lift up"
+            ],
+            "answer": "to lift, raise",
+            "failed": 0,
+            "lastAsked": 1492623674.0497258,
+            "question": "What is the definition of \"alzare\"?",
             "tried": 1
         },
         {
@@ -475,11 +619,19 @@
         },
         {
             "alternates": [],
-            "answer": "to smile",
-            "failed": 2,
-            "lastAsked": 1492623485.6311505,
-            "question": "What is the definition of \"sorridere\"?",
-            "tried": 3
+            "answer": "to wake",
+            "failed": 0,
+            "lastAsked": 1492623773.7988117,
+            "question": "What is the definition of \"svegliare\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "sorridere",
+            "failed": 0,
+            "lastAsked": 1492623294.457112,
+            "question": "Given the definition \"to smile\", what is the word?",
+            "tried": 1
         },
         {
             "alternates": [],
@@ -491,18 +643,18 @@
         },
         {
             "alternates": [],
-            "answer": "il divertimento",
-            "failed": 2,
-            "lastAsked": 1492623490.2591758,
-            "question": "Given the definition \"amusement, fun\", what is the word?",
-            "tried": 3
+            "answer": "airport",
+            "failed": 0,
+            "lastAsked": 1492622675.5233893,
+            "question": "What is the definition of \"l'aeroporto\"?",
+            "tried": 1
         },
         {
             "alternates": [],
-            "answer": "hug",
+            "answer": "fra",
             "failed": 0,
-            "lastAsked": 1492623411.4135187,
-            "question": "What is the definition of \"l'abbraccio\"?",
+            "lastAsked": 1492623668.9703834,
+            "question": "Given the definition \"in, between, among\", what is the word?",
             "tried": 1
         },
         {
@@ -515,6 +667,30 @@
         },
         {
             "alternates": [],
+            "answer": "l'aeroporto",
+            "failed": 0,
+            "lastAsked": 1492623584.4124136,
+            "question": "Given the definition \"airport\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to kiss",
+            "failed": 0,
+            "lastAsked": 1492622751.2616127,
+            "question": "What is the definition of \"baciare\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "place",
+            "failed": 0,
+            "lastAsked": 1492622753.9817152,
+            "question": "What is the definition of \"il posto\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
             "answer": "to hug",
             "failed": 0,
             "lastAsked": 1492623415.149632,
@@ -523,99 +699,11 @@
         },
         {
             "alternates": [],
-            "answer": "nascondere",
-            "failed": 3,
-            "lastAsked": 1492623505.4509122,
-            "question": "Given the definition \"to hide\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "desiderare",
-            "failed": 2,
-            "lastAsked": 1492623574.12888,
-            "question": "Given the definition \"to wish\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "to miss",
-            "failed": 2,
-            "lastAsked": 1492623569.296853,
-            "question": "What is the definition of \"mancare\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "soltanto",
-            "failed": 1,
-            "lastAsked": 1492623545.812669,
-            "question": "Given the definition \"only\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "avere fretta",
+            "answer": "il viaggio",
             "failed": 0,
-            "lastAsked": 1492623532.0779727,
-            "question": "Given the definition \"to be in a hurry\", what is the word?",
+            "lastAsked": 1492623303.3608189,
+            "question": "Given the definition \"trip\", what is the word?",
             "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "kiss",
-            "failed": 0,
-            "lastAsked": 1492623519.4351256,
-            "question": "What is the definition of \"il bacio\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "soon",
-            "failed": 0,
-            "lastAsked": 1492623522.1543562,
-            "question": "What is the definition of \"presto\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "l'inizio",
-            "failed": 1,
-            "lastAsked": 1492623564.2248676,
-            "question": "Given the definition \"beginning\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "volere bene",
-            "failed": 1,
-            "lastAsked": 1492623550.9938056,
-            "question": "Given the definition \"to love\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "unfortunately",
-            "failed": 2,
-            "lastAsked": 1492623654.5544353,
-            "question": "What is the definition of \"purtroppo\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "costoso",
-            "failed": 1,
-            "lastAsked": 1492623642.7825718,
-            "question": "Given the definition \"constly\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "mai",
-            "failed": 2,
-            "lastAsked": 1492623651.2626967,
-            "question": "Given the definition \"never, ever\", what is the word?",
-            "tried": 3
         },
         {
             "alternates": [],
@@ -626,12 +714,24 @@
             "tried": 1
         },
         {
-            "alternates": [],
-            "answer": "sun",
-            "failed": 1,
-            "lastAsked": 1492623649.4469705,
-            "question": "What is the definition of \"il sole\"?",
-            "tried": 2
+            "alternates": [
+                "principal"
+            ],
+            "answer": "school, principal",
+            "failed": 0,
+            "lastAsked": 1492622979.4986672,
+            "question": "What is the definition of \"il preside\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "between"
+            ],
+            "answer": "in, between, among",
+            "failed": 0,
+            "lastAsked": 1492623190.5559783,
+            "question": "What is the definition of \"fra\"?",
+            "tried": 1
         },
         {
             "alternates": [
@@ -641,106 +741,6 @@
             "failed": 0,
             "lastAsked": 1492623595.3401263,
             "question": "Given the definition \"money\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "l'aeroporto",
-            "failed": 0,
-            "lastAsked": 1492623584.4124136,
-            "question": "Given the definition \"airport\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "giurare",
-            "failed": 3,
-            "lastAsked": 1492623661.1222098,
-            "question": "Given the definition \"to swear\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "soprattutto",
-            "failed": 2,
-            "lastAsked": 1492623758.499448,
-            "question": "Given the definition \"above all\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "to bring",
-            "failed": 0,
-            "lastAsked": 1492623702.5725188,
-            "question": "What is the definition of \"portare\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "il sole",
-            "failed": 1,
-            "lastAsked": 1492623739.9717963,
-            "question": "Given the definition \"sun\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "to lift up"
-            ],
-            "answer": "to lift, raise",
-            "failed": 0,
-            "lastAsked": 1492623674.0497258,
-            "question": "What is the definition of \"alzare\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "la partenza",
-            "failed": 3,
-            "lastAsked": 1492623764.1833334,
-            "question": "Given the definition \"departure\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "fra",
-            "failed": 0,
-            "lastAsked": 1492623668.9703834,
-            "question": "Given the definition \"in, between, among\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "lo squardo",
-            "failed": 3,
-            "lastAsked": 1492623761.4873772,
-            "question": "Given the definition \"look, glance\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "l'abbraccio",
-            "failed": 1,
-            "lastAsked": 1492623729.720003,
-            "question": "Given the definition \"hug\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "fun"
-            ],
-            "answer": "amusement, fun",
-            "failed": 0,
-            "lastAsked": 1492623768.4312105,
-            "question": "What is the definition of \"il divertimento\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to wake",
-            "failed": 0,
-            "lastAsked": 1492623773.7988117,
-            "question": "What is the definition of \"svegliare\"?",
             "tried": 1
         }
     ]

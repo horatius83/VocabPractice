@@ -2,1642 +2,2148 @@
     "name": ".\\Italian\\Italian2.json",
     "vocab": [
         {
-            "answer": "arrivederLa",
-            "failed": 5,
-            "lastAsked": 1443200399.422216,
-            "question": "What is the definition of \"good-bye (formal)\"?",
-            "tried": 7
-        },
-        {
-            "answer": "settembre",
-            "failed": 5,
-            "lastAsked": 1443200414.281216,
-            "question": "What is the definition of \"September\"?",
-            "tried": 7
-        },
-        {
-            "answer": "sessanta",
-            "failed": 6,
-            "lastAsked": 1443200442.999216,
-            "question": "What is the definition of \"60\"?",
-            "tried": 8
-        },
-        {
-            "answer": "Ci sono il figlio e la figlia.",
-            "failed": 3,
-            "lastAsked": 1443200362.384216,
-            "question": "What is the definition of \"There are the son and the daughter.\"?",
-            "tried": 5
-        },
-        {
-            "answer": "mercoledi",
-            "failed": 6,
-            "lastAsked": 1443200452.719216,
-            "question": "What is the definition of \"Wednesday\"?",
-            "tried": 8
-        },
-        {
-            "answer": "arrivederci",
-            "failed": 4,
-            "lastAsked": 1443200411.401216,
-            "question": "What is the definition of \"good-bye (informal)\"?",
-            "tried": 6
-        },
-        {
-            "answer": "Lenedi",
-            "failed": 5,
-            "lastAsked": 1443200439.859216,
-            "question": "What is the definition of \"Monday\"?",
-            "tried": 7
-        },
-        {
-            "answer": "June",
-            "failed": 4,
-            "lastAsked": 1443200436.659216,
-            "question": "Given the definition \"giugno\", what is the word?",
-            "tried": 6
-        },
-        {
-            "answer": "e sposata?",
-            "failed": 4,
-            "lastAsked": 1443200555.671216,
-            "question": "Given the definition \"Are you married?\", what is the word?",
-            "tried": 6
-        },
-        {
+            "alternates": [],
             "answer": "venerdi",
-            "failed": 10,
-            "lastAsked": 1443200630.547216,
+            "failed": 11,
+            "lastAsked": 1516731933.7514734,
             "question": "What is the definition of \"Friday\"?",
+            "tried": 15
+        },
+        {
+            "alternates": [],
+            "answer": "martedi",
+            "failed": 10,
+            "lastAsked": 1516731925.751727,
+            "question": "What is the definition of \"Tuesday\"?",
+            "tried": 14
+        },
+        {
+            "alternates": [
+                "lunedi",
+                "lenedi"
+            ],
+            "answer": "Lenedi",
+            "failed": 9,
+            "lastAsked": 1516731899.387867,
+            "question": "What is the definition of \"Monday\"?",
+            "tried": 13
+        },
+        {
+            "alternates": [],
+            "answer": "buona notte",
+            "failed": 8,
+            "lastAsked": 1516731902.7239475,
+            "question": "What is the definition of \"good night\"?",
             "tried": 12
         },
         {
-            "answer": "martedi",
-            "failed": 9,
-            "lastAsked": 1443200616.928216,
-            "question": "What is the definition of \"Tuesday\"?",
+            "alternates": [],
+            "answer": "mercoledi",
+            "failed": 8,
+            "lastAsked": 1516731931.4557016,
+            "question": "What is the definition of \"Wednesday\"?",
+            "tried": 12
+        },
+        {
+            "alternates": [
+                "arrivederla"
+            ],
+            "answer": "arrivederLa",
+            "failed": 7,
+            "lastAsked": 1516731920.4640613,
+            "question": "What is the definition of \"good-bye (formal)\"?",
             "tried": 11
         },
         {
+            "alternates": [],
+            "answer": "sessanta",
+            "failed": 6,
+            "lastAsked": 1516731923.1677852,
+            "question": "What is the definition of \"60\"?",
+            "tried": 10
+        },
+        {
+            "alternates": [
+                "e sposata"
+            ],
+            "answer": "e sposata?",
+            "failed": 7,
+            "lastAsked": 1516731945.8437145,
+            "question": "Given the definition \"Are you married?\", what is the word?",
+            "tried": 11
+        },
+        {
+            "alternates": [],
+            "answer": "febbraio",
+            "failed": 8,
+            "lastAsked": 1516732133.178331,
+            "question": "What is the definition of \"February\"?",
+            "tried": 12
+        },
+        {
+            "alternates": [],
             "answer": "dicassette",
-            "failed": 4,
-            "lastAsked": 1443200533.333216,
+            "failed": 7,
+            "lastAsked": 1516732078.4584916,
             "question": "What is the definition of \"17\"?",
-            "tried": 6
+            "tried": 11
         },
         {
-            "answer": "C'e' la figlia.",
-            "failed": 3,
-            "lastAsked": 1443200466.758216,
-            "question": "What is the definition of \"There's the daughter.\"?",
-            "tried": 5
+            "alternates": [
+                "Io ho una famiglia piccola",
+                "io ho una famiglia piccola",
+                "sono ho una famiglia piccola"
+            ],
+            "answer": "Io ho una famiglia piccola.",
+            "failed": 8,
+            "lastAsked": 1516732119.4791842,
+            "question": "What is the definition of \"I have a small family.\"?",
+            "tried": 12
         },
         {
-            "answer": "sette",
-            "failed": 4,
-            "lastAsked": 1443200565.051216,
-            "question": "What is the definition of \"7\"?",
-            "tried": 6
-        },
-        {
-            "answer": "Ho un padre.",
-            "failed": 3,
-            "lastAsked": 1443200527.173216,
-            "question": "What is the definition of \"I have a father.\"?",
-            "tried": 5
-        },
-        {
+            "alternates": [
+                "giovedi"
+            ],
             "answer": "Giovedi",
             "failed": 6,
-            "lastAsked": 1443200592.089216,
+            "lastAsked": 1516731995.5786276,
             "question": "What is the definition of \"Thursday\"?",
+            "tried": 10
+        },
+        {
+            "alternates": [
+                "E anche io sono uno studente",
+                "e anche io sono uno studente",
+                "e anche, io sono uno studente"
+            ],
+            "answer": "E anche io sono uno studente.",
+            "failed": 7,
+            "lastAsked": 1516732130.4186902,
+            "question": "What is the definition of \"And me, too, I'm a student.\"?",
+            "tried": 11
+        },
+        {
+            "alternates": [],
+            "answer": "quaranta",
+            "failed": 5,
+            "lastAsked": 1516731977.135812,
+            "question": "What is the definition of \"40\"?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "ottobre",
+            "failed": 6,
+            "lastAsked": 1516732108.6058056,
+            "question": "What is the definition of \"October\"?",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "diciannove",
+            "failed": 7,
+            "lastAsked": 1516732123.9300406,
+            "question": "What is the definition of \"19\"?",
+            "tried": 11
+        },
+        {
+            "alternates": [],
+            "answer": "diciotto",
+            "failed": 5,
+            "lastAsked": 1516732174.8736658,
+            "question": "What is the definition of \"18\"?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "settembre",
+            "failed": 5,
+            "lastAsked": 1516732136.0658822,
+            "question": "What is the definition of \"September\"?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "arrivederci",
+            "failed": 6,
+            "lastAsked": 1516732189.7302144,
+            "question": "What is the definition of \"good-bye (informal)\"?",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "a dopo",
+            "failed": 4,
+            "lastAsked": 1516732159.0622177,
+            "question": "What is the definition of \"see you later\"?",
             "tried": 8
         },
         {
-            "answer": "E anche io sono uno studente.",
+            "alternates": [],
+            "answer": "settanta",
             "failed": 4,
-            "lastAsked": 1443200767.678216,
-            "question": "What is the definition of \"And me, too, I'm a student.\"?",
-            "tried": 6
+            "lastAsked": 1516732177.3387644,
+            "question": "What is the definition of \"70\"?",
+            "tried": 8
         },
         {
-            "answer": "hello",
-            "failed": 2,
-            "lastAsked": 1443200639.826216,
-            "question": "Given the definition \"salvo\", what is the word?",
-            "tried": 4
+            "alternates": [],
+            "answer": "luglio",
+            "failed": 5,
+            "lastAsked": 1516732193.2582562,
+            "question": "What is the definition of \"July\"?",
+            "tried": 9
         },
         {
-            "answer": "Here is a family...",
-            "failed": 3,
-            "lastAsked": 1443200729.820216,
-            "question": "Given the definition \"Ecco una famiglia.\", what is the word?",
-            "tried": 5
-        },
-        {
-            "answer": "16",
-            "failed": 2,
-            "lastAsked": 1443200634.988216,
-            "question": "Given the definition \"sedici\", what is the word?",
-            "tried": 4
-        },
-        {
-            "answer": "febbraio",
-            "failed": 4,
-            "lastAsked": 1443200774.717216,
-            "question": "What is the definition of \"February\"?",
-            "tried": 6
-        },
-        {
-            "answer": "una nipote",
-            "failed": 3,
-            "lastAsked": 1443200761.198216,
-            "question": "Given the definition \"a niece\", what is the word?",
-            "tried": 5
-        },
-        {
-            "answer": "quaranta",
-            "failed": 4,
-            "lastAsked": 1443200771.778216,
-            "question": "What is the definition of \"40\"?",
-            "tried": 6
-        },
-        {
-            "answer": "sabato",
-            "failed": 3,
-            "lastAsked": 1443200734.160216,
-            "question": "What is the definition of \"Saturday\"?",
-            "tried": 5
-        },
-        {
-            "answer": "diciannove",
-            "failed": 3,
-            "lastAsked": 1443200974.905216,
-            "question": "What is the definition of \"19\"?",
-            "tried": 5
-        },
-        {
-            "answer": "Io ho una famiglia piccola.",
-            "failed": 4,
-            "lastAsked": 1443200989.204216,
-            "question": "What is the definition of \"I have a small family.\"?",
-            "tried": 6
-        },
-        {
+            "alternates": [],
             "answer": "giugno",
-            "failed": 3,
-            "lastAsked": 1443200918.368216,
+            "failed": 4,
+            "lastAsked": 1516732180.7455769,
             "question": "What is the definition of \"June\"?",
-            "tried": 5
+            "tried": 8
         },
         {
+            "alternates": [
+                "prego"
+            ],
+            "answer": "Prego.",
+            "failed": 4,
+            "lastAsked": 1516732184.2499921,
+            "question": "What is the definition of \"You're welcome.\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [
+                "C'e la figlia",
+                "C'e' la figlia",
+                "c'e la figlia"
+            ],
+            "answer": "C'e' la figlia.",
+            "failed": 5,
+            "lastAsked": 1516732375.2096255,
+            "question": "What is the definition of \"There's the daughter.\"?",
+            "tried": 9
+        },
+        {
+            "alternates": [
+                "io ho un padre",
+                "ho un padre"
+            ],
+            "answer": "Ho un padre.",
+            "failed": 4,
+            "lastAsked": 1516732210.2216833,
+            "question": "What is the definition of \"I have a father.\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "cento",
+            "failed": 4,
+            "lastAsked": 1516732270.0057664,
+            "question": "What is the definition of \"100\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [
+                "Ci sono il figlio e la figlia",
+                "ci sono il figlio e la figlia"
+            ],
+            "answer": "Ci sono il figlio e la figlia.",
+            "failed": 5,
+            "lastAsked": 1516732367.4328134,
+            "question": "What is the definition of \"There are the son and the daughter.\"?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "buona giornata",
+            "failed": 6,
+            "lastAsked": 1516732378.812981,
+            "question": "What is the definition of \"have a good day\"?",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "gennaio",
+            "failed": 4,
+            "lastAsked": 1516732273.3259828,
+            "question": "What is the definition of \"January\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "maggio",
+            "failed": 5,
+            "lastAsked": 1516732350.9455948,
+            "question": "What is the definition of \"May\"?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
             "answer": "novanta",
             "failed": 4,
-            "lastAsked": 1443200992.504216,
+            "lastAsked": 1516732348.309192,
             "question": "What is the definition of \"90\"?",
-            "tried": 6
+            "tried": 8
         },
         {
-            "answer": "gennaio",
+            "alternates": [],
+            "answer": "June",
+            "failed": 4,
+            "lastAsked": 1516732403.6327221,
+            "question": "Given the definition \"giugno\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "una nipote",
+            "failed": 4,
+            "lastAsked": 1516732412.8732593,
+            "question": "Given the definition \"a niece\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "sette",
+            "failed": 4,
+            "lastAsked": 1516732408.3451545,
+            "question": "What is the definition of \"7\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "a presto",
             "failed": 3,
-            "lastAsked": 1443200978.564216,
-            "question": "What is the definition of \"January\"?",
-            "tried": 5
+            "lastAsked": 1516732415.7132173,
+            "question": "What is the definition of \"see you soon\"?",
+            "tried": 7
         },
         {
-            "answer": "Come sta?",
+            "alternates": [],
+            "answer": "un ragazzo",
             "failed": 3,
-            "lastAsked": 1443200868.833216,
-            "question": "What is the definition of \"How are you doing? (formal)\"?",
-            "tried": 6
+            "lastAsked": 1516732401.028999,
+            "question": "What is the definition of \"a boy\"?",
+            "tried": 7
         },
         {
-            "answer": "C'e' il fratello.",
-            "failed": 2,
-            "lastAsked": 1443200936.867216,
-            "question": "What is the definition of \"There's the brother.\"?",
-            "tried": 4
-        },
-        {
-            "answer": "There are the father and the mother.",
-            "failed": 1,
-            "lastAsked": 1443200865.172216,
-            "question": "Given the definition \"Ci sono il padre e la madre.\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "Friday",
-            "failed": 1,
-            "lastAsked": 1443201040.960216,
-            "question": "Given the definition \"venerdi\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "quattro",
-            "failed": 1,
-            "lastAsked": 1443201056.299216,
-            "question": "What is the definition of \"4\"?",
-            "tried": 3
-        },
-        {
-            "answer": "have a good evening",
-            "failed": 2,
-            "lastAsked": 1443201071.479216,
-            "question": "Given the definition \"buona serata\", what is the word?",
-            "tried": 4
-        },
-        {
-            "answer": "trenta",
-            "failed": 2,
-            "lastAsked": 1443201076.258216,
-            "question": "What is the definition of \"30\"?",
-            "tried": 4
-        },
-        {
-            "answer": "10",
-            "failed": 2,
-            "lastAsked": 1443201073.358216,
-            "question": "Given the definition \"dieci\", what is the word?",
-            "tried": 4
-        },
-        {
-            "answer": "a niece",
-            "failed": 1,
-            "lastAsked": 1443201047.040216,
-            "question": "What is the definition of \"una nipote\"?",
-            "tried": 3
-        },
-        {
-            "answer": "C'e' il figlio.",
-            "failed": 2,
-            "lastAsked": 1443201066.458216,
-            "question": "What is the definition of \"There's the son.\"?",
-            "tried": 4
-        },
-        {
-            "answer": "he is",
-            "failed": 1,
-            "lastAsked": 1443201059.740216,
-            "question": "What is the definition of \"lui e'\"?",
-            "tried": 3
-        },
-        {
-            "answer": "Sono di...",
-            "failed": 1,
-            "lastAsked": 1443201113.095216,
-            "question": "What is the definition of \"I am from...\"?",
-            "tried": 3
-        },
-        {
-            "answer": "cugino",
-            "failed": 2,
-            "lastAsked": 1443201141.474216,
-            "question": "Given the definition \"male cousin\", what is the word?",
-            "tried": 4
-        },
-        {
-            "answer": "quattordici",
-            "failed": 2,
-            "lastAsked": 1443201156.072216,
-            "question": "What is the definition of \"14\"?",
-            "tried": 4
-        },
-        {
-            "answer": "9",
-            "failed": 1,
-            "lastAsked": 1443201098.176216,
-            "question": "Given the definition \"nove\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "6",
-            "failed": 1,
-            "lastAsked": 1443201116.915216,
-            "question": "Given the definition \"sei\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "tredici",
-            "failed": 1,
-            "lastAsked": 1443201096.356216,
-            "question": "What is the definition of \"13\"?",
-            "tried": 3
-        },
-        {
-            "answer": "dodici",
-            "failed": 2,
-            "lastAsked": 1443201148.953216,
-            "question": "What is the definition of \"12\"?",
-            "tried": 4
-        },
-        {
-            "answer": "Grazie mille.",
-            "failed": 2,
-            "lastAsked": 1443201146.853216,
-            "question": "What is the definition of \"Thanks a lot.\"?",
-            "tried": 4
-        },
-        {
-            "answer": "undici",
-            "failed": 1,
-            "lastAsked": 1443201192.390216,
-            "question": "What is the definition of \"11\"?",
-            "tried": 3
-        },
-        {
-            "answer": "Tuesday",
-            "failed": 2,
-            "lastAsked": 1443201286.624216,
-            "question": "Given the definition \"martedi\", what is the word?",
-            "tried": 4
-        },
-        {
-            "answer": "quindici",
-            "failed": 2,
-            "lastAsked": 1443201270.445216,
-            "question": "What is the definition of \"15\"?",
-            "tried": 4
-        },
-        {
-            "answer": "dicembre",
+            "alternates": [
+                "thursday"
+            ],
+            "answer": "Thursday",
             "failed": 3,
-            "lastAsked": 1443201299.803216,
-            "question": "What is the definition of \"December\"?",
-            "tried": 5
+            "lastAsked": 1516732382.2694578,
+            "question": "Given the definition \"Giovedi\", what is the word?",
+            "tried": 7
         },
         {
-            "answer": "Ci sono il fratello e la sorella.",
-            "failed": 2,
-            "lastAsked": 1443201259.346216,
-            "question": "What is the definition of \"There are the brother and sister.\"?",
-            "tried": 4
-        },
-        {
-            "answer": "C'e' il padre.",
-            "failed": 1,
-            "lastAsked": 1443201197.870216,
-            "question": "What is the definition of \"There's the father.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "buona notte",
-            "failed": 3,
-            "lastAsked": 1443201302.643216,
-            "question": "What is the definition of \"good night\"?",
-            "tried": 5
-        },
-        {
-            "answer": "ottobre",
-            "failed": 3,
-            "lastAsked": 1443201296.625216,
-            "question": "What is the definition of \"October\"?",
-            "tried": 5
-        },
-        {
-            "answer": "aprile",
-            "failed": 2,
-            "lastAsked": 1443201344.280216,
-            "question": "What is the definition of \"April\"?",
-            "tried": 4
-        },
-        {
-            "answer": "lui e'",
-            "failed": 1,
-            "lastAsked": 1443201327.201216,
-            "question": "Given the definition \"he is\", what is the word?",
-            "tried": 3
-        },
-        {
+            "alternates": [],
             "answer": "agosto",
             "failed": 3,
-            "lastAsked": 1443201358.479216,
+            "lastAsked": 1516732405.9538224,
             "question": "What is the definition of \"August\"?",
-            "tried": 5
+            "tried": 7
         },
         {
-            "answer": "Monday",
-            "failed": 1,
-            "lastAsked": 1443201330.641216,
-            "question": "Given the definition \"Lenedi\", what is the word?",
-            "tried": 3
+            "alternates": [
+                "piacere mio"
+            ],
+            "answer": "Piacere mio.",
+            "failed": 4,
+            "lastAsked": 1516732420.4331653,
+            "question": "What is the definition of \"Pleased to meet you, too.\"?",
+            "tried": 8
         },
         {
-            "answer": "90",
-            "failed": 1,
-            "lastAsked": 1443201305.423216,
-            "question": "Given the definition \"novanta\", what is the word?",
-            "tried": 3
+            "alternates": [
+                "lei e una professoressa",
+                "lei e' una professoressa"
+            ],
+            "answer": "Lei e' una professoressa.",
+            "failed": 3,
+            "lastAsked": 1516732434.6603801,
+            "question": "What is the definition of \"She's a teacher.\"?",
+            "tried": 7
         },
         {
-            "answer": "60",
-            "failed": 2,
-            "lastAsked": 1443201352.960216,
-            "question": "Given the definition \"sessanta\", what is the word?",
-            "tried": 4
+            "alternates": [
+                "Ci sono il fratello e' la sorella",
+                "Ci sono il fratello e la sorella"
+            ],
+            "answer": "Ci sono il fratello e la sorella.",
+            "failed": 3,
+            "lastAsked": 1516732474.1935008,
+            "question": "What is the definition of \"There are the brother and sister.\"?",
+            "tried": 7
         },
         {
-            "answer": "novembre",
-            "failed": 1,
-            "lastAsked": 1443201321.022216,
-            "question": "What is the definition of \"November\"?",
-            "tried": 3
+            "alternates": [
+                "lui e un poliziotto",
+                "lui e' un poliziotto"
+            ],
+            "answer": "Lui e' un poliziotto.",
+            "failed": 4,
+            "lastAsked": 1516732526.6967041,
+            "question": "What is the definition of \"He's a policeman.\"?",
+            "tried": 8
         },
         {
+            "alternates": [],
+            "answer": "buon pomeriggio",
+            "failed": 4,
+            "lastAsked": 1516732518.840617,
+            "question": "What is the definition of \"good afternoon\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "sono sposato",
+            "failed": 3,
+            "lastAsked": 1516732489.87642,
+            "question": "Given the definition \"I am married.\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "see you later",
+            "failed": 3,
+            "lastAsked": 1516732438.252906,
+            "question": "Given the definition \"a dopo\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "hi"
+            ],
+            "answer": "hello",
+            "failed": 3,
+            "lastAsked": 1516732492.4689145,
+            "question": "Given the definition \"salvo\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "buon giorno",
+            "failed": 4,
+            "lastAsked": 1516732510.4487407,
+            "question": "What is the definition of \"good morning\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "sabato",
+            "failed": 3,
+            "lastAsked": 1516732528.8723044,
+            "question": "What is the definition of \"Saturday\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "marzo",
+            "failed": 3,
+            "lastAsked": 1516732530.944493,
+            "question": "What is the definition of \"March\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "There is a family",
+                "this is a family"
+            ],
+            "answer": "Here is a family...",
+            "failed": 3,
+            "lastAsked": 1516732556.076857,
+            "question": "Given the definition \"Ecco una famiglia.\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "C'e' il figlio",
+                "c'e il figlio"
+            ],
+            "answer": "C'e' il figlio.",
+            "failed": 3,
+            "lastAsked": 1516732545.5887408,
+            "question": "What is the definition of \"There's the son.\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "dicembre",
+            "failed": 4,
+            "lastAsked": 1516732581.4562845,
+            "question": "What is the definition of \"December\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "buona sera",
+            "failed": 3,
+            "lastAsked": 1516732559.100432,
+            "question": "What is the definition of \"good evening\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "molto bene, grazie"
+            ],
+            "answer": "Molto bene, grazie.",
+            "failed": 3,
+            "lastAsked": 1516732537.04484,
+            "question": "What is the definition of \"Very well, thanks.\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "domenica"
+            ],
+            "answer": "domencia",
+            "failed": 3,
+            "lastAsked": 1516732576.03199,
+            "question": "What is the definition of \"Sunday\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "quattordici",
+            "failed": 4,
+            "lastAsked": 1516732638.984603,
+            "question": "What is the definition of \"14\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "have a good evening",
+            "failed": 4,
+            "lastAsked": 1516732633.0398486,
+            "question": "Given the definition \"buona serata\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "16",
+            "failed": 3,
+            "lastAsked": 1516732608.131628,
+            "question": "Given the definition \"sedici\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "C'e il fratello",
+                "c'e il fratello"
+            ],
+            "answer": "C'e' il fratello.",
+            "failed": 3,
+            "lastAsked": 1516732592.4602263,
+            "question": "What is the definition of \"There's the brother.\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "come sta?"
+            ],
+            "answer": "Come sta?",
+            "failed": 3,
+            "lastAsked": 1516732628.656807,
+            "question": "What is the definition of \"How are you doing? (formal)\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
             "answer": "dieci",
             "failed": 2,
-            "lastAsked": 1443201355.259216,
+            "lastAsked": 1516732614.7797346,
             "question": "What is the definition of \"10\"?",
-            "tried": 4
+            "tried": 6
         },
         {
-            "answer": "a dopo",
-            "failed": 3,
-            "lastAsked": 1443201420.035216,
-            "question": "What is the definition of \"see you later\"?",
-            "tried": 5
-        },
-        {
-            "answer": "I am married.",
-            "failed": 1,
-            "lastAsked": 1443201403.176216,
-            "question": "What is the definition of \"sono sposato\"?",
-            "tried": 3
-        },
-        {
-            "answer": "nonno",
-            "failed": 1,
-            "lastAsked": 1443201363.419216,
-            "question": "Given the definition \"grandfather\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "Saturday",
-            "failed": 1,
-            "lastAsked": 1443201379.477216,
-            "question": "Given the definition \"sabato\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "12",
-            "failed": 1,
-            "lastAsked": 1443201396.437216,
-            "question": "Given the definition \"dodici\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "Thursday",
+            "alternates": [],
+            "answer": "10",
             "failed": 2,
-            "lastAsked": 1443201417.675216,
-            "question": "Given the definition \"Giovedi\", what is the word?",
-            "tried": 4
+            "lastAsked": 1516732594.91649,
+            "question": "Given the definition \"dieci\", what is the word?",
+            "tried": 6
         },
         {
+            "alternates": [],
+            "answer": "cinquanta",
+            "failed": 2,
+            "lastAsked": 1516732612.6885247,
+            "question": "What is the definition of \"50\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "quindici",
+            "failed": 2,
+            "lastAsked": 1516732660.1314223,
+            "question": "What is the definition of \"15\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "niece"
+            ],
+            "answer": "a niece",
+            "failed": 2,
+            "lastAsked": 1516732668.6073465,
+            "question": "What is the definition of \"una nipote\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "Sono di Milano",
+                "sono di milano"
+            ],
             "answer": "Sono di Milano.",
-            "failed": 1,
-            "lastAsked": 1443201376.038216,
+            "failed": 3,
+            "lastAsked": 1516732689.6953287,
             "question": "Given the definition \"I'm from Milan.\", what is the word?",
-            "tried": 3
+            "tried": 7
         },
         {
-            "answer": "zia",
-            "failed": 1,
-            "lastAsked": 1443201365.658216,
-            "question": "Given the definition \"aunt\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "15",
-            "failed": 1,
-            "lastAsked": 1443201487.172216,
-            "question": "Given the definition \"quindici\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "Lei e' una professoressa.",
+            "alternates": [],
+            "answer": "cinque",
             "failed": 2,
-            "lastAsked": 1443201526.808216,
-            "question": "What is the definition of \"She's a teacher.\"?",
-            "tried": 4
+            "lastAsked": 1516732652.8994877,
+            "question": "What is the definition of \"5\"?",
+            "tried": 6
         },
         {
-            "answer": "(Sto) Bene, grazie.",
-            "failed": 1,
-            "lastAsked": 1443201466.452216,
-            "question": "What is the definition of \"(I am) Fine, thanks.\"?",
-            "tried": 3
+            "alternates": [
+                "grazie mille"
+            ],
+            "answer": "Grazie mille.",
+            "failed": 2,
+            "lastAsked": 1516732682.7434072,
+            "question": "What is the definition of \"Thanks a lot.\"?",
+            "tried": 6
         },
         {
+            "alternates": [],
+            "answer": "cugino",
+            "failed": 3,
+            "lastAsked": 1516732685.408366,
+            "question": "Given the definition \"male cousin\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "trenta",
+            "failed": 2,
+            "lastAsked": 1516732677.5998778,
+            "question": "What is the definition of \"30\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "zia",
+            "failed": 2,
+            "lastAsked": 1516732655.7234445,
+            "question": "Given the definition \"aunt\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "salvo",
+            "failed": 2,
+            "lastAsked": 1516732694.8716574,
+            "question": "What is the definition of \"hello\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "dodici",
+            "failed": 2,
+            "lastAsked": 1516732716.0196328,
+            "question": "What is the definition of \"12\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
             "answer": "venti",
             "failed": 2,
-            "lastAsked": 1443201540.227216,
+            "lastAsked": 1516732713.05948,
             "question": "What is the definition of \"20\"?",
-            "tried": 4
+            "tried": 6
         },
         {
-            "answer": "maggio",
-            "failed": 2,
-            "lastAsked": 1443201538.127216,
-            "question": "What is the definition of \"May\"?",
-            "tried": 4
-        },
-        {
-            "answer": "Lui e' un poliziotto.",
-            "failed": 2,
-            "lastAsked": 1443201535.967216,
-            "question": "What is the definition of \"He's a policeman.\"?",
-            "tried": 4
-        },
-        {
-            "answer": "a boy",
-            "failed": 1,
-            "lastAsked": 1443201423.835216,
-            "question": "Given the definition \"un ragazzo\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "luglio",
-            "failed": 3,
-            "lastAsked": 1443201552.006216,
-            "question": "What is the definition of \"July\"?",
-            "tried": 5
-        },
-        {
-            "answer": "You're welcome.",
-            "failed": 1,
-            "lastAsked": 1443201558.886216,
-            "question": "Given the definition \"Prego.\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "17",
-            "failed": 1,
-            "lastAsked": 1443201566.446216,
-            "question": "Given the definition \"dicassette\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "Prego.",
-            "failed": 2,
-            "lastAsked": 1443201621.322216,
-            "question": "What is the definition of \"You're welcome.\"?",
-            "tried": 4
-        },
-        {
-            "answer": "Ci sono il padre e la madre.",
-            "failed": 1,
-            "lastAsked": 1443201584.904216,
-            "question": "What is the definition of \"There are the father and the mother.\"?",
-            "tried": 3
-        },
-        {
+            "alternates": [],
             "answer": "buona serata",
             "failed": 2,
-            "lastAsked": 1443201625.142216,
+            "lastAsked": 1516732710.7237568,
             "question": "What is the definition of \"have a good evening\"?",
-            "tried": 4
+            "tried": 6
         },
         {
-            "answer": "un nipote",
-            "failed": 1,
-            "lastAsked": 1443201613.762216,
-            "question": "Given the definition \"a nephew\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "She's a teacher.",
-            "failed": 1,
-            "lastAsked": 1443201606.523216,
-            "question": "Given the definition \"Lei e' una professoressa.\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "Ci sono...",
-            "failed": 1,
-            "lastAsked": 1443201618.722216,
-            "question": "What is the definition of \"There are...\"?",
-            "tried": 3
-        },
-        {
-            "answer": "marzo",
+            "alternates": [
+                "tuesday"
+            ],
+            "answer": "Tuesday",
             "failed": 2,
-            "lastAsked": 1443201811.589216,
-            "question": "What is the definition of \"March\"?",
-            "tried": 4
+            "lastAsked": 1516732700.1392815,
+            "question": "Given the definition \"martedi\", what is the word?",
+            "tried": 6
         },
         {
-            "answer": "C'e'...",
-            "failed": 1,
-            "lastAsked": 1443201655.480216,
-            "question": "What is the definition of \"There is...\"?",
-            "tried": 3
-        },
-        {
-            "answer": "There are...",
-            "failed": 1,
-            "lastAsked": 1443201694.917216,
-            "question": "Given the definition \"Ci sono...\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "diciotto",
-            "failed": 3,
-            "lastAsked": 1443201832.208216,
-            "question": "What is the definition of \"18\"?",
-            "tried": 5
-        },
-        {
-            "answer": "Piacere mio.",
-            "failed": 1,
-            "lastAsked": 1443201688.557216,
-            "question": "What is the definition of \"Pleased to meet you, too.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "buon pomeriggio",
+            "alternates": [],
+            "answer": "nonno",
             "failed": 2,
-            "lastAsked": 1443201827.508216,
-            "question": "What is the definition of \"good afternoon\"?",
-            "tried": 4
+            "lastAsked": 1516732703.7163818,
+            "question": "Given the definition \"grandfather\", what is the word?",
+            "tried": 6
         },
         {
-            "answer": "And I have a sister.",
-            "failed": 1,
-            "lastAsked": 1443201649.500216,
-            "question": "Given the definition \"E ho una sorella.\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "see you later",
-            "failed": 1,
-            "lastAsked": 1443201707.956216,
-            "question": "Given the definition \"a dopo\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "2",
-            "failed": 1,
-            "lastAsked": 1443201844.667216,
-            "question": "Given the definition \"due\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "14",
-            "failed": 1,
-            "lastAsked": 1443201854.387216,
-            "question": "Given the definition \"quattordici\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "May",
-            "failed": 1,
-            "lastAsked": 1443201869.025216,
-            "question": "Given the definition \"maggio\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "E ho una sorella.",
-            "failed": 1,
-            "lastAsked": 1443201865.126216,
-            "question": "What is the definition of \"And I have a sister.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "good morning",
-            "failed": 1,
-            "lastAsked": 1443201836.008216,
-            "question": "Given the definition \"buon giorno\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "July",
-            "failed": 2,
-            "lastAsked": 1443201878.905216,
-            "question": "Given the definition \"luglio\", what is the word?",
-            "tried": 4
-        },
-        {
-            "answer": "And I have a mother.",
-            "failed": 1,
-            "lastAsked": 1443201842.567216,
-            "question": "Given the definition \"E ho una madre.\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "un ragazzo",
-            "failed": 1,
-            "lastAsked": 1443201850.707216,
-            "question": "What is the definition of \"a boy\"?",
-            "tried": 3
-        },
-        {
-            "answer": "sei",
-            "failed": 1,
-            "lastAsked": 1443201898.744216,
-            "question": "What is the definition of \"6\"?",
-            "tried": 3
-        },
-        {
-            "answer": "Ecco una famiglia.",
-            "failed": 1,
-            "lastAsked": 1443201916.083216,
-            "question": "What is the definition of \"Here is a family...\"?",
-            "tried": 3
-        },
-        {
-            "answer": "settanta",
-            "failed": 3,
-            "lastAsked": 1443201987.518216,
-            "question": "What is the definition of \"70\"?",
-            "tried": 5
-        },
-        {
-            "answer": "There's the sister.",
-            "failed": 1,
-            "lastAsked": 1443201958.360216,
-            "question": "Given the definition \"C'e' la sorella.\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "domencia",
-            "failed": 2,
-            "lastAsked": 1443201972.879216,
-            "question": "What is the definition of \"Sunday\"?",
-            "tried": 4
-        },
-        {
-            "answer": "nove",
-            "failed": 1,
-            "lastAsked": 1443201880.904216,
-            "question": "What is the definition of \"9\"?",
-            "tried": 3
-        },
-        {
-            "answer": "cugina",
-            "failed": 2,
-            "lastAsked": 1443201961.219216,
-            "question": "Given the definition \"female cousin\", what is the word?",
-            "tried": 4
-        },
-        {
-            "answer": "buon giorno",
-            "failed": 2,
-            "lastAsked": 1443201984.698216,
-            "question": "What is the definition of \"good morning\"?",
-            "tried": 4
-        },
-        {
-            "answer": "Molto bene, grazie.",
-            "failed": 2,
-            "lastAsked": 1443202069.092216,
-            "question": "What is the definition of \"Very well, thanks.\"?",
-            "tried": 4
-        },
-        {
-            "answer": "buona giornata",
-            "failed": 3,
-            "lastAsked": 1443202101.850216,
-            "question": "What is the definition of \"have a good day\"?",
-            "tried": 5
-        },
-        {
-            "answer": "sono sposato",
-            "failed": 2,
-            "lastAsked": 1443202086.531216,
-            "question": "Given the definition \"I am married.\", what is the word?",
-            "tried": 4
-        },
-        {
-            "answer": "cento",
-            "failed": 2,
-            "lastAsked": 1443202071.032216,
-            "question": "What is the definition of \"100\"?",
-            "tried": 4
-        },
-        {
-            "answer": "a presto",
-            "failed": 2,
-            "lastAsked": 1443202079.693216,
-            "question": "What is the definition of \"see you soon\"?",
-            "tried": 4
-        },
-        {
-            "answer": "buona sera",
-            "failed": 2,
-            "lastAsked": 1443202076.612216,
-            "question": "What is the definition of \"good evening\"?",
-            "tried": 4
-        },
-        {
-            "answer": "Cosi, cosi.",
-            "failed": 1,
-            "lastAsked": 1443201993.557216,
-            "question": "What is the definition of \"So so, not bad.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "Lei e' una studentessa.",
-            "failed": 1,
-            "lastAsked": 1443202060.213216,
-            "question": "What is the definition of \"She's a student.\"?",
-            "tried": 3
-        },
-        {
+            "alternates": [],
             "answer": "sedici",
             "failed": 2,
-            "lastAsked": 1443202160.146216,
+            "lastAsked": 1516732706.6515787,
             "question": "What is the definition of \"16\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "E io ho una sorella",
+                "e ho una sorella"
+            ],
+            "answer": "E ho una sorella.",
+            "failed": 2,
+            "lastAsked": 1516732726.366764,
+            "question": "What is the definition of \"And I have a sister.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "cugina",
+            "failed": 2,
+            "lastAsked": 1516732752.4347968,
+            "question": "Given the definition \"female cousin\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "july"
+            ],
+            "answer": "July",
+            "failed": 2,
+            "lastAsked": 1516732775.2875812,
+            "question": "Given the definition \"luglio\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "sto bene, grazie",
+                "Sto bene, grazie"
+            ],
+            "answer": "(Sto) Bene, grazie.",
+            "failed": 3,
+            "lastAsked": 1516732790.7589114,
+            "question": "What is the definition of \"(I am) Fine, thanks.\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "cosi-cosi",
+                "cosi cosi"
+            ],
+            "answer": "Cosi, cosi.",
+            "failed": 2,
+            "lastAsked": 1516732758.6909196,
+            "question": "What is the definition of \"So so, not bad.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "friday"
+            ],
+            "answer": "Friday",
+            "failed": 3,
+            "lastAsked": 1516732793.5432029,
+            "question": "Given the definition \"venerdi\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "quattro",
+            "failed": 3,
+            "lastAsked": 1516732783.407535,
+            "question": "What is the definition of \"4\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "60",
+            "failed": 2,
+            "lastAsked": 1516732749.619603,
+            "question": "Given the definition \"sessanta\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "Wednesday",
+            "failed": 3,
+            "lastAsked": 1516732786.7269773,
+            "question": "Given the definition \"mercoledi\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "aprile",
+            "failed": 2,
+            "lastAsked": 1516732807.3547835,
+            "question": "What is the definition of \"April\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "a boy",
+            "failed": 1,
+            "lastAsked": 1516732797.6556408,
+            "question": "Given the definition \"un ragazzo\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "sei",
+            "failed": 1,
+            "lastAsked": 1516732816.0513163,
+            "question": "What is the definition of \"6\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "She is a teacher",
+                "she is a teacher"
+            ],
+            "answer": "She's a teacher.",
+            "failed": 1,
+            "lastAsked": 1516732811.8422022,
+            "question": "Given the definition \"Lei e' una professoressa.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "There is the sister",
+                "this is the sister"
+            ],
+            "answer": "There's the sister.",
+            "failed": 1,
+            "lastAsked": 1516732804.354647,
+            "question": "Given the definition \"C'e' la sorella.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "90",
+            "failed": 1,
+            "lastAsked": 1516732795.4782152,
+            "question": "Given the definition \"novanta\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "9",
+            "failed": 1,
+            "lastAsked": 1516732813.6674948,
+            "question": "Given the definition \"nove\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "lei e;"
+            ],
+            "answer": "lei e'",
+            "failed": 1,
+            "lastAsked": 1516732820.8272164,
+            "question": "Given the definition \"she is\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "may"
+            ],
+            "answer": "May",
+            "failed": 1,
+            "lastAsked": 1516732864.6750512,
+            "question": "Given the definition \"maggio\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "Here is the father and the mother",
+                "these are the father and the mother"
+            ],
+            "answer": "There are the father and the mother.",
+            "failed": 1,
+            "lastAsked": 1516732861.666464,
+            "question": "Given the definition \"Ci sono il padre e la madre.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "monday"
+            ],
+            "answer": "Monday",
+            "failed": 1,
+            "lastAsked": 1516732837.6071434,
+            "question": "Given the definition \"Lenedi\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "15",
+            "failed": 1,
+            "lastAsked": 1516732846.7985954,
+            "question": "Given the definition \"quindici\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "male cousin",
+            "failed": 1,
+            "lastAsked": 1516732841.3745568,
+            "question": "What is the definition of \"cugino\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "17",
+            "failed": 1,
+            "lastAsked": 1516732867.5870643,
+            "question": "Given the definition \"dicassette\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "Ci sono il padre e la madre",
+                "ci sono il padre e la madre"
+            ],
+            "answer": "Ci sono il padre e la madre.",
+            "failed": 1,
+            "lastAsked": 1516732833.7908773,
+            "question": "What is the definition of \"There are the father and the mother.\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "un uomo",
+            "failed": 1,
+            "lastAsked": 1516732852.9222274,
+            "question": "What is the definition of \"a man\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "Ecco una famiglia",
+                "ecco una famiglia"
+            ],
+            "answer": "Ecco una famiglia.",
+            "failed": 1,
+            "lastAsked": 1516732881.1826975,
+            "question": "What is the definition of \"Here is a family...\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "2",
+            "failed": 1,
+            "lastAsked": 1516732889.2861784,
+            "question": "Given the definition \"due\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "C'e"
+            ],
+            "answer": "C'e'...",
+            "failed": 2,
+            "lastAsked": 1516732900.054661,
+            "question": "What is the definition of \"There is...\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "good morning",
+            "failed": 1,
+            "lastAsked": 1516732870.7790594,
+            "question": "Given the definition \"buon giorno\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "I am married"
+            ],
+            "answer": "I am married.",
+            "failed": 1,
+            "lastAsked": 1516732885.326409,
+            "question": "What is the definition of \"sono sposato\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "novembre",
+            "failed": 1,
+            "lastAsked": 1516732887.421986,
+            "question": "What is the definition of \"November\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "aunt",
+            "failed": 1,
+            "lastAsked": 1516732873.2346125,
+            "question": "What is the definition of \"zia\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "6",
+            "failed": 2,
+            "lastAsked": 1516732901.7180297,
+            "question": "Given the definition \"sei\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "12",
+            "failed": 1,
+            "lastAsked": 1516732943.8388107,
+            "question": "Given the definition \"dodici\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "una bambina",
+            "failed": 1,
+            "lastAsked": 1516732930.6981897,
+            "question": "What is the definition of \"a child (girl)\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "good night",
+            "failed": 2,
+            "lastAsked": 1516732946.446024,
+            "question": "Given the definition \"buona notte\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "And I have a mother",
+                "and I have a mother"
+            ],
+            "answer": "And I have a mother.",
+            "failed": 1,
+            "lastAsked": 1516732936.5189533,
+            "question": "Given the definition \"E ho una madre.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "E io ho una madre",
+                "E ho una madre",
+                "e ho una madre"
+            ],
+            "answer": "E ho una madre.",
+            "failed": 1,
+            "lastAsked": 1516732909.882516,
+            "question": "What is the definition of \"And I have a mother.\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "C'e il padre"
+            ],
+            "answer": "C'e' il padre.",
+            "failed": 1,
+            "lastAsked": 1516732917.5704095,
+            "question": "What is the definition of \"There's the father.\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "Sono di",
+                "sono di"
+            ],
+            "answer": "Sono di...",
+            "failed": 1,
+            "lastAsked": 1516732922.210488,
+            "question": "What is the definition of \"I am from...\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "There are",
+                "there are"
+            ],
+            "answer": "There are...",
+            "failed": 1,
+            "lastAsked": 1516732925.834482,
+            "question": "Given the definition \"Ci sono...\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "he is",
+            "failed": 1,
+            "lastAsked": 1516732978.946578,
+            "question": "What is the definition of \"lui e'\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "March",
+            "failed": 1,
+            "lastAsked": 1516732960.330104,
+            "question": "Given the definition \"marzo\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "C'e",
+                "ecco e'"
+            ],
+            "answer": "Ecco...",
+            "failed": 1,
+            "lastAsked": 1516733003.622023,
+            "question": "What is the definition of \"Here is...\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "Lei e' una studentessa",
+                "lei e' una studentessa"
+            ],
+            "answer": "Lei e' una studentessa.",
+            "failed": 3,
+            "lastAsked": 1516733017.082108,
+            "question": "What is the definition of \"She's a student.\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "nipote"
+            ],
+            "answer": "un nipote",
+            "failed": 1,
+            "lastAsked": 1516732954.6948023,
+            "question": "Given the definition \"a nephew\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "saturday"
+            ],
+            "answer": "Saturday",
+            "failed": 1,
+            "lastAsked": 1516732957.9858017,
+            "question": "Given the definition \"sabato\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "7",
+            "failed": 1,
+            "lastAsked": 1516732976.7461007,
+            "question": "Given the definition \"sette\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "THere are the son and the daughter",
+                "There are the son and the daughter",
+                "There is the son and the daughter"
+            ],
+            "answer": "There are the son and the daughter.",
+            "failed": 1,
+            "lastAsked": 1516732974.5058746,
+            "question": "Given the definition \"Ci sono il figlio e la figlia.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "Ci sono",
+                "ci sono"
+            ],
+            "answer": "Ci sono...",
+            "failed": 1,
+            "lastAsked": 1516733053.7173455,
+            "question": "What is the definition of \"There are...\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "undici",
+            "failed": 1,
+            "lastAsked": 1516733023.481744,
+            "question": "What is the definition of \"11\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "Ecco una donna",
+                "ecco una donna"
+            ],
+            "answer": "Ecco una donna.",
+            "failed": 2,
+            "lastAsked": 1516733094.8738048,
+            "question": "What is the definition of \"Her is a woman.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "piacere mio",
+                "piacere"
+            ],
+            "answer": "Piacere.",
+            "failed": 1,
+            "lastAsked": 1516733030.0772357,
+            "question": "What is the definition of \"Pleased to meet you.\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "And I have a sister",
+                "and I have a sister"
+            ],
+            "answer": "And I have a sister.",
+            "failed": 1,
+            "lastAsked": 1516733086.461532,
+            "question": "Given the definition \"E ho una sorella.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "lui e'",
+            "failed": 1,
+            "lastAsked": 1516733019.6584094,
+            "question": "Given the definition \"he is\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "Pleased to meet you",
+                "pleased to meet you"
+            ],
+            "answer": "Pleased to meet you.",
+            "failed": 1,
+            "lastAsked": 1516733079.0843236,
+            "question": "Given the definition \"Piacere.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "tredici",
+            "failed": 1,
+            "lastAsked": 1516733090.7816477,
+            "question": "What is the definition of \"13\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "Io sono Francessco",
+                "Io sono Francesco"
+            ],
+            "answer": "Io sono Francesco.",
+            "failed": 1,
+            "lastAsked": 1516733111.1453109,
+            "question": "What is the definition of \"I'm Francessco.\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "you're welcome"
+            ],
+            "answer": "You're welcome.",
+            "failed": 1,
+            "lastAsked": 1516733123.7253168,
+            "question": "Given the definition \"Prego.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "There is the mother",
+                "there is the mother",
+                "there's the mother"
+            ],
+            "answer": "There's the mother.",
+            "failed": 1,
+            "lastAsked": 1516733103.0419326,
+            "question": "Given the definition \"C'e' la madre.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "14",
+            "failed": 1,
+            "lastAsked": 1516733120.8208866,
+            "question": "Given the definition \"quattordici\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "nove",
+            "failed": 1,
+            "lastAsked": 1516733118.3604586,
+            "question": "What is the definition of \"9\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "4",
+            "failed": 1,
+            "lastAsked": 1516733113.0022326,
+            "question": "Given the definition \"quattro\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "and you?",
+                "and you (formal)"
+            ],
+            "answer": "...and you? (formal)",
+            "failed": 0,
+            "lastAsked": 1516733116.6096766,
+            "question": "Given the definition \"...e Lei?\", what is the word?",
             "tried": 4
         },
         {
-            "answer": "Come stai?",
-            "failed": 0,
-            "lastAsked": 1443202105.011216,
-            "question": "What is the definition of \"How are you doing? (informal)\"?",
-            "tried": 2
-        },
-        {
-            "answer": "18",
-            "failed": 0,
-            "lastAsked": 1443202129.556216,
-            "question": "Given the definition \"diciotto\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Wednesday",
-            "failed": 1,
-            "lastAsked": 1443202163.646216,
-            "question": "Given the definition \"mercoledi\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "December",
-            "failed": 0,
-            "lastAsked": 1443202115.249216,
-            "question": "Given the definition \"dicembre\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "a child (girl)",
-            "failed": 0,
-            "lastAsked": 1443202153.347216,
-            "question": "Given the definition \"una bambina\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "she is",
-            "failed": 0,
-            "lastAsked": 1443202145.967216,
-            "question": "What is the definition of \"lei e'\"?",
-            "tried": 2
-        },
-        {
-            "answer": "Her is a woman.",
-            "failed": 0,
-            "lastAsked": 1443202138.868216,
-            "question": "Given the definition \"Ecco una donna.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "How are you doing? (formal)",
-            "failed": 0,
-            "lastAsked": 1443202171.745216,
-            "question": "Given the definition \"Come sta?\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "cinquanta",
-            "failed": 1,
-            "lastAsked": 1443202239.161216,
-            "question": "What is the definition of \"50\"?",
-            "tried": 3
-        },
-        {
-            "answer": "My name is...",
-            "failed": 0,
-            "lastAsked": 1443202199.504216,
-            "question": "Given the definition \"Mi chiamo...\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Are you married?",
-            "failed": 0,
-            "lastAsked": 1443202195.164216,
-            "question": "What is the definition of \"e sposata?\"?",
-            "tried": 2
-        },
-        {
-            "answer": "cinque",
-            "failed": 1,
-            "lastAsked": 1443202234.361216,
-            "question": "What is the definition of \"5\"?",
-            "tried": 3
-        },
-        {
-            "answer": "lei e'",
-            "failed": 1,
-            "lastAsked": 1443202245.721216,
-            "question": "Given the definition \"she is\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "...e Lei?",
-            "failed": 0,
-            "lastAsked": 1443202211.323216,
-            "question": "What is the definition of \"...and you? (formal)\"?",
-            "tried": 2
-        },
-        {
-            "answer": "ciao",
-            "failed": 0,
-            "lastAsked": 1443202230.722216,
-            "question": "What is the definition of \"hi, hello, goodbye\"?",
-            "tried": 2
-        },
-        {
-            "answer": "Sunday",
-            "failed": 0,
-            "lastAsked": 1443202248.321216,
-            "question": "Given the definition \"domencia\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "There's the father.",
-            "failed": 0,
-            "lastAsked": 1443202289.378216,
-            "question": "Given the definition \"C'e' il padre.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "uncle",
-            "failed": 0,
-            "lastAsked": 1443202267.039216,
-            "question": "What is the definition of \"zio\"?",
-            "tried": 2
-        },
-        {
-            "answer": "November",
-            "failed": 0,
-            "lastAsked": 1443202316.836216,
-            "question": "Given the definition \"novembre\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "50",
-            "failed": 0,
-            "lastAsked": 1443202271.000216,
-            "question": "Given the definition \"cinquanta\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "tre",
-            "failed": 0,
-            "lastAsked": 1443202313.556216,
-            "question": "What is the definition of \"3\"?",
-            "tried": 2
-        },
-        {
-            "answer": "...et tu?",
-            "failed": 0,
-            "lastAsked": 1443202263.059216,
-            "question": "What is the definition of \"...and you? (informal)\"?",
-            "tried": 2
-        },
-        {
-            "answer": "Ecco una donna.",
-            "failed": 1,
-            "lastAsked": 1443202322.296216,
-            "question": "What is the definition of \"Her is a woman.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "30",
-            "failed": 0,
-            "lastAsked": 1443202345.154216,
-            "question": "Given the definition \"trenta\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "good evening",
-            "failed": 0,
-            "lastAsked": 1443202337.495216,
-            "question": "Given the definition \"buona sera\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "good afternoon",
-            "failed": 0,
-            "lastAsked": 1443202331.415216,
-            "question": "Given the definition \"buon pomeriggio\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "40",
-            "failed": 0,
-            "lastAsked": 1443202362.614216,
-            "question": "Given the definition \"quaranta\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Grazie.",
-            "failed": 0,
-            "lastAsked": 1443202357.453216,
-            "question": "What is the definition of \"Thank you.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "otto",
-            "failed": 0,
-            "lastAsked": 1443202359.533216,
-            "question": "What is the definition of \"8\"?",
-            "tried": 2
-        },
-        {
-            "answer": "hi, hello, goodbye",
-            "failed": 0,
-            "lastAsked": 1443202342.454216,
-            "question": "Given the definition \"ciao\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "I'm Francessco.",
-            "failed": 0,
-            "lastAsked": 1443202353.374216,
-            "question": "Given the definition \"Io sono Francesco.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "19",
-            "failed": 0,
-            "lastAsked": 1443202385.492216,
-            "question": "Given the definition \"diciannove\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "good-bye (informal)",
-            "failed": 0,
-            "lastAsked": 1443202401.191216,
-            "question": "Given the definition \"arrivederci\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "aunt",
-            "failed": 0,
-            "lastAsked": 1443202365.873216,
-            "question": "What is the definition of \"zia\"?",
-            "tried": 2
-        },
-        {
-            "answer": "...and you? (informal)",
-            "failed": 0,
-            "lastAsked": 1443202372.472216,
-            "question": "Given the definition \"...et tu?\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "grandfather",
-            "failed": 0,
-            "lastAsked": 1443202394.571216,
-            "question": "What is the definition of \"nonno\"?",
-            "tried": 2
-        },
-        {
-            "answer": "I have a small family.",
-            "failed": 0,
-            "lastAsked": 1443202382.672216,
-            "question": "Given the definition \"Io ho una famiglia piccola.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "September",
-            "failed": 0,
-            "lastAsked": 1443202388.212216,
-            "question": "Given the definition \"settembre\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Thank you.",
-            "failed": 0,
-            "lastAsked": 1443202376.473216,
-            "question": "Given the definition \"Grazie.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "80",
-            "failed": 0,
-            "lastAsked": 1443202424.709216,
-            "question": "Given the definition \"ottanta\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "una persona",
-            "failed": 0,
-            "lastAsked": 1443202428.229216,
-            "question": "What is the definition of \"a person\"?",
-            "tried": 2
-        },
-        {
-            "answer": "1",
-            "failed": 0,
-            "lastAsked": 1443202414.170216,
-            "question": "Given the definition \"uno\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Pleased to meet you, too.",
-            "failed": 0,
-            "lastAsked": 1443202422.469216,
-            "question": "Given the definition \"Piacere mio.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "I'm from Milan.",
-            "failed": 0,
-            "lastAsked": 1443202411.750216,
-            "question": "What is the definition of \"Sono di Milano.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "a woman",
-            "failed": 0,
-            "lastAsked": 1443202406.730216,
-            "question": "Given the definition \"una donna\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "20",
-            "failed": 0,
-            "lastAsked": 1443202402.931216,
-            "question": "Given the definition \"venti\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "January",
-            "failed": 0,
-            "lastAsked": 1443202434.569216,
-            "question": "Given the definition \"gennaio\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "(I am) Fine, thanks.",
-            "failed": 0,
-            "lastAsked": 1443202448.667216,
-            "question": "Given the definition \"(Sto) Bene, grazie.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "female cousin",
-            "failed": 0,
-            "lastAsked": 1443202439.508216,
-            "question": "What is the definition of \"cugina\"?",
-            "tried": 2
-        },
-        {
-            "answer": "male cousin",
-            "failed": 0,
-            "lastAsked": 1443202481.926216,
-            "question": "What is the definition of \"cugino\"?",
-            "tried": 2
-        },
-        {
-            "answer": "E ho una madre.",
-            "failed": 0,
-            "lastAsked": 1443202457.267216,
-            "question": "What is the definition of \"And I have a mother.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "a person",
-            "failed": 0,
-            "lastAsked": 1443202460.447216,
-            "question": "Given the definition \"una persona\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "...and you? (formal)",
-            "failed": 0,
-            "lastAsked": 1443202466.567216,
-            "question": "Given the definition \"...e Lei?\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "There are the son and the daughter.",
-            "failed": 0,
-            "lastAsked": 1443202477.965216,
-            "question": "Given the definition \"Ci sono il figlio e la figlia.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "February",
-            "failed": 0,
-            "lastAsked": 1443202485.585216,
-            "question": "Given the definition \"febbraio\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "una donna",
-            "failed": 0,
-            "lastAsked": 1443202489.665216,
-            "question": "What is the definition of \"a woman\"?",
-            "tried": 2
-        },
-        {
-            "answer": "Sono italiano.",
-            "failed": 0,
-            "lastAsked": 1443202518.023216,
-            "question": "What is the definition of \"I'm Italian.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "She's a student.",
-            "failed": 0,
-            "lastAsked": 1443202498.224216,
-            "question": "Given the definition \"Lei e' una studentessa.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "uno",
-            "failed": 0,
-            "lastAsked": 1443202500.044216,
-            "question": "What is the definition of \"1\"?",
-            "tried": 2
-        },
-        {
-            "answer": "October",
-            "failed": 0,
-            "lastAsked": 1443202520.823216,
-            "question": "Given the definition \"ottobre\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "There's the son.",
-            "failed": 0,
-            "lastAsked": 1443202510.883216,
-            "question": "Given the definition \"C'e' il figlio.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "4",
-            "failed": 0,
-            "lastAsked": 1443202501.724216,
-            "question": "Given the definition \"quattro\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "see you soon",
-            "failed": 0,
-            "lastAsked": 1443202525.962216,
-            "question": "Given the definition \"a presto\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Very well, thanks.",
-            "failed": 0,
-            "lastAsked": 1443202554.400216,
-            "question": "Given the definition \"Molto bene, grazie.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "He's a policeman.",
-            "failed": 0,
-            "lastAsked": 1443202531.702216,
-            "question": "Given the definition \"Lui e' un poliziotto.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "una bambina",
-            "failed": 0,
-            "lastAsked": 1443202543.922216,
-            "question": "What is the definition of \"a child (girl)\"?",
-            "tried": 2
-        },
-        {
-            "answer": "a man",
-            "failed": 0,
-            "lastAsked": 1443202538.962216,
-            "question": "Given the definition \"un uomo\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "I am from...",
-            "failed": 0,
-            "lastAsked": 1443202536.422216,
-            "question": "Given the definition \"Sono di...\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "8",
-            "failed": 0,
-            "lastAsked": 1443202556.762216,
-            "question": "Given the definition \"otto\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "due",
-            "failed": 0,
-            "lastAsked": 1443202546.861216,
-            "question": "What is the definition of \"2\"?",
-            "tried": 2
-        },
-        {
-            "answer": "a child (boy)",
-            "failed": 0,
-            "lastAsked": 1443202563.840216,
-            "question": "Given the definition \"un bambino\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "have a good day",
-            "failed": 0,
-            "lastAsked": 1443202584.859216,
-            "question": "Given the definition \"buona giornata\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "grandmother",
-            "failed": 0,
-            "lastAsked": 1443202593.398216,
-            "question": "What is the definition of \"nonna\"?",
-            "tried": 2
-        },
-        {
-            "answer": "a nephew",
-            "failed": 0,
-            "lastAsked": 1443202590.038216,
-            "question": "What is the definition of \"un nipote\"?",
-            "tried": 2
-        },
-        {
-            "answer": "100",
-            "failed": 0,
-            "lastAsked": 1443202731.989216,
-            "question": "Given the definition \"cento\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "There's the brother.",
-            "failed": 0,
-            "lastAsked": 1443202570.099216,
-            "question": "Given the definition \"C'e' il fratello.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "un uomo",
-            "failed": 0,
-            "lastAsked": 1443202578.699216,
-            "question": "What is the definition of \"a man\"?",
-            "tried": 2
-        },
-        {
-            "answer": "There's the mother.",
-            "failed": 0,
-            "lastAsked": 1443202599.578216,
-            "question": "Given the definition \"C'e' la madre.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Here is...",
-            "failed": 0,
-            "lastAsked": 1443202729.929216,
-            "question": "Given the definition \"Ecco...\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "ottanta",
-            "failed": 0,
-            "lastAsked": 1443202738.049216,
-            "question": "What is the definition of \"80\"?",
-            "tried": 2
-        },
-        {
-            "answer": "11",
-            "failed": 0,
-            "lastAsked": 1443202771.146216,
-            "question": "Given the definition \"undici\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "So so, not bad.",
-            "failed": 0,
-            "lastAsked": 1443202748.369216,
-            "question": "Given the definition \"Cosi, cosi.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Piacere.",
-            "failed": 0,
-            "lastAsked": 1443202768.287216,
-            "question": "What is the definition of \"Pleased to meet you.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "March",
-            "failed": 0,
-            "lastAsked": 1443202751.348216,
-            "question": "Given the definition \"marzo\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Thanks a lot.",
-            "failed": 0,
-            "lastAsked": 1443202742.568216,
-            "question": "Given the definition \"Grazie mille.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "I'm Italian.",
-            "failed": 0,
-            "lastAsked": 1443202775.326216,
-            "question": "Given the definition \"Sono italiano.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "7",
-            "failed": 1,
-            "lastAsked": 1443202777.106216,
-            "question": "Given the definition \"sette\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "a girl",
-            "failed": 0,
-            "lastAsked": 1443202818.024216,
-            "question": "Given the definition \"una ragazza\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "salvo",
-            "failed": 1,
-            "lastAsked": 1443202820.803216,
-            "question": "What is the definition of \"hello\"?",
-            "tried": 3
-        },
-        {
-            "answer": "Pleased to meet you.",
-            "failed": 0,
-            "lastAsked": 1443202798.525216,
-            "question": "Given the definition \"Piacere.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "C'e' la madre.",
-            "failed": 0,
-            "lastAsked": 1443202786.946216,
-            "question": "What is the definition of \"There's the mother.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "There is...",
-            "failed": 0,
-            "lastAsked": 1443202802.984216,
-            "question": "Given the definition \"C'e'...\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "un bambino",
-            "failed": 0,
-            "lastAsked": 1443202793.365216,
-            "question": "What is the definition of \"a child (boy)\"?",
-            "tried": 2
-        },
-        {
-            "answer": "There's the daughter.",
-            "failed": 0,
-            "lastAsked": 1443202810.004216,
-            "question": "Given the definition \"C'e' la figlia.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "3",
-            "failed": 0,
-            "lastAsked": 1443202811.584216,
-            "question": "Given the definition \"tre\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "nonna",
-            "failed": 0,
-            "lastAsked": 1443202833.583216,
-            "question": "Given the definition \"grandmother\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "August",
-            "failed": 0,
-            "lastAsked": 1443202858.121216,
-            "question": "Given the definition \"agosto\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Mi chiamo...",
-            "failed": 0,
-            "lastAsked": 1443202831.143216,
-            "question": "What is the definition of \"My name is...\"?",
-            "tried": 2
-        },
-        {
-            "answer": "I have a father.",
-            "failed": 0,
-            "lastAsked": 1443202837.603216,
-            "question": "Given the definition \"Ho un padre.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Ecco...",
-            "failed": 1,
-            "lastAsked": 1443202863.121216,
-            "question": "What is the definition of \"Here is...\"?",
-            "tried": 3
-        },
-        {
-            "answer": "70",
-            "failed": 0,
-            "lastAsked": 1443202856.101216,
-            "question": "Given the definition \"settanta\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "good night",
-            "failed": 1,
-            "lastAsked": 1443202860.881216,
-            "question": "Given the definition \"buona notte\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "13",
-            "failed": 0,
-            "lastAsked": 1443202839.942216,
-            "question": "Given the definition \"tredici\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "5",
-            "failed": 0,
-            "lastAsked": 1443202877.579216,
-            "question": "Given the definition \"cinque\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "How are you doing? (informal)",
-            "failed": 0,
-            "lastAsked": 1443202894.119216,
-            "question": "Given the definition \"Come stai?\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "zio",
-            "failed": 0,
-            "lastAsked": 1443202907.518216,
-            "question": "Given the definition \"uncle\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "una ragazza",
-            "failed": 0,
-            "lastAsked": 1443202885.439216,
-            "question": "What is the definition of \"a girl\"?",
-            "tried": 2
-        },
-        {
-            "answer": "There are the brother and sister.",
-            "failed": 0,
-            "lastAsked": 1443202874.479216,
-            "question": "Given the definition \"Ci sono il fratello e la sorella.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "April",
-            "failed": 0,
-            "lastAsked": 1443202879.379216,
-            "question": "Given the definition \"aprile\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Io sono Francesco.",
-            "failed": 0,
-            "lastAsked": 1443202920.098216,
-            "question": "What is the definition of \"I'm Francessco.\"?",
-            "tried": 2
-        },
-        {
+            "alternates": [
+                "C'e la sorella",
+                "c'e' la sorella"
+            ],
             "answer": "C'e' la sorella.",
             "failed": 0,
-            "lastAsked": 1443202905.698216,
+            "lastAsked": 1516733134.8056374,
             "question": "What is the definition of \"There's the sister.\"?",
-            "tried": 2
+            "tried": 4
         },
         {
+            "alternates": [],
+            "answer": "Sunday",
+            "failed": 0,
+            "lastAsked": 1516733166.737493,
+            "question": "Given the definition \"domencia\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "There are the brother and the sister",
+                "there are the brother and sister"
+            ],
+            "answer": "There are the brother and sister.",
+            "failed": 0,
+            "lastAsked": 1516733162.193658,
+            "question": "Given the definition \"Ci sono il fratello e la sorella.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "come stai?"
+            ],
+            "answer": "Come stai?",
+            "failed": 0,
+            "lastAsked": 1516733169.736928,
+            "question": "What is the definition of \"How are you doing? (informal)\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "18",
+            "failed": 0,
+            "lastAsked": 1516733137.4936807,
+            "question": "Given the definition \"diciotto\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "e lei?"
+            ],
+            "answer": "...e Lei?",
+            "failed": 0,
+            "lastAsked": 1516733172.6891296,
+            "question": "What is the definition of \"...and you? (formal)\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "un bambino",
+            "failed": 1,
+            "lastAsked": 1516733177.8533049,
+            "question": "What is the definition of \"a child (boy)\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "thanks"
+            ],
+            "answer": "Thank you.",
+            "failed": 0,
+            "lastAsked": 1516733174.7090907,
+            "question": "Given the definition \"Grazie.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "1",
+            "failed": 0,
+            "lastAsked": 1516733163.8007467,
+            "question": "Given the definition \"uno\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "100",
+            "failed": 0,
+            "lastAsked": 1516733179.9653265,
+            "question": "Given the definition \"cento\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "here",
+                "here / there"
+            ],
+            "answer": "Here is...",
+            "failed": 0,
+            "lastAsked": 1516733183.0849836,
+            "question": "Given the definition \"Ecco...\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "I am Francesco"
+            ],
+            "answer": "I'm Francessco.",
+            "failed": 0,
+            "lastAsked": 1516733187.5492275,
+            "question": "Given the definition \"Io sono Francesco.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "e tu?"
+            ],
+            "answer": "...et tu?",
+            "failed": 0,
+            "lastAsked": 1516733190.620481,
+            "question": "What is the definition of \"...and you? (informal)\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "a baby girl"
+            ],
+            "answer": "a child (girl)",
+            "failed": 1,
+            "lastAsked": 1516733209.11356,
+            "question": "Given the definition \"una bambina\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "a woman",
+            "failed": 0,
+            "lastAsked": 1516733196.1404922,
+            "question": "Given the definition \"una donna\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "My name is"
+            ],
+            "answer": "My name is...",
+            "failed": 0,
+            "lastAsked": 1516733193.693268,
+            "question": "Given the definition \"Mi chiamo...\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "80",
+            "failed": 0,
+            "lastAsked": 1516733206.337153,
+            "question": "Given the definition \"ottanta\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "good evening",
+            "failed": 0,
+            "lastAsked": 1516733226.6486032,
+            "question": "Given the definition \"buona sera\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "I have a small family"
+            ],
+            "answer": "I have a small family.",
+            "failed": 0,
+            "lastAsked": 1516733235.9888167,
+            "question": "Given the definition \"Io ho una famiglia piccola.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "5",
+            "failed": 0,
+            "lastAsked": 1516733223.3688357,
+            "question": "Given the definition \"cinque\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "She is a student",
+                "she is a student"
+            ],
+            "answer": "She's a student.",
+            "failed": 0,
+            "lastAsked": 1516733221.6888661,
+            "question": "Given the definition \"Lei e' una studentessa.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "Thanks a lot"
+            ],
+            "answer": "Thanks a lot.",
+            "failed": 0,
+            "lastAsked": 1516733211.8089225,
+            "question": "Given the definition \"Grazie mille.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "and you (informal)",
+                "and you?"
+            ],
+            "answer": "...and you? (informal)",
+            "failed": 0,
+            "lastAsked": 1516733216.5213299,
+            "question": "Given the definition \"...et tu?\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "C'e la madre"
+            ],
+            "answer": "C'e' la madre.",
+            "failed": 0,
+            "lastAsked": 1516733232.1169395,
+            "question": "What is the definition of \"There's the mother.\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "He is a policeman"
+            ],
+            "answer": "He's a policeman.",
+            "failed": 0,
+            "lastAsked": 1516733241.1407564,
+            "question": "Given the definition \"Lui e' un poliziotto.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "8",
+            "failed": 0,
+            "lastAsked": 1516733248.0520906,
+            "question": "Given the definition \"otto\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "Mi chiamo",
+                "mi chiamo"
+            ],
+            "answer": "Mi chiamo...",
+            "failed": 0,
+            "lastAsked": 1516733246.5649018,
+            "question": "What is the definition of \"My name is...\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "grandmother",
+            "failed": 0,
+            "lastAsked": 1516733260.800034,
+            "question": "What is the definition of \"nonna\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "There is the daughter"
+            ],
+            "answer": "There's the daughter.",
+            "failed": 0,
+            "lastAsked": 1516733265.1523118,
+            "question": "Given the definition \"C'e' la figlia.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "nonna",
+            "failed": 0,
+            "lastAsked": 1516733251.5840645,
+            "question": "Given the definition \"grandmother\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "I am Italian"
+            ],
+            "answer": "I'm Italian.",
+            "failed": 0,
+            "lastAsked": 1516733257.936314,
+            "question": "Given the definition \"Sono italiano.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "30",
+            "failed": 0,
+            "lastAsked": 1516733267.2481995,
+            "question": "Given the definition \"trenta\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "50",
+            "failed": 0,
+            "lastAsked": 1516733269.3923016,
+            "question": "Given the definition \"cinquanta\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "good afternoon",
+            "failed": 0,
+            "lastAsked": 1516733298.7883933,
+            "question": "Given the definition \"buon pomeriggio\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "tre",
+            "failed": 0,
+            "lastAsked": 1516733275.8405552,
+            "question": "What is the definition of \"3\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "40",
+            "failed": 0,
+            "lastAsked": 1516733274.3520048,
+            "question": "Given the definition \"quaranta\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "due",
+            "failed": 0,
+            "lastAsked": 1516733271.3846478,
+            "question": "What is the definition of \"2\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "And also I am a student",
+                "also I am a student"
+            ],
             "answer": "And me, too, I'm a student.",
             "failed": 0,
-            "lastAsked": 1443202936.376216,
+            "lastAsked": 1516733284.8047156,
             "question": "Given the definition \"E anche io sono uno studente.\", what is the word?",
-            "tried": 2
+            "tried": 4
         },
         {
+            "alternates": [],
+            "answer": "uncle",
+            "failed": 0,
+            "lastAsked": 1516733295.4525328,
+            "question": "What is the definition of \"zio\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "goodbye (informal)",
+                "goodby (informal)"
+            ],
+            "answer": "good-bye (informal)",
+            "failed": 0,
+            "lastAsked": 1516733291.7567167,
+            "question": "Given the definition \"arrivederci\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "grazie"
+            ],
+            "answer": "Grazie.",
+            "failed": 0,
+            "lastAsked": 1516733301.5648394,
+            "question": "What is the definition of \"Thank you.\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "hello, goodbye"
+            ],
+            "answer": "hi, hello, goodbye",
+            "failed": 0,
+            "lastAsked": 1516733305.5517938,
+            "question": "Given the definition \"ciao\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "how are you (informal)"
+            ],
+            "answer": "How are you doing? (informal)",
+            "failed": 0,
+            "lastAsked": 1516733314.865117,
+            "question": "Given the definition \"Come stai?\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "female cousin",
+            "failed": 0,
+            "lastAsked": 1516733310.39965,
+            "question": "What is the definition of \"cugina\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "a person",
+            "failed": 0,
+            "lastAsked": 1516733318.6576157,
+            "question": "Given the definition \"una persona\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "goodbye (formal)"
+            ],
             "answer": "good-bye (formal)",
             "failed": 0,
-            "lastAsked": 1443202942.556216,
+            "lastAsked": 1516733323.16811,
             "question": "Given the definition \"arrivederLa\", what is the word?",
-            "tried": 2
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "I am from",
+                "I'm from"
+            ],
+            "answer": "I am from...",
+            "failed": 1,
+            "lastAsked": 1516733340.5088832,
+            "question": "Given the definition \"Sono di...\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "otto",
+            "failed": 0,
+            "lastAsked": 1516733316.608499,
+            "question": "What is the definition of \"8\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "pleased to meet you",
+                "Pleased to meet you"
+            ],
+            "answer": "Pleased to meet you, too.",
+            "failed": 0,
+            "lastAsked": 1516733335.916589,
+            "question": "Given the definition \"Piacere mio.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "How are you (formal)",
+                "how are you? (formal)"
+            ],
+            "answer": "How are you doing? (formal)",
+            "failed": 0,
+            "lastAsked": 1516733361.2957351,
+            "question": "Given the definition \"Come sta?\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "19",
+            "failed": 0,
+            "lastAsked": 1516733345.1640065,
+            "question": "Given the definition \"diciannove\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "zio",
+            "failed": 0,
+            "lastAsked": 1516733349.4120522,
+            "question": "Given the definition \"uncle\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "There is the brother",
+                "there is the brother"
+            ],
+            "answer": "There's the brother.",
+            "failed": 0,
+            "lastAsked": 1516733354.5876932,
+            "question": "Given the definition \"C'e' il fratello.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "uno",
+            "failed": 0,
+            "lastAsked": 1516733347.0604153,
+            "question": "What is the definition of \"1\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "January",
+            "failed": 0,
+            "lastAsked": 1516733364.5444038,
+            "question": "Given the definition \"gennaio\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "ciao",
+            "failed": 0,
+            "lastAsked": 1516733342.598328,
+            "question": "What is the definition of \"hi, hello, goodbye\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "She is"
+            ],
+            "answer": "she is",
+            "failed": 0,
+            "lastAsked": 1516733370.6966474,
+            "question": "What is the definition of \"lei e'\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "There is the father"
+            ],
+            "answer": "There's the father.",
+            "failed": 0,
+            "lastAsked": 1516733383.8840346,
+            "question": "Given the definition \"C'e' il padre.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "a girl",
+            "failed": 0,
+            "lastAsked": 1516733390.6357555,
+            "question": "Given the definition \"una ragazza\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "13",
+            "failed": 0,
+            "lastAsked": 1516733373.1758573,
+            "question": "Given the definition \"tredici\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "a baby boy"
+            ],
+            "answer": "a child (boy)",
+            "failed": 0,
+            "lastAsked": 1516733380.2238927,
+            "question": "Given the definition \"un bambino\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "December",
+            "failed": 0,
+            "lastAsked": 1516733386.3323042,
+            "question": "Given the definition \"dicembre\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "20",
+            "failed": 0,
+            "lastAsked": 1516733374.8164525,
+            "question": "Given the definition \"venti\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "Sono Italiano"
+            ],
+            "answer": "Sono italiano.",
+            "failed": 0,
+            "lastAsked": 1516733394.499186,
+            "question": "What is the definition of \"I'm Italian.\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "ottanta",
+            "failed": 0,
+            "lastAsked": 1516733396.8360822,
+            "question": "What is the definition of \"80\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "11",
+            "failed": 0,
+            "lastAsked": 1516733413.5997303,
+            "question": "Given the definition \"undici\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "see you soon",
+            "failed": 0,
+            "lastAsked": 1516733401.203202,
+            "question": "Given the definition \"a presto\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "3",
+            "failed": 0,
+            "lastAsked": 1516733398.3077528,
+            "question": "Given the definition \"tre\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "April",
+            "failed": 0,
+            "lastAsked": 1516733411.775666,
+            "question": "Given the definition \"aprile\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "I have a father"
+            ],
+            "answer": "I have a father.",
+            "failed": 0,
+            "lastAsked": 1516733409.608257,
+            "question": "Given the definition \"Ho un padre.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "a man",
+            "failed": 0,
+            "lastAsked": 1516733403.3558583,
+            "question": "Given the definition \"un uomo\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "una bambina / ragazza"
+            ],
+            "answer": "una ragazza",
+            "failed": 0,
+            "lastAsked": 1516733420.2475479,
+            "question": "What is the definition of \"a girl\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "so-so"
+            ],
+            "answer": "So so, not bad.",
+            "failed": 0,
+            "lastAsked": 1516733405.6197934,
+            "question": "Given the definition \"Cosi, cosi.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "November",
+            "failed": 0,
+            "lastAsked": 1516733442.4843268,
+            "question": "Given the definition \"novembre\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "September",
+            "failed": 0,
+            "lastAsked": 1516733458.32354,
+            "question": "Given the definition \"settembre\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "I am from Milan",
+                "I'm from Milan"
+            ],
+            "answer": "I'm from Milan.",
+            "failed": 0,
+            "lastAsked": 1516733425.336541,
+            "question": "What is the definition of \"Sono di Milano.\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "Have a good day"
+            ],
+            "answer": "have a good day",
+            "failed": 0,
+            "lastAsked": 1516733450.8277404,
+            "question": "Given the definition \"buona giornata\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "Very good, thanks",
+                "I'm good, thanks"
+            ],
+            "answer": "Very well, thanks.",
+            "failed": 0,
+            "lastAsked": 1516733431.775344,
+            "question": "Given the definition \"Molto bene, grazie.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "Here is a woman",
+                "here is a woman"
+            ],
+            "answer": "Her is a woman.",
+            "failed": 0,
+            "lastAsked": 1516733455.7951143,
+            "question": "Given the definition \"Ecco una donna.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "una persona",
+            "failed": 0,
+            "lastAsked": 1516733439.8117387,
+            "question": "What is the definition of \"a person\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "There is",
+                "there is"
+            ],
+            "answer": "There is...",
+            "failed": 0,
+            "lastAsked": 1516733435.8637266,
+            "question": "Given the definition \"C'e'...\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "Are you married?",
+            "failed": 0,
+            "lastAsked": 1516733469.1836367,
+            "question": "What is the definition of \"e sposata?\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "Grandfather"
+            ],
+            "answer": "grandfather",
+            "failed": 0,
+            "lastAsked": 1516733463.9516306,
+            "question": "What is the definition of \"nonno\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "august"
+            ],
+            "answer": "August",
+            "failed": 0,
+            "lastAsked": 1516733475.4710293,
+            "question": "Given the definition \"agosto\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "nephew"
+            ],
+            "answer": "a nephew",
+            "failed": 0,
+            "lastAsked": 1516733492.0511441,
+            "question": "What is the definition of \"un nipote\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "October",
+            "failed": 0,
+            "lastAsked": 1516733478.903857,
+            "question": "Given the definition \"ottobre\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "There is the son",
+                "there is the son"
+            ],
+            "answer": "There's the son.",
+            "failed": 0,
+            "lastAsked": 1516733497.6113253,
+            "question": "Given the definition \"C'e' il figlio.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "una donna",
+            "failed": 0,
+            "lastAsked": 1516733485.7120936,
+            "question": "What is the definition of \"a woman\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "70",
+            "failed": 0,
+            "lastAsked": 1516733471.8472269,
+            "question": "Given the definition \"settanta\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "I'm good, thanks",
+                "I'm good, thank you"
+            ],
+            "answer": "(I am) Fine, thanks.",
+            "failed": 0,
+            "lastAsked": 1516733501.6677678,
+            "question": "Given the definition \"(Sto) Bene, grazie.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "February",
+            "failed": 0,
+            "lastAsked": 1516733504.6202135,
+            "question": "Given the definition \"febbraio\", what is the word?",
+            "tried": 4
         }
     ]
 }

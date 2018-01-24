@@ -1,10 +1,10 @@
-.\Italian\Gianliugi_Vocab.json
-.\Italian\Chapter7.json
-.\Italian\Chapter7_2.json
-.\Italian\Gianluigi2.json
 .\Italian\Gianluigi3.json
 .\Italian\GianLuigi4.json
 .\Italian\Gianluigi5.json
 .\Italian\Gianluigi7.json
 .\Italian\Gianluigi9.json
 .\Italian\Gianluigi10.json
+.\Italian\Italian1.json
+.\Italian\Italian2.json
+.\Italian\Italian3.json
+.\Italian\Italian4.json

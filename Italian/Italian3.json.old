@@ -2,774 +2,1017 @@
     "name": ".\\Italian\\Italian3.json",
     "vocab": [
         {
+            "alternates": [],
             "answer": "una giornata",
+            "failed": 5,
+            "lastAsked": 1516819139.9381516,
+            "question": "Given the definition \"a day\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [
+                "E anche sono uno studente",
+                "E anche, io sono uno studente"
+            ],
+            "answer": "E anche io sono uno studente.",
             "failed": 4,
-            "lastAsked": 1443804478.7744055,
+            "lastAsked": 1516819119.325957,
+            "question": "What is the definition of \"And me, too, I'm a student.\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "un pomeriggio",
+            "failed": 4,
+            "lastAsked": 1516819151.0818756,
+            "question": "Given the definition \"an afternoon\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "E io ho una sorella"
+            ],
+            "answer": "E ho una sorella.",
+            "failed": 2,
+            "lastAsked": 1516819036.1498892,
+            "question": "What is the definition of \"And I have a sister.\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "Lei e' una professoressa"
+            ],
+            "answer": "Lei e' una professoressa.",
+            "failed": 2,
+            "lastAsked": 1516819015.5346189,
+            "question": "What is the definition of \"She's a teacher.\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "Il signore Belli e' il padre"
+            ],
+            "answer": "Il signor Belli e' il padre.",
+            "failed": 2,
+            "lastAsked": 1516819107.6660178,
+            "question": "What is the definition of \"Mr. Belli is the father.\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "Il signore Belli e' un uomo"
+            ],
+            "answer": "Il signor Belli e' un uomo.",
+            "failed": 3,
+            "lastAsked": 1516819132.9015405,
+            "question": "What is the definition of \"Mr. Belli is a man.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "Ecco una famiglia"
+            ],
+            "answer": "Ecco una famiglia.",
+            "failed": 3,
+            "lastAsked": 1516819136.861691,
+            "question": "What is the definition of \"Here is a family.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "Lui e' un poliziotto"
+            ],
+            "answer": "Lui e' un poliziotto.",
+            "failed": 3,
+            "lastAsked": 1516819234.988841,
+            "question": "What is the definition of \"He's a policeman.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "un giorno",
+            "failed": 3,
+            "lastAsked": 1516819228.6854386,
             "question": "Given the definition \"a day\", what is the word?",
             "tried": 6
         },
         {
-            "answer": "un pomeriggio",
-            "failed": 3,
-            "lastAsked": 1443804423.7729058,
-            "question": "Given the definition \"an afternoon\", what is the word?",
-            "tried": 5
-        },
-        {
-            "answer": "E anche io sono uno studente.",
-            "failed": 3,
-            "lastAsked": 1443804495.2350514,
-            "question": "What is the definition of \"And me, too, I'm a student.\"?",
-            "tried": 5
-        },
-        {
-            "answer": "Lei e' una professoressa.",
-            "failed": 2,
-            "lastAsked": 1443804984.8320062,
-            "question": "What is the definition of \"She's a teacher.\"?",
-            "tried": 4
-        },
-        {
-            "answer": "Il signor Belli e' il padre.",
-            "failed": 2,
-            "lastAsked": 1443804303.5860276,
-            "question": "What is the definition of \"Mr. Belli is the father.\"?",
-            "tried": 4
-        },
-        {
-            "answer": "Lui e' un poliziotto.",
-            "failed": 2,
-            "lastAsked": 1443804472.3747656,
-            "question": "What is the definition of \"He's a policeman.\"?",
-            "tried": 4
-        },
-        {
-            "answer": "un giorno",
-            "failed": 2,
-            "lastAsked": 1443804987.6322863,
-            "question": "Given the definition \"a day\", what is the word?",
-            "tried": 4
-        },
-        {
-            "answer": "Il signor Belli e' un uomo.",
-            "failed": 2,
-            "lastAsked": 1443805003.0728302,
-            "question": "What is the definition of \"Mr. Belli is a man.\"?",
-            "tried": 4
-        },
-        {
+            "alternates": [],
             "answer": "il ragazzo",
             "failed": 2,
-            "lastAsked": 1443804872.988823,
+            "lastAsked": 1516819156.5695136,
             "question": "Given the definition \"the boy\", what is the word?",
-            "tried": 4
+            "tried": 5
         },
         {
-            "answer": "E ho una sorella.",
-            "failed": 2,
-            "lastAsked": 1443804866.028127,
-            "question": "What is the definition of \"And I have a sister.\"?",
-            "tried": 4
-        },
-        {
-            "answer": "Ecco una famiglia.",
-            "failed": 2,
-            "lastAsked": 1443804431.0976384,
-            "question": "What is the definition of \"Here is a family.\"?",
-            "tried": 4
-        },
-        {
-            "answer": "C'e' la sorella.",
-            "failed": 1,
-            "lastAsked": 1443804312.7077634,
-            "question": "What is the definition of \"There's the sister.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "Ecco la famiglia Belli.",
-            "failed": 1,
-            "lastAsked": 1443804628.0603325,
-            "question": "What is the definition of \"Here is the Belli family.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "Francesco e' un ragazzo.",
-            "failed": 1,
-            "lastAsked": 1443804377.2712562,
-            "question": "What is the definition of \"Francesco is a boy.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "un signore",
-            "failed": 1,
-            "lastAsked": 1443804503.2558534,
-            "question": "Given the definition \"a gentleman\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "There's the son.",
-            "failed": 1,
-            "lastAsked": 1443805218.8804088,
-            "question": "Given the definition \"C'e' il figlio.\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "una stazione",
-            "failed": 1,
-            "lastAsked": 1443804633.7198985,
-            "question": "Given the definition \"a station\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "the boy child",
-            "failed": 1,
-            "lastAsked": 1443804827.2072453,
-            "question": "What is the definition of \"il bambino\"?",
-            "tried": 3
-        },
-        {
-            "answer": "Lei e' una studentessa.",
-            "failed": 1,
-            "lastAsked": 1443805423.8869073,
-            "question": "What is the definition of \"She's a student.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "There are the brother and the sister.",
-            "failed": 1,
-            "lastAsked": 1443805568.5923765,
-            "question": "Given the definition \"Ci sono il fratello e la sorella.\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "C'e' il fratello.",
-            "failed": 1,
-            "lastAsked": 1443804838.3873632,
-            "question": "What is the definition of \"There's the brother.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "una televisione",
-            "failed": 1,
-            "lastAsked": 1443804922.8298066,
-            "question": "Given the definition \"a television\", what is the word?",
-            "tried": 3
-        },
-        {
+            "alternates": [
+                "Francesco e' il figlio"
+            ],
             "answer": "Francesco e' il figlio.",
             "failed": 1,
-            "lastAsked": 1443804515.4760754,
+            "lastAsked": 1516819183.0734801,
             "question": "What is the definition of \"Francesco is the son.\"?",
-            "tried": 3
+            "tried": 4
         },
         {
+            "alternates": [
+                "C'e il fratello"
+            ],
+            "answer": "C'e' il fratello.",
+            "failed": 1,
+            "lastAsked": 1516819166.0216367,
+            "question": "What is the definition of \"There's the brother.\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "There is the son"
+            ],
+            "answer": "There's the son.",
+            "failed": 1,
+            "lastAsked": 1516819219.3291636,
+            "question": "Given the definition \"C'e' il figlio.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "Io ho un padre"
+            ],
             "answer": "Ho un padre.",
             "failed": 1,
-            "lastAsked": 1443805345.925112,
+            "lastAsked": 1516819226.0613258,
             "question": "What is the definition of \"I have a father.\"?",
-            "tried": 3
+            "tried": 4
         },
         {
+            "alternates": [],
+            "answer": "un signore",
+            "failed": 1,
+            "lastAsked": 1516819172.4530585,
+            "question": "Given the definition \"a gentleman\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "una televisione",
+            "failed": 3,
+            "lastAsked": 1516819723.730801,
+            "question": "Given the definition \"a television\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "Lei e' una studentessa"
+            ],
+            "answer": "Lei e' una studentessa.",
+            "failed": 1,
+            "lastAsked": 1516819271.8406157,
+            "question": "What is the definition of \"She's a student.\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "una stazione",
+            "failed": 3,
+            "lastAsked": 1516819726.9707723,
+            "question": "Given the definition \"a station\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "Ecco la famiglia Belli"
+            ],
+            "answer": "Ecco la famiglia Belli.",
+            "failed": 1,
+            "lastAsked": 1516819281.445047,
+            "question": "What is the definition of \"Here is the Belli family.\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "Francesco e' un ragazzo"
+            ],
+            "answer": "Francesco e' un ragazzo.",
+            "failed": 1,
+            "lastAsked": 1516819262.313216,
+            "question": "What is the definition of \"Francesco is a boy.\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "C'e la sorella"
+            ],
+            "answer": "C'e' la sorella.",
+            "failed": 1,
+            "lastAsked": 1516819253.4331365,
+            "question": "What is the definition of \"There's the sister.\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "There are the brother and the sister"
+            ],
+            "answer": "There are the brother and the sister.",
+            "failed": 1,
+            "lastAsked": 1516819289.5329473,
+            "question": "Given the definition \"Ci sono il fratello e la sorella.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "the baby boy"
+            ],
+            "answer": "the boy child",
+            "failed": 1,
+            "lastAsked": 1516819701.9512708,
+            "question": "What is the definition of \"il bambino\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "Here is a family"
+            ],
             "answer": "Here is a family.",
             "failed": 1,
-            "lastAsked": 1443804977.0522282,
+            "lastAsked": 1516819773.0306518,
             "question": "Given the definition \"Ecco una famiglia.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "She is a teacher"
+            ],
+            "answer": "She's a teacher.",
+            "failed": 0,
+            "lastAsked": 1516819778.5254064,
+            "question": "Given the definition \"Lei e' una professoressa.\", what is the word?",
             "tried": 3
         },
         {
-            "answer": "There are the son and the daughter.",
-            "failed": 0,
-            "lastAsked": 1443805525.9901166,
-            "question": "Given the definition \"Ci sono il figlio e la figlia.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "C'e'...",
-            "failed": 0,
-            "lastAsked": 1443805471.328651,
-            "question": "What is the definition of \"There is...\"?",
-            "tried": 2
-        },
-        {
-            "answer": "There are the father and the mother.",
-            "failed": 0,
-            "lastAsked": 1443805486.789197,
-            "question": "Given the definition \"Ci sono il padre e la madre.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Maria is a girl.",
-            "failed": 0,
-            "lastAsked": 1443805052.7948017,
-            "question": "Given the definition \"Maria e' una ragazza.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Mrs. Belli is the mother.",
-            "failed": 0,
-            "lastAsked": 1443805468.228341,
-            "question": "Given the definition \"La signora Belli e' la madre.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "a girl child",
-            "failed": 0,
-            "lastAsked": 1443805574.4119582,
-            "question": "What is the definition of \"una bambina\"?",
-            "tried": 2
-        },
-        {
-            "answer": "una ragazza",
-            "failed": 0,
-            "lastAsked": 1443805457.928311,
-            "question": "Given the definition \"a girl\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "And me, too, I'm a student.",
-            "failed": 0,
-            "lastAsked": 1443805144.4179633,
-            "question": "Given the definition \"E anche io sono uno studente.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Io sono Francesco.",
-            "failed": 0,
-            "lastAsked": 1443805109.6364853,
-            "question": "What is the definition of \"I'm Francesco.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "There's the daughter.",
-            "failed": 0,
-            "lastAsked": 1443805121.1366353,
-            "question": "Given the definition \"C'e' la figlia.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "the person",
-            "failed": 0,
-            "lastAsked": 1443805317.5242722,
-            "question": "What is the definition of \"la persona\"?",
-            "tried": 2
-        },
-        {
-            "answer": "a boy child",
-            "failed": 0,
-            "lastAsked": 1443805398.5063696,
-            "question": "What is the definition of \"un bambino\"?",
-            "tried": 2
-        },
-        {
+            "alternates": [],
             "answer": "an afternoon",
             "failed": 0,
-            "lastAsked": 1443805174.959017,
+            "lastAsked": 1516819745.9782062,
             "question": "What is the definition of \"un pomeriggio\"?",
-            "tried": 2
+            "tried": 3
         },
         {
+            "alternates": [
+                "I am Italian"
+            ],
             "answer": "I'm Italian.",
             "failed": 0,
-            "lastAsked": 1443805444.8880072,
+            "lastAsked": 1516819750.5064085,
             "question": "Given the definition \"Sono italiano.\", what is the word?",
-            "tried": 2
+            "tried": 3
         },
         {
-            "answer": "I have a small family.",
+            "alternates": [
+                "And also I am a student"
+            ],
+            "answer": "And me, too, I'm a student.",
             "failed": 0,
-            "lastAsked": 1443805533.2908466,
-            "question": "Given the definition \"Io ho una famiglia piccola.\", what is the word?",
-            "tried": 2
+            "lastAsked": 1516819765.870485,
+            "question": "Given the definition \"E anche io sono uno studente.\", what is the word?",
+            "tried": 3
         },
         {
-            "answer": "Francesco is a boy.",
-            "failed": 0,
-            "lastAsked": 1443805477.269245,
-            "question": "Given the definition \"Francesco e' un ragazzo.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Francesco is the son.",
-            "failed": 0,
-            "lastAsked": 1443804913.3698606,
-            "question": "Given the definition \"Francesco e' il figlio.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "I'm Francesco.",
-            "failed": 0,
-            "lastAsked": 1443805039.17444,
-            "question": "Given the definition \"Io sono Francesco.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "C'e' la madre.",
-            "failed": 0,
-            "lastAsked": 1443805088.2163436,
-            "question": "What is the definition of \"There's the mother.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "There are...",
-            "failed": 0,
-            "lastAsked": 1443805502.1497328,
-            "question": "Given the definition \"Ci sono...\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "the family",
-            "failed": 0,
-            "lastAsked": 1443805064.4349656,
-            "question": "What is the definition of \"la famiglia\"?",
-            "tried": 2
-        },
-        {
-            "answer": "the sister",
-            "failed": 0,
-            "lastAsked": 1443805308.1433342,
-            "question": "What is the definition of \"la sorella\"?",
-            "tried": 2
-        },
-        {
-            "answer": "a male doctor",
-            "failed": 0,
-            "lastAsked": 1443805599.140431,
-            "question": "What is the definition of \"un dottore\"?",
-            "tried": 2
-        },
-        {
-            "answer": "And I have a sister.",
-            "failed": 0,
-            "lastAsked": 1443805604.092926,
-            "question": "Given the definition \"E ho una sorella.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "La signora Belli e' una donna.",
-            "failed": 0,
-            "lastAsked": 1443805024.97402,
-            "question": "What is the definition of \"Mrs. Belli is a woman.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "la famiglia",
-            "failed": 0,
-            "lastAsked": 1443805230.0405245,
-            "question": "Given the definition \"the family\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Ci sono il fratello e la sorella.",
-            "failed": 0,
-            "lastAsked": 1443805516.2101388,
-            "question": "What is the definition of \"There are the brother and the sister.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "He's a policeman.",
-            "failed": 0,
-            "lastAsked": 1443805540.1115286,
-            "question": "Given the definition \"Lui e' un poliziotto.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "il bambino",
-            "failed": 0,
-            "lastAsked": 1443805044.733996,
-            "question": "Given the definition \"the boy child\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "un dottore",
-            "failed": 0,
-            "lastAsked": 1443805434.9080093,
-            "question": "Given the definition \"a male doctor\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "una donna",
-            "failed": 0,
-            "lastAsked": 1443805269.6424844,
-            "question": "Given the definition \"a woman\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "un ragazzo",
-            "failed": 0,
-            "lastAsked": 1443805171.558677,
-            "question": "Given the definition \"a boy\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Ci sono il figlio e la figlia.",
-            "failed": 0,
-            "lastAsked": 1443805284.3229523,
-            "question": "What is the definition of \"There are the son and the daughter.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "I have a father.",
-            "failed": 0,
-            "lastAsked": 1443805079.9755197,
-            "question": "Given the definition \"Ho un padre.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "il padre",
-            "failed": 0,
-            "lastAsked": 1443805354.7249918,
-            "question": "Given the definition \"the father\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "the daughter",
-            "failed": 0,
-            "lastAsked": 1443805543.4308605,
-            "question": "What is the definition of \"la figlia\"?",
-            "tried": 2
-        },
-        {
-            "answer": "il fratello",
-            "failed": 0,
-            "lastAsked": 1443805498.3293507,
-            "question": "Given the definition \"the brother\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Mr. Belli is the father.",
-            "failed": 0,
-            "lastAsked": 1443805070.8746097,
-            "question": "Given the definition \"Il signor Belli e' il padre.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "There's the brother.",
-            "failed": 0,
-            "lastAsked": 1443805223.8609066,
-            "question": "Given the definition \"C'e' il fratello.\", what is the word?",
-            "tried": 2
-        },
-        {
+            "alternates": [],
             "answer": "a woman",
             "failed": 0,
-            "lastAsked": 1443805102.3767595,
+            "lastAsked": 1516819780.534394,
             "question": "What is the definition of \"una donna\"?",
-            "tried": 2
+            "tried": 3
         },
         {
-            "answer": "Mr. Belli is a man.",
-            "failed": 0,
-            "lastAsked": 1443805126.8572073,
-            "question": "Given the definition \"Il signor Belli e' un uomo.\", what is the word?",
-            "tried": 2
-        },
-        {
+            "alternates": [
+                "Ho una famiglia piccola"
+            ],
             "answer": "Io ho una famiglia piccola.",
             "failed": 0,
-            "lastAsked": 1443805250.9216125,
+            "lastAsked": 1516819741.746781,
             "question": "What is the definition of \"I have a small family.\"?",
-            "tried": 2
+            "tried": 3
         },
         {
-            "answer": "Maria e' la figlia.",
-            "failed": 0,
-            "lastAsked": 1443805100.1365354,
-            "question": "What is the definition of \"Maria is the daughter.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "C'e' il padre.",
-            "failed": 0,
-            "lastAsked": 1443805187.8593068,
-            "question": "What is the definition of \"There's the father.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "the brother",
-            "failed": 0,
-            "lastAsked": 1443805105.2560475,
-            "question": "What is the definition of \"il fratello\"?",
-            "tried": 2
-        },
-        {
-            "answer": "There's the mother.",
-            "failed": 0,
-            "lastAsked": 1443805403.6668856,
-            "question": "Given the definition \"C'e' la madre.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Maria is the daughter.",
-            "failed": 0,
-            "lastAsked": 1443805134.7970011,
-            "question": "Given the definition \"Maria e' la figlia.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Ci sono il padre e la madre.",
-            "failed": 0,
-            "lastAsked": 1443805266.1621363,
-            "question": "What is the definition of \"There are the father and the mother.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "la figlia",
-            "failed": 0,
-            "lastAsked": 1443805595.1130283,
-            "question": "Given the definition \"the daughter\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Maria e' una ragazza.",
-            "failed": 0,
-            "lastAsked": 1443805582.8728044,
-            "question": "What is the definition of \"Maria is a girl.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "Here is the Belli family.",
-            "failed": 0,
-            "lastAsked": 1443805314.743994,
-            "question": "Given the definition \"Ecco la famiglia Belli.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "a station",
-            "failed": 0,
-            "lastAsked": 1443805182.798801,
-            "question": "What is the definition of \"una stazione\"?",
-            "tried": 2
-        },
-        {
+            "alternates": [
+                "There is the father"
+            ],
             "answer": "There's the father.",
             "failed": 0,
-            "lastAsked": 1443805076.5351756,
+            "lastAsked": 1516819755.5227785,
             "question": "Given the definition \"C'e' il padre.\", what is the word?",
-            "tried": 2
+            "tried": 3
         },
         {
-            "answer": "a man",
+            "alternates": [],
+            "answer": "il bambino",
             "failed": 0,
-            "lastAsked": 1443805528.6903865,
-            "question": "What is the definition of \"un uomo\"?",
-            "tried": 2
+            "lastAsked": 1516819790.5620325,
+            "question": "Given the definition \"the boy child\", what is the word?",
+            "tried": 3
         },
         {
-            "answer": "an evening",
+            "alternates": [],
+            "answer": "una donna",
             "failed": 0,
-            "lastAsked": 1443805351.9047098,
-            "question": "What is the definition of \"una sera\"?",
-            "tried": 2
+            "lastAsked": 1516819793.2024353,
+            "question": "Given the definition \"a woman\", what is the word?",
+            "tried": 3
         },
         {
-            "answer": "un bambino",
+            "alternates": [],
+            "answer": "the sister",
             "failed": 0,
-            "lastAsked": 1443805323.30385,
-            "question": "Given the definition \"a boy child\", what is the word?",
-            "tried": 2
+            "lastAsked": 1516819783.106641,
+            "question": "What is the definition of \"la sorella\"?",
+            "tried": 3
         },
         {
-            "answer": "a boy",
-            "failed": 0,
-            "lastAsked": 1443805305.7030902,
-            "question": "What is the definition of \"un ragazzo\"?",
-            "tried": 2
-        },
-        {
-            "answer": "Ci sono...",
-            "failed": 0,
-            "lastAsked": 1443805273.7618964,
-            "question": "What is the definition of \"There are...\"?",
-            "tried": 2
-        },
-        {
-            "answer": "una sera",
-            "failed": 0,
-            "lastAsked": 1443804918.8904128,
-            "question": "Given the definition \"an evening\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "la persona",
-            "failed": 0,
-            "lastAsked": 1443805093.6958916,
-            "question": "Given the definition \"the person\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "a day",
-            "failed": 0,
-            "lastAsked": 1443804915.7901027,
-            "question": "What is the definition of \"una giornata\"?",
-            "tried": 2
-        },
-        {
-            "answer": "E ho una madre.",
-            "failed": 0,
-            "lastAsked": 1443805161.3986611,
-            "question": "What is the definition of \"And I have a mother.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "a gentleman",
-            "failed": 0,
-            "lastAsked": 1443805009.293452,
-            "question": "What is the definition of \"un signore\"?",
-            "tried": 2
-        },
-        {
-            "answer": "C'e' il figlio.",
-            "failed": 0,
-            "lastAsked": 1443805365.0050197,
-            "question": "What is the definition of \"There's the son.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "There's the sister.",
-            "failed": 0,
-            "lastAsked": 1443805441.1076293,
-            "question": "Given the definition \"C'e' la sorella.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "There is...",
-            "failed": 0,
-            "lastAsked": 1443805453.608879,
-            "question": "Given the definition \"C'e'...\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "And I have a mother.",
-            "failed": 0,
-            "lastAsked": 1443805114.9370153,
-            "question": "Given the definition \"E ho una madre.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "il figlio",
-            "failed": 0,
-            "lastAsked": 1443805030.233546,
-            "question": "Given the definition \"the son\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "the father",
-            "failed": 0,
-            "lastAsked": 1443805226.7401946,
-            "question": "What is the definition of \"il padre\"?",
-            "tried": 2
-        },
-        {
-            "answer": "C'e' la figlia.",
-            "failed": 0,
-            "lastAsked": 1443805061.3946617,
-            "question": "What is the definition of \"There's the daughter.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "Sono italiano.",
-            "failed": 0,
-            "lastAsked": 1443805395.0660255,
-            "question": "What is the definition of \"I'm Italian.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "La signora Belli e' la madre.",
-            "failed": 0,
-            "lastAsked": 1443805413.3268514,
-            "question": "What is the definition of \"Mrs. Belli is the mother.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "la sorella",
-            "failed": 0,
-            "lastAsked": 1443805562.6917863,
-            "question": "Given the definition \"the sister\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "the son",
-            "failed": 0,
-            "lastAsked": 1443805430.8276012,
-            "question": "What is the definition of \"il figlio\"?",
-            "tried": 2
-        },
-        {
-            "answer": "She's a teacher.",
-            "failed": 0,
-            "lastAsked": 1443805193.9599168,
-            "question": "Given the definition \"Lei e' una professoressa.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "un uomo",
-            "failed": 0,
-            "lastAsked": 1443805167.438265,
-            "question": "Given the definition \"a man\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "a television",
-            "failed": 0,
-            "lastAsked": 1443805450.5085692,
-            "question": "What is the definition of \"una televisione\"?",
-            "tried": 2
-        },
-        {
-            "answer": "la madre",
-            "failed": 0,
-            "lastAsked": 1443805178.319353,
-            "question": "Given the definition \"the mother\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Mrs. Belli is a woman.",
-            "failed": 0,
-            "lastAsked": 1443805590.0125182,
-            "question": "Given the definition \"La signora Belli e' una donna.\", what is the word?",
-            "tried": 2
-        },
-        {
+            "alternates": [],
             "answer": "a girl",
             "failed": 0,
-            "lastAsked": 1443805427.4072592,
+            "lastAsked": 1516819787.1747024,
             "question": "What is the definition of \"una ragazza\"?",
-            "tried": 2
+            "tried": 3
         },
         {
-            "answer": "a day",
+            "alternates": [
+                "a baby girl"
+            ],
+            "answer": "a girl child",
             "failed": 0,
-            "lastAsked": 1443805559.1914363,
-            "question": "What is the definition of \"un giorno\"?",
-            "tried": 2
+            "lastAsked": 1516819803.3145041,
+            "question": "What is the definition of \"una bambina\"?",
+            "tried": 3
         },
         {
-            "answer": "the boy",
+            "alternates": [
+                "And I have a sister"
+            ],
+            "answer": "And I have a sister.",
             "failed": 0,
-            "lastAsked": 1443805492.2697449,
-            "question": "What is the definition of \"il ragazzo\"?",
-            "tried": 2
+            "lastAsked": 1516819813.5464995,
+            "question": "Given the definition \"E ho una sorella.\", what is the word?",
+            "tried": 3
         },
         {
+            "alternates": [],
             "answer": "the mother",
             "failed": 0,
-            "lastAsked": 1443805232.3407545,
+            "lastAsked": 1516819805.658301,
             "question": "What is the definition of \"la madre\"?",
-            "tried": 2
+            "tried": 3
         },
         {
-            "answer": "una bambina",
+            "alternates": [
+                "ci sono"
+            ],
+            "answer": "Ci sono...",
             "failed": 0,
-            "lastAsked": 1443805213.5198727,
-            "question": "Given the definition \"a girl child\", what is the word?",
-            "tried": 2
+            "lastAsked": 1516819798.874307,
+            "question": "What is the definition of \"There are...\"?",
+            "tried": 3
         },
         {
+            "alternates": [
+                "a baby boy"
+            ],
+            "answer": "a boy child",
+            "failed": 0,
+            "lastAsked": 1516819871.1340725,
+            "question": "What is the definition of \"un bambino\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "il figlio",
+            "failed": 0,
+            "lastAsked": 1516819822.5275934,
+            "question": "Given the definition \"the son\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Ci sono il figlio e la figlia"
+            ],
+            "answer": "Ci sono il figlio e la figlia.",
+            "failed": 0,
+            "lastAsked": 1516819835.3099627,
+            "question": "What is the definition of \"There are the son and the daughter.\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Maria is a girl"
+            ],
+            "answer": "Maria is a girl.",
+            "failed": 0,
+            "lastAsked": 1516819818.7345948,
+            "question": "Given the definition \"Maria e' una ragazza.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Mr. Belli is a man"
+            ],
+            "answer": "Mr. Belli is a man.",
+            "failed": 0,
+            "lastAsked": 1516819849.3212476,
+            "question": "Given the definition \"Il signor Belli e' un uomo.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "There is the mother"
+            ],
+            "answer": "There's the mother.",
+            "failed": 0,
+            "lastAsked": 1516819867.1660845,
+            "question": "Given the definition \"C'e' la madre.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Ci sono il padre e la madre"
+            ],
+            "answer": "Ci sono il padre e la madre.",
+            "failed": 0,
+            "lastAsked": 1516819861.5535946,
+            "question": "What is the definition of \"There are the father and the mother.\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Francesco is a boy"
+            ],
+            "answer": "Francesco is a boy.",
+            "failed": 0,
+            "lastAsked": 1516819842.2580786,
+            "question": "Given the definition \"Francesco e' un ragazzo.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "la sorella",
+            "failed": 0,
+            "lastAsked": 1516819892.6148336,
+            "question": "Given the definition \"the sister\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "a boy",
+            "failed": 0,
+            "lastAsked": 1516819907.4340231,
+            "question": "What is the definition of \"un ragazzo\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "a day",
+            "failed": 1,
+            "lastAsked": 1516819912.4976845,
+            "question": "What is the definition of \"una giornata\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "There are the father and the mother"
+            ],
+            "answer": "There are the father and the mother.",
+            "failed": 0,
+            "lastAsked": 1516819880.440064,
+            "question": "Given the definition \"Ci sono il padre e la madre.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "a station",
+            "failed": 0,
+            "lastAsked": 1516819889.0536823,
+            "question": "What is the definition of \"una stazione\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "a doctor"
+            ],
+            "answer": "a male doctor",
+            "failed": 0,
+            "lastAsked": 1516819885.9741302,
+            "question": "What is the definition of \"un dottore\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "C'e il padre"
+            ],
+            "answer": "C'e' il padre.",
+            "failed": 0,
+            "lastAsked": 1516819904.5136552,
+            "question": "What is the definition of \"There's the father.\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "la madre",
+            "failed": 0,
+            "lastAsked": 1516819910.153675,
+            "question": "Given the definition \"the mother\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Maria e' la figlia"
+            ],
+            "answer": "Maria e' la figlia.",
+            "failed": 0,
+            "lastAsked": 1516819970.1055677,
+            "question": "What is the definition of \"Maria is the daughter.\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Sono Francesco"
+            ],
+            "answer": "Io sono Francesco.",
+            "failed": 0,
+            "lastAsked": 1516819943.0857198,
+            "question": "What is the definition of \"I'm Francesco.\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Ci sono il fratello e la sorella"
+            ],
+            "answer": "Ci sono il fratello e la sorella.",
+            "failed": 0,
+            "lastAsked": 1516819928.3413882,
+            "question": "What is the definition of \"There are the brother and the sister.\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "una ragazza",
+            "failed": 0,
+            "lastAsked": 1516819948.4452329,
+            "question": "Given the definition \"a girl\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Mrs. Belli is a woman"
+            ],
+            "answer": "Mrs. Belli is a woman.",
+            "failed": 0,
+            "lastAsked": 1516819937.0378647,
+            "question": "Given the definition \"La signora Belli e' una donna.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "a day",
+            "failed": 1,
+            "lastAsked": 1516819972.2137408,
+            "question": "What is the definition of \"un giorno\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "the father",
+            "failed": 0,
+            "lastAsked": 1516819945.4218197,
+            "question": "What is the definition of \"il padre\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Mr. Belli is the father"
+            ],
+            "answer": "Mr. Belli is the father.",
+            "failed": 0,
+            "lastAsked": 1516819956.0336075,
+            "question": "Given the definition \"Il signor Belli e' il padre.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "the daughter",
+            "failed": 0,
+            "lastAsked": 1516820031.060611,
+            "question": "What is the definition of \"la figlia\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "There are"
+            ],
+            "answer": "There are...",
+            "failed": 0,
+            "lastAsked": 1516820003.0417566,
+            "question": "Given the definition \"Ci sono...\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "a man",
+            "failed": 0,
+            "lastAsked": 1516820012.8411202,
+            "question": "What is the definition of \"un uomo\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "C'e la figlia"
+            ],
+            "answer": "C'e' la figlia.",
+            "failed": 0,
+            "lastAsked": 1516819985.7322614,
+            "question": "What is the definition of \"There's the daughter.\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "a television",
+            "failed": 0,
+            "lastAsked": 1516819975.4131925,
+            "question": "What is the definition of \"una televisione\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Il signora Belli e' una donna"
+            ],
+            "answer": "La signora Belli e' una donna.",
+            "failed": 0,
+            "lastAsked": 1516819994.7731593,
+            "question": "What is the definition of \"Mrs. Belli is a woman.\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "E io ho una madre"
+            ],
+            "answer": "E ho una madre.",
+            "failed": 0,
+            "lastAsked": 1516820011.1370943,
+            "question": "What is the definition of \"And I have a mother.\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "La signora Belli e' la madre"
+            ],
+            "answer": "La signora Belli e' la madre.",
+            "failed": 0,
+            "lastAsked": 1516820024.0855575,
+            "question": "What is the definition of \"Mrs. Belli is the mother.\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "a gentleman",
+            "failed": 1,
+            "lastAsked": 1516820083.1367815,
+            "question": "What is the definition of \"un signore\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "the brother",
+            "failed": 0,
+            "lastAsked": 1516820060.2050815,
+            "question": "What is the definition of \"il fratello\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "She is a student"
+            ],
             "answer": "She's a student.",
             "failed": 0,
-            "lastAsked": 1443805256.0811284,
+            "lastAsked": 1516820044.9131835,
             "question": "Given the definition \"Lei e' una studentessa.\", what is the word?",
-            "tried": 2
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "C'e"
+            ],
+            "answer": "C'e'...",
+            "failed": 0,
+            "lastAsked": 1516820049.393109,
+            "question": "What is the definition of \"There is...\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "la persona",
+            "failed": 1,
+            "lastAsked": 1516820079.8809445,
+            "question": "Given the definition \"the person\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "Here is the family Belli"
+            ],
+            "answer": "Here is the Belli family.",
+            "failed": 0,
+            "lastAsked": 1516820072.0846765,
+            "question": "Given the definition \"Ecco la famiglia Belli.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "una bambina",
+            "failed": 0,
+            "lastAsked": 1516820064.1566827,
+            "question": "Given the definition \"a girl child\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Sono Italiano"
+            ],
+            "answer": "Sono italiano.",
+            "failed": 0,
+            "lastAsked": 1516820076.4208624,
+            "question": "What is the definition of \"I'm Italian.\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "There are the son and the daughter"
+            ],
+            "answer": "There are the son and the daughter.",
+            "failed": 0,
+            "lastAsked": 1516820109.0281892,
+            "question": "Given the definition \"Ci sono il figlio e la figlia.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "the son",
+            "failed": 0,
+            "lastAsked": 1516820100.433175,
+            "question": "What is the definition of \"il figlio\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "There is the sister"
+            ],
+            "answer": "There's the sister.",
+            "failed": 0,
+            "lastAsked": 1516820114.3007653,
+            "question": "Given the definition \"C'e' la sorella.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Maria e' una ragazza"
+            ],
+            "answer": "Maria e' una ragazza.",
+            "failed": 0,
+            "lastAsked": 1516820097.4807868,
+            "question": "What is the definition of \"Maria is a girl.\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "la figlia",
+            "failed": 0,
+            "lastAsked": 1516820087.1372476,
+            "question": "Given the definition \"the daughter\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "There is the daughter"
+            ],
+            "answer": "There's the daughter.",
+            "failed": 1,
+            "lastAsked": 1516820145.93608,
+            "question": "Given the definition \"C'e' la figlia.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "una sera",
+            "failed": 0,
+            "lastAsked": 1516820128.74913,
+            "question": "Given the definition \"an evening\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Francesco is the son"
+            ],
+            "answer": "Francesco is the son.",
+            "failed": 0,
+            "lastAsked": 1516820139.7448306,
+            "question": "Given the definition \"Francesco e' il figlio.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "un dottore",
+            "failed": 0,
+            "lastAsked": 1516820163.1554043,
+            "question": "Given the definition \"a male doctor\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "un bambino",
+            "failed": 0,
+            "lastAsked": 1516820167.6521997,
+            "question": "Given the definition \"a boy child\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "un uomo",
+            "failed": 0,
+            "lastAsked": 1516820150.976414,
+            "question": "Given the definition \"a man\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "the family",
+            "failed": 0,
+            "lastAsked": 1516820170.0123105,
+            "question": "What is the definition of \"la famiglia\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "the person",
+            "failed": 0,
+            "lastAsked": 1516820178.4126756,
+            "question": "What is the definition of \"la persona\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "He is a policeman"
+            ],
+            "answer": "He's a policeman.",
+            "failed": 0,
+            "lastAsked": 1516820175.1764266,
+            "question": "Given the definition \"Lui e' un poliziotto.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "there is"
+            ],
+            "answer": "There is...",
+            "failed": 0,
+            "lastAsked": 1516820159.9244316,
+            "question": "Given the definition \"C'e'...\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "There is the brother"
+            ],
+            "answer": "There's the brother.",
+            "failed": 0,
+            "lastAsked": 1516820156.068428,
+            "question": "Given the definition \"C'e' il fratello.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "un ragazzo",
+            "failed": 0,
+            "lastAsked": 1516820185.744374,
+            "question": "Given the definition \"a boy\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "I have a father"
+            ],
+            "answer": "I have a father.",
+            "failed": 0,
+            "lastAsked": 1516820208.912093,
+            "question": "Given the definition \"Ho un padre.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Maria is the daughter"
+            ],
+            "answer": "Maria is the daughter.",
+            "failed": 0,
+            "lastAsked": 1516820194.960428,
+            "question": "Given the definition \"Maria e' la figlia.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "la famiglia",
+            "failed": 0,
+            "lastAsked": 1516820204.7120721,
+            "question": "Given the definition \"the family\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "il fratello",
+            "failed": 0,
+            "lastAsked": 1516820181.756435,
+            "question": "Given the definition \"the brother\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "an evening",
+            "failed": 0,
+            "lastAsked": 1516820188.4081757,
+            "question": "What is the definition of \"una sera\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Mrs. Belli is the mother"
+            ],
+            "answer": "Mrs. Belli is the mother.",
+            "failed": 0,
+            "lastAsked": 1516820217.5961025,
+            "question": "Given the definition \"La signora Belli e' la madre.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "I hae a small family"
+            ],
+            "answer": "I have a small family.",
+            "failed": 0,
+            "lastAsked": 1516820201.0083554,
+            "question": "Given the definition \"Io ho una famiglia piccola.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "C'e la madre"
+            ],
+            "answer": "C'e' la madre.",
+            "failed": 0,
+            "lastAsked": 1516820239.8328784,
+            "question": "What is the definition of \"There's the mother.\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "C'e il figlio"
+            ],
+            "answer": "C'e' il figlio.",
+            "failed": 0,
+            "lastAsked": 1516820235.215577,
+            "question": "What is the definition of \"There's the son.\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "I have a mother"
+            ],
+            "answer": "And I have a mother.",
+            "failed": 0,
+            "lastAsked": 1516820247.288212,
+            "question": "Given the definition \"E ho una madre.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "the boy",
+            "failed": 0,
+            "lastAsked": 1516820220.0841033,
+            "question": "What is the definition of \"il ragazzo\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "I am Francesco"
+            ],
+            "answer": "I'm Francesco.",
+            "failed": 0,
+            "lastAsked": 1516820225.4438863,
+            "question": "Given the definition \"Io sono Francesco.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "il padre",
+            "failed": 0,
+            "lastAsked": 1516820242.152027,
+            "question": "Given the definition \"the father\", what is the word?",
+            "tried": 3
         }
     ]
 }

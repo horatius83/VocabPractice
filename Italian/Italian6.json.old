@@ -2,1060 +2,1106 @@
     "name": ".\\Italian\\Italian6.json",
     "vocab": [
         {
+            "alternates": [
+                "i libri di Marta sono in soggiorno"
+            ],
+            "answer": "I libri di Marta sono in soggiorno.",
+            "failed": 6,
+            "lastAsked": 1516906441.227809,
+            "question": "What is the definition of \"Marta's books are in the living room.\"?",
+            "tried": 9
+        },
+        {
+            "alternates": [
+                "i piatti sono di Nicola",
+                "I piatti sono di Nicola"
+            ],
+            "answer": "I piatti sono di Nocola.",
+            "failed": 7,
+            "lastAsked": 1516906528.5430138,
+            "question": "Given the definition \"The dishes are Nicola's.\", what is the word?",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "Di chi sono i piatti?",
+            "failed": 7,
+            "lastAsked": 1516906536.4716465,
+            "question": "Given the definition \"Whose dishes are they?\", what is the word?",
+            "tried": 10
+        },
+        {
+            "alternates": [
+                "la scrivania di Anna e' in camera sua",
+                "La scrivania di Anna e' in camera sua"
+            ],
+            "answer": "La scrivania di Anna e' in camera sua.",
+            "failed": 6,
+            "lastAsked": 1516906484.7759469,
+            "question": "What is the definition of \"Anna's desk is in her room.\"?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "il tappeto",
+            "failed": 8,
+            "lastAsked": 1516906488.0152884,
+            "question": "What is the definition of \"the rug\"?",
+            "tried": 12
+        },
+        {
+            "alternates": [],
+            "answer": "i cuscini",
+            "failed": 7,
+            "lastAsked": 1516906349.4440448,
+            "question": "Given the definition \"the pillows\", what is the word?",
+            "tried": 11
+        },
+        {
+            "alternates": [
+                "questa e' la casa di Paolo e Marta",
+                "Questa e' la casa di Paolo e Marta"
+            ],
+            "answer": "Questa e' la casa di Paolo e Marta.",
+            "failed": 6,
+            "lastAsked": 1516906458.3876073,
+            "question": "What is the definition of \"This is Paolo and Marta's house.\"?",
+            "tried": 9
+        },
+        {
+            "alternates": [
+                "il tavolo"
+            ],
+            "answer": "il travolo",
+            "failed": 5,
+            "lastAsked": 1516906240.208347,
+            "question": "Given the definition \"the table\", what is the word?",
+            "tried": 9
+        },
+        {
+            "alternates": [
+                "Io sono di Firenze",
+                "Sono di Florenze"
+            ],
             "answer": "Io sono di Firenze.",
-            "failed": 1,
-            "lastAsked": 1446137145.0156634,
+            "failed": 5,
+            "lastAsked": 1516906750.2183492,
             "question": "Given the definition \"I'm from Florence.\", what is the word?",
-            "tried": 2
+            "tried": 7
         },
         {
-            "answer": "Paolo and Marta are at home.",
-            "failed": 0,
-            "lastAsked": 1446137047.67193,
-            "question": "Given the definition \"Paolo e Marta sono in casa.\", what is the word?",
-            "tried": 1
+            "alternates": [
+                "Here is Paolo and Marta's house"
+            ],
+            "answer": "This is Paolo and Marta's house.",
+            "failed": 3,
+            "lastAsked": 1516906602.5188549,
+            "question": "Given the definition \"Questa e' la casa di Paolo e Marta.\", what is the word?",
+            "tried": 6
         },
         {
-            "answer": "Whose dishes are they?",
-            "failed": 0,
-            "lastAsked": 1446136947.5889227,
-            "question": "What is the definition of \"Di chi sono i piatti?\"?",
-            "tried": 1
+            "alternates": [
+                "in bagno ci sono gli asciugamani"
+            ],
+            "answer": "In bagno ci sono gli asciugamani.",
+            "failed": 4,
+            "lastAsked": 1516906697.4544222,
+            "question": "What is the definition of \"In the bathroom there are the towels.\"?",
+            "tried": 6
         },
         {
-            "answer": "letto",
-            "failed": 0,
-            "lastAsked": 1446136934.6096249,
-            "question": "What is the definition of \"bed\"?",
-            "tried": 1
+            "alternates": [
+                "in soggiorno ci sono le sedie"
+            ],
+            "answer": "In soggiorno ci sono le sedie.",
+            "failed": 4,
+            "lastAsked": 1516906590.9188013,
+            "question": "What is the definition of \"In the living room there are the chairs.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "Paolo e Marte sono in casa"
+            ],
+            "answer": "Paolo e Marta sono in casa.",
+            "failed": 3,
+            "lastAsked": 1516906671.3784938,
+            "question": "What is the definition of \"Paolo and Marta are at home.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "in bagno c'e la doccia"
+            ],
+            "answer": "In bagno c'e' la doccia.",
+            "failed": 4,
+            "lastAsked": 1516906639.7422032,
+            "question": "What is the definition of \"In the bathrrom there is the shower.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "in cucina c'e il tavolo"
+            ],
+            "answer": "In cucina c'e' il travolo.",
+            "failed": 3,
+            "lastAsked": 1516906659.1587167,
+            "question": "What is the definition of \"In the kitchen there is the table.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "sono in casa"
+            ],
+            "answer": "Io sono a casa.",
+            "failed": 3,
+            "lastAsked": 1516906730.7700355,
+            "question": "What is the definition of \"I am at home.\"?",
+            "tried": 6
+        },
+        {
+            "answer": "E' di Ann.",
+            "failed": 4,
+            "lastAsked": 1446487997.431884,
+            "question": "Given the definition \"It is Ann's.\", what is the word?",
+            "tried": 7
+        },
+        {
+            "answer": "I am at home.",
+            "failed": 2,
+            "lastAsked": 1446488832.8804207,
+            "question": "Given the definition \"Io sono a casa.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "Marta e' in giardino.",
+            "failed": 3,
+            "lastAsked": 1446488703.0554395,
+            "question": "What is the definition of \"Marta is in the garden.\"?",
+            "tried": 6
+        },
+        {
+            "answer": "la stanza",
+            "failed": 3,
+            "lastAsked": 1446488004.131554,
+            "question": "Given the definition \"room\", what is the word?",
+            "tried": 6
+        },
+        {
+            "answer": "Di chi e' la lavatrice?",
+            "failed": 3,
+            "lastAsked": 1446488545.4496803,
+            "question": "Given the definition \"Whose washing machine is it?\", what is the word?",
+            "tried": 6
         },
         {
             "answer": "armadio",
-            "failed": 1,
-            "lastAsked": 1446137101.4143038,
+            "failed": 2,
+            "lastAsked": 1446488555.4106765,
             "question": "What is the definition of \"wardrobe\"?",
-            "tried": 2
-        },
-        {
-            "answer": "Marta's books are in the living room.",
-            "failed": 1,
-            "lastAsked": 1446137139.1150734,
-            "question": "Given the definition \"I libri di Marta sono in soggiorno.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "In bagno ci sono gli asciugamani.",
-            "failed": 2,
-            "lastAsked": 1446137132.3954015,
-            "question": "What is the definition of \"In the bathroom there are the towels.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "camera, sono",
-            "failed": 0,
-            "lastAsked": 1446137018.6710303,
-            "question": "In the bedrrom there are the pillows, the closet, and the bed. In ___ da letto ci ___ i cuscini, l'armadio e il letto.",
-            "tried": 1
-        },
-        {
-            "answer": "In the bathrrom there is the shower.",
-            "failed": 1,
-            "lastAsked": 1446137438.1049695,
-            "question": "Given the definition \"In bagno c'e' la doccia.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Sono di Nicola.",
-            "failed": 1,
-            "lastAsked": 1446137428.4250014,
-            "question": "Given the definition \"They are Nicola's.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "In bagno c'e' la doccia.",
-            "failed": 1,
-            "lastAsked": 1446137496.5078092,
-            "question": "What is the definition of \"In the bathrrom there is the shower.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "I libri di Marta sono in soggiorno.",
-            "failed": 2,
-            "lastAsked": 1446137449.2060795,
-            "question": "What is the definition of \"Marta's books are in the living room.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "In cucina c'e' il travolo.",
-            "failed": 2,
-            "lastAsked": 1446137538.248983,
-            "question": "What is the definition of \"In the kitchen there is the table.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "living room",
-            "failed": 0,
-            "lastAsked": 1446137337.021862,
-            "question": "What is the definition of \"il soggiorno\"?",
-            "tried": 1
-        },
-        {
-            "answer": "Anna is in the bathroom.",
-            "failed": 0,
-            "lastAsked": 1446137416.7048297,
-            "question": "What is the definition of \"Anna e' in bagno.\"?",
-            "tried": 1
-        },
-        {
-            "answer": "the closet",
-            "failed": 0,
-            "lastAsked": 1446137343.622522,
-            "question": "Given the definition \"l'armadio\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "Loro sono in soggiorno.",
-            "failed": 2,
-            "lastAsked": 1446137689.1540718,
-            "question": "What is the definition of \"They are in the living room.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "The dishes are Nicola's.",
-            "failed": 0,
-            "lastAsked": 1446137615.0916662,
-            "question": "What is the definition of \"I piatti sono di Nocola.\"?",
-            "tried": 1
-        },
-        {
-            "answer": "bed",
-            "failed": 0,
-            "lastAsked": 1446137541.9483528,
-            "question": "Given the definition \"letto\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "chairs",
-            "failed": 1,
-            "lastAsked": 1446137678.5330098,
-            "question": "Given the definition \"sedie\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "In the garden there are the flowers.",
-            "failed": 0,
-            "lastAsked": 1446137664.612618,
-            "question": "Given the definition \"In giardino ci sono i fiori.\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "the washing machine",
-            "failed": 0,
-            "lastAsked": 1446137669.2130778,
-            "question": "Given the definition \"la lavatrice\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "lui e'",
-            "failed": 0,
-            "lastAsked": 1446137675.8137379,
-            "question": "What is the definition of \"he is\"?",
-            "tried": 1
-        },
-        {
-            "answer": "essere",
-            "failed": 1,
-            "lastAsked": 1446137681.3532917,
-            "question": "What is the definition of \"to be\"?",
-            "tried": 2
-        },
-        {
-            "answer": "Whose washing machine is it?",
-            "failed": 0,
-            "lastAsked": 1446137752.5364094,
-            "question": "What is the definition of \"Di chi e' la lavatrice?\"?",
-            "tried": 1
-        },
-        {
-            "answer": "In the bathroom there are the towels.",
-            "failed": 0,
-            "lastAsked": 1446137704.8146377,
-            "question": "Given the definition \"In bagno ci sono gli asciugamani.\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "Paolo is in the bedroom.",
-            "failed": 0,
-            "lastAsked": 1446137723.8345394,
-            "question": "Given the definition \"Paolo e' in camera da letto.\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "the towels",
-            "failed": 0,
-            "lastAsked": 1446137728.5350094,
-            "question": "What is the definition of \"gli asciugamani\"?",
-            "tried": 1
-        },
-        {
-            "answer": "in soggiorno",
-            "failed": 0,
-            "lastAsked": 1446137714.0945656,
-            "question": "Given the definition \"in the living room\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "il tappeto",
-            "failed": 1,
-            "lastAsked": 1446137778.9970553,
-            "question": "Given the definition \"the carpet\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "loro sono",
-            "failed": 0,
-            "lastAsked": 1446137692.594416,
-            "question": "What is the definition of \"they are\"?",
-            "tried": 1
-        },
-        {
-            "answer": "il divano",
-            "failed": 1,
-            "lastAsked": 1446137777.1568713,
-            "question": "What is the definition of \"the couch\"?",
-            "tried": 2
-        },
-        {
-            "answer": "La scrivania di Anna e' in camera sua.",
-            "failed": 2,
-            "lastAsked": 1446138125.7487268,
-            "question": "What is the definition of \"Anna's desk is in her room.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "This is Paolo and Marta's house.",
-            "failed": 2,
-            "lastAsked": 1446138106.907843,
-            "question": "Given the definition \"Questa e' la casa di Paolo e Marta.\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "in bagno",
-            "failed": 0,
-            "lastAsked": 1446137955.442698,
-            "question": "Given the definition \"in the bathroom\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "the dishes",
-            "failed": 0,
-            "lastAsked": 1446137893.0004544,
-            "question": "Given the definition \"i piatti\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "In camera ci sono i cuscini.",
-            "failed": 1,
-            "lastAsked": 1446137980.2231758,
-            "question": "What is the definition of \"In the bedroom there are the pillows.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "in the bedroom",
-            "failed": 0,
-            "lastAsked": 1446137838.0789628,
-            "question": "What is the definition of \"in camera (da letto)\"?",
-            "tried": 1
-        },
-        {
-            "answer": "she is",
-            "failed": 0,
-            "lastAsked": 1446137850.7792327,
-            "question": "Given the definition \"lei e'\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "le sedie",
-            "failed": 2,
-            "lastAsked": 1446138110.548207,
-            "question": "Given the definition \"the chairs\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "Paolo e Marta sono in casa.",
-            "failed": 2,
-            "lastAsked": 1446138301.8743377,
-            "question": "What is the definition of \"Paolo and Marta are at home.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "sono di",
-            "failed": 1,
-            "lastAsked": 1446138291.3942897,
-            "question": "The cups are Michael's. Le tazze ___ Michael.",
-            "tried": 2
-        },
-        {
-            "answer": "la lavatrice di Ann",
-            "failed": 0,
-            "lastAsked": 1446138207.6909204,
-            "question": "Given the definition \"Ann's washing machine\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "In the kitchen there is the table.",
-            "failed": 1,
-            "lastAsked": 1446138264.353586,
-            "question": "Given the definition \"In cucina c'e' il travolo.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "room",
-            "failed": 1,
-            "lastAsked": 1446138251.972348,
-            "question": "What is the definition of \"la stanza\"?",
-            "tried": 2
-        },
-        {
-            "answer": "the chairs",
-            "failed": 0,
-            "lastAsked": 1446138180.7302246,
-            "question": "What is the definition of \"le sedie\"?",
-            "tried": 1
-        },
-        {
-            "answer": "gli asciugamani",
-            "failed": 1,
-            "lastAsked": 1446138256.852836,
-            "question": "Given the definition \"the towels\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "I, di",
-            "failed": 0,
-            "lastAsked": 1446138228.8920403,
-            "question": "The pillows are Paolo's. ___ cuscini sono ___ Paolo.",
-            "tried": 1
-        },
-        {
-            "answer": "Noi siamo in camera da letto.",
-            "failed": 0,
-            "lastAsked": 1446138324.3555856,
-            "question": "What is the definition of \"We are in the bedroom.\"?",
-            "tried": 1
-        },
-        {
-            "answer": "bedroom",
-            "failed": 0,
-            "lastAsked": 1446138331.5553055,
-            "question": "Given the definition \"camera\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "noi siamo",
-            "failed": 0,
-            "lastAsked": 1446138373.1764672,
-            "question": "What is the definition of \"we are\"?",
-            "tried": 1
+            "tried": 4
         },
         {
             "answer": "Anna's desk is in her room.",
             "failed": 2,
-            "lastAsked": 1446138409.358085,
+            "lastAsked": 1446487494.7546215,
             "question": "Given the definition \"La scrivania di Anna e' in camera sua.\", what is the word?",
-            "tried": 3
+            "tried": 4
         },
         {
-            "answer": "the table",
-            "failed": 0,
-            "lastAsked": 1446138326.7948296,
-            "question": "What is the definition of \"il travolo\"?",
-            "tried": 1
-        },
-        {
-            "answer": "In the living room there is...",
-            "failed": 0,
-            "lastAsked": 1446138396.7178211,
-            "question": "Given the definition \"In soggiorno c'e'...\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "In soggiorno ci sono le sedie.",
+            "answer": "pans",
             "failed": 2,
-            "lastAsked": 1446138452.8794367,
-            "question": "What is the definition of \"In the living room there are the chairs.\"?",
-            "tried": 3
+            "lastAsked": 1446488318.662004,
+            "question": "Given the definition \"pentole\", what is the word?",
+            "tried": 4
         },
         {
-            "answer": "piatti",
-            "failed": 0,
-            "lastAsked": 1446138399.298079,
-            "question": "What is the definition of \"plates\"?",
-            "tried": 1
+            "answer": "Tu sei di Filadelfia.",
+            "failed": 3,
+            "lastAsked": 1446488729.8961232,
+            "question": "Given the definition \"You're from Philadelphia.\", what is the word?",
+            "tried": 6
         },
         {
-            "answer": "kitchen",
-            "failed": 0,
-            "lastAsked": 1446138767.6499107,
-            "question": "What is the definition of \"la cucina\"?",
-            "tried": 1
-        },
-        {
-            "answer": "you are (formal)",
-            "failed": 0,
-            "lastAsked": 1446138725.308677,
-            "question": "Given the definition \"Lei e'\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "Lui e' in bagno.",
-            "failed": 0,
-            "lastAsked": 1446138737.769923,
-            "question": "What is the definition of \"He is in the kitchen.\"?",
-            "tried": 1
-        },
-        {
-            "answer": "Paolo's cups are in the kitchen.",
-            "failed": 0,
-            "lastAsked": 1446138478.6610146,
-            "question": "Given the definition \"Le tazze di Paolo sono in cucina.\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "Io sono a casa.",
-            "failed": 1,
-            "lastAsked": 1446138772.9904447,
-            "question": "What is the definition of \"I am at home.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "I am at home.",
-            "failed": 1,
-            "lastAsked": 1446138798.8910344,
-            "question": "Given the definition \"Io sono a casa.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Paolo e' in camera da letto.",
-            "failed": 0,
-            "lastAsked": 1446138494.4005885,
-            "question": "What is the definition of \"Paolo is in the bedroom.\"?",
-            "tried": 1
-        },
-        {
-            "answer": "In camera da letto c'e' il letto matrimoniale.",
-            "failed": 1,
-            "lastAsked": 1446138793.7915244,
-            "question": "What is the definition of \"In the bedrrom there is the double bed.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "It is Ann's.",
-            "failed": 0,
-            "lastAsked": 1446138902.2753718,
-            "question": "What is the definition of \"E' di Ann.\"?",
-            "tried": 1
-        },
-        {
-            "answer": "Questa e' la casa di Paolo e Marta.",
+            "answer": "l'armadio",
             "failed": 2,
-            "lastAsked": 1446138982.8774312,
-            "question": "What is the definition of \"This is Paolo and Marta's house.\"?",
-            "tried": 3
+            "lastAsked": 1446488559.2500603,
+            "question": "What is the definition of \"the closet\"?",
+            "tried": 4
         },
         {
-            "answer": "bathrrom",
-            "failed": 0,
-            "lastAsked": 1446138844.5526001,
-            "question": "What is the definition of \"il bagno\"?",
-            "tried": 1
+            "answer": "Sono di Nicola.",
+            "failed": 2,
+            "lastAsked": 1446488367.9839356,
+            "question": "Given the definition \"They are Nicola's.\", what is the word?",
+            "tried": 4
         },
         {
-            "answer": "the bed",
-            "failed": 0,
-            "lastAsked": 1446138880.2741718,
-            "question": "Given the definition \"il letto\", what is the word?",
-            "tried": 1
+            "answer": "essere",
+            "failed": 2,
+            "lastAsked": 1446487999.89113,
+            "question": "What is the definition of \"to be\"?",
+            "tried": 4
         },
         {
-            "answer": "They are Nicola's.",
-            "failed": 0,
-            "lastAsked": 1446138859.15306,
-            "question": "What is the definition of \"Sono di Nicola.\"?",
-            "tried": 1
-        },
-        {
-            "answer": "sono",
-            "failed": 1,
-            "lastAsked": 1446138909.0950537,
-            "question": "I am in the kitchen. Io ___ in cucina.",
-            "tried": 2
-        },
-        {
-            "answer": "io sono",
-            "failed": 0,
-            "lastAsked": 1446138906.3747816,
-            "question": "What is the definition of \"I am\"?",
-            "tried": 1
+            "answer": "In giardino ci sono i fiori.",
+            "failed": 2,
+            "lastAsked": 1446488746.836817,
+            "question": "What is the definition of \"In the garden there are the flowers.\"?",
+            "tried": 4
         },
         {
             "answer": "Anna e' in bagno.",
             "failed": 2,
-            "lastAsked": 1446138989.1580591,
+            "lastAsked": 1446487510.2351694,
             "question": "Given the definition \"Anna is in the bathroom.\", what is the word?",
-            "tried": 3
+            "tried": 4
         },
         {
-            "answer": "towels",
-            "failed": 0,
-            "lastAsked": 1446139065.9207346,
-            "question": "Given the definition \"asciugamani\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "the pillows",
-            "failed": 0,
-            "lastAsked": 1446139002.298373,
-            "question": "What is the definition of \"i cuscini\"?",
-            "tried": 1
-        },
-        {
-            "answer": "in the bathroom",
-            "failed": 0,
-            "lastAsked": 1446139006.298773,
-            "question": "What is the definition of \"in bagno\"?",
-            "tried": 1
-        },
-        {
-            "answer": "They are in the living room.",
-            "failed": 0,
-            "lastAsked": 1446139058.6000028,
-            "question": "Given the definition \"Loro sono in soggiorno.\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "sedie",
-            "failed": 0,
-            "lastAsked": 1446139062.7004128,
-            "question": "What is the definition of \"chairs\"?",
-            "tried": 1
-        },
-        {
-            "answer": "wardrobe",
-            "failed": 0,
-            "lastAsked": 1446139069.4810908,
-            "question": "Given the definition \"armadio\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "pans",
-            "failed": 1,
-            "lastAsked": 1446139085.9807405,
-            "question": "Given the definition \"pentole\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "I piatti sono di Nocola.",
+            "answer": "sono di",
             "failed": 2,
-            "lastAsked": 1446139083.6815107,
-            "question": "Given the definition \"The dishes are Nicola's.\", what is the word?",
+            "lastAsked": 1446488343.1834557,
+            "question": "The cups are Michael's. Le tazze ___ Michael.",
+            "tried": 4
+        },
+        {
+            "answer": "In camera (da letto) c'e'...",
+            "failed": 3,
+            "lastAsked": 1446488533.9295285,
+            "question": "What is the definition of \"In the bedroom there is...\"?",
+            "tried": 6
+        },
+        {
+            "answer": "il divano",
+            "failed": 2,
+            "lastAsked": 1446487976.4707882,
+            "question": "What is the definition of \"the couch\"?",
+            "tried": 4
+        },
+        {
+            "answer": "In camera da letto c'e' il letto matrimoniale.",
+            "failed": 2,
+            "lastAsked": 1446488361.7433116,
+            "question": "What is the definition of \"In the bedrrom there is the double bed.\"?",
+            "tried": 4
+        },
+        {
+            "answer": "cucina",
+            "failed": 3,
+            "lastAsked": 1446487957.1708584,
+            "question": "What is the definition of \"kitchen\"?",
+            "tried": 6
+        },
+        {
+            "answer": "Loro sono in soggiorno.",
+            "failed": 2,
+            "lastAsked": 1446487439.5521016,
+            "question": "What is the definition of \"They are in the living room.\"?",
+            "tried": 4
+        },
+        {
+            "answer": "sono",
+            "failed": 2,
+            "lastAsked": 1446488824.2195547,
+            "question": "I am in the kitchen. Io ___ in cucina.",
+            "tried": 4
+        },
+        {
+            "answer": "le sedie",
+            "failed": 2,
+            "lastAsked": 1446487413.4914958,
+            "question": "Given the definition \"the chairs\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "voi siete",
+            "failed": 2,
+            "lastAsked": 1446488142.8364232,
+            "question": "What is the definition of \"you are (plural)\"?",
+            "tried": 5
+        },
+        {
+            "answer": "the rug",
+            "failed": 2,
+            "lastAsked": 1446487940.9702384,
+            "question": "Given the definition \"il tappeto\", what is the word?",
+            "tried": 5
+        },
+        {
+            "answer": "Paolo e Marta hanno una figlia: Anna.",
+            "failed": 2,
+            "lastAsked": 1446489109.6290927,
+            "question": "What is the definition of \"Paolo and Marta have a daughter: Anna.\"?",
+            "tried": 5
+        },
+        {
+            "answer": "La lavatrice e' di Ann.",
+            "failed": 2,
+            "lastAsked": 1446489093.9085207,
+            "question": "Given the definition \"The washing machine is Ann's.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "answer": "le pentole",
+            "failed": 2,
+            "lastAsked": 1446489077.8279128,
+            "question": "What is the definition of \"the pans\"?",
+            "tried": 5
+        },
+        {
+            "answer": "In soggiorno c'e'...",
+            "failed": 2,
+            "lastAsked": 1446487893.048447,
+            "question": "What is the definition of \"In the living room there is...\"?",
+            "tried": 5
+        },
+        {
+            "answer": "Lei e'",
+            "failed": 2,
+            "lastAsked": 1446488940.6832,
+            "question": "What is the definition of \"you are (formal)\"?",
+            "tried": 5
+        },
+        {
+            "answer": "il tappeto",
+            "failed": 1,
+            "lastAsked": 1446488638.1929538,
+            "question": "Given the definition \"the carpet\", what is the word?",
             "tried": 3
         },
         {
             "answer": "The washing machine is Ann's.",
             "failed": 1,
-            "lastAsked": 1446139275.7677174,
+            "lastAsked": 1446488160.877227,
             "question": "What is the definition of \"La lavatrice e' di Ann.\"?",
-            "tried": 2
+            "tried": 3
         },
         {
-            "answer": "In bagno c'e'...",
-            "failed": 0,
-            "lastAsked": 1446139228.1059515,
-            "question": "What is the definition of \"In the bathroom there is...\"?",
-            "tried": 1
+            "answer": "Marta's books are in the living room.",
+            "failed": 1,
+            "lastAsked": 1446488153.536493,
+            "question": "Given the definition \"I libri di Marta sono in soggiorno.\", what is the word?",
+            "tried": 3
         },
         {
             "answer": "Nicola's dishes",
-            "failed": 0,
-            "lastAsked": 1446139223.1654575,
-            "question": "What is the definition of \"i piatti di Nocola\"?",
-            "tried": 1
-        },
-        {
-            "answer": "l'armadio",
             "failed": 1,
-            "lastAsked": 1446139269.1270533,
-            "question": "What is the definition of \"the closet\"?",
-            "tried": 2
+            "lastAsked": 1446489508.402966,
+            "question": "What is the definition of \"i piatti di Nocola\"?",
+            "tried": 3
         },
         {
-            "answer": "he is",
-            "failed": 0,
-            "lastAsked": 1446139145.9827402,
-            "question": "Given the definition \"lui e'\", what is the word?",
-            "tried": 1
+            "answer": "In the kitchen there is the table.",
+            "failed": 1,
+            "lastAsked": 1446488430.5461912,
+            "question": "Given the definition \"In cucina c'e' il travolo.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "loro sono",
+            "failed": 1,
+            "lastAsked": 1446489566.6047857,
+            "question": "What is the definition of \"they are\"?",
+            "tried": 3
+        },
+        {
+            "answer": "chairs",
+            "failed": 1,
+            "lastAsked": 1446488561.7503102,
+            "question": "Given the definition \"sedie\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "Paolo e' in camera da letto.",
+            "failed": 1,
+            "lastAsked": 1446489433.4404707,
+            "question": "What is the definition of \"Paolo is in the bedroom.\"?",
+            "tried": 3
         },
         {
             "answer": "lo speechio",
             "failed": 1,
-            "lastAsked": 1446139265.7677174,
+            "lastAsked": 1446488523.5094867,
             "question": "What is the definition of \"the mirror\"?",
-            "tried": 2
+            "tried": 3
         },
         {
-            "answer": "In giardino ci sono i fiori.",
+            "answer": "In camera ci sono i cuscini.",
             "failed": 1,
-            "lastAsked": 1446139262.7274134,
-            "question": "What is the definition of \"In the garden there are the flowers.\"?",
-            "tried": 2
+            "lastAsked": 1446488477.587895,
+            "question": "What is the definition of \"In the bedroom there are the pillows.\"?",
+            "tried": 3
         },
         {
-            "answer": "to be",
-            "failed": 0,
-            "lastAsked": 1446139204.245566,
-            "question": "Given the definition \"essere\", what is the word?",
-            "tried": 1
+            "answer": "wardrobe",
+            "failed": 1,
+            "lastAsked": 1446489258.9340217,
+            "question": "Given the definition \"armadio\", what is the word?",
+            "tried": 3
         },
         {
-            "answer": "la camera da letto or camera",
-            "failed": 0,
-            "lastAsked": 1446139282.2283633,
-            "question": "Given the definition \"bedroom\", what is the word?",
-            "tried": 1
+            "answer": "gli asciugamani",
+            "failed": 1,
+            "lastAsked": 1446488572.7914143,
+            "question": "Given the definition \"the towels\", what is the word?",
+            "tried": 3
         },
         {
-            "answer": "Le tazze di Paolo sono in cucina.",
-            "failed": 0,
-            "lastAsked": 1446139340.5701969,
-            "question": "What is the definition of \"Paolo's cups are in the kitchen.\"?",
-            "tried": 1
-        },
-        {
-            "answer": "in the living room",
-            "failed": 0,
-            "lastAsked": 1446139285.727713,
-            "question": "What is the definition of \"in soggiorno\"?",
-            "tried": 1
+            "answer": "They are Nicola's.",
+            "failed": 1,
+            "lastAsked": 1446489514.1835442,
+            "question": "What is the definition of \"Sono di Nicola.\"?",
+            "tried": 3
         },
         {
             "answer": "the pans",
             "failed": 1,
-            "lastAsked": 1446139287.8079212,
+            "lastAsked": 1446488480.1681528,
             "question": "Given the definition \"le pentole\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "bedroom",
-            "failed": 0,
-            "lastAsked": 1446139296.3687773,
-            "question": "What is the definition of \"la camera da letto or camera\"?",
-            "tried": 1
-        },
-        {
-            "answer": "Di chi sono i piatti?",
-            "failed": 2,
-            "lastAsked": 1446139382.9114306,
-            "question": "Given the definition \"Whose dishes are they?\", what is the word?",
             "tried": 3
         },
         {
-            "answer": "i cuscini",
-            "failed": 5,
-            "lastAsked": 1446139387.8319225,
-            "question": "Given the definition \"the pillows\", what is the word?",
-            "tried": 7
-        },
-        {
-            "answer": "cucina",
-            "failed": 3,
-            "lastAsked": 1446139377.4708867,
-            "question": "What is the definition of \"kitchen\"?",
-            "tried": 5
-        },
-        {
-            "answer": "il tappeto",
-            "failed": 5,
-            "lastAsked": 1446139578.6980073,
-            "question": "What is the definition of \"the rug\"?",
-            "tried": 7
-        },
-        {
-            "answer": "In soggiorno c'e'...",
-            "failed": 2,
-            "lastAsked": 1446139415.8727264,
-            "question": "What is the definition of \"In the living room there is...\"?",
-            "tried": 4
-        },
-        {
-            "answer": "il travolo",
-            "failed": 4,
-            "lastAsked": 1446139567.9779353,
-            "question": "Given the definition \"the table\", what is the word?",
-            "tried": 6
-        },
-        {
-            "answer": "E' di Ann.",
-            "failed": 3,
-            "lastAsked": 1446139571.9583335,
-            "question": "Given the definition \"It is Ann's.\", what is the word?",
-            "tried": 5
-        },
-        {
-            "answer": "la stanza",
-            "failed": 2,
-            "lastAsked": 1446139552.3173695,
-            "question": "Given the definition \"room\", what is the word?",
-            "tried": 4
-        },
-        {
-            "answer": "le, i, il",
+            "answer": "room",
             "failed": 1,
-            "lastAsked": 1446139438.7730162,
-            "question": "In the kitchen there are the cups, the dishes, and the table. In cucina ci sono ___ tazze, ___ piatti e ___ travolo.",
+            "lastAsked": 1446488757.716905,
+            "question": "What is the definition of \"la stanza\"?",
             "tried": 3
         },
         {
-            "answer": "the couch",
+            "answer": "In the bathrrom there is the shower.",
             "failed": 1,
-            "lastAsked": 1446139390.4511845,
-            "question": "Given the definition \"il divano\", what is the word?",
+            "lastAsked": 1446488607.971932,
+            "question": "Given the definition \"In bagno c'e' la doccia.\", what is the word?",
             "tried": 3
         },
         {
-            "answer": "Di chi e' la lavatrice?",
-            "failed": 2,
-            "lastAsked": 1446139545.7367115,
-            "question": "Given the definition \"Whose washing machine is it?\", what is the word?",
-            "tried": 4
-        },
-        {
-            "answer": "le pentole",
+            "answer": "Le tazze di Paolo sono in cucina.",
             "failed": 1,
-            "lastAsked": 1446139616.0597432,
-            "question": "What is the definition of \"the pans\"?",
+            "lastAsked": 1446489673.028427,
+            "question": "What is the definition of \"Paolo's cups are in the kitchen.\"?",
             "tried": 3
         },
         {
-            "answer": "In camera (da letto) c'e'...",
-            "failed": 2,
-            "lastAsked": 1446139730.9032264,
-            "question": "What is the definition of \"In the bedroom there is...\"?",
-            "tried": 4
-        },
-        {
-            "answer": "Marta e' in giardino.",
-            "failed": 2,
-            "lastAsked": 1446139743.303466,
-            "question": "What is the definition of \"Marta is in the garden.\"?",
-            "tried": 4
-        },
-        {
-            "answer": "La lavatrice e' di Ann.",
+            "answer": "she is",
             "failed": 1,
-            "lastAsked": 1446139594.5185893,
-            "question": "Given the definition \"The washing machine is Ann's.\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "camera",
-            "failed": 1,
-            "lastAsked": 1446139624.699607,
-            "question": "What is the definition of \"bedroom\"?",
-            "tried": 3
-        },
-        {
-            "answer": "i piatti",
-            "failed": 1,
-            "lastAsked": 1446139585.5986972,
-            "question": "What is the definition of \"the dishes\"?",
-            "tried": 3
-        },
-        {
-            "answer": "Tu sei di Filadelfia.",
-            "failed": 2,
-            "lastAsked": 1446139723.4024763,
-            "question": "Given the definition \"You're from Philadelphia.\", what is the word?",
-            "tried": 4
-        },
-        {
-            "answer": "pentole",
-            "failed": 1,
-            "lastAsked": 1446139648.5599928,
-            "question": "What is the definition of \"pans\"?",
-            "tried": 3
-        },
-        {
-            "answer": "asciugamani",
-            "failed": 1,
-            "lastAsked": 1446139788.9250278,
-            "question": "What is the definition of \"towels\"?",
-            "tried": 3
-        },
-        {
-            "answer": "il soggiorno",
-            "failed": 1,
-            "lastAsked": 1446139750.3041663,
-            "question": "Given the definition \"living room\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "voi siete",
-            "failed": 2,
-            "lastAsked": 1446139791.1052458,
-            "question": "What is the definition of \"you are (plural)\"?",
-            "tried": 4
-        },
-        {
-            "answer": "the rug",
-            "failed": 2,
-            "lastAsked": 1446139793.825518,
-            "question": "Given the definition \"il tappeto\", what is the word?",
-            "tried": 4
-        },
-        {
-            "answer": "the carpet",
-            "failed": 1,
-            "lastAsked": 1446139784.84562,
-            "question": "What is the definition of \"il tappeto\"?",
-            "tried": 3
-        },
-        {
-            "answer": "In the living room there are the chairs.",
-            "failed": 1,
-            "lastAsked": 1446139780.065142,
-            "question": "Given the definition \"In soggiorno ci sono le sedie.\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "plates",
-            "failed": 1,
-            "lastAsked": 1446139752.7244081,
-            "question": "Given the definition \"piatti\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "I am",
-            "failed": 1,
-            "lastAsked": 1446139761.4042761,
-            "question": "Given the definition \"io sono\", what is the word?",
+            "lastAsked": 1446489797.5728803,
+            "question": "Given the definition \"lei e'\", what is the word?",
             "tried": 3
         },
         {
             "answer": "Ann's washing machine",
             "failed": 1,
-            "lastAsked": 1446139800.625198,
+            "lastAsked": 1446488927.5828898,
             "question": "What is the definition of \"la lavatrice di Ann\"?",
-            "tried": 3
+            "tried": 4
         },
         {
-            "answer": "il bagno",
-            "failed": 0,
-            "lastAsked": 1446139884.2885633,
-            "question": "Given the definition \"bathrrom\", what is the word?",
-            "tried": 2
+            "answer": "plates",
+            "failed": 1,
+            "lastAsked": 1446488763.457479,
+            "question": "Given the definition \"piatti\", what is the word?",
+            "tried": 4
         },
         {
-            "answer": "i piatti di Nocola",
-            "failed": 0,
-            "lastAsked": 1446139815.7057056,
-            "question": "Given the definition \"Nicola's dishes\", what is the word?",
-            "tried": 2
+            "answer": "il soggiorno",
+            "failed": 1,
+            "lastAsked": 1446489057.907921,
+            "question": "Given the definition \"living room\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "I am",
+            "failed": 1,
+            "lastAsked": 1446488904.602592,
+            "question": "Given the definition \"io sono\", what is the word?",
+            "tried": 4
+        },
+        {
+            "answer": "i piatti",
+            "failed": 1,
+            "lastAsked": 1446488808.7990127,
+            "question": "What is the definition of \"the dishes\"?",
+            "tried": 4
         },
         {
             "answer": "In the bedroom there are the pillows.",
             "failed": 1,
-            "lastAsked": 1446139950.9502287,
+            "lastAsked": 1446489041.9873292,
             "question": "Given the definition \"In camera ci sono i cuscini.\", what is the word?",
-            "tried": 3
+            "tried": 4
         },
         {
-            "answer": "Paolo e Marta hanno una figlia: Anna.",
+            "answer": "In the living room there are the chairs.",
             "failed": 1,
-            "lastAsked": 1446139937.5498888,
-            "question": "What is the definition of \"Paolo and Marta have a daughter: Anna.\"?",
-            "tried": 3
+            "lastAsked": 1446488935.323664,
+            "question": "Given the definition \"In soggiorno ci sono le sedie.\", what is the word?",
+            "tried": 4
         },
         {
-            "answer": "In the bedroom there is...",
-            "failed": 0,
-            "lastAsked": 1446139847.5068855,
-            "question": "Given the definition \"In camera (da letto) c'e'...\", what is the word?",
-            "tried": 2
+            "answer": "pentole",
+            "failed": 1,
+            "lastAsked": 1446489045.886719,
+            "question": "What is the definition of \"pans\"?",
+            "tried": 4
         },
         {
-            "answer": "they are",
-            "failed": 0,
-            "lastAsked": 1446139837.1668515,
-            "question": "Given the definition \"loro sono\", what is the word?",
-            "tried": 2
+            "answer": "the carpet",
+            "failed": 1,
+            "lastAsked": 1446488876.6017923,
+            "question": "What is the definition of \"il tappeto\"?",
+            "tried": 4
         },
         {
-            "answer": "Paolo and Marta have a daughter: Anna.",
-            "failed": 0,
-            "lastAsked": 1446139833.0064356,
-            "question": "Given the definition \"Paolo e Marta hanno una figlia: Anna.\", what is the word?",
-            "tried": 2
+            "answer": "the couch",
+            "failed": 1,
+            "lastAsked": 1446488760.417175,
+            "question": "Given the definition \"il divano\", what is the word?",
+            "tried": 4
         },
         {
-            "answer": "In the bathroom there is...",
-            "failed": 0,
-            "lastAsked": 1446139956.6908028,
-            "question": "Given the definition \"In bagno c'e'...\", what is the word?",
-            "tried": 2
+            "answer": "camera",
+            "failed": 1,
+            "lastAsked": 1446488883.3814702,
+            "question": "What is the definition of \"bedroom\"?",
+            "tried": 4
         },
         {
-            "answer": "kitchen",
-            "failed": 0,
-            "lastAsked": 1446139980.5921926,
-            "question": "Given the definition \"cucina\", what is the word?",
-            "tried": 2
+            "answer": "lei e'",
+            "failed": 1,
+            "lastAsked": 1446489065.327663,
+            "question": "What is the definition of \"she is\"?",
+            "tried": 4
         },
         {
-            "answer": "la cucina",
-            "failed": 0,
-            "lastAsked": 1446139984.3715706,
-            "question": "Given the definition \"kitchen\", what is the word?",
-            "tried": 2
+            "answer": "asciugamani",
+            "failed": 1,
+            "lastAsked": 1446488792.7584088,
+            "question": "What is the definition of \"towels\"?",
+            "tried": 4
         },
         {
             "answer": "tu sei",
             "failed": 1,
-            "lastAsked": 1446140023.7735105,
+            "lastAsked": 1446488889.502082,
             "question": "What is the definition of \"you are (informal)\"?",
-            "tried": 3
+            "tried": 4
         },
         {
-            "answer": "Lei e'",
+            "answer": "le, i, il",
             "failed": 1,
-            "lastAsked": 1446140015.2326565,
-            "question": "What is the definition of \"you are (formal)\"?",
+            "lastAsked": 1446488920.463178,
+            "question": "In the kitchen there are the cups, the dishes, and the table. In cucina ci sono ___ tazze, ___ piatti e ___ travolo.",
+            "tried": 4
+        },
+        {
+            "answer": "e'",
+            "failed": 0,
+            "lastAsked": 1446489444.6805944,
+            "question": "She is in the bathroom. Lei ___ in bagno.",
             "tried": 3
         },
         {
-            "answer": "In the kitchen there are...",
+            "answer": "Paolo's cups are in the kitchen.",
             "failed": 0,
-            "lastAsked": 1446139978.0719407,
-            "question": "Given the definition \"In cucina ci sono ...\", what is the word?",
+            "lastAsked": 1446489631.7272973,
+            "question": "Given the definition \"Le tazze di Paolo sono in cucina.\", what is the word?",
             "tried": 2
         },
         {
-            "answer": "in camera (da letto)",
+            "answer": "the bed",
             "failed": 0,
-            "lastAsked": 1446139996.6527987,
-            "question": "Given the definition \"in the bedroom\", what is the word?",
+            "lastAsked": 1446489537.1038358,
+            "question": "Given the definition \"il letto\", what is the word?",
             "tried": 2
         },
         {
-            "answer": "we are",
+            "answer": "I, di",
             "failed": 0,
-            "lastAsked": 1446140007.4728806,
-            "question": "Given the definition \"noi siamo\", what is the word?",
+            "lastAsked": 1446489691.6692908,
+            "question": "The pillows are Paolo's. ___ cuscini sono ___ Paolo.",
             "tried": 2
         },
         {
-            "answer": "sei",
+            "answer": "piatti",
             "failed": 0,
-            "lastAsked": 1446140029.7731104,
-            "question": "You are in the living room. Tu ___ in soggiorno.",
+            "lastAsked": 1446489694.1295369,
+            "question": "What is the definition of \"plates\"?",
+            "tried": 2
+        },
+        {
+            "answer": "the chairs",
+            "failed": 0,
+            "lastAsked": 1446489517.782904,
+            "question": "What is the definition of \"le sedie\"?",
+            "tried": 2
+        },
+        {
+            "answer": "in the living room",
+            "failed": 0,
+            "lastAsked": 1446489269.4550736,
+            "question": "What is the definition of \"in soggiorno\"?",
             "tried": 2
         },
         {
             "answer": "the mirror",
             "failed": 0,
-            "lastAsked": 1446140066.094742,
+            "lastAsked": 1446489697.5888827,
             "question": "Given the definition \"lo speechio\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "lei e'",
-            "failed": 1,
-            "lastAsked": 1446140077.494882,
-            "question": "What is the definition of \"she is\"?",
             "tried": 3
         },
         {
-            "answer": "you are (informal)",
+            "answer": "in the bedroom",
             "failed": 0,
-            "lastAsked": 1446140045.9337263,
-            "question": "Given the definition \"tu sei\", what is the word?",
+            "lastAsked": 1446489677.988923,
+            "question": "What is the definition of \"in camera (da letto)\"?",
             "tried": 2
         },
         {
-            "answer": "il letto",
+            "answer": "Anna is in the bathroom.",
             "failed": 0,
-            "lastAsked": 1446140059.954128,
-            "question": "What is the definition of \"the bed\"?",
+            "lastAsked": 1446489251.3942678,
+            "question": "What is the definition of \"Anna e' in bagno.\"?",
+            "tried": 2
+        },
+        {
+            "answer": "In the bathroom there is...",
+            "failed": 0,
+            "lastAsked": 1446489706.169741,
+            "question": "Given the definition \"In bagno c'e'...\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "The dishes are Nicola's.",
+            "failed": 0,
+            "lastAsked": 1446489408.5199788,
+            "question": "What is the definition of \"I piatti sono di Nocola.\"?",
             "tried": 2
         },
         {
             "answer": "I'm from Florence.",
             "failed": 0,
-            "lastAsked": 1446140075.27466,
+            "lastAsked": 1446489608.9060154,
             "question": "What is the definition of \"Io sono di Firenze.\"?",
+            "tried": 3
+        },
+        {
+            "answer": "bedroom",
+            "failed": 0,
+            "lastAsked": 1446489170.5911882,
+            "question": "What is the definition of \"la camera da letto or camera\"?",
             "tried": 2
         },
         {
-            "answer": "Marta is in the garden.",
+            "answer": "towels",
             "failed": 0,
-            "lastAsked": 1446140070.4751801,
-            "question": "Given the definition \"Marta e' in giardino.\", what is the word?",
+            "lastAsked": 1446489223.41347,
+            "question": "Given the definition \"asciugamani\", what is the word?",
             "tried": 2
         },
         {
-            "answer": "In cucina ci sono ...",
+            "answer": "kitchen",
             "failed": 0,
-            "lastAsked": 1446140040.2141542,
-            "question": "What is the definition of \"In the kitchen there are...\"?",
+            "lastAsked": 1446489285.8157096,
+            "question": "What is the definition of \"la cucina\"?",
+            "tried": 2
+        },
+        {
+            "answer": "sei",
+            "failed": 0,
+            "lastAsked": 1446489307.8759153,
+            "question": "You are in the living room. Tu ___ in soggiorno.",
+            "tried": 3
+        },
+        {
+            "answer": "the towels",
+            "failed": 0,
+            "lastAsked": 1446489136.8298125,
+            "question": "What is the definition of \"gli asciugamani\"?",
+            "tried": 2
+        },
+        {
+            "answer": "Paolo and Marta are at home.",
+            "failed": 0,
+            "lastAsked": 1446489165.1516445,
+            "question": "Given the definition \"Paolo e Marta sono in casa.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "you are (informal)",
+            "failed": 0,
+            "lastAsked": 1446489541.8443098,
+            "question": "Given the definition \"tu sei\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "the table",
+            "failed": 0,
+            "lastAsked": 1446489243.1744459,
+            "question": "What is the definition of \"il travolo\"?",
+            "tried": 2
+        },
+        {
+            "answer": "in camera (da letto)",
+            "failed": 0,
+            "lastAsked": 1446489548.7439997,
+            "question": "Given the definition \"in the bedroom\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "letto",
+            "failed": 0,
+            "lastAsked": 1446489240.394168,
+            "question": "What is the definition of \"bed\"?",
+            "tried": 2
+        },
+        {
+            "answer": "sedie",
+            "failed": 0,
+            "lastAsked": 1446489173.2314522,
+            "question": "What is the definition of \"chairs\"?",
+            "tried": 2
+        },
+        {
+            "answer": "It is Ann's.",
+            "failed": 0,
+            "lastAsked": 1446489750.2111444,
+            "question": "What is the definition of \"E' di Ann.\"?",
             "tried": 2
         },
         {
             "answer": "In the bedrrom there is the double bed.",
             "failed": 0,
-            "lastAsked": 1446140112.6763997,
+            "lastAsked": 1446489771.0722303,
             "question": "Given the definition \"In camera da letto c'e' il letto matrimoniale.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "bedroom",
+            "failed": 0,
+            "lastAsked": 1446489256.1947477,
+            "question": "Given the definition \"camera\", what is the word?",
             "tried": 2
         },
         {
-            "answer": "We are in the bedroom.",
+            "answer": "the dishes",
             "failed": 0,
-            "lastAsked": 1446140129.6971016,
-            "question": "Given the definition \"Noi siamo in camera da letto.\", what is the word?",
+            "lastAsked": 1446489201.41227,
+            "question": "Given the definition \"i piatti\", what is the word?",
             "tried": 2
         },
         {
-            "answer": "e'",
+            "answer": "In the bedroom there is...",
             "failed": 0,
-            "lastAsked": 1446140098.495982,
-            "question": "She is in the bathroom. Lei ___ in bagno.",
+            "lastAsked": 1446489782.2123444,
+            "question": "Given the definition \"In camera (da letto) c'e'...\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "io sono",
+            "failed": 0,
+            "lastAsked": 1446489732.8514087,
+            "question": "What is the definition of \"I am\"?",
+            "tried": 2
+        },
+        {
+            "answer": "Paolo and Marta have a daughter: Anna.",
+            "failed": 0,
+            "lastAsked": 1446489372.838411,
+            "question": "Given the definition \"Paolo e Marta hanno una figlia: Anna.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "bathrrom",
+            "failed": 0,
+            "lastAsked": 1446489132.8104105,
+            "question": "What is the definition of \"il bagno\"?",
+            "tried": 2
+        },
+        {
+            "answer": "you are (formal)",
+            "failed": 0,
+            "lastAsked": 1446489124.2495546,
+            "question": "Given the definition \"Lei e'\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "Noi siamo in camera da letto.",
+            "failed": 0,
+            "lastAsked": 1446489388.5589828,
+            "question": "What is the definition of \"We are in the bedroom.\"?",
+            "tried": 2
+        },
+        {
+            "answer": "In the bathroom there are the towels.",
+            "failed": 0,
+            "lastAsked": 1446489280.7352016,
+            "question": "Given the definition \"In bagno ci sono gli asciugamani.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "In the living room there is...",
+            "failed": 0,
+            "lastAsked": 1446489654.207545,
+            "question": "Given the definition \"In soggiorno c'e'...\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "to be",
+            "failed": 0,
+            "lastAsked": 1446489313.2964573,
+            "question": "Given the definition \"essere\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "Paolo is in the bedroom.",
+            "failed": 0,
+            "lastAsked": 1446489533.623488,
+            "question": "Given the definition \"Paolo e' in camera da letto.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "il letto",
+            "failed": 0,
+            "lastAsked": 1446489220.31316,
+            "question": "What is the definition of \"the bed\"?",
+            "tried": 3
+        },
+        {
+            "answer": "Whose washing machine is it?",
+            "failed": 0,
+            "lastAsked": 1446489795.1526382,
+            "question": "What is the definition of \"Di chi e' la lavatrice?\"?",
+            "tried": 2
+        },
+        {
+            "answer": "il bagno",
+            "failed": 0,
+            "lastAsked": 1446489495.9627223,
+            "question": "Given the definition \"bathrrom\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "Marta is in the garden.",
+            "failed": 0,
+            "lastAsked": 1446489114.5495846,
+            "question": "Given the definition \"Marta e' in giardino.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "the closet",
+            "failed": 0,
+            "lastAsked": 1446489524.763602,
+            "question": "Given the definition \"l'armadio\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "Lui e' in bagno.",
+            "failed": 0,
+            "lastAsked": 1446489238.21395,
+            "question": "What is the definition of \"He is in the kitchen.\"?",
             "tried": 2
         },
         {
             "answer": "you are (plural)",
             "failed": 0,
-            "lastAsked": 1446140090.77521,
+            "lastAsked": 1446489290.9952276,
             "question": "Given the definition \"voi siete\", what is the word?",
-            "tried": 2
+            "tried": 3
         },
         {
-            "answer": "la lavatrice",
+            "answer": "the washing machine",
             "failed": 0,
-            "lastAsked": 1446140093.9555278,
-            "question": "What is the definition of \"the washing machine\"?",
-            "tried": 2
-        },
-        {
-            "answer": "He is in the kitchen.",
-            "failed": 0,
-            "lastAsked": 1446140084.87562,
-            "question": "Given the definition \"Lui e' in bagno.\", what is the word?",
+            "lastAsked": 1446489118.4699767,
+            "question": "Given the definition \"la lavatrice\", what is the word?",
             "tried": 2
         },
         {
             "answer": "You're from Philadelphia.",
             "failed": 0,
-            "lastAsked": 1446140122.3763697,
+            "lastAsked": 1446489190.6121902,
             "question": "What is the definition of \"Tu sei di Filadelfia.\"?",
+            "tried": 3
+        },
+        {
+            "answer": "the pillows",
+            "failed": 0,
+            "lastAsked": 1446489612.7463994,
+            "question": "What is the definition of \"i cuscini\"?",
+            "tried": 2
+        },
+        {
+            "answer": "they are",
+            "failed": 0,
+            "lastAsked": 1446489204.6725962,
+            "question": "Given the definition \"loro sono\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "In bagno c'e'...",
+            "failed": 0,
+            "lastAsked": 1446489394.7986069,
+            "question": "What is the definition of \"In the bathroom there is...\"?",
+            "tried": 2
+        },
+        {
+            "answer": "In the kitchen there are...",
+            "failed": 0,
+            "lastAsked": 1446489300.1761456,
+            "question": "Given the definition \"In cucina ci sono ...\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "la lavatrice",
+            "failed": 0,
+            "lastAsked": 1446489785.5326762,
+            "question": "What is the definition of \"the washing machine\"?",
+            "tried": 3
+        },
+        {
+            "answer": "He is in the kitchen.",
+            "failed": 0,
+            "lastAsked": 1446489639.9671211,
+            "question": "Given the definition \"Lui e' in bagno.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "lui e'",
+            "failed": 0,
+            "lastAsked": 1446489183.0114303,
+            "question": "What is the definition of \"he is\"?",
+            "tried": 2
+        },
+        {
+            "answer": "kitchen",
+            "failed": 0,
+            "lastAsked": 1446489468.0419304,
+            "question": "Given the definition \"cucina\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "In cucina ci sono ...",
+            "failed": 0,
+            "lastAsked": 1446489416.8598127,
+            "question": "What is the definition of \"In the kitchen there are...\"?",
+            "tried": 3
+        },
+        {
+            "answer": "Whose dishes are they?",
+            "failed": 0,
+            "lastAsked": 1446489622.1073353,
+            "question": "What is the definition of \"Di chi sono i piatti?\"?",
+            "tried": 2
+        },
+        {
+            "answer": "In the garden there are the flowers.",
+            "failed": 0,
+            "lastAsked": 1446489073.728503,
+            "question": "Given the definition \"In giardino ci sono i fiori.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "i piatti di Nocola",
+            "failed": 0,
+            "lastAsked": 1446489504.002526,
+            "question": "Given the definition \"Nicola's dishes\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "la lavatrice di Ann",
+            "failed": 0,
+            "lastAsked": 1446489333.1574433,
+            "question": "Given the definition \"Ann's washing machine\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "la camera da letto or camera",
+            "failed": 0,
+            "lastAsked": 1446489728.6099846,
+            "question": "Given the definition \"bedroom\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "la cucina",
+            "failed": 0,
+            "lastAsked": 1446489196.0127301,
+            "question": "Given the definition \"kitchen\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "camera, sono",
+            "failed": 0,
+            "lastAsked": 1446489150.2711565,
+            "question": "In the bedrrom there are the pillows, the closet, and the bed. In ___ da letto ci ___ i cuscini, l'armadio e il letto.",
+            "tried": 2
+        },
+        {
+            "answer": "They are in the living room.",
+            "failed": 0,
+            "lastAsked": 1446489683.348459,
+            "question": "Given the definition \"Loro sono in soggiorno.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "in the bathroom",
+            "failed": 0,
+            "lastAsked": 1446489742.4313667,
+            "question": "What is the definition of \"in bagno\"?",
+            "tried": 2
+        },
+        {
+            "answer": "noi siamo",
+            "failed": 0,
+            "lastAsked": 1446489551.784304,
+            "question": "What is the definition of \"we are\"?",
+            "tried": 2
+        },
+        {
+            "answer": "bed",
+            "failed": 0,
+            "lastAsked": 1446489127.4298725,
+            "question": "Given the definition \"letto\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "we are",
+            "failed": 0,
+            "lastAsked": 1446489261.835312,
+            "question": "Given the definition \"noi siamo\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "he is",
+            "failed": 0,
+            "lastAsked": 1446489642.3473592,
+            "question": "Given the definition \"lui e'\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "We are in the bedroom.",
+            "failed": 0,
+            "lastAsked": 1446489322.3163593,
+            "question": "Given the definition \"Noi siamo in camera da letto.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "answer": "in soggiorno",
+            "failed": 0,
+            "lastAsked": 1446489437.6408906,
+            "question": "Given the definition \"in the living room\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "in bagno",
+            "failed": 0,
+            "lastAsked": 1446489179.4120703,
+            "question": "Given the definition \"in the bathroom\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "living room",
+            "failed": 0,
+            "lastAsked": 1446489490.9822242,
+            "question": "What is the definition of \"il soggiorno\"?",
             "tried": 2
         }
     ]

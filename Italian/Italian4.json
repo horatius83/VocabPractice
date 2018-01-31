@@ -7,9 +7,9 @@
             ],
             "answer": "Voi avete fretta.",
             "failed": 8,
-            "lastAsked": 1516820461.8870513,
+            "lastAsked": 1516903746.7361836,
             "question": "What is the definition of \"Y'all are in a hurry.\"?",
-            "tried": 12
+            "tried": 13
         },
         {
             "alternates": [
@@ -18,45 +18,19 @@
             ],
             "answer": "Io ho bisogno di un caffe'",
             "failed": 7,
-            "lastAsked": 1516820456.8631175,
+            "lastAsked": 1516903698.316576,
             "question": "Given the definition \"I do need a coffee!\", what is the word?",
-            "tried": 11
-        },
-        {
-            "alternates": [],
-            "answer": "lui e'",
-            "failed": 5,
-            "lastAsked": 1516820388.8033435,
-            "question": "Given the definition \"he is\", what is the word?",
-            "tried": 9
-        },
-        {
-            "alternates": [
-                "abbiamo quattro nonni e sette nipoti"
-            ],
-            "answer": "Noi abbiamo quattro nonni e sette nipoti.",
-            "failed": 5,
-            "lastAsked": 1516820307.4078572,
-            "question": "What is the definition of \"We have four grandparents and seven nephews.\"?",
-            "tried": 9
-        },
-        {
-            "alternates": [],
-            "answer": "voi avete",
-            "failed": 6,
-            "lastAsked": 1516820447.911175,
-            "question": "What is the definition of \"y'all have\"?",
-            "tried": 10
+            "tried": 12
         },
         {
             "alternates": [
                 "loro hanno nove zie e dieci nipoti"
             ],
             "answer": "Loro hanno nove zie e dieci nipoti.",
-            "failed": 6,
-            "lastAsked": 1516820443.834986,
+            "failed": 7,
+            "lastAsked": 1516903799.587975,
             "question": "What is the definition of \"They have nine aunts and ten nieces.\"?",
-            "tried": 10
+            "tried": 12
         },
         {
             "alternates": [
@@ -65,71 +39,119 @@
             ],
             "answer": "Tu hai sete.",
             "failed": 6,
-            "lastAsked": 1516820412.9432192,
+            "lastAsked": 1516903726.9673762,
             "question": "What is the definition of \"You (informal) are thirsty.\"?",
+            "tried": 11
+        },
+        {
+            "alternates": [],
+            "answer": "voi avete",
+            "failed": 6,
+            "lastAsked": 1516903789.366635,
+            "question": "What is the definition of \"y'all have\"?",
+            "tried": 11
+        },
+        {
+            "alternates": [
+                "abbiamo quattro nonni e sette nipoti"
+            ],
+            "answer": "Noi abbiamo quattro nonni e sette nipoti.",
+            "failed": 5,
+            "lastAsked": 1516903714.2384408,
+            "question": "What is the definition of \"We have four grandparents and seven nephews.\"?",
             "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "sonno",
+            "failed": 6,
+            "lastAsked": 1516903802.331791,
+            "question": "Given the definition \"sleep\", what is the word?",
+            "tried": 11
         },
         {
             "alternates": [],
             "answer": "loro hanno",
             "failed": 5,
-            "lastAsked": 1516820407.0070467,
+            "lastAsked": 1516903756.0061576,
             "question": "What is the definition of \"they have\"?",
-            "tried": 9
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "ragione",
+            "failed": 5,
+            "lastAsked": 1516903831.973283,
+            "question": "Given the definition \"reason\", what is the word?",
+            "tried": 10
+        },
+        {
+            "alternates": [
+                "lui e"
+            ],
+            "answer": "lui e'",
+            "failed": 5,
+            "lastAsked": 1516903822.823279,
+            "question": "Given the definition \"he is\", what is the word?",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "uno zio",
+            "failed": 5,
+            "lastAsked": 1516903859.252692,
+            "question": "Given the definition \"an uncle\", what is the word?",
+            "tried": 10
+        },
+        {
+            "alternates": [
+                "You are hungry",
+                "you are hungry"
+            ],
+            "answer": "You (formal) are hungry.",
+            "failed": 5,
+            "lastAsked": 1516903868.5214517,
+            "question": "Given the definition \"Lei ha fame.\", what is the word?",
+            "tried": 10
         },
         {
             "alternates": [
                 "ho freddo"
             ],
             "answer": "avere freddo",
-            "failed": 4,
-            "lastAsked": 1516820523.574752,
+            "failed": 5,
+            "lastAsked": 1516903872.1211205,
             "question": "Given the definition \"to be cold\", what is the word?",
-            "tried": 8
-        },
-        {
-            "alternates": [],
-            "answer": "ragione",
-            "failed": 5,
-            "lastAsked": 1516820556.4873095,
-            "question": "Given the definition \"reason\", what is the word?",
-            "tried": 9
-        },
-        {
-            "alternates": [],
-            "answer": "sonno",
-            "failed": 5,
-            "lastAsked": 1516820553.4303753,
-            "question": "Given the definition \"sleep\", what is the word?",
-            "tried": 9
-        },
-        {
-            "alternates": [],
-            "answer": "uno zio",
-            "failed": 4,
-            "lastAsked": 1516820560.8862207,
-            "question": "Given the definition \"an uncle\", what is the word?",
-            "tried": 8
+            "tried": 10
         },
         {
             "alternates": [
-                "voi avete fretta"
+                "loro hanno fretta"
             ],
-            "answer": "Voi avete fretta.",
-            "failed": 3,
-            "lastAsked": 1516820529.6588287,
-            "question": "What is the definition of \"Y'all are in a hurry.\"?",
-            "tried": 7
+            "answer": "Loro hanno fretta.",
+            "failed": 4,
+            "lastAsked": 1516903817.9010353,
+            "question": "What is the definition of \"They are in a hurry.\"?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "sete",
+            "failed": 6,
+            "lastAsked": 1516903874.5520868,
+            "question": "Given the definition \"thirst\", what is the word?",
+            "tried": 11
         },
         {
             "alternates": [
+                "lui ha fame",
                 "lei ha fame"
             ],
             "answer": "Lei ha fame.",
             "failed": 4,
-            "lastAsked": 1516820565.006517,
+            "lastAsked": 1516903855.9325426,
             "question": "What is the definition of \"She is hungry.\"?",
-            "tried": 8
+            "tried": 9
         },
         {
             "alternates": [
@@ -138,96 +160,93 @@
             ],
             "answer": "Ci sono dieci uomini e nove donne.",
             "failed": 4,
-            "lastAsked": 1516820551.2425718,
+            "lastAsked": 1516903896.895325,
             "question": "What is the definition of \"There are ten men and nine women.\"?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "tu hai",
+            "failed": 3,
+            "lastAsked": 1516903905.273215,
+            "question": "What is the definition of \"you have (informal)\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "quattro stazioni",
+            "failed": 3,
+            "lastAsked": 1516903913.8391588,
+            "question": "four stations",
             "tried": 8
         },
         {
             "alternates": [],
             "answer": "hurry",
             "failed": 3,
-            "lastAsked": 1516820504.7981772,
+            "lastAsked": 1516903908.2247248,
             "question": "What is the definition of \"fretta\"?",
-            "tried": 7
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "due giorni",
+            "failed": 3,
+            "lastAsked": 1516903900.2580938,
+            "question": "two days",
+            "tried": 8
+        },
+        {
+            "alternates": [
+                "voi avete fretta"
+            ],
+            "answer": "Voi avete fretta.",
+            "failed": 3,
+            "lastAsked": 1516903884.0018322,
+            "question": "What is the definition of \"Y'all are in a hurry.\"?",
+            "tried": 8
         },
         {
             "alternates": [],
             "answer": "avere paura",
             "failed": 3,
-            "lastAsked": 1516820613.6306274,
+            "lastAsked": 1516903877.8830962,
             "question": "Given the definition \"to be afraid\", what is the word?",
-            "tried": 7
-        },
-        {
-            "alternates": [
-                "You are hungry",
-                "you are hungry"
-            ],
-            "answer": "You (formal) are hungry.",
-            "failed": 4,
-            "lastAsked": 1516820662.7337475,
-            "question": "Given the definition \"Lei ha fame.\", what is the word?",
-            "tried": 8
-        },
-        {
-            "alternates": [
-                "loro hanno fretta"
-            ],
-            "answer": "Loro hanno fretta.",
-            "failed": 4,
-            "lastAsked": 1516820686.4019554,
-            "question": "What is the definition of \"They are in a hurry.\"?",
             "tried": 8
         },
         {
             "alternates": [],
-            "answer": "tu hai",
+            "answer": "due madri",
             "failed": 3,
-            "lastAsked": 1516820581.0183995,
-            "question": "What is the definition of \"you have (informal)\"?",
-            "tried": 7
+            "lastAsked": 1516903888.5122643,
+            "question": "two mothers",
+            "tried": 8
+        },
+        {
+            "alternates": [
+                "Ecco nove bambine"
+            ],
+            "answer": "Ecco nove bambine.",
+            "failed": 3,
+            "lastAsked": 1516903939.7576256,
+            "question": "What is the definition of \"Here are nine children. (girls)\"?",
+            "tried": 8
         },
         {
             "alternates": [],
             "answer": "due sere",
             "failed": 3,
-            "lastAsked": 1516820676.1021647,
+            "lastAsked": 1516903944.444926,
             "question": "two evenings",
-            "tried": 7
-        },
-        {
-            "alternates": [],
-            "answer": "il",
-            "failed": 2,
-            "lastAsked": 1516820590.2020495,
-            "question": "(a or the) Ecco ___ signor Belli.",
-            "tried": 6
-        },
-        {
-            "alternates": [],
-            "answer": "quattro stazioni",
-            "failed": 3,
-            "lastAsked": 1516820680.6942618,
-            "question": "four stations",
-            "tried": 7
-        },
-        {
-            "alternates": [],
-            "answer": "sete",
-            "failed": 4,
-            "lastAsked": 1516820688.5731132,
-            "question": "Given the definition \"thirst\", what is the word?",
             "tried": 8
         },
         {
-            "alternates": [
-                "E anche, loro hanno fretta"
-            ],
-            "answer": "Anche loro hanno fretta.",
-            "failed": 2,
-            "lastAsked": 1516820735.2371914,
-            "question": "What is the definition of \"They are in a hurry, too.\"?",
-            "tried": 6
+            "alternates": [],
+            "answer": "avere sonno",
+            "failed": 3,
+            "lastAsked": 1516903951.2442844,
+            "question": "Given the definition \"to be sleepy\", what is the word?",
+            "tried": 8
         },
         {
             "alternates": [
@@ -235,259 +254,29 @@
             ],
             "answer": "We have four grandparents and seven nephews.",
             "failed": 3,
-            "lastAsked": 1516820807.4172754,
+            "lastAsked": 1516903928.6161447,
             "question": "Given the definition \"Noi abbiamo quattro nonni e sette nipoti.\", what is the word?",
-            "tried": 7
-        },
-        {
-            "alternates": [],
-            "answer": "due giorni",
-            "failed": 3,
-            "lastAsked": 1516820796.1297052,
-            "question": "two days",
-            "tried": 7
-        },
-        {
-            "alternates": [],
-            "answer": "due madri",
-            "failed": 3,
-            "lastAsked": 1516820799.0330567,
-            "question": "two mothers",
-            "tried": 7
+            "tried": 8
         },
         {
             "alternates": [
                 "loro hanno sonno"
             ],
             "answer": "Loro hanno sonno.",
-            "failed": 2,
-            "lastAsked": 1516820761.9892495,
+            "failed": 3,
+            "lastAsked": 1516904018.737062,
             "question": "What is the definition of \"They are sleepy.\"?",
-            "tried": 6
-        },
-        {
-            "alternates": [
-                "Lei ha fame"
-            ],
-            "answer": "Lei ha fame.",
-            "failed": 2,
-            "lastAsked": 1516820755.1773777,
-            "question": "What is the definition of \"You (formal) are hungry.\"?",
-            "tried": 6
-        },
-        {
-            "alternates": [
-                "ho sete"
-            ],
-            "answer": "Io ho sete.",
-            "failed": 2,
-            "lastAsked": 1516820774.6456265,
-            "question": "What is the definition of \"I am thirsty.\"?",
-            "tried": 6
-        },
-        {
-            "alternates": [
-                "tre ragazze"
-            ],
-            "answer": "tre regazze",
-            "failed": 2,
-            "lastAsked": 1516820781.8053703,
-            "question": "three girls",
-            "tried": 6
+            "tried": 8
         },
         {
             "alternates": [
                 "Lei ha otto zii e sei cugini"
             ],
             "answer": "Lei ha otto zii e sei cugini.",
-            "failed": 2,
-            "lastAsked": 1516820851.6766036,
+            "failed": 3,
+            "lastAsked": 1516904036.0372887,
             "question": "What is the definition of \"She has eight uncles and six cousins.\"?",
-            "tried": 6
-        },
-        {
-            "alternates": [
-                "She has eight uncles and six cousins"
-            ],
-            "answer": "She has eight uncles and six cousins.",
-            "failed": 2,
-            "lastAsked": 1516820880.569121,
-            "question": "Given the definition \"Lei ha otto zii e sei cugini.\", what is the word?",
-            "tried": 6
-        },
-        {
-            "alternates": [],
-            "answer": "y'all have",
-            "failed": 2,
-            "lastAsked": 1516820893.5211377,
-            "question": "Given the definition \"voi avete\", what is the word?",
-            "tried": 6
-        },
-        {
-            "alternates": [
-                "There are ten men and 9 women"
-            ],
-            "answer": "There are ten men and nine women.",
-            "failed": 1,
-            "lastAsked": 1516820889.8010342,
-            "question": "Given the definition \"Ci sono dieci uomini e nove donne.\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "una",
-            "failed": 1,
-            "lastAsked": 1516820835.2088072,
-            "question": "(a or the) Lei e' ___ studentessa.",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "un giorno",
-            "failed": 1,
-            "lastAsked": 1516820811.8013875,
-            "question": "one day / a day",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "They are in a hurry"
-            ],
-            "answer": "They are in a hurry.",
-            "failed": 1,
-            "lastAsked": 1516820868.6208198,
-            "question": "Given the definition \"Loro hanno fretta.\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "Ci sono due studenti"
-            ],
-            "answer": "Ci sono due studenti.",
-            "failed": 1,
-            "lastAsked": 1516820862.093248,
-            "question": "What is the definition of \"There are two students.\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "otto bambini",
-            "failed": 2,
-            "lastAsked": 1516821112.2356071,
-            "question": "Eight boy children.",
-            "tried": 6
-        },
-        {
-            "alternates": [
-                "she is hungry"
-            ],
-            "answer": "She is hungry.",
-            "failed": 1,
-            "lastAsked": 1516820920.8847685,
-            "question": "Given the definition \"Lei ha fame.\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "la",
-            "failed": 1,
-            "lastAsked": 1516820906.2765288,
-            "question": "(a or the) Ecco ___ signora Belli.",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "They have 9 aunts and 10 nephews"
-            ],
-            "answer": "They have nine aunts and ten nieces.",
-            "failed": 1,
-            "lastAsked": 1516820948.4603934,
-            "question": "Given the definition \"Loro hanno nove zie e dieci nipoti.\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "Tu hai paura"
-            ],
-            "answer": "Tu hai paura.",
-            "failed": 1,
-            "lastAsked": 1516820955.2763755,
-            "question": "What is the definition of \"You (informal) are afraid.\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "Lei ha",
-            "failed": 1,
-            "lastAsked": 1516820897.7009335,
-            "question": "What is the definition of \"you have (formal)\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "avere",
-            "failed": 1,
-            "lastAsked": 1516821107.7877483,
-            "question": "What is the definition of \"to have\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "lui ha sonno"
-            ],
-            "answer": "Lui ha sonno.",
-            "failed": 1,
-            "lastAsked": 1516820915.4928055,
-            "question": "What is the definition of \"He is sleepy.\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "Here are seven families"
-            ],
-            "answer": "Here are seven families.",
-            "failed": 1,
-            "lastAsked": 1516821120.351548,
-            "question": "Given the definition \"Ecco sette famiglie.\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "I do need a coffee"
-            ],
-            "answer": "I do need a coffee!",
-            "failed": 2,
-            "lastAsked": 1516821215.2750688,
-            "question": "What is the definition of \"Io ho bisogno di un caffe'\"?",
-            "tried": 6
-        },
-        {
-            "alternates": [
-                "Ecco sette famiglie"
-            ],
-            "answer": "Ecco sette famiglie.",
-            "failed": 1,
-            "lastAsked": 1516821193.4229212,
-            "question": "What is the definition of \"Here are seven families.\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "uno",
-            "failed": 2,
-            "lastAsked": 1516821195.7384229,
-            "question": "(a or the) Lui e' ___ studente.",
-            "tried": 6
-        },
-        {
-            "alternates": [
-                "Io ho una famiglia piccola"
-            ],
-            "answer": "io ho una famiglia piccola.",
-            "failed": 2,
-            "lastAsked": 1516821203.923133,
-            "question": "Given the definition \"I have a small family.\", what is the word?",
-            "tried": 6
+            "tried": 8
         },
         {
             "alternates": [
@@ -496,79 +285,31 @@
             ],
             "answer": "Lui ha freddo.",
             "failed": 2,
-            "lastAsked": 1516821211.3632476,
+            "lastAsked": 1516904015.1137385,
             "question": "What is the definition of \"He is cold.\"?",
-            "tried": 6
-        },
-        {
-            "alternates": [
-                "hot"
-            ],
-            "answer": "heat",
-            "failed": 1,
-            "lastAsked": 1516821167.743527,
-            "question": "What is the definition of \"caldo\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "una sera",
-            "failed": 1,
-            "lastAsked": 1516821141.34742,
-            "question": "one evening",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "noi abbiamo",
-            "failed": 1,
-            "lastAsked": 1516821218.9868386,
-            "question": "What is the definition of \"we have\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "una nipote",
-            "failed": 1,
-            "lastAsked": 1516821365.3461943,
-            "question": "Given the definition \"a niece\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "Ecco nove bambine"
-            ],
-            "answer": "Ecco nove bambine.",
-            "failed": 3,
-            "lastAsked": 1516821392.6902668,
-            "question": "What is the definition of \"Here are nine children. (girls)\"?",
             "tried": 7
         },
         {
-            "alternates": [],
-            "answer": "zia",
-            "failed": 1,
-            "lastAsked": 1516821370.578256,
-            "question": "Given the definition \"aunt\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "io ho",
-            "failed": 1,
-            "lastAsked": 1516821367.9863257,
-            "question": "What is the definition of \"I have\"?",
-            "tried": 5
+            "alternates": [
+                "there is one student",
+                "There is one student"
+            ],
+            "answer": "There is one student.",
+            "failed": 3,
+            "lastAsked": 1516904024.8229218,
+            "question": "Given the definition \"C'e' uno studente.\", what is the word?",
+            "tried": 8
         },
         {
             "alternates": [
-                "loro sono"
+                "Anche, loro hanno fretta",
+                "E anche, loro hanno fretta"
             ],
-            "answer": "loro",
-            "failed": 1,
-            "lastAsked": 1516821255.5151398,
-            "question": "Given the definition \"they\", what is the word?",
-            "tried": 5
+            "answer": "Anche loro hanno fretta.",
+            "failed": 2,
+            "lastAsked": 1516904091.598006,
+            "question": "What is the definition of \"They are in a hurry, too.\"?",
+            "tried": 7
         },
         {
             "alternates": [
@@ -576,61 +317,37 @@
             ],
             "answer": "I am thirsty.",
             "failed": 2,
-            "lastAsked": 1516821385.286058,
+            "lastAsked": 1516904043.6031115,
             "question": "Given the definition \"Io ho sete.\", what is the word?",
-            "tried": 6
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "y'all have",
+            "failed": 2,
+            "lastAsked": 1516904106.2328298,
+            "question": "Given the definition \"voi avete\", what is the word?",
+            "tried": 7
         },
         {
             "alternates": [
-                "noi non abbiamo paura"
+                "She has eight uncles and six cousins"
             ],
-            "answer": "Noi non abbiamo paura.",
-            "failed": 1,
-            "lastAsked": 1516821229.047044,
-            "question": "What is the definition of \"We are not afraid.\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "lei e'",
-            "failed": 1,
-            "lastAsked": 1516821439.4059408,
-            "question": "Given the definition \"she is\", what is the word?",
-            "tried": 5
+            "answer": "She has eight uncles and six cousins.",
+            "failed": 2,
+            "lastAsked": 1516904054.3732696,
+            "question": "Given the definition \"Lei ha otto zii e sei cugini.\", what is the word?",
+            "tried": 7
         },
         {
             "alternates": [
-                "you have"
+                "noi abbiamo freddo"
             ],
-            "answer": "you have (informal)",
-            "failed": 1,
-            "lastAsked": 1516821409.6261523,
-            "question": "Given the definition \"tu hai\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "avere ragione",
+            "answer": "Noi abbiamo freddo.",
             "failed": 2,
-            "lastAsked": 1516821471.9456315,
-            "question": "Given the definition \"to be right\", what is the word?",
-            "tried": 6
-        },
-        {
-            "alternates": [],
-            "answer": "not",
-            "failed": 2,
-            "lastAsked": 1516821468.4012363,
-            "question": "Given the definition \"non\", what is the word?",
-            "tried": 6
-        },
-        {
-            "alternates": [],
-            "answer": "avere fame",
-            "failed": 2,
-            "lastAsked": 1516821475.8017821,
-            "question": "Given the definition \"to be hungry\", what is the word?",
-            "tried": 6
+            "lastAsked": 1516904111.0804,
+            "question": "What is the definition of \"We are cold.\"?",
+            "tried": 7
         },
         {
             "alternates": [
@@ -638,42 +355,440 @@
             ],
             "answer": "Ho bisogno di un caffe'",
             "failed": 2,
-            "lastAsked": 1516821464.5537264,
+            "lastAsked": 1516904101.5930293,
             "question": "Given the definition \"I need a coffee.\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "I do need a coffee"
+            ],
+            "answer": "I do need a coffee!",
+            "failed": 4,
+            "lastAsked": 1516904131.2740767,
+            "question": "What is the definition of \"Io ho bisogno di un caffe'\"?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "not",
+            "failed": 2,
+            "lastAsked": 1516904093.5407584,
+            "question": "Given the definition \"non\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "ho sette",
+                "ho sete"
+            ],
+            "answer": "Io ho sete.",
+            "failed": 2,
+            "lastAsked": 1516904162.307465,
+            "question": "What is the definition of \"I am thirsty.\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "otto bambini",
+            "failed": 3,
+            "lastAsked": 1516904192.4608624,
+            "question": "Eight boy children.",
+            "tried": 8
+        },
+        {
+            "alternates": [
+                "Lei ha fame"
+            ],
+            "answer": "Lei ha fame.",
+            "failed": 2,
+            "lastAsked": 1516904182.2700975,
+            "question": "What is the definition of \"You (formal) are hungry.\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "avere ragione",
+            "failed": 2,
+            "lastAsked": 1516904157.3244927,
+            "question": "Given the definition \"to be right\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "tre ragazze"
+            ],
+            "answer": "tre regazze",
+            "failed": 2,
+            "lastAsked": 1516904153.644413,
+            "question": "three girls",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "uno",
+            "failed": 2,
+            "lastAsked": 1516904170.6589782,
+            "question": "(a or the) Lui e' ___ studente.",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "avere fame",
+            "failed": 2,
+            "lastAsked": 1516904135.0253417,
+            "question": "Given the definition \"to be hungry\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "ho una famiglia piccola",
+                "Ho una famiglia piccola",
+                "Io ho una famiglia piccola"
+            ],
+            "answer": "io ho una famiglia piccola.",
+            "failed": 4,
+            "lastAsked": 1516904216.5118525,
+            "question": "Given the definition \"I have a small family.\", what is the word?",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "il",
+            "failed": 3,
+            "lastAsked": 1516904326.206357,
+            "question": "(a or the) Ecco ___ signor Belli.",
+            "tried": 8
+        },
+        {
+            "alternates": [
+                "Maria is hungry",
+                "Mario is hungry"
+            ],
+            "answer": "Mario is hungry.",
+            "failed": 1,
+            "lastAsked": 1516904298.2524712,
+            "question": "Given the definition \"Mario ha fame.\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "Ecco tre famiglie"
+            ],
+            "answer": "Ecco tre famiglie.",
+            "failed": 2,
+            "lastAsked": 1516904306.5160668,
+            "question": "What is the definition of \"Here are three families.\"?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "They have 9 aunts and 10 nephews"
+            ],
+            "answer": "They have nine aunts and ten nieces.",
+            "failed": 1,
+            "lastAsked": 1516904264.3714035,
+            "question": "Given the definition \"Loro hanno nove zie e dieci nipoti.\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "zia",
+            "failed": 1,
+            "lastAsked": 1516904218.902901,
+            "question": "Given the definition \"aunt\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "Ci sono tre sorelle e quattro fratelli"
+            ],
+            "answer": "Ci sono tre sorelle e quattro fratelli.",
+            "failed": 1,
+            "lastAsked": 1516904229.7262254,
+            "question": "What is the definition of \"There are three sisters and four brothers.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "you have"
+            ],
+            "answer": "you have (informal)",
+            "failed": 1,
+            "lastAsked": 1516904292.3014228,
+            "question": "Given the definition \"tu hai\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "here are seven families",
+                "Here are seven families"
+            ],
+            "answer": "Here are seven families.",
+            "failed": 2,
+            "lastAsked": 1516904333.849334,
+            "question": "Given the definition \"Ecco sette famiglie.\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "un giorno",
+            "failed": 2,
+            "lastAsked": 1516904411.177841,
+            "question": "one day / a day",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "una",
+            "failed": 2,
+            "lastAsked": 1516904407.9533582,
+            "question": "(a or the) Lei e' ___ studentessa.",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "lei ha",
+            "failed": 1,
+            "lastAsked": 1516904352.1718905,
+            "question": "What is the definition of \"she has\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "avere",
+            "failed": 1,
+            "lastAsked": 1516904380.0393322,
+            "question": "What is the definition of \"to have\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "Here is 12 people",
+                "Here are 12 people",
+                "Here are twelve people"
+            ],
+            "answer": "Here are twelve people.",
+            "failed": 1,
+            "lastAsked": 1516904403.6583555,
+            "question": "Given the definition \"Ecco dodici persone.\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "cugino",
+            "failed": 1,
+            "lastAsked": 1516904358.099883,
+            "question": "Given the definition \"male cousin\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "abbiamo"
+            ],
+            "answer": "noi abbiamo",
+            "failed": 1,
+            "lastAsked": 1516904364.9947956,
+            "question": "What is the definition of \"we have\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "tre signori"
+            ],
+            "answer": "tre ginori",
+            "failed": 1,
+            "lastAsked": 1516904368.9557478,
+            "question": "three gentlemen",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "un nipote",
+            "failed": 1,
+            "lastAsked": 1516904476.6681187,
+            "question": "Given the definition \"a nephew\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "tu hai paura",
+                "Tu hai paura"
+            ],
+            "answer": "Tu hai paura.",
+            "failed": 1,
+            "lastAsked": 1516904464.1886482,
+            "question": "What is the definition of \"You (informal) are afraid.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "THere are 10 men and 9 women",
+                "There are ten men and 9 women"
+            ],
+            "answer": "There are ten men and nine women.",
+            "failed": 1,
+            "lastAsked": 1516904425.573439,
+            "question": "Given the definition \"Ci sono dieci uomini e nove donne.\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "and also they are in a hurry",
+                "They are in a hurry too"
+            ],
+            "answer": "They are in a hurry, too.",
+            "failed": 1,
+            "lastAsked": 1516904453.4402313,
+            "question": "Given the definition \"Anche loro hanno fretta.\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "la",
+            "failed": 2,
+            "lastAsked": 1516904490.0639248,
+            "question": "(a or the) Ecco ___ signora Belli.",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "Lei ha",
+            "failed": 1,
+            "lastAsked": 1516904482.0523741,
+            "question": "What is the definition of \"you have (formal)\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "Ci sono due studenti"
+            ],
+            "answer": "Ci sono due studenti.",
+            "failed": 1,
+            "lastAsked": 1516904488.271441,
+            "question": "What is the definition of \"There are two students.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "lui ha sonno"
+            ],
+            "answer": "Lui ha sonno.",
+            "failed": 3,
+            "lastAsked": 1516904500.5676343,
+            "question": "What is the definition of \"He is sleepy.\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [
+                "loro sono"
+            ],
+            "answer": "loro",
+            "failed": 1,
+            "lastAsked": 1516904520.0835502,
+            "question": "Given the definition \"they\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "one student / a student",
+                "a student"
+            ],
+            "answer": "a (male) student",
+            "failed": 1,
+            "lastAsked": 1516904537.0174127,
+            "question": "What is the definition of \"uno studente\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "There are 5 boys and six girls"
+            ],
+            "answer": "There are five boys and six girls.",
+            "failed": 1,
+            "lastAsked": 1516904546.0701284,
+            "question": "Given the definition \"Ci sono cinque ragazzi e sei ragazze.\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "to be in a hurry",
+            "failed": 1,
+            "lastAsked": 1516904505.2065632,
+            "question": "What is the definition of \"avere fretta\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "cold",
+            "failed": 1,
+            "lastAsked": 1516904539.490325,
+            "question": "What is the definition of \"freddo\"?",
             "tried": 6
         },
         {
             "alternates": [],
             "answer": "Lei",
             "failed": 1,
-            "lastAsked": 1516821403.2661695,
+            "lastAsked": 1516904552.0177717,
             "question": "Given the definition \"you (formal)\", what is the word?",
-            "tried": 5
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "voi",
+            "failed": 1,
+            "lastAsked": 1516904548.6054084,
+            "question": "Given the definition \"y'all\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "I do need a coffe",
+                "I need a coffee"
+            ],
+            "answer": "I need a coffee.",
+            "failed": 1,
+            "lastAsked": 1516904514.7231429,
+            "question": "What is the definition of \"Ho bisogno di un caffe'\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "they are in a hurry",
+                "They are in a hurry"
+            ],
+            "answer": "They are in a hurry.",
+            "failed": 1,
+            "lastAsked": 1516904615.3240957,
+            "question": "Given the definition \"Loro hanno fretta.\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "they have",
+            "failed": 4,
+            "lastAsked": 1516904651.870093,
+            "question": "Given the definition \"loro hanno\", what is the word?",
+            "tried": 9
+        },
+        {
+            "alternates": [
+                "She is hungry",
+                "she is hungry"
+            ],
+            "answer": "She is hungry.",
+            "failed": 1,
+            "lastAsked": 1516904558.9690592,
+            "question": "Given the definition \"Lei ha fame.\", what is the word?",
+            "tried": 6
         },
         {
             "alternates": [],
             "answer": "we",
             "failed": 1,
-            "lastAsked": 1516821404.8900096,
+            "lastAsked": 1516904608.7281103,
             "question": "What is the definition of \"noi\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "lei ha",
-            "failed": 1,
-            "lastAsked": 1516821550.837373,
-            "question": "What is the definition of \"she has\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "There is one student"
-            ],
-            "answer": "There is one student.",
-            "failed": 2,
-            "lastAsked": 1516821560.1252263,
-            "question": "Given the definition \"C'e' uno studente.\", what is the word?",
             "tried": 6
         },
         {
@@ -682,689 +797,134 @@
             ],
             "answer": "Ci sono cinque ragazzi e sei ragazze.",
             "failed": 1,
-            "lastAsked": 1516821496.0379758,
+            "lastAsked": 1516904630.7636158,
             "question": "What is the definition of \"There are five boys and six girls.\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "tre signori"
-            ],
-            "answer": "tre ginori",
-            "failed": 1,
-            "lastAsked": 1516821509.9898465,
-            "question": "three gentlemen",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "There are 5 boys and six girls"
-            ],
-            "answer": "There are five boys and six girls.",
-            "failed": 1,
-            "lastAsked": 1516821537.0781033,
-            "question": "Given the definition \"Ci sono cinque ragazzi e sei ragazze.\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "un nipote",
-            "failed": 1,
-            "lastAsked": 1516821514.2421277,
-            "question": "Given the definition \"a nephew\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "avere sonno",
-            "failed": 3,
-            "lastAsked": 1516821573.4331684,
-            "question": "Given the definition \"to be sleepy\", what is the word?",
-            "tried": 7
-        },
-        {
-            "alternates": [
-                "Mario is hungry"
-            ],
-            "answer": "Mario is hungry.",
-            "failed": 1,
-            "lastAsked": 1516821556.1971602,
-            "question": "Given the definition \"Mario ha fame.\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "Ecco tre famiglie"
-            ],
-            "answer": "Ecco tre famiglie.",
-            "failed": 1,
-            "lastAsked": 1516821611.5812607,
-            "question": "What is the definition of \"Here are three families.\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "cugino",
-            "failed": 1,
-            "lastAsked": 1516821616.7045538,
-            "question": "Given the definition \"male cousin\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "noi abbiamo freddo"
-            ],
-            "answer": "Noi abbiamo freddo.",
-            "failed": 2,
-            "lastAsked": 1516821638.2170072,
-            "question": "What is the definition of \"We are cold.\"?",
             "tried": 6
         },
         {
-            "alternates": [],
-            "answer": "cold",
+            "alternates": [
+                "hot"
+            ],
+            "answer": "heat",
             "failed": 1,
-            "lastAsked": 1516821631.4652343,
-            "question": "What is the definition of \"freddo\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "quattro donne",
-            "failed": 0,
-            "lastAsked": 1516821580.6411765,
-            "question": "four women",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "a student"
-            ],
-            "answer": "a (male) student",
-            "failed": 1,
-            "lastAsked": 1516821634.2568955,
-            "question": "What is the definition of \"uno studente\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "due padri",
-            "failed": 0,
-            "lastAsked": 1516821621.959863,
-            "question": "two fathers",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "Ecco otto bambini"
-            ],
-            "answer": "Ecco otto bambini.",
-            "failed": 0,
-            "lastAsked": 1516821629.4171207,
-            "question": "What is the definition of \"Here are eight children. (boys)\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "avere sete",
-            "failed": 0,
-            "lastAsked": 1516821650.5329,
-            "question": "Given the definition \"to be thirsty\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "you have two sisters and five brothers"
-            ],
-            "answer": "You have two sisters and five brothers.",
-            "failed": 0,
-            "lastAsked": 1516821675.6243205,
-            "question": "Given the definition \"Tu hai due sorelle e cinque fratelli.\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "you are scared"
-            ],
-            "answer": "You (informal) are afraid.",
-            "failed": 0,
-            "lastAsked": 1516821643.144819,
-            "question": "Given the definition \"Tu hai paura.\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "you (formal)O"
-            ],
-            "answer": "you (formal)",
-            "failed": 0,
-            "lastAsked": 1516821682.584314,
-            "question": "What is the definition of \"Lei\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "to be right",
-            "failed": 0,
-            "lastAsked": 1516821654.148789,
-            "question": "What is the definition of \"avere ragione\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "un bambino",
-            "failed": 0,
-            "lastAsked": 1516821661.5250323,
-            "question": "A boy child.",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "noi",
-            "failed": 0,
-            "lastAsked": 1516821663.9329262,
-            "question": "Given the definition \"we\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "they have",
-            "failed": 1,
-            "lastAsked": 1516821689.2965918,
-            "question": "Given the definition \"loro hanno\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "female cousin",
-            "failed": 0,
-            "lastAsked": 1516821694.7170296,
-            "question": "What is the definition of \"cugina\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "to be scared"
-            ],
-            "answer": "to be afraid",
-            "failed": 0,
-            "lastAsked": 1516821707.620628,
-            "question": "What is the definition of \"avere paura\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "freddo",
-            "failed": 0,
-            "lastAsked": 1516821721.8244076,
-            "question": "Given the definition \"cold\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "she is",
-            "failed": 0,
-            "lastAsked": 1516821702.6045034,
-            "question": "What is the definition of \"lei e'\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "we are cold"
-            ],
-            "answer": "We are cold.",
-            "failed": 0,
-            "lastAsked": 1516821699.1489713,
-            "question": "Given the definition \"Noi abbiamo freddo.\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "thirsty"
-            ],
-            "answer": "thirst",
-            "failed": 0,
-            "lastAsked": 1516821719.64039,
-            "question": "What is the definition of \"sete\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "to be hungry",
-            "failed": 0,
-            "lastAsked": 1516821714.6443915,
-            "question": "What is the definition of \"avere fame\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "avere paura",
-            "failed": 0,
-            "lastAsked": 1516821711.5089142,
-            "question": "What is the definition of \"to be afraid\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "to be cold",
-            "failed": 0,
-            "lastAsked": 1516821766.387977,
-            "question": "What is the definition of \"avere freddo\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "uncle",
-            "failed": 0,
-            "lastAsked": 1516821739.7323635,
-            "question": "What is the definition of \"zio\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "There are three sisters and four brothers"
-            ],
-            "answer": "There are three sisters and four brothers.",
-            "failed": 0,
-            "lastAsked": 1516821749.4684346,
-            "question": "Given the definition \"Ci sono tre sorelle e quattro fratelli.\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "avere caldo",
-            "failed": 0,
-            "lastAsked": 1516821763.548091,
-            "question": "Given the definition \"to be hot\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "nonno",
-            "failed": 0,
-            "lastAsked": 1516821724.3043041,
-            "question": "Given the definition \"grandfather\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "C'e"
-            ],
-            "answer": "C'e'",
-            "failed": 0,
-            "lastAsked": 1516821758.9564903,
-            "question": "(C'e' | Ci sono) ___ il padre.",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "a niece",
-            "failed": 0,
-            "lastAsked": 1516821737.3802216,
-            "question": "What is the definition of \"una nipote\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "voi",
-            "failed": 1,
-            "lastAsked": 1516821769.2522473,
-            "question": "Given the definition \"y'all\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "you"
-            ],
-            "answer": "you (informal)",
-            "failed": 0,
-            "lastAsked": 1516821835.8034325,
-            "question": "What is the definition of \"tu\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "Here are ten men and 11 women"
-            ],
-            "answer": "Here are ten men and eleven women.",
-            "failed": 0,
-            "lastAsked": 1516821788.9042082,
-            "question": "Given the definition \"Ecco dieci uomini e undici donne.\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "Here are nine girls"
-            ],
-            "answer": "Here are nine children. (girls)",
-            "failed": 0,
-            "lastAsked": 1516821779.9842272,
-            "question": "Given the definition \"Ecco nove bambine.\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "grandmother",
-            "failed": 0,
-            "lastAsked": 1516821832.9640734,
-            "question": "What is the definition of \"nonna\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "una"
-            ],
-            "answer": "la",
-            "failed": 0,
-            "lastAsked": 1516821816.247818,
-            "question": "(a or the) Lei e' ___ madre.",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "Tu hai due sorelle e cinque fratelli"
-            ],
-            "answer": "Tu hai due sorelle e cinque fratelli.",
-            "failed": 0,
-            "lastAsked": 1516821829.6921732,
-            "question": "What is the definition of \"You have two sisters and five brothers.\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "I have",
-            "failed": 0,
-            "lastAsked": 1516821771.572232,
-            "question": "Given the definition \"io ho\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "lui ha",
-            "failed": 0,
-            "lastAsked": 1516821792.2964795,
-            "question": "What is the definition of \"he has\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "uno studente",
-            "failed": 0,
-            "lastAsked": 1516821839.2133274,
-            "question": "A student.",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "avere fretta",
-            "failed": 0,
-            "lastAsked": 1516821860.615883,
-            "question": "Given the definition \"to be in a hurry\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "Ci sono tre sorelle e quattro fratelli"
-            ],
-            "answer": "Ci sono tre sorelle e quattro fratelli.",
-            "failed": 1,
-            "lastAsked": 1516821904.4237766,
-            "question": "What is the definition of \"There are three sisters and four brothers.\"?",
-            "tried": 5
-        },
-        {
-            "alternates": [],
-            "answer": "non",
-            "failed": 0,
-            "lastAsked": 1516821848.1521645,
-            "question": "What is the definition of \"not\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "Here are eight baby boys"
-            ],
-            "answer": "Here are eight children. (boys)",
-            "failed": 0,
-            "lastAsked": 1516821846.2913947,
-            "question": "Given the definition \"Ecco otto bambini.\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "I have a small family"
-            ],
-            "answer": "I have a small family.",
-            "failed": 0,
-            "lastAsked": 1516821895.1996937,
-            "question": "What is the definition of \"io ho una famiglia piccola.\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "tu",
-            "failed": 0,
-            "lastAsked": 1516821852.6476321,
-            "question": "Given the definition \"you (informal)\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "they",
-            "failed": 0,
-            "lastAsked": 1516821856.4077363,
-            "question": "What is the definition of \"loro\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "y'all are in a hurry"
-            ],
-            "answer": "Y'all are in a hurry.",
-            "failed": 0,
-            "lastAsked": 1516821931.747638,
-            "question": "Given the definition \"Voi avete fretta.\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "she has",
-            "failed": 0,
-            "lastAsked": 1516821925.619755,
-            "question": "Given the definition \"lei ha\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "I",
-            "failed": 0,
-            "lastAsked": 1516821921.143591,
-            "question": "What is the definition of \"io\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "he is",
-            "failed": 0,
-            "lastAsked": 1516821919.6153326,
-            "question": "What is the definition of \"lui e'\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "to be tired"
-            ],
-            "answer": "to be sleepy",
-            "failed": 0,
-            "lastAsked": 1516821909.8394303,
-            "question": "What is the definition of \"avere sonno\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "C'e"
-            ],
-            "answer": "c'e'",
-            "failed": 0,
-            "lastAsked": 1516821936.5632763,
-            "question": "(C'e' | Ci sono) ___ una ragazza.",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "You are thirsty"
-            ],
-            "answer": "You (informal) are thirsty.",
-            "failed": 0,
-            "lastAsked": 1516821915.7279196,
-            "question": "Given the definition \"Tu hai sete.\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "ho paura"
-            ],
-            "answer": "Io ho paura.",
-            "failed": 0,
-            "lastAsked": 1516821940.79542,
-            "question": "What is the definition of \"I am afraid.\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "fretta",
-            "failed": 0,
-            "lastAsked": 1516821973.9751515,
-            "question": "Given the definition \"hurry\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "ho fame"
-            ],
-            "answer": "IO ho fame.",
-            "failed": 0,
-            "lastAsked": 1516821978.711217,
-            "question": "What is the definition of \"I am hungry.\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "Here are 12 people",
-                "Here are twelve people"
-            ],
-            "answer": "Here are twelve people.",
-            "failed": 1,
-            "lastAsked": 1516821998.5471168,
-            "question": "Given the definition \"Ecco dodici persone.\", what is the word?",
-            "tried": 5
-        },
-        {
-            "alternates": [
-                "Mario ha fame"
-            ],
-            "answer": "Mario ha fame.",
-            "failed": 0,
-            "lastAsked": 1516821989.2269268,
-            "question": "What is the definition of \"Mario is hungry.\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "zio",
-            "failed": 0,
-            "lastAsked": 1516821954.5994904,
-            "question": "Given the definition \"uncle\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "I am hungry"
-            ],
-            "answer": "I am hungry.",
-            "failed": 0,
-            "lastAsked": 1516821983.347282,
-            "question": "Given the definition \"IO ho fame.\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "to have",
-            "failed": 0,
-            "lastAsked": 1516821993.0190341,
-            "question": "Given the definition \"avere\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "Ecco dieci uomini e undici donne"
-            ],
-            "answer": "Ecco dieci uomini e undici donne.",
-            "failed": 0,
-            "lastAsked": 1516821969.9435947,
-            "question": "What is the definition of \"Here are ten men and eleven women.\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "There are two students"
-            ],
-            "answer": "There are two students.",
-            "failed": 0,
-            "lastAsked": 1516822042.2914608,
-            "question": "Given the definition \"Ci sono due studenti.\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "Carla ha sete"
-            ],
-            "answer": "Carla ha sete.",
-            "failed": 0,
-            "lastAsked": 1516822018.6630452,
-            "question": "What is the definition of \"Carla is thirsty.\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "he has",
-            "failed": 0,
-            "lastAsked": 1516822022.2307866,
-            "question": "Given the definition \"lui ha\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "non ho paura"
-            ],
-            "answer": "Io non ho paura.",
-            "failed": 0,
-            "lastAsked": 1516822034.8671534,
-            "question": "What is the definition of \"I am not afraid.\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "paura",
-            "failed": 0,
-            "lastAsked": 1516822024.0948076,
-            "question": "Given the definition \"fear\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "un",
-            "failed": 0,
-            "lastAsked": 1516822006.855028,
-            "question": "(a or the) Io ho ___ nonno.",
-            "tried": 4
+            "lastAsked": 1516904571.1372461,
+            "question": "What is the definition of \"caldo\"?",
+            "tried": 6
         },
         {
             "alternates": [],
             "answer": "reason",
             "failed": 1,
-            "lastAsked": 1516822044.2919083,
+            "lastAsked": 1516904633.7552063,
             "question": "What is the definition of \"ragione\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "Lei e'"
+            ],
+            "answer": "lei e'",
+            "failed": 2,
+            "lastAsked": 1516904645.438484,
+            "question": "Given the definition \"she is\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "una sera",
+            "failed": 1,
+            "lastAsked": 1516904682.4894893,
+            "question": "one evening",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "sleepy"
+            ],
+            "answer": "sleep",
+            "failed": 1,
+            "lastAsked": 1516904658.558424,
+            "question": "What is the definition of \"sonno\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "noi non abbiamo paura"
+            ],
+            "answer": "Noi non abbiamo paura.",
+            "failed": 1,
+            "lastAsked": 1516904677.7937822,
+            "question": "What is the definition of \"We are not afraid.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "una nipote",
+            "failed": 1,
+            "lastAsked": 1516904686.1370707,
+            "question": "Given the definition \"a niece\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "you have"
+            ],
+            "answer": "you have (formal)",
+            "failed": 2,
+            "lastAsked": 1516904697.2222133,
+            "question": "Given the definition \"Lei ha\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "Ecco sette famiglie"
+            ],
+            "answer": "Ecco sette famiglie.",
+            "failed": 1,
+            "lastAsked": 1516904672.2268722,
+            "question": "What is the definition of \"Here are seven families.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "ho"
+            ],
+            "answer": "io ho",
+            "failed": 1,
+            "lastAsked": 1516904690.9462628,
+            "question": "What is the definition of \"I have\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "an uncle",
+            "failed": 1,
+            "lastAsked": 1516904694.7498047,
+            "question": "What is the definition of \"uno zio\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "to be cold",
+            "failed": 0,
+            "lastAsked": 1516904727.281418,
+            "question": "What is the definition of \"avere freddo\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "she is",
+            "failed": 0,
+            "lastAsked": 1516904703.5418355,
+            "question": "What is the definition of \"lei e'\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "he",
+            "failed": 0,
+            "lastAsked": 1516904698.7018454,
+            "question": "What is the definition of \"lui\"?",
             "tried": 5
         },
         {
@@ -1373,91 +933,105 @@
             ],
             "answer": "fear",
             "failed": 0,
-            "lastAsked": 1516822010.6309452,
+            "lastAsked": 1516904701.2138042,
             "question": "What is the definition of \"paura\"?",
-            "tried": 4
+            "tried": 5
         },
         {
-            "alternates": [],
-            "answer": "to be hot",
+            "alternates": [
+                "to be scared"
+            ],
+            "answer": "to be afraid",
             "failed": 0,
-            "lastAsked": 1516822050.9068224,
-            "question": "What is the definition of \"avere caldo\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "lei",
-            "failed": 0,
-            "lastAsked": 1516822090.0388918,
-            "question": "Given the definition \"she\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "hunger",
-            "failed": 0,
-            "lastAsked": 1516822101.1267982,
-            "question": "What is the definition of \"fame\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "cinque poliziotti",
-            "failed": 0,
-            "lastAsked": 1516822087.191001,
-            "question": "five policeman",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "Ci sono",
-            "failed": 0,
-            "lastAsked": 1516822047.747327,
-            "question": "(C'e' | Ci sono) ___ il fratello e la sorella.",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "cugina",
-            "failed": 0,
-            "lastAsked": 1516822055.7549837,
-            "question": "Given the definition \"female cousin\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "sleep",
-            "failed": 1,
-            "lastAsked": 1516822105.3940222,
-            "question": "What is the definition of \"sonno\"?",
+            "lastAsked": 1516904718.4014933,
+            "question": "What is the definition of \"avere paura\"?",
             "tried": 5
         },
         {
             "alternates": [],
-            "answer": "fame",
-            "failed": 0,
-            "lastAsked": 1516822091.7585702,
-            "question": "Given the definition \"hunger\", what is the word?",
-            "tried": 4
+            "answer": "to be thirsty",
+            "failed": 1,
+            "lastAsked": 1516904734.0687273,
+            "question": "What is the definition of \"avere sete\"?",
+            "tried": 6
         },
         {
             "alternates": [
-                "Ecco dodici persone"
+                "C'e"
             ],
-            "answer": "Ecco dodici persone.",
+            "answer": "c'e'",
             "failed": 0,
-            "lastAsked": 1516822112.8586802,
-            "question": "What is the definition of \"Here are twelve people.\"?",
-            "tried": 4
+            "lastAsked": 1516904723.1056755,
+            "question": "(C'e' | Ci sono) ___ una ragazza.",
+            "tried": 5
         },
         {
             "alternates": [],
-            "answer": "y'all",
+            "answer": "lui ha",
             "failed": 0,
-            "lastAsked": 1516822131.9106212,
-            "question": "What is the definition of \"voi\"?",
-            "tried": 4
+            "lastAsked": 1516904729.7850454,
+            "question": "What is the definition of \"he has\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "I am not afraid"
+            ],
+            "answer": "I am not afraid.",
+            "failed": 0,
+            "lastAsked": 1516904745.2612822,
+            "question": "Given the definition \"Io non ho paura.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "ho fame"
+            ],
+            "answer": "IO ho fame.",
+            "failed": 0,
+            "lastAsked": 1516904737.0212283,
+            "question": "What is the definition of \"I am hungry.\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "he has",
+            "failed": 0,
+            "lastAsked": 1516904754.1888478,
+            "question": "Given the definition \"lui ha\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "io",
+            "failed": 0,
+            "lastAsked": 1516904758.2326617,
+            "question": "Given the definition \"I\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "grandmother",
+            "failed": 0,
+            "lastAsked": 1516904752.0524657,
+            "question": "What is the definition of \"nonna\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "aunt",
+            "failed": 0,
+            "lastAsked": 1516904756.5166187,
+            "question": "What is the definition of \"zia\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "avere paura",
+            "failed": 0,
+            "lastAsked": 1516904741.6766667,
+            "question": "What is the definition of \"to be afraid\"?",
+            "tried": 5
         },
         {
             "alternates": [
@@ -1465,33 +1039,17 @@
             ],
             "answer": "due ragazzi",
             "failed": 0,
-            "lastAsked": 1516822139.1587987,
+            "lastAsked": 1516904748.7809172,
             "question": "two boys",
-            "tried": 4
+            "tried": 5
         },
         {
             "alternates": [],
-            "answer": "to be thirsty",
+            "answer": "fame",
             "failed": 0,
-            "lastAsked": 1516822143.1505196,
-            "question": "What is the definition of \"avere sete\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "Ci sono",
-            "failed": 0,
-            "lastAsked": 1516822128.7782483,
-            "question": "(C'e' | Ci sono) ___ la madre e il padre.",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "un",
-            "failed": 0,
-            "lastAsked": 1516822117.4587996,
-            "question": "(a or the) Io ho ___ fratello.",
-            "tried": 4
+            "lastAsked": 1516904801.2362518,
+            "question": "Given the definition \"hunger\", what is the word?",
+            "tried": 5
         },
         {
             "alternates": [
@@ -1499,112 +1057,398 @@
             ],
             "answer": "He is cold.",
             "failed": 0,
-            "lastAsked": 1516822125.674456,
+            "lastAsked": 1516904797.4683762,
             "question": "Given the definition \"Lui ha freddo.\", what is the word?",
-            "tried": 4
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "c'e uno studente",
+                "C'e uno studente"
+            ],
+            "answer": "C'e' uno studente.",
+            "failed": 0,
+            "lastAsked": 1516904794.244595,
+            "question": "What is the definition of \"There is one student.\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "Mario ha fame"
+            ],
+            "answer": "Mario ha fame.",
+            "failed": 0,
+            "lastAsked": 1516904763.60043,
+            "question": "What is the definition of \"Mario is hungry.\"?",
+            "tried": 5
         },
         {
             "alternates": [],
-            "answer": "male cousin",
+            "answer": "I",
             "failed": 0,
-            "lastAsked": 1516822120.7063186,
-            "question": "What is the definition of \"cugino\"?",
-            "tried": 4
+            "lastAsked": 1516904799.3874795,
+            "question": "What is the definition of \"io\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "non",
+            "failed": 0,
+            "lastAsked": 1516904808.0355697,
+            "question": "What is the definition of \"not\"?",
+            "tried": 5
         },
         {
             "alternates": [
-                "he is tired"
+                "to be correct"
             ],
-            "answer": "He is sleepy.",
+            "answer": "to be right",
             "failed": 0,
-            "lastAsked": 1516822156.6979651,
-            "question": "Given the definition \"Lui ha sonno.\", what is the word?",
-            "tried": 4
+            "lastAsked": 1516904806.2206273,
+            "question": "What is the definition of \"avere ragione\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "avere caldo",
+            "failed": 0,
+            "lastAsked": 1516904785.5001466,
+            "question": "Given the definition \"to be hot\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "due studenti",
+            "failed": 0,
+            "lastAsked": 1516904850.6903226,
+            "question": "Two students.",
+            "tried": 5
         },
         {
             "alternates": [
+                "they are tired"
+            ],
+            "answer": "They are sleepy.",
+            "failed": 0,
+            "lastAsked": 1516904811.303423,
+            "question": "Given the definition \"Loro hanno sonno.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "Ecco otto bambini"
+            ],
+            "answer": "Ecco otto bambini.",
+            "failed": 0,
+            "lastAsked": 1516904835.4315345,
+            "question": "What is the definition of \"Here are eight children. (boys)\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "paura",
+            "failed": 0,
+            "lastAsked": 1516904813.687644,
+            "question": "Given the definition \"fear\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "nonna",
+            "failed": 0,
+            "lastAsked": 1516904838.5790393,
+            "question": "Given the definition \"grandmother\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "una"
+            ],
+            "answer": "la",
+            "failed": 0,
+            "lastAsked": 1516904847.7473798,
+            "question": "(a or the) Lei e' ___ madre.",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "we have",
+            "failed": 0,
+            "lastAsked": 1516904842.6508467,
+            "question": "Given the definition \"noi abbiamo\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "tu hai due sorelle e cinque fratelli",
+                "Tu hai due sorelle e cinque fratelli"
+            ],
+            "answer": "Tu hai due sorelle e cinque fratelli.",
+            "failed": 0,
+            "lastAsked": 1516904826.2076583,
+            "question": "What is the definition of \"You have two sisters and five brothers.\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "Carla ha sete"
+            ],
+            "answer": "Carla ha sete.",
+            "failed": 1,
+            "lastAsked": 1516904908.8499582,
+            "question": "What is the definition of \"Carla is thirsty.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "Y'all are in a hurry",
                 "y'all are in a hurry"
             ],
             "answer": "Y'all are in a hurry.",
             "failed": 0,
-            "lastAsked": 1516822171.457676,
+            "lastAsked": 1516904905.3699987,
             "question": "Given the definition \"Voi avete fretta.\", what is the word?",
-            "tried": 4
+            "tried": 5
         },
         {
             "alternates": [
-                "we are not afraid"
+                "Ecco dodici persone"
             ],
-            "answer": "We are not afraid.",
+            "answer": "Ecco dodici persone.",
             "failed": 0,
-            "lastAsked": 1516822163.2179337,
-            "question": "Given the definition \"Noi non abbiamo paura.\", what is the word?",
-            "tried": 4
+            "lastAsked": 1516904866.1190786,
+            "question": "What is the definition of \"Here are twelve people.\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "un bambino",
+            "failed": 0,
+            "lastAsked": 1516904855.6026337,
+            "question": "A boy child.",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "There are three sisters and four brothers"
+            ],
+            "answer": "There are three sisters and four brothers.",
+            "failed": 0,
+            "lastAsked": 1516904878.8868814,
+            "question": "Given the definition \"Ci sono tre sorelle e quattro fratelli.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "to be tired"
+            ],
+            "answer": "to be sleepy",
+            "failed": 0,
+            "lastAsked": 1516904860.4743726,
+            "question": "What is the definition of \"avere sonno\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "There are two students"
+            ],
+            "answer": "There are two students.",
+            "failed": 0,
+            "lastAsked": 1516904883.3024008,
+            "question": "Given the definition \"Ci sono due studenti.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "uno studente",
+            "failed": 0,
+            "lastAsked": 1516904897.1062331,
+            "question": "A student.",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "to have",
+            "failed": 0,
+            "lastAsked": 1516904918.2538664,
+            "question": "Given the definition \"avere\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "zio",
+            "failed": 0,
+            "lastAsked": 1516904910.9211383,
+            "question": "Given the definition \"uncle\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "You have two sisters and five brothers",
+                "you have two sisters and five brothers"
+            ],
+            "answer": "You have two sisters and five brothers.",
+            "failed": 0,
+            "lastAsked": 1516904932.5497835,
+            "question": "Given the definition \"Tu hai due sorelle e cinque fratelli.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "grandfather",
+            "failed": 0,
+            "lastAsked": 1516904939.3768196,
+            "question": "What is the definition of \"nonno\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "fretta",
+            "failed": 0,
+            "lastAsked": 1516904934.6251786,
+            "question": "Given the definition \"hurry\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "non ho paura"
+            ],
+            "answer": "Io non ho paura.",
+            "failed": 0,
+            "lastAsked": 1516904916.1090243,
+            "question": "What is the definition of \"I am not afraid.\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "a nephew",
+            "failed": 0,
+            "lastAsked": 1516904921.6138995,
+            "question": "What is the definition of \"un nipote\"?",
+            "tried": 5
         },
         {
             "alternates": [],
             "answer": "caldo",
             "failed": 0,
-            "lastAsked": 1516822165.8500593,
+            "lastAsked": 1516904924.1174796,
             "question": "Given the definition \"heat\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "he",
-            "failed": 0,
-            "lastAsked": 1516822144.5819306,
-            "question": "What is the definition of \"lui\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "she",
-            "failed": 0,
-            "lastAsked": 1516822158.378146,
-            "question": "What is the definition of \"lei\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "to be in a hurry",
-            "failed": 1,
-            "lastAsked": 1516822184.7347538,
-            "question": "What is the definition of \"avere fretta\"?",
             "tried": 5
         },
         {
             "alternates": [],
-            "answer": "an uncle",
-            "failed": 1,
-            "lastAsked": 1516822187.7822495,
-            "question": "What is the definition of \"uno zio\"?",
+            "answer": "Ci sono",
+            "failed": 0,
+            "lastAsked": 1516904944.101254,
+            "question": "(C'e' | Ci sono) ___ il fratello e la sorella.",
             "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "nonno",
+            "failed": 0,
+            "lastAsked": 1516904977.4652858,
+            "question": "Given the definition \"grandfather\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "thirsty"
+            ],
+            "answer": "thirst",
+            "failed": 0,
+            "lastAsked": 1516904951.5094795,
+            "question": "What is the definition of \"sete\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "quattro donne",
+            "failed": 1,
+            "lastAsked": 1516904986.9122539,
+            "question": "four women",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "uncle",
+            "failed": 0,
+            "lastAsked": 1516904983.000594,
+            "question": "What is the definition of \"zio\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "I have",
+            "failed": 0,
+            "lastAsked": 1516904980.408921,
+            "question": "Given the definition \"io ho\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "you",
+                "you (formal)O"
+            ],
+            "answer": "you (formal)",
+            "failed": 1,
+            "lastAsked": 1516904989.640844,
+            "question": "What is the definition of \"Lei\"?",
+            "tried": 6
         },
         {
             "alternates": [],
             "answer": "to be afraid",
             "failed": 0,
-            "lastAsked": 1516822194.2223394,
+            "lastAsked": 1516904961.957393,
             "question": "Given the definition \"avere paura\", what is the word?",
-            "tried": 4
+            "tried": 5
         },
         {
             "alternates": [
-                "C'e uno studente"
+                "C'e"
             ],
-            "answer": "C'e' uno studente.",
+            "answer": "C'e'",
             "failed": 0,
-            "lastAsked": 1516822201.958,
-            "question": "What is the definition of \"There is one student.\"?",
-            "tried": 4
+            "lastAsked": 1516904993.0892553,
+            "question": "(C'e' | Ci sono) ___ il padre.",
+            "tried": 5
         },
         {
             "alternates": [],
-            "answer": "you have (formal)",
-            "failed": 1,
-            "lastAsked": 1516822238.2300596,
-            "question": "Given the definition \"Lei ha\", what is the word?",
+            "answer": "due padri",
+            "failed": 0,
+            "lastAsked": 1516905042.1514235,
+            "question": "two fathers",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "C'e"
+            ],
+            "answer": "C'e'",
+            "failed": 0,
+            "lastAsked": 1516905038.7519662,
+            "question": "(C'e' | Ci sono) ___ la famiglia.",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "hunger",
+            "failed": 0,
+            "lastAsked": 1516905009.2566605,
+            "question": "What is the definition of \"fame\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "here are 9 girl children",
+                "Here are nine girls"
+            ],
+            "answer": "Here are nine children. (girls)",
+            "failed": 0,
+            "lastAsked": 1516905020.8127422,
+            "question": "Given the definition \"Ecco nove bambine.\", what is the word?",
             "tried": 5
         },
         {
@@ -1613,17 +1457,171 @@
             ],
             "answer": "Here are three families.",
             "failed": 0,
-            "lastAsked": 1516822210.9379158,
+            "lastAsked": 1516905035.1324792,
             "question": "Given the definition \"Ecco tre famiglie.\", what is the word?",
-            "tried": 4
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "here are eight baby boys",
+                "Here are eight baby boys"
+            ],
+            "answer": "Here are eight children. (boys)",
+            "failed": 0,
+            "lastAsked": 1516905031.1643267,
+            "question": "Given the definition \"Ecco otto bambini.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "We are cold",
+                "we are cold"
+            ],
+            "answer": "We are cold.",
+            "failed": 0,
+            "lastAsked": 1516905047.4563897,
+            "question": "Given the definition \"Noi abbiamo freddo.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "you are thirsty",
+                "You are thirsty"
+            ],
+            "answer": "You (informal) are thirsty.",
+            "failed": 0,
+            "lastAsked": 1516905053.9596252,
+            "question": "Given the definition \"Tu hai sete.\", what is the word?",
+            "tried": 5
         },
         {
             "alternates": [],
-            "answer": "grandfather",
+            "answer": "lui",
             "failed": 0,
-            "lastAsked": 1516822191.3662014,
-            "question": "What is the definition of \"nonno\"?",
-            "tried": 4
+            "lastAsked": 1516905063.2599819,
+            "question": "Given the definition \"he\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "to be hungry",
+            "failed": 0,
+            "lastAsked": 1516905061.404062,
+            "question": "What is the definition of \"avere fame\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "noi",
+            "failed": 0,
+            "lastAsked": 1516905064.9321468,
+            "question": "Given the definition \"we\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "he is",
+            "failed": 0,
+            "lastAsked": 1516905056.920105,
+            "question": "What is the definition of \"lui e'\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "lei",
+            "failed": 0,
+            "lastAsked": 1516905076.6198645,
+            "question": "Given the definition \"she\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "We are not afraid",
+                "we are not afraid"
+            ],
+            "answer": "We are not afraid.",
+            "failed": 0,
+            "lastAsked": 1516905074.7956347,
+            "question": "Given the definition \"Noi non abbiamo paura.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "tu",
+            "failed": 0,
+            "lastAsked": 1516905066.4272954,
+            "question": "Given the definition \"you (informal)\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "I am hungry"
+            ],
+            "answer": "I am hungry.",
+            "failed": 0,
+            "lastAsked": 1516905086.7394793,
+            "question": "Given the definition \"IO ho fame.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "He is sleepy",
+                "he is tired"
+            ],
+            "answer": "He is sleepy.",
+            "failed": 0,
+            "lastAsked": 1516905083.6319382,
+            "question": "Given the definition \"Lui ha sonno.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "I am afraid",
+                "I am afriad"
+            ],
+            "answer": "I am afraid.",
+            "failed": 0,
+            "lastAsked": 1516905100.8546095,
+            "question": "Given the definition \"Io ho paura.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "un",
+            "failed": 0,
+            "lastAsked": 1516905093.7990298,
+            "question": "(a or the) Io ho ___ fratello.",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "io ho paura",
+                "ho paura"
+            ],
+            "answer": "Io ho paura.",
+            "failed": 0,
+            "lastAsked": 1516905115.311012,
+            "question": "What is the definition of \"I am afraid.\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "you are afraid",
+                "you are scared"
+            ],
+            "answer": "You (informal) are afraid.",
+            "failed": 1,
+            "lastAsked": 1516905125.0755427,
+            "question": "Given the definition \"Tu hai paura.\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "avere fretta",
+            "failed": 0,
+            "lastAsked": 1516905121.2115462,
+            "question": "Given the definition \"to be in a hurry\", what is the word?",
+            "tried": 5
         },
         {
             "alternates": [
@@ -1631,157 +1629,205 @@
             ],
             "answer": "Carla is thirsty.",
             "failed": 0,
-            "lastAsked": 1516822216.7535603,
+            "lastAsked": 1516905089.9360957,
             "question": "Given the definition \"Carla ha sete.\", what is the word?",
-            "tried": 4
+            "tried": 5
         },
         {
             "alternates": [],
-            "answer": "nonna",
+            "answer": "female cousin",
             "failed": 0,
-            "lastAsked": 1516822218.8099976,
-            "question": "Given the definition \"grandmother\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "uno studente",
-            "failed": 0,
-            "lastAsked": 1516822205.0298405,
-            "question": "Given the definition \"a (male) student\", what is the word?",
-            "tried": 4
+            "lastAsked": 1516905164.3188639,
+            "question": "What is the definition of \"cugina\"?",
+            "tried": 5
         },
         {
             "alternates": [
-                "I am afriad"
+                "I have a small family"
             ],
-            "answer": "I am afraid.",
+            "answer": "I have a small family.",
             "failed": 0,
-            "lastAsked": 1516822252.9977052,
-            "question": "Given the definition \"Io ho paura.\", what is the word?",
-            "tried": 4
+            "lastAsked": 1516905144.4235506,
+            "question": "What is the definition of \"io ho una famiglia piccola.\"?",
+            "tried": 5
         },
         {
             "alternates": [],
             "answer": "due sorelle",
             "failed": 0,
-            "lastAsked": 1516822273.089318,
+            "lastAsked": 1516905140.0828876,
             "question": "two sisters",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "a nephew",
-            "failed": 0,
-            "lastAsked": 1516822244.5180256,
-            "question": "What is the definition of \"un nipote\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "lui",
-            "failed": 0,
-            "lastAsked": 1516822254.7099636,
-            "question": "Given the definition \"he\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "I am not afraid"
-            ],
-            "answer": "I am not afraid.",
-            "failed": 0,
-            "lastAsked": 1516822269.7937303,
-            "question": "Given the definition \"Io non ho paura.\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "we have",
-            "failed": 0,
-            "lastAsked": 1516822247.8617897,
-            "question": "Given the definition \"noi abbiamo\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "I need a coffee"
-            ],
-            "answer": "I need a coffee.",
-            "failed": 1,
-            "lastAsked": 1516822296.2452426,
-            "question": "What is the definition of \"Ho bisogno di un caffe'\"?",
             "tried": 5
         },
         {
             "alternates": [
-                "They are in a hurry too"
+                "ecco dieci uomini e undici donne",
+                "Ecco dieci uomini e undici donne"
             ],
-            "answer": "They are in a hurry, too.",
-            "failed": 1,
-            "lastAsked": 1516822290.3895116,
-            "question": "Given the definition \"Anche loro hanno fretta.\", what is the word?",
+            "answer": "Ecco dieci uomini e undici donne.",
+            "failed": 0,
+            "lastAsked": 1516905137.110912,
+            "question": "What is the definition of \"Here are ten men and eleven women.\"?",
             "tried": 5
         },
         {
             "alternates": [],
-            "answer": "due studenti",
+            "answer": "male cousin",
             "failed": 0,
-            "lastAsked": 1516822299.8695931,
-            "question": "Two students.",
-            "tried": 4
+            "lastAsked": 1516905167.6306295,
+            "question": "What is the definition of \"cugino\"?",
+            "tried": 5
         },
         {
             "alternates": [],
-            "answer": "aunt",
+            "answer": "uno studente",
             "failed": 0,
-            "lastAsked": 1516822324.097402,
-            "question": "What is the definition of \"zia\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "una",
-            "failed": 0,
-            "lastAsked": 1516822321.0572727,
-            "question": "(a or the) Lei ha ___ sorella.",
-            "tried": 4
+            "lastAsked": 1516905158.7907777,
+            "question": "Given the definition \"a (male) student\", what is the word?",
+            "tried": 5
         },
         {
             "alternates": [
-                "they are tired"
+                "here are 10 men and 11 women",
+                "Here are ten men and 11 women"
             ],
-            "answer": "They are sleepy.",
+            "answer": "Here are ten men and eleven women.",
             "failed": 0,
-            "lastAsked": 1516822307.541035,
-            "question": "Given the definition \"Loro hanno sonno.\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "io",
-            "failed": 0,
-            "lastAsked": 1516822302.877197,
-            "question": "Given the definition \"I\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [
-                "C'e"
-            ],
-            "answer": "C'e'",
-            "failed": 0,
-            "lastAsked": 1516822318.0493684,
-            "question": "(C'e' | Ci sono) ___ la famiglia.",
-            "tried": 4
+            "lastAsked": 1516905155.566003,
+            "question": "Given the definition \"Ecco dieci uomini e undici donne.\", what is the word?",
+            "tried": 5
         },
         {
             "alternates": [],
             "answer": "tre fratelli",
             "failed": 0,
-            "lastAsked": 1516822312.121358,
+            "lastAsked": 1516905171.6028085,
             "question": "three brothers",
-            "tried": 4
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "un",
+            "failed": 0,
+            "lastAsked": 1516905176.6195433,
+            "question": "(a or the) Io ho ___ nonno.",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "una",
+            "failed": 0,
+            "lastAsked": 1516905225.1541975,
+            "question": "(a or the) Lei ha ___ sorella.",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "a niece",
+            "failed": 0,
+            "lastAsked": 1516905194.0188754,
+            "question": "What is the definition of \"una nipote\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "Ci sono",
+            "failed": 0,
+            "lastAsked": 1516905186.3225968,
+            "question": "(C'e' | Ci sono) ___ la madre e il padre.",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "cinque poliziotti",
+            "failed": 1,
+            "lastAsked": 1516905233.6063337,
+            "question": "five policeman",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "cugina",
+            "failed": 0,
+            "lastAsked": 1516905211.5822122,
+            "question": "Given the definition \"female cousin\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "freddo",
+            "failed": 0,
+            "lastAsked": 1516905188.8429635,
+            "question": "Given the definition \"cold\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "y'all are in a hurry"
+            ],
+            "answer": "Y'all are in a hurry.",
+            "failed": 0,
+            "lastAsked": 1516905183.2185607,
+            "question": "Given the definition \"Voi avete fretta.\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "they",
+            "failed": 0,
+            "lastAsked": 1516905238.9015613,
+            "question": "What is the definition of \"loro\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "to be hot",
+            "failed": 0,
+            "lastAsked": 1516905237.1012106,
+            "question": "What is the definition of \"avere caldo\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "you"
+            ],
+            "answer": "you (informal)",
+            "failed": 0,
+            "lastAsked": 1516905249.7495525,
+            "question": "What is the definition of \"tu\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "y'all",
+            "failed": 0,
+            "lastAsked": 1516905252.5653772,
+            "question": "What is the definition of \"voi\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "she",
+            "failed": 0,
+            "lastAsked": 1516905247.9261985,
+            "question": "What is the definition of \"lei\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "avere sete",
+            "failed": 0,
+            "lastAsked": 1516905242.173691,
+            "question": "Given the definition \"to be thirsty\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "she has",
+            "failed": 0,
+            "lastAsked": 1516905245.4292586,
+            "question": "Given the definition \"lei ha\", what is the word?",
+            "tried": 5
         }
     ]
 }

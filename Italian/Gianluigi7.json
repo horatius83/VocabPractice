@@ -3,406 +3,6 @@
     "vocab": [
         {
             "alternates": [],
-            "answer": "to write",
-            "failed": 0,
-            "lastAsked": 1489427364.195196,
-            "question": "What is the definition of \"scrivere\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "sentire",
-            "failed": 1,
-            "lastAsked": 1489427419.8823094,
-            "question": "Given the definition \"to hear\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "to get nervous",
-            "failed": 1,
-            "lastAsked": 1489427429.8387582,
-            "question": "What is the definition of \"innervosire(isc)\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "masticare",
-            "failed": 1,
-            "lastAsked": 1489427424.7823315,
-            "question": "Given the definition \"to chew\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "sly"
-            ],
-            "answer": "cunning, clever",
-            "failed": 0,
-            "lastAsked": 1489427360.6430798,
-            "question": "What is the definition of \"furbo\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "to prepare"
-            ],
-            "answer": "to get ready",
-            "failed": 1,
-            "lastAsked": 1489427422.4517925,
-            "question": "What is the definition of \"prepararsi\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "chiudere",
-            "failed": 1,
-            "lastAsked": 1489427427.014917,
-            "question": "Given the definition \"to close\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "secondo",
-            "failed": 1,
-            "lastAsked": 1489427431.93435,
-            "question": "Given the definition \"according to\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "cadere",
-            "failed": 1,
-            "lastAsked": 1489427490.9975631,
-            "question": "Given the definition \"to fall\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "innervosire"
-            ],
-            "answer": "innervosire(isc)",
-            "failed": 1,
-            "lastAsked": 1489427495.3097196,
-            "question": "Given the definition \"to get nervous\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "riuscire",
-            "failed": 1,
-            "lastAsked": 1489427529.5970237,
-            "question": "Given the definition \"to succeed\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "to swim",
-            "failed": 0,
-            "lastAsked": 1489427461.2662244,
-            "question": "What is the definition of \"nuotare\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to leave, to let go",
-            "failed": 3,
-            "lastAsked": 1489427555.949387,
-            "question": "What is the definition of \"lasciare\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "to hold",
-            "failed": 2,
-            "lastAsked": 1489427537.5810163,
-            "question": "What is the definition of \"tenere\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [
-                "berretto"
-            ],
-            "answer": "il berretto",
-            "failed": 3,
-            "lastAsked": 1489427550.9173007,
-            "question": "Given the definition \"cap\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "relative",
-            "failed": 1,
-            "lastAsked": 1489427507.5302403,
-            "question": "What is the definition of \"il/la parente\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "some",
-            "failed": 1,
-            "lastAsked": 1489427614.4806063,
-            "question": "What is the definition of \"alcuno\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "aprire",
-            "failed": 0,
-            "lastAsked": 1489427605.2456734,
-            "question": "Given the definition \"to open\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "cap",
-            "failed": 0,
-            "lastAsked": 1489427575.6567652,
-            "question": "What is the definition of \"il berretto\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to open",
-            "failed": 0,
-            "lastAsked": 1489427566.0568612,
-            "question": "What is the definition of \"aprire\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "guardare",
-            "failed": 0,
-            "lastAsked": 1489427569.576958,
-            "question": "Given the definition \"to watch, to look at\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to love",
-            "failed": 0,
-            "lastAsked": 1489427572.5526514,
-            "question": "What is the definition of \"amare\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "borsa"
-            ],
-            "answer": "la borsa",
-            "failed": 0,
-            "lastAsked": 1489427561.9691403,
-            "question": "Given the definition \"bag, pocketbook\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "il/la parente",
-            "failed": 1,
-            "lastAsked": 1489427612.4002042,
-            "question": "Given the definition \"relative\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "le bevande",
-            "failed": 1,
-            "lastAsked": 1489427673.9755275,
-            "question": "Given the definition \"beverages\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "muovere",
-            "failed": 3,
-            "lastAsked": 1489427712.3826559,
-            "question": "Given the definition \"to move\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "arm",
-            "failed": 2,
-            "lastAsked": 1489427703.8589003,
-            "question": "What is the definition of \"il braccio\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "waves",
-            "failed": 2,
-            "lastAsked": 1489427701.9072905,
-            "question": "What is the definition of \"le onde\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "il mare",
-            "failed": 1,
-            "lastAsked": 1489427676.5518925,
-            "question": "Given the definition \"sea, sea-side\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "bag"
-            ],
-            "answer": "bag, pocketbook",
-            "failed": 0,
-            "lastAsked": 1489427627.240144,
-            "question": "What is the definition of \"la borsa\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "alcuno",
-            "failed": 0,
-            "lastAsked": 1489427632.3876123,
-            "question": "Given the definition \"some\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "immediately"
-            ],
-            "answer": "immediately, quickly",
-            "failed": 2,
-            "lastAsked": 1489427709.6667268,
-            "question": "What is the definition of \"subito\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "insieme",
-            "failed": 1,
-            "lastAsked": 1489427763.2105925,
-            "question": "Given the definition \"together\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "to move",
-            "failed": 0,
-            "lastAsked": 1489427736.255203,
-            "question": "What is the definition of \"muovere\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "scrivere",
-            "failed": 0,
-            "lastAsked": 1489427715.318943,
-            "question": "Given the definition \"to write\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to close",
-            "failed": 2,
-            "lastAsked": 1489427782.0061016,
-            "question": "What is the definition of \"chiudere\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "to greet",
-            "failed": 1,
-            "lastAsked": 1489427760.106474,
-            "question": "What is the definition of \"salutare\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "tenere",
-            "failed": 1,
-            "lastAsked": 1489427757.6742902,
-            "question": "Given the definition \"to hold\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "salutare",
-            "failed": 1,
-            "lastAsked": 1489427755.0586176,
-            "question": "Given the definition \"to greet\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "affamato",
-            "failed": 2,
-            "lastAsked": 1489427786.0546594,
-            "question": "Given the definition \"hungry\", what is the word?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "scream, shriek",
-            "failed": 3,
-            "lastAsked": 1489427903.6288905,
-            "question": "What is the definition of \"lo strillo\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "to hug",
-            "failed": 1,
-            "lastAsked": 1489427879.2615068,
-            "question": "What is the definition of \"abbracciare\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "to succeed",
-            "failed": 0,
-            "lastAsked": 1489427789.7418897,
-            "question": "What is the definition of \"riuscire\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "to resemble"
-            ],
-            "answer": "to seem, appear",
-            "failed": 2,
-            "lastAsked": 1489427897.3688672,
-            "question": "What is the definition of \"sembrare\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "at the same time",
-            "failed": 1,
-            "lastAsked": 1489427869.5536413,
-            "question": "What is the definition of \"contemporaneamente\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "ears",
-            "failed": 1,
-            "lastAsked": 1489427866.5461473,
-            "question": "What is the definition of \"le orecchie\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "to chew",
-            "failed": 0,
-            "lastAsked": 1489427800.0337715,
-            "question": "What is the definition of \"masticare\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to fall",
-            "failed": 2,
-            "lastAsked": 1489427886.2887378,
-            "question": "What is the definition of \"cadere\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
             "answer": "il prosciutto",
             "failed": 2,
             "lastAsked": 1489427969.4676352,
@@ -410,35 +10,17 @@
             "tried": 2
         },
         {
-            "alternates": [],
-            "answer": "contemporaneamente",
-            "failed": 1,
-            "lastAsked": 1489427958.3601587,
-            "question": "Given the definition \"at the same time\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to hear",
-            "failed": 1,
-            "lastAsked": 1489427943.32448,
-            "question": "What is the definition of \"sentire\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "very different",
-            "failed": 1,
-            "lastAsked": 1489427921.8563614,
-            "question": "What is the definition of \"del tutto diverso\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "hungry",
+            "answer": "abbracciare",
             "failed": 0,
-            "lastAsked": 1489427912.5328138,
-            "question": "What is the definition of \"affamato\"?",
+            "question": "Given the definition \"to hug\", what is the word?",
+            "tried": 0
+        },
+        {
+            "alternates": [],
+            "answer": "scary, fearful",
+            "failed": 1,
+            "lastAsked": 1517253685.8522284,
+            "question": "What is the definition of \"pauroso\"?",
             "tried": 1
         },
         {
@@ -450,69 +32,15 @@
             "tried": 1
         },
         {
-            "alternates": [
-                "here"
-            ],
-            "answer": "here, there",
+            "answer": "beverages",
             "failed": 0,
-            "lastAsked": 1489427925.6965437,
-            "question": "What is the definition of \"ecco\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to be afraid",
-            "failed": 0,
-            "lastAsked": 1489427929.8484359,
-            "question": "What is the definition of \"avere paura\"?",
-            "tried": 1
-        },
-        {
-            "answer": "ascoltare",
-            "failed": 0,
-            "question": "Given the definition \"to listen to\", what is the word?",
+            "question": "What is the definition of \"le bevande\"?",
             "tried": 0
         },
         {
-            "answer": "to promise",
+            "answer": "to listen to",
             "failed": 0,
-            "question": "What is the definition of \"prommetere\"?",
-            "tried": 0
-        },
-        {
-            "answer": "teeth",
-            "failed": 0,
-            "question": "What is the definition of \"i denti\"?",
-            "tried": 0
-        },
-        {
-            "answer": "sea, sea-side",
-            "failed": 0,
-            "question": "What is the definition of \"il mare\"?",
-            "tried": 0
-        },
-        {
-            "answer": "nuotare",
-            "failed": 0,
-            "question": "Given the definition \"to swim\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "da lontano",
-            "failed": 0,
-            "question": "Given the definition \"from afar\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "il braccio",
-            "failed": 0,
-            "question": "Given the definition \"arm\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "lo strillo",
-            "failed": 0,
-            "question": "Given the definition \"scream, shriek\", what is the word?",
+            "question": "What is the definition of \"ascoltare\"?",
             "tried": 0
         },
         {
@@ -522,9 +50,201 @@
             "tried": 0
         },
         {
+            "alternates": [],
+            "answer": "le onde",
+            "failed": 1,
+            "lastAsked": 1517253692.4002535,
+            "question": "Given the definition \"waves\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "sea, sea-side",
+            "failed": 0,
+            "question": "What is the definition of \"il mare\"?",
+            "tried": 0
+        },
+        {
+            "alternates": [],
+            "answer": "very different",
+            "failed": 1,
+            "lastAsked": 1489427921.8563614,
+            "question": "What is the definition of \"del tutto diverso\"?",
+            "tried": 1
+        },
+        {
+            "answer": "lo strillo",
+            "failed": 0,
+            "question": "Given the definition \"scream, shriek\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "lasciare",
+            "failed": 0,
+            "question": "Given the definition \"to leave, to let go\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "la gamba",
+            "failed": 0,
+            "question": "Given the definition \"leg\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "la crema per l'abbronzatura",
+            "failed": 0,
+            "question": "Given the definition \"tanning lotion\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "pauroso",
+            "failed": 0,
+            "question": "Given the definition \"scary, fearful\", what is the word?",
+            "tried": 0
+        },
+        {
+            "alternates": [],
+            "answer": "contemporaneamente",
+            "failed": 1,
+            "lastAsked": 1489427958.3601587,
+            "question": "Given the definition \"at the same time\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "to walk",
+            "failed": 0,
+            "question": "What is the definition of \"camminare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "together",
+            "failed": 0,
+            "question": "What is the definition of \"insieme\"?",
+            "tried": 0
+        },
+        {
+            "answer": "prommetere",
+            "failed": 0,
+            "question": "Given the definition \"to promise\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "nuotare",
+            "failed": 0,
+            "question": "Given the definition \"to swim\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to see",
+            "failed": 0,
+            "question": "What is the definition of \"vedere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "prepararsi",
+            "failed": 0,
+            "question": "Given the definition \"to get ready\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "da lontano",
+            "failed": 0,
+            "question": "Given the definition \"from afar\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "ham",
+            "failed": 0,
+            "question": "What is the definition of \"il prosciutto\"?",
+            "tried": 0
+        },
+        {
+            "answer": "vedere",
+            "failed": 0,
+            "question": "Given the definition \"to see\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "to promise",
+            "failed": 0,
+            "question": "What is the definition of \"prommetere\"?",
+            "tried": 0
+        },
+        {
+            "answer": "i denti",
+            "failed": 0,
+            "question": "Given the definition \"teeth\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "ascoltare",
+            "failed": 0,
+            "question": "Given the definition \"to listen to\", what is the word?",
+            "tried": 0
+        },
+        {
             "answer": "furbo",
             "failed": 0,
             "question": "Given the definition \"cunning, clever\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "sunglasses",
+            "failed": 0,
+            "question": "What is the definition of \"gli occhiali da sole\"?",
+            "tried": 0
+        },
+        {
+            "answer": "amare",
+            "failed": 0,
+            "question": "Given the definition \"to love\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "ecco",
+            "failed": 0,
+            "question": "Given the definition \"here, there\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "del tutto diverso",
+            "failed": 0,
+            "question": "Given the definition \"very different\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "gli occhiali da sole",
+            "failed": 0,
+            "question": "Given the definition \"sunglasses\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "il braccio",
+            "failed": 0,
+            "question": "Given the definition \"arm\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "subito",
+            "failed": 0,
+            "question": "Given the definition \"immediately, quickly\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "towel",
+            "failed": 0,
+            "question": "What is the definition of \"l'asciugamano\"?",
+            "tried": 0
+        },
+        {
+            "answer": "tanning lotion",
+            "failed": 0,
+            "question": "What is the definition of \"la crema per l'abbronzatura\"?",
+            "tried": 0
+        },
+        {
+            "answer": "according to",
+            "failed": 0,
+            "question": "What is the definition of \"secondo\"?",
             "tried": 0
         },
         {
@@ -540,177 +260,17 @@
             "tried": 0
         },
         {
-            "answer": "prommetere",
-            "failed": 0,
-            "question": "Given the definition \"to promise\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "ecco",
-            "failed": 0,
-            "question": "Given the definition \"here, there\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "lasciare",
-            "failed": 0,
-            "question": "Given the definition \"to leave, to let go\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "amare",
-            "failed": 0,
-            "question": "Given the definition \"to love\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "la crema per l'abbronzatura",
-            "failed": 0,
-            "question": "Given the definition \"tanning lotion\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "sunglasses",
-            "failed": 0,
-            "question": "What is the definition of \"gli occhiali da sole\"?",
-            "tried": 0
-        },
-        {
-            "answer": "camminare",
-            "failed": 0,
-            "question": "Given the definition \"to walk\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "ham",
-            "failed": 0,
-            "question": "What is the definition of \"il prosciutto\"?",
-            "tried": 0
-        },
-        {
-            "answer": "gli occhiali da sole",
-            "failed": 0,
-            "question": "Given the definition \"sunglasses\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "tanning lotion",
-            "failed": 0,
-            "question": "What is the definition of \"la crema per l'abbronzatura\"?",
-            "tried": 0
+            "alternates": [],
+            "answer": "to hear",
+            "failed": 1,
+            "lastAsked": 1489427943.32448,
+            "question": "What is the definition of \"sentire\"?",
+            "tried": 1
         },
         {
             "answer": "sembrare",
             "failed": 0,
             "question": "Given the definition \"to seem, appear\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "towel",
-            "failed": 0,
-            "question": "What is the definition of \"l'asciugamano\"?",
-            "tried": 0
-        },
-        {
-            "answer": "prepararsi",
-            "failed": 0,
-            "question": "Given the definition \"to get ready\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "beverages",
-            "failed": 0,
-            "question": "What is the definition of \"le bevande\"?",
-            "tried": 0
-        },
-        {
-            "answer": "according to",
-            "failed": 0,
-            "question": "What is the definition of \"secondo\"?",
-            "tried": 0
-        },
-        {
-            "answer": "to see",
-            "failed": 0,
-            "question": "What is the definition of \"vedere\"?",
-            "tried": 0
-        },
-        {
-            "answer": "pauroso",
-            "failed": 0,
-            "question": "Given the definition \"scary, fearful\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "to walk",
-            "failed": 0,
-            "question": "What is the definition of \"camminare\"?",
-            "tried": 0
-        },
-        {
-            "answer": "la gamba",
-            "failed": 0,
-            "question": "Given the definition \"leg\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "to wash",
-            "failed": 0,
-            "question": "What is the definition of \"lavare\"?",
-            "tried": 0
-        },
-        {
-            "answer": "abbracciare",
-            "failed": 0,
-            "question": "Given the definition \"to hug\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "vedere",
-            "failed": 0,
-            "question": "Given the definition \"to see\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "del tutto diverso",
-            "failed": 0,
-            "question": "Given the definition \"very different\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "l'asciugamano",
-            "failed": 0,
-            "question": "Given the definition \"towel\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "to listen to",
-            "failed": 0,
-            "question": "What is the definition of \"ascoltare\"?",
-            "tried": 0
-        },
-        {
-            "answer": "subito",
-            "failed": 0,
-            "question": "Given the definition \"immediately, quickly\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "le onde",
-            "failed": 0,
-            "question": "Given the definition \"waves\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "scary, fearful",
-            "failed": 0,
-            "question": "What is the definition of \"pauroso\"?",
-            "tried": 0
-        },
-        {
-            "answer": "together",
-            "failed": 0,
-            "question": "What is the definition of \"insieme\"?",
             "tried": 0
         },
         {
@@ -720,9 +280,15 @@
             "tried": 0
         },
         {
-            "answer": "i denti",
+            "answer": "to wash",
             "failed": 0,
-            "question": "Given the definition \"teeth\", what is the word?",
+            "question": "What is the definition of \"lavare\"?",
+            "tried": 0
+        },
+        {
+            "answer": "l'asciugamano",
+            "failed": 0,
+            "question": "Given the definition \"towel\", what is the word?",
             "tried": 0
         },
         {
@@ -730,6 +296,444 @@
             "failed": 0,
             "question": "What is the definition of \"da lontano\"?",
             "tried": 0
+        },
+        {
+            "answer": "camminare",
+            "failed": 0,
+            "question": "Given the definition \"to walk\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "teeth",
+            "failed": 0,
+            "question": "What is the definition of \"i denti\"?",
+            "tried": 0
+        },
+        {
+            "alternates": [],
+            "answer": "to leave, to let go",
+            "failed": 3,
+            "lastAsked": 1489427555.949387,
+            "question": "What is the definition of \"lasciare\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "berretto"
+            ],
+            "answer": "il berretto",
+            "failed": 3,
+            "lastAsked": 1489427550.9173007,
+            "question": "Given the definition \"cap\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "scream, shriek",
+            "failed": 3,
+            "lastAsked": 1489427903.6288905,
+            "question": "What is the definition of \"lo strillo\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "muovere",
+            "failed": 3,
+            "lastAsked": 1489427712.3826559,
+            "question": "Given the definition \"to move\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "to fall",
+            "failed": 2,
+            "lastAsked": 1489427886.2887378,
+            "question": "What is the definition of \"cadere\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "to hold",
+            "failed": 2,
+            "lastAsked": 1489427537.5810163,
+            "question": "What is the definition of \"tenere\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "immediately"
+            ],
+            "answer": "immediately, quickly",
+            "failed": 2,
+            "lastAsked": 1489427709.6667268,
+            "question": "What is the definition of \"subito\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "waves",
+            "failed": 2,
+            "lastAsked": 1489427701.9072905,
+            "question": "What is the definition of \"le onde\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "arm",
+            "failed": 2,
+            "lastAsked": 1489427703.8589003,
+            "question": "What is the definition of \"il braccio\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "to resemble"
+            ],
+            "answer": "to seem, appear",
+            "failed": 2,
+            "lastAsked": 1489427897.3688672,
+            "question": "What is the definition of \"sembrare\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "affamato",
+            "failed": 2,
+            "lastAsked": 1489427786.0546594,
+            "question": "Given the definition \"hungry\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "to close",
+            "failed": 2,
+            "lastAsked": 1489427782.0061016,
+            "question": "What is the definition of \"chiudere\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "secondo",
+            "failed": 1,
+            "lastAsked": 1489427431.93435,
+            "question": "Given the definition \"according to\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "le bevande",
+            "failed": 1,
+            "lastAsked": 1489427673.9755275,
+            "question": "Given the definition \"beverages\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "at the same time",
+            "failed": 1,
+            "lastAsked": 1489427869.5536413,
+            "question": "What is the definition of \"contemporaneamente\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "some",
+            "failed": 1,
+            "lastAsked": 1489427614.4806063,
+            "question": "What is the definition of \"alcuno\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "masticare",
+            "failed": 1,
+            "lastAsked": 1489427424.7823315,
+            "question": "Given the definition \"to chew\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "ears",
+            "failed": 1,
+            "lastAsked": 1489427866.5461473,
+            "question": "What is the definition of \"le orecchie\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "to prepare"
+            ],
+            "answer": "to get ready",
+            "failed": 1,
+            "lastAsked": 1489427422.4517925,
+            "question": "What is the definition of \"prepararsi\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "tenere",
+            "failed": 1,
+            "lastAsked": 1489427757.6742902,
+            "question": "Given the definition \"to hold\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to greet",
+            "failed": 1,
+            "lastAsked": 1489427760.106474,
+            "question": "What is the definition of \"salutare\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to hug",
+            "failed": 1,
+            "lastAsked": 1489427879.2615068,
+            "question": "What is the definition of \"abbracciare\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "il/la parente",
+            "failed": 1,
+            "lastAsked": 1489427612.4002042,
+            "question": "Given the definition \"relative\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "innervosire"
+            ],
+            "answer": "innervosire(isc)",
+            "failed": 1,
+            "lastAsked": 1489427495.3097196,
+            "question": "Given the definition \"to get nervous\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "chiudere",
+            "failed": 1,
+            "lastAsked": 1489427427.014917,
+            "question": "Given the definition \"to close\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "relative",
+            "failed": 1,
+            "lastAsked": 1489427507.5302403,
+            "question": "What is the definition of \"il/la parente\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to get nervous",
+            "failed": 1,
+            "lastAsked": 1489427429.8387582,
+            "question": "What is the definition of \"innervosire(isc)\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "sentire",
+            "failed": 1,
+            "lastAsked": 1489427419.8823094,
+            "question": "Given the definition \"to hear\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "cadere",
+            "failed": 1,
+            "lastAsked": 1489427490.9975631,
+            "question": "Given the definition \"to fall\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "salutare",
+            "failed": 1,
+            "lastAsked": 1489427755.0586176,
+            "question": "Given the definition \"to greet\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "insieme",
+            "failed": 1,
+            "lastAsked": 1489427763.2105925,
+            "question": "Given the definition \"together\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "il mare",
+            "failed": 1,
+            "lastAsked": 1489427676.5518925,
+            "question": "Given the definition \"sea, sea-side\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "riuscire",
+            "failed": 1,
+            "lastAsked": 1489427529.5970237,
+            "question": "Given the definition \"to succeed\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "scrivere",
+            "failed": 0,
+            "lastAsked": 1489427715.318943,
+            "question": "Given the definition \"to write\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to chew",
+            "failed": 0,
+            "lastAsked": 1489427800.0337715,
+            "question": "What is the definition of \"masticare\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to move",
+            "failed": 0,
+            "lastAsked": 1489427736.255203,
+            "question": "What is the definition of \"muovere\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "alcuno",
+            "failed": 0,
+            "lastAsked": 1489427632.3876123,
+            "question": "Given the definition \"some\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "bag"
+            ],
+            "answer": "bag, pocketbook",
+            "failed": 0,
+            "lastAsked": 1489427627.240144,
+            "question": "What is the definition of \"la borsa\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to open",
+            "failed": 0,
+            "lastAsked": 1489427566.0568612,
+            "question": "What is the definition of \"aprire\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to love",
+            "failed": 0,
+            "lastAsked": 1489427572.5526514,
+            "question": "What is the definition of \"amare\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to succeed",
+            "failed": 0,
+            "lastAsked": 1489427789.7418897,
+            "question": "What is the definition of \"riuscire\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "guardare",
+            "failed": 0,
+            "lastAsked": 1489427569.576958,
+            "question": "Given the definition \"to watch, to look at\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "hungry",
+            "failed": 0,
+            "lastAsked": 1489427912.5328138,
+            "question": "What is the definition of \"affamato\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "here"
+            ],
+            "answer": "here, there",
+            "failed": 0,
+            "lastAsked": 1489427925.6965437,
+            "question": "What is the definition of \"ecco\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to swim",
+            "failed": 0,
+            "lastAsked": 1489427461.2662244,
+            "question": "What is the definition of \"nuotare\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "cap",
+            "failed": 0,
+            "lastAsked": 1489427575.6567652,
+            "question": "What is the definition of \"il berretto\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "borsa"
+            ],
+            "answer": "la borsa",
+            "failed": 0,
+            "lastAsked": 1489427561.9691403,
+            "question": "Given the definition \"bag, pocketbook\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "sly"
+            ],
+            "answer": "cunning, clever",
+            "failed": 0,
+            "lastAsked": 1489427360.6430798,
+            "question": "What is the definition of \"furbo\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "aprire",
+            "failed": 0,
+            "lastAsked": 1489427605.2456734,
+            "question": "Given the definition \"to open\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to be afraid",
+            "failed": 0,
+            "lastAsked": 1489427929.8484359,
+            "question": "What is the definition of \"avere paura\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "to write",
+            "failed": 0,
+            "lastAsked": 1489427364.195196,
+            "question": "What is the definition of \"scrivere\"?",
+            "tried": 1
         }
     ]
 }

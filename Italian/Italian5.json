@@ -2,543 +2,687 @@
     "name": ".\\Italian\\Italian5.json",
     "vocab": [
         {
-            "answer": "panino",
-            "failed": 2,
-            "lastAsked": 1445878687.8399053,
-            "question": "Given the definition \"sandwich\", what is the word?",
-            "tried": 4
-        },
-        {
-            "answer": "Here are my friends.",
-            "failed": 1,
-            "lastAsked": 1445878642.3629053,
-            "question": "Given the definition \"Ecco i miei amici.\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "Maria ha sempre freddo.",
-            "failed": 1,
-            "lastAsked": 1445878562.4889052,
-            "question": "What is the definition of \"Maria is always cold.\"?",
-            "tried": 3
-        },
-        {
-            "answer": "avere voglia di",
-            "failed": 2,
-            "lastAsked": 1445878671.0009053,
-            "question": "Given the definition \"to feel like something\", what is the word?",
-            "tried": 4
-        },
-        {
+            "alternates": [
+                "loro hanno voglio di un caffe",
+                "loro hanno voglia di un caffe"
+            ],
             "answer": "Loro hanno voglia di un caffe'.",
-            "failed": 2,
-            "lastAsked": 1445878679.700905,
+            "failed": 7,
+            "lastAsked": 1517336829.0112815,
             "question": "What is the definition of \"They feel like having a coffee.\"?",
-            "tried": 4
+            "tried": 11
         },
         {
-            "answer": "Giorgio e Pete hanno sempre sonno.",
-            "failed": 2,
-            "lastAsked": 1445878661.6819053,
-            "question": "What is the definition of \"Giorgio and Pete are always sleepy.\"?",
-            "tried": 4
+            "alternates": [],
+            "answer": "avere voglia di",
+            "failed": 5,
+            "lastAsked": 1517336753.2638674,
+            "question": "Given the definition \"to feel like something\", what is the word?",
+            "tried": 9
         },
         {
-            "answer": "Ecco i miei amici.",
-            "failed": 2,
-            "lastAsked": 1445878685.4599051,
-            "question": "What is the definition of \"Here are my friends.\"?",
-            "tried": 4
-        },
-        {
-            "answer": "They feel like having a coffee.",
-            "failed": 1,
-            "lastAsked": 1445878605.6059053,
-            "question": "Given the definition \"Loro hanno voglia di un caffe'.\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "studentesse",
-            "failed": 1,
-            "lastAsked": 1445878762.5149052,
-            "question": "Plural of studentessa",
-            "tried": 3
-        },
-        {
+            "alternates": [
+                "Lei ha bisogno di una sciarpa",
+                "lei ha bisogno di una sciarpa"
+            ],
             "answer": "Lei ha bisogno di una sciarpa.",
-            "failed": 2,
-            "lastAsked": 1445878817.2719052,
+            "failed": 6,
+            "lastAsked": 1517336796.6144738,
             "question": "What is the definition of \"She needs a scarf.\"?",
-            "tried": 4
+            "tried": 10
         },
         {
-            "answer": "friends",
-            "failed": 1,
-            "lastAsked": 1445878749.8559053,
-            "question": "What is the definition of \"amici\"?",
-            "tried": 3
+            "alternates": [],
+            "answer": "panino",
+            "failed": 3,
+            "lastAsked": 1517336723.4038043,
+            "question": "Given the definition \"sandwich\", what is the word?",
+            "tried": 7
         },
         {
-            "answer": "female student",
-            "failed": 0,
-            "lastAsked": 1445878753.5159051,
-            "question": "What is the definition of \"studentessa\"?",
-            "tried": 2
+            "alternates": [
+                "ecco i miei amici",
+                "Ecco i miei amici"
+            ],
+            "answer": "Ecco i miei amici.",
+            "failed": 4,
+            "lastAsked": 1517336757.6478634,
+            "question": "What is the definition of \"Here are my friends.\"?",
+            "tried": 8
         },
         {
+            "alternates": [
+                "Giorgio e Pete hanno sempre sonno"
+            ],
+            "answer": "Giorgio e Pete hanno sempre sonno.",
+            "failed": 4,
+            "lastAsked": 1517336786.8031058,
+            "question": "What is the definition of \"Giorgio and Pete are always sleepy.\"?",
+            "tried": 8
+        },
+        {
+            "alternates": [
+                "Betty e Rose hanno sempre fretta"
+            ],
+            "answer": "Betty e Rose hanno sempre fretta.",
+            "failed": 2,
+            "lastAsked": 1517336683.51636,
+            "question": "What is the definition of \"Betty and Rose are always in a hurry.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "Io e Kate abbiamo sempre caldo"
+            ],
+            "answer": "Io e Kate abbiamo sempre caldo.",
+            "failed": 2,
+            "lastAsked": 1517336608.1522026,
+            "question": "What is the definition of \"Kate and I are always hot.\"?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "they feel like a coffee",
+                "they feel like having a coffee",
+                "They feel like having a coffee"
+            ],
+            "answer": "They feel like having a coffee.",
+            "failed": 3,
+            "lastAsked": 1517336913.1266608,
+            "question": "Given the definition \"Loro hanno voglia di un caffe'.\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "she needs a scarf",
+                "She needs a scarf"
+            ],
             "answer": "She needs a scarf.",
             "failed": 1,
-            "lastAsked": 1445878806.4119053,
+            "lastAsked": 1517336890.8593762,
             "question": "Given the definition \"Lei ha bisogno di una sciarpa.\", what is the word?",
-            "tried": 3
+            "tried": 5
         },
         {
-            "answer": "ha",
-            "failed": 0,
-            "lastAsked": 1445878783.7739053,
-            "question": "(avere) lui/lei/Lei ->",
-            "tried": 2
-        },
-        {
-            "answer": "There are four boys and five girls.",
-            "failed": 0,
-            "lastAsked": 1445878780.4339051,
-            "question": "Given the definition \"Ci sono quattro ragazzi e cinque ragazze.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "studenti",
-            "failed": 0,
-            "lastAsked": 1445878756.9359052,
-            "question": "Plural of studente",
-            "tried": 2
-        },
-        {
-            "answer": "studentessa",
-            "failed": 0,
-            "lastAsked": 1445878873.907905,
-            "question": "Given the definition \"female student\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "sorelle",
-            "failed": 0,
-            "lastAsked": 1445878868.2679052,
-            "question": "Io ho una sorella -> Io ho due ___",
-            "tried": 2
-        },
-        {
-            "answer": "nonne",
-            "failed": 0,
-            "lastAsked": 1445878844.009905,
-            "question": "Io ho una nonna -> Io ho due ___",
-            "tried": 2
-        },
-        {
-            "answer": "Betty and Rose are always in a hurry.",
-            "failed": 0,
-            "lastAsked": 1445878831.0909052,
-            "question": "Given the definition \"Betty e Rose hanno sempre fretta.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "figli",
-            "failed": 0,
-            "lastAsked": 1445878837.4699051,
-            "question": "Io ho un figlio -> Io ho due ___",
-            "tried": 2
-        },
-        {
-            "answer": "to need",
-            "failed": 0,
-            "lastAsked": 1445878823.0109053,
-            "question": "What is the definition of \"avere bisogno di\"?",
-            "tried": 2
-        },
-        {
-            "answer": "Kate and I are always hot.",
-            "failed": 0,
-            "lastAsked": 1445878863.1289053,
-            "question": "Given the definition \"Io e Kate abbiamo sempre caldo.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "avete",
-            "failed": 0,
-            "lastAsked": 1445878883.2669053,
-            "question": "Voi ___ due sorelle.",
-            "tried": 2
-        },
-        {
-            "answer": "amica",
-            "failed": 0,
-            "lastAsked": 1445878902.545905,
-            "question": "Given the definition \"female friend\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "sciarpa",
-            "failed": 0,
-            "lastAsked": 1445878920.0449052,
-            "question": "Given the definition \"scarf\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Matteo is always hungry.",
-            "failed": 0,
-            "lastAsked": 1445878893.5669053,
-            "question": "Given the definition \"Metteo ha sempre fame.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "ha",
-            "failed": 0,
-            "lastAsked": 1445878897.3469052,
-            "question": "Carlo ___ due sorelle.",
-            "tried": 2
-        },
-        {
-            "answer": "padri",
-            "failed": 0,
-            "lastAsked": 1445878885.8069053,
-            "question": "Plural of padre",
-            "tried": 2
-        },
-        {
-            "answer": "ragazzi",
-            "failed": 0,
-            "lastAsked": 1445878916.9649053,
-            "question": "Plural of ragazzo",
-            "tried": 2
-        },
-        {
-            "answer": "sorelle",
-            "failed": 0,
-            "lastAsked": 1445878922.884905,
-            "question": "Plural of sorella",
-            "tried": 2
-        },
-        {
-            "answer": "I am always in a hurry, too.",
-            "failed": 0,
-            "lastAsked": 1445878913.0049052,
-            "question": "Given the definition \"Anche io ho sempre fretta.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Io e Kate abbiamo sempre caldo.",
+            "alternates": [
+                "Here are my friends"
+            ],
+            "answer": "Here are my friends.",
             "failed": 1,
-            "lastAsked": 1445879013.098905,
-            "question": "What is the definition of \"Kate and I are always hot.\"?",
-            "tried": 3
+            "lastAsked": 1517336855.9190028,
+            "question": "Given the definition \"Ecco i miei amici.\", what is the word?",
+            "tried": 5
         },
         {
-            "answer": "Ci sono quattro ragazzi e cinque ragazze.",
-            "failed": 0,
-            "lastAsked": 1445878988.779905,
-            "question": "What is the definition of \"There are four boys and five girls.\"?",
-            "tried": 2
+            "alternates": [],
+            "answer": "studentesse",
+            "failed": 1,
+            "lastAsked": 1517336895.98536,
+            "question": "Plural of studentessa",
+            "tried": 5
         },
         {
-            "answer": "ha",
-            "failed": 0,
-            "lastAsked": 1445878969.9219053,
-            "question": "Lei ___ due sorelle.",
-            "tried": 2
-        },
-        {
-            "answer": "abbiamo",
-            "failed": 0,
-            "lastAsked": 1445878934.7839053,
-            "question": "Noi ___ due sorelle.",
-            "tried": 2
-        },
-        {
-            "answer": "Maria is always cold.",
-            "failed": 0,
-            "lastAsked": 1445878929.5239053,
-            "question": "Given the definition \"Maria ha sempre freddo.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "to feel like something",
-            "failed": 0,
-            "lastAsked": 1445878997.019905,
-            "question": "What is the definition of \"avere voglia di\"?",
-            "tried": 2
-        },
-        {
-            "answer": "fan",
-            "failed": 0,
-            "lastAsked": 1445878991.0399053,
-            "question": "What is the definition of \"ventilatore\"?",
-            "tried": 2
-        },
-        {
-            "answer": "hanno",
-            "failed": 0,
-            "lastAsked": 1445879000.2199051,
-            "question": "(avere) loro ->",
-            "tried": 2
-        },
-        {
-            "answer": "fratelli",
-            "failed": 0,
-            "lastAsked": 1445879060.1159053,
-            "question": "Plural of fratello",
-            "tried": 2
-        },
-        {
-            "answer": "ha",
-            "failed": 0,
-            "lastAsked": 1445879016.0389051,
-            "question": "Lui ___ due sorelle.",
-            "tried": 2
-        },
-        {
-            "answer": "sandwich",
-            "failed": 0,
-            "lastAsked": 1445879025.9579053,
-            "question": "What is the definition of \"panino\"?",
-            "tried": 2
-        },
-        {
-            "answer": "caffe'",
-            "failed": 0,
-            "lastAsked": 1445879028.397905,
-            "question": "Given the definition \"coffee\", what is the word?",
-            "tried": 2
-        },
-        {
+            "alternates": [],
             "answer": "cugine",
-            "failed": 0,
-            "lastAsked": 1445879036.7969053,
+            "failed": 2,
+            "lastAsked": 1517336915.6224728,
             "question": "Io ho una cugina -> Io ho due ___",
-            "tried": 2
+            "tried": 6
         },
         {
-            "answer": "Metteo ha sempre fame.",
-            "failed": 0,
-            "lastAsked": 1445879056.8959053,
-            "question": "What is the definition of \"Matteo is always hungry.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "nipoti",
-            "failed": 0,
-            "lastAsked": 1445879022.1379051,
-            "question": "Io ho una nipote -> Io ho due ___",
-            "tried": 2
-        },
-        {
-            "answer": "We need a fan.",
-            "failed": 0,
-            "lastAsked": 1445879042.8769052,
-            "question": "What is the definition of \"Noi abbiamo bisogno di un ventilatore.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "abbiamo",
-            "failed": 0,
-            "lastAsked": 1445879090.213905,
-            "question": "(avere) noi ->",
-            "tried": 2
-        },
-        {
-            "answer": "coffee",
-            "failed": 0,
-            "lastAsked": 1445879064.0149052,
-            "question": "What is the definition of \"caffe'\"?",
-            "tried": 2
-        },
-        {
-            "answer": "ho",
-            "failed": 0,
-            "lastAsked": 1445879067.3959053,
-            "question": "Io ___ due sorelle.",
-            "tried": 2
-        },
-        {
-            "answer": "avere bisogno di",
-            "failed": 0,
-            "lastAsked": 1445879083.0139053,
-            "question": "Given the definition \"to need\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "madri",
-            "failed": 0,
-            "lastAsked": 1445879087.6739051,
-            "question": "Plural of madre",
-            "tried": 2
-        },
-        {
-            "answer": "female friend",
-            "failed": 0,
-            "lastAsked": 1445879077.0739052,
-            "question": "What is the definition of \"amica\"?",
-            "tried": 2
-        },
-        {
-            "answer": "zie",
-            "failed": 0,
-            "lastAsked": 1445879072.0749052,
-            "question": "Io ho una zia -> Io ho due ___",
-            "tried": 2
-        },
-        {
-            "answer": "hai",
-            "failed": 0,
-            "lastAsked": 1445879085.0339053,
-            "question": "(avere) tu ->",
-            "tried": 2
-        },
-        {
-            "answer": "Betty e Rose hanno sempre fretta.",
+            "alternates": [
+                "to feel like"
+            ],
+            "answer": "to feel like something",
             "failed": 1,
-            "lastAsked": 1445879173.5679052,
-            "question": "What is the definition of \"Betty and Rose are always in a hurry.\"?",
-            "tried": 3
+            "lastAsked": 1517336845.7909865,
+            "question": "What is the definition of \"avere voglia di\"?",
+            "tried": 5
         },
         {
-            "answer": "Giorgio and Pete are always sleepy.",
-            "failed": 0,
-            "lastAsked": 1445879165.4689052,
-            "question": "Given the definition \"Giorgio e Pete hanno sempre sonno.\", what is the word?",
-            "tried": 2
+            "alternates": [
+                "noi abbiamo bisogno di un ventilatore",
+                "abbiamo bisogno di un ventilatore"
+            ],
+            "answer": "Noi abbiamo bisogno di un ventilatore.",
+            "failed": 2,
+            "lastAsked": 1517336937.9626286,
+            "question": "Given the definition \"We need a fan.\", what is the word?",
+            "tried": 6
         },
         {
-            "answer": "bambine",
-            "failed": 0,
-            "lastAsked": 1445879103.3529053,
-            "question": "Io ho una bamina -> Io ho due ___",
-            "tried": 2
-        },
-        {
+            "alternates": [],
             "answer": "male student",
-            "failed": 0,
-            "lastAsked": 1445879098.8729053,
+            "failed": 2,
+            "lastAsked": 1517336918.7030666,
             "question": "What is the definition of \"studente\"?",
-            "tried": 2
+            "tried": 6
         },
         {
-            "answer": "amici",
-            "failed": 0,
-            "lastAsked": 1445879108.2519052,
-            "question": "Given the definition \"friends\", what is the word?",
-            "tried": 2
+            "alternates": [],
+            "answer": "sciarpa",
+            "failed": 1,
+            "lastAsked": 1517336967.1210077,
+            "question": "Given the definition \"scarf\", what is the word?",
+            "tried": 5
         },
         {
+            "alternates": [],
+            "answer": "friends",
+            "failed": 1,
+            "lastAsked": 1517336973.346318,
+            "question": "What is the definition of \"amici\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "Giorgio and Pete are always sleepy",
+                "Giorgio and Pete are always tired"
+            ],
+            "answer": "Giorgio and Pete are always sleepy.",
+            "failed": 2,
+            "lastAsked": 1517336990.762012,
+            "question": "Given the definition \"Giorgio e Pete hanno sempre sonno.\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "Marie ha sempre freddo",
+                "Maria ha sempre freddo"
+            ],
+            "answer": "Maria ha sempre freddo.",
+            "failed": 1,
+            "lastAsked": 1517336982.5464709,
+            "question": "What is the definition of \"Maria is always cold.\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "figli",
+            "failed": 1,
+            "lastAsked": 1517336945.2264204,
+            "question": "Io ho un figlio -> Io ho due ___",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "amico",
+            "failed": 2,
+            "lastAsked": 1517336984.9547002,
+            "question": "Given the definition \"male friend\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
             "answer": "ventilatore",
             "failed": 0,
-            "lastAsked": 1445879113.2119052,
+            "lastAsked": 1517336970.9741077,
             "question": "Given the definition \"fan\", what is the word?",
-            "tried": 2
+            "tried": 4
         },
         {
-            "answer": "scarf",
-            "failed": 0,
-            "lastAsked": 1445879092.8139052,
-            "question": "What is the definition of \"sciarpa\"?",
-            "tried": 2
-        },
-        {
-            "answer": "He feels like having a sandwich.",
-            "failed": 0,
-            "lastAsked": 1445879124.450905,
-            "question": "Given the definition \"Lui ha voglia di un panino.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "ha",
-            "failed": 0,
-            "lastAsked": 1445879221.404905,
-            "question": "Marta ___ due sorelle.",
-            "tried": 2
-        },
-        {
-            "answer": "Noi abbiamo bisogno di un ventilatore.",
-            "failed": 1,
-            "lastAsked": 1445879292.5399053,
-            "question": "Given the definition \"We need a fan.\", what is the word?",
-            "tried": 3
-        },
-        {
+            "alternates": [],
             "answer": "hai",
             "failed": 0,
-            "lastAsked": 1445879181.7279053,
+            "lastAsked": 1517336949.6945336,
             "question": "Tu ___ due sorelle.",
-            "tried": 2
+            "tried": 4
         },
         {
-            "answer": "ho",
+            "alternates": [
+                "Matteo is always hungry"
+            ],
+            "answer": "Matteo is always hungry.",
             "failed": 0,
-            "lastAsked": 1445879219.124905,
-            "question": "(avere) io ->",
-            "tried": 2
+            "lastAsked": 1517337014.654332,
+            "question": "Given the definition \"Metteo ha sempre fame.\", what is the word?",
+            "tried": 4
         },
         {
-            "answer": "male friend",
+            "alternates": [],
+            "answer": "ha",
             "failed": 0,
-            "lastAsked": 1445879275.341905,
-            "question": "What is the definition of \"amico\"?",
-            "tried": 2
+            "lastAsked": 1517337004.718158,
+            "question": "Lei ___ due sorelle.",
+            "tried": 4
         },
         {
-            "answer": "avete",
+            "alternates": [],
+            "answer": "fan",
             "failed": 0,
-            "lastAsked": 1445879179.4879053,
-            "question": "(avere) voi ->",
-            "tried": 2
+            "lastAsked": 1517337001.5581791,
+            "question": "What is the definition of \"ventilatore\"?",
+            "tried": 4
         },
         {
-            "answer": "studente",
+            "alternates": [],
+            "answer": "sorelle",
             "failed": 0,
-            "lastAsked": 1445879176.0879052,
-            "question": "Given the definition \"male student\", what is the word?",
-            "tried": 2
+            "lastAsked": 1517337020.3100822,
+            "question": "Io ho una sorella -> Io ho due ___",
+            "tried": 4
         },
         {
-            "answer": "Lui ha voglia di un panino.",
-            "failed": 0,
-            "lastAsked": 1445879271.7419052,
-            "question": "What is the definition of \"He feels like having a sandwich.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "bambini",
-            "failed": 0,
-            "lastAsked": 1445879301.8999052,
-            "question": "Io ho un bambino -> Io ho due ___",
-            "tried": 2
-        },
-        {
-            "answer": "amico",
-            "failed": 1,
-            "lastAsked": 1445879333.0779052,
-            "question": "Given the definition \"male friend\", what is the word?",
-            "tried": 3
-        },
-        {
+            "alternates": [
+                "Anche, io ho sempre fretta"
+            ],
             "answer": "Anche io ho sempre fretta.",
             "failed": 0,
-            "lastAsked": 1445879327.2179053,
+            "lastAsked": 1517336999.4220455,
             "question": "What is the definition of \"I am always in a hurry, too.\"?",
-            "tried": 2
+            "tried": 4
         },
         {
+            "alternates": [],
+            "answer": "avete",
+            "failed": 0,
+            "lastAsked": 1517337023.9738007,
+            "question": "Voi ___ due sorelle.",
+            "tried": 4
+        },
+        {
+            "alternates": [],
             "answer": "ragazze",
             "failed": 0,
-            "lastAsked": 1445879305.2199051,
+            "lastAsked": 1517337008.766442,
             "question": "Plural of ragazza",
-            "tried": 2
+            "tried": 4
         },
         {
+            "alternates": [],
+            "answer": "zie",
+            "failed": 0,
+            "lastAsked": 1517337017.350111,
+            "question": "Io ho una zia -> Io ho due ___",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "Maria is always cold"
+            ],
+            "answer": "Maria is always cold.",
+            "failed": 0,
+            "lastAsked": 1517337028.4583662,
+            "question": "Given the definition \"Maria ha sempre freddo.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "male friend",
+            "failed": 0,
+            "lastAsked": 1517337045.8700151,
+            "question": "What is the definition of \"amico\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "female student",
+            "failed": 0,
+            "lastAsked": 1517337053.6858654,
+            "question": "What is the definition of \"studentessa\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "There are four boys and five girls",
+                "There are four boys and 5 girls"
+            ],
+            "answer": "There are four boys and five girls.",
+            "failed": 0,
+            "lastAsked": 1517337040.3225715,
+            "question": "Given the definition \"Ci sono quattro ragazzi e cinque ragazze.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "studentessa",
+            "failed": 0,
+            "lastAsked": 1517337050.7259207,
+            "question": "Given the definition \"female student\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "scarf",
+            "failed": 0,
+            "lastAsked": 1517337047.861974,
+            "question": "What is the definition of \"sciarpa\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "amici",
+            "failed": 0,
+            "lastAsked": 1517337065.7575157,
+            "question": "Given the definition \"friends\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "Lui ha voglio di un panino",
+                "Lui ha voglia di un panino"
+            ],
+            "answer": "Lui ha voglia di un panino.",
+            "failed": 0,
+            "lastAsked": 1517337064.0061958,
+            "question": "What is the definition of \"He feels like having a sandwich.\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "abbiamo",
+            "failed": 0,
+            "lastAsked": 1517337070.4176211,
+            "question": "(avere) noi ->",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "coffee",
+            "failed": 0,
+            "lastAsked": 1517337068.145763,
+            "question": "What is the definition of \"caffe'\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "Kate and I are always hot",
+                "Kate and me are always hot"
+            ],
+            "answer": "Kate and I are always hot.",
+            "failed": 0,
+            "lastAsked": 1517337082.1478608,
+            "question": "Given the definition \"Io e Kate abbiamo sempre caldo.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "to need",
+            "failed": 0,
+            "lastAsked": 1517337074.6977706,
+            "question": "What is the definition of \"avere bisogno di\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "nipoti",
+            "failed": 1,
+            "lastAsked": 1517337103.8138247,
+            "question": "Io ho una nipote -> Io ho due ___",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "bambini",
+            "failed": 0,
+            "lastAsked": 1517337084.641735,
+            "question": "Io ho un bambino -> Io ho due ___",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "studenti",
+            "failed": 0,
+            "lastAsked": 1517337088.3297174,
+            "question": "Plural of studente",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "abbiamo",
+            "failed": 0,
+            "lastAsked": 1517337099.8055422,
+            "question": "Noi ___ due sorelle.",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "Betty and Rose are always in a hurry"
+            ],
+            "answer": "Betty and Rose are always in a hurry.",
+            "failed": 0,
+            "lastAsked": 1517337128.5051455,
+            "question": "Given the definition \"Betty e Rose hanno sempre fretta.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
             "answer": "hanno",
             "failed": 0,
-            "lastAsked": 1445879330.1179051,
+            "lastAsked": 1517337145.4574296,
+            "question": "(avere) loro ->",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "uno studente"
+            ],
+            "answer": "studente",
+            "failed": 0,
+            "lastAsked": 1517337132.6976337,
+            "question": "Given the definition \"male student\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "I am always in a hurry, also",
+                "I am also always in a hurry"
+            ],
+            "answer": "I am always in a hurry, too.",
+            "failed": 0,
+            "lastAsked": 1517337142.9857368,
+            "question": "Given the definition \"Anche io ho sempre fretta.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "sorelle",
+            "failed": 0,
+            "lastAsked": 1517337108.8458164,
+            "question": "Plural of sorella",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "avete",
+            "failed": 0,
+            "lastAsked": 1517337130.4498217,
+            "question": "(avere) voi ->",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "ha",
+            "failed": 0,
+            "lastAsked": 1517337106.157702,
+            "question": "Lui ___ due sorelle.",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "Ci sono quattro ragazzi e cinque ragazze"
+            ],
+            "answer": "Ci sono quattro ragazzi e cinque ragazze.",
+            "failed": 0,
+            "lastAsked": 1517337121.7537303,
+            "question": "What is the definition of \"There are four boys and five girls.\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "ha",
+            "failed": 0,
+            "lastAsked": 1517337147.7094812,
+            "question": "Marta ___ due sorelle.",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "amica",
+            "failed": 0,
+            "lastAsked": 1517337158.3331995,
+            "question": "Given the definition \"female friend\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "hanno",
+            "failed": 0,
+            "lastAsked": 1517337163.3494043,
             "question": "Loro ___ due sorelle.",
-            "tried": 2
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "ragazzi",
+            "failed": 0,
+            "lastAsked": 1517337155.8934956,
+            "question": "Plural of ragazzo",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "fratelli",
+            "failed": 0,
+            "lastAsked": 1517337177.769166,
+            "question": "Plural of fratello",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "female friend",
+            "failed": 0,
+            "lastAsked": 1517337175.0171869,
+            "question": "What is the definition of \"amica\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "caffe"
+            ],
+            "answer": "caffe'",
+            "failed": 1,
+            "lastAsked": 1517337179.969351,
+            "question": "Given the definition \"coffee\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "He feels like having a sandwich"
+            ],
+            "answer": "He feels like having a sandwich.",
+            "failed": 0,
+            "lastAsked": 1517337170.993531,
+            "question": "Given the definition \"Lui ha voglia di un panino.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "ha",
+            "failed": 0,
+            "lastAsked": 1517337184.2253568,
+            "question": "(avere) lui/lei/Lei ->",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "ha",
+            "failed": 0,
+            "lastAsked": 1517337198.9174237,
+            "question": "Carlo ___ due sorelle.",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "padri",
+            "failed": 0,
+            "lastAsked": 1517337191.6731834,
+            "question": "Plural of padre",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "sandwich",
+            "failed": 0,
+            "lastAsked": 1517337182.321227,
+            "question": "What is the definition of \"panino\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "nonne",
+            "failed": 0,
+            "lastAsked": 1517337203.64518,
+            "question": "Io ho una nonna -> Io ho due ___",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "avere bisogno di",
+            "failed": 0,
+            "lastAsked": 1517337208.3650935,
+            "question": "Given the definition \"to need\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "bambine",
+            "failed": 1,
+            "lastAsked": 1517337213.3248162,
+            "question": "Io ho una bamina -> Io ho due ___",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "We need a fan"
+            ],
+            "answer": "We need a fan.",
+            "failed": 0,
+            "lastAsked": 1517337196.587471,
+            "question": "What is the definition of \"Noi abbiamo bisogno di un ventilatore.\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "ho",
+            "failed": 0,
+            "lastAsked": 1517337231.888686,
+            "question": "(avere) io ->",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "hai",
+            "failed": 0,
+            "lastAsked": 1517337230.1693609,
+            "question": "(avere) tu ->",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "madri",
+            "failed": 0,
+            "lastAsked": 1517337228.4798074,
+            "question": "Plural of madre",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "Matteo ha sempre fame"
+            ],
+            "answer": "Metteo ha sempre fame.",
+            "failed": 0,
+            "lastAsked": 1517337221.525234,
+            "question": "What is the definition of \"Matteo is always hungry.\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "ho",
+            "failed": 0,
+            "lastAsked": 1517337224.4211335,
+            "question": "Io ___ due sorelle.",
+            "tried": 4
         }
     ]
 }

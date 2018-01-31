@@ -2,605 +2,768 @@
     "name": ".\\Italian\\Italian7.json",
     "vocab": [
         {
-            "answer": "Il padre e' di Venezia.",
-            "failed": 1,
-            "lastAsked": 1446659750.1249566,
-            "question": "Given the definition \"The father is from Venice.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Gli amici sono in soggiorno.",
-            "failed": 1,
-            "lastAsked": 1446659773.26428,
-            "question": "Given the definition \"The friends are in the living room.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "Loro sono in giardino.",
-            "failed": 0,
-            "lastAsked": 1446659654.1384664,
-            "question": "Given the definition \"They are in the garden.\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "la camera, le camare",
-            "failed": 0,
-            "lastAsked": 1446659690.8555665,
-            "question": "camera -> (the) -> (the plural)",
-            "tried": 1
-        },
-        {
-            "answer": "e'",
-            "failed": 0,
-            "lastAsked": 1446659643.7018695,
-            "question": "Lui e' a casa. -> Lei ___ casa.",
-            "tried": 1
-        },
-        {
-            "answer": "e'",
-            "failed": 0,
-            "lastAsked": 1446659618.4864273,
-            "question": "(essere) La ragazza ___ di Roma.",
-            "tried": 1
-        },
-        {
-            "answer": "siamo",
-            "failed": 0,
-            "lastAsked": 1446659697.245932,
-            "question": "Io sono in cucina. -> Noi ___ in cucina.",
-            "tried": 1
-        },
-        {
-            "answer": "sono",
-            "failed": 0,
-            "lastAsked": 1446659630.0130866,
-            "question": "Io sono a casa. -> Loro ___ a casa.",
-            "tried": 1
-        },
-        {
-            "answer": "sono",
-            "failed": 0,
-            "lastAsked": 1446659785.5409822,
-            "question": "(essere) Le ragazze ___ di Roma.",
-            "tried": 1
-        },
-        {
-            "answer": "Lei e' d'accordo?",
-            "failed": 1,
-            "lastAsked": 1446659871.2528846,
-            "question": "Given the definition \"Do you (formal) agree?\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "voi siete",
-            "failed": 1,
-            "lastAsked": 1446659864.284486,
-            "question": "Given the definition \"y'all are\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "lui/lei e'",
-            "failed": 0,
-            "lastAsked": 1446659838.4100063,
-            "question": "Given the definition \"he/she is\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "he/she is",
-            "failed": 0,
-            "lastAsked": 1446659798.2267077,
-            "question": "What is the definition of \"lui/lei e'\"?",
-            "tried": 1
-        },
-        {
-            "answer": "lo studente, gli studenti",
-            "failed": 0,
-            "lastAsked": 1446659832.6336758,
-            "question": "studente -> (the) -> (the plural)",
-            "tried": 1
-        },
-        {
+            "alternates": [
+                "sei d'accordo?",
+                "Sei d'accordo?"
+            ],
             "answer": "Sei d'accordo",
-            "failed": 3,
-            "lastAsked": 1446659892.728113,
+            "failed": 4,
+            "lastAsked": 1517432896.0793495,
             "question": "Given the definition \"Do you agree?\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "essere d'accordo",
+            "failed": 3,
+            "lastAsked": 1517432888.6256974,
+            "question": "Given the definition \"to agree\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "le ragazze hanno fame"
+            ],
+            "answer": "Le bambine hanno fame.",
+            "failed": 2,
+            "lastAsked": 1517432786.5283065,
+            "question": "Given the definition \"The girls are hungry.\", what is the word?",
             "tried": 4
         },
         {
-            "answer": "io sono",
-            "failed": 0,
-            "lastAsked": 1446659842.7482543,
-            "question": "Given the definition \"I am\", what is the word?",
-            "tried": 1
+            "alternates": [
+                "gli zii"
+            ],
+            "answer": "lo zio, gli zii",
+            "failed": 3,
+            "lastAsked": 1517432853.6370795,
+            "question": "zio -> (the) -> (the plural)",
+            "tried": 5
         },
         {
-            "answer": "They are in the garden.",
-            "failed": 0,
-            "lastAsked": 1446659961.2570326,
-            "question": "What is the definition of \"Loro sono in giardino.\"?",
-            "tried": 1
+            "alternates": [],
+            "answer": "essere in orario",
+            "failed": 4,
+            "lastAsked": 1517432915.2732384,
+            "question": "Given the definition \"to be on time\", what is the word?",
+            "tried": 6
         },
         {
-            "answer": "The professor is always on time.",
-            "failed": 0,
-            "lastAsked": 1446659915.613422,
-            "question": "What is the definition of \"Il professore e' sempre puntuale.\"?",
-            "tried": 1
+            "alternates": [],
+            "answer": "essere in ritardo",
+            "failed": 3,
+            "lastAsked": 1517432861.11307,
+            "question": "Given the definition \"to be late\", what is the word?",
+            "tried": 5
         },
         {
-            "answer": "noi siamo",
-            "failed": 0,
-            "lastAsked": 1446659953.450586,
-            "question": "Given the definition \"we are\", what is the word?",
-            "tried": 1
+            "alternates": [
+                "il professore e' sempre puntuale",
+                "Il professore e' sempre puntuale"
+            ],
+            "answer": "Il professore e' sempre puntuale.",
+            "failed": 2,
+            "lastAsked": 1517432872.039476,
+            "question": "Given the definition \"The professor is always on time.\", what is the word?",
+            "tried": 4
         },
         {
-            "answer": "y'all are",
-            "failed": 0,
-            "lastAsked": 1446659904.3257763,
-            "question": "What is the definition of \"voi siete\"?",
-            "tried": 1
-        },
-        {
-            "answer": "e'",
-            "failed": 0,
-            "lastAsked": 1446659900.3895512,
-            "question": "(essere) La madre ___ di Roma.",
-            "tried": 1
-        },
-        {
-            "answer": "The grandparents are in the bedroom.",
-            "failed": 0,
-            "lastAsked": 1446659970.7335746,
-            "question": "What is the definition of \"I nonni sono in camera da letto.\"?",
-            "tried": 1
-        },
-        {
+            "alternates": [
+                "ho fretta"
+            ],
             "answer": "Ho fretta.",
             "failed": 1,
-            "lastAsked": 1446659981.5991962,
+            "lastAsked": 1517432843.5815933,
             "question": "Given the definition \"I am in a hurry.\", what is the word?",
-            "tried": 2
+            "tried": 3
         },
         {
-            "answer": "sono",
-            "failed": 0,
-            "lastAsked": 1446659976.77392,
-            "question": "Lei e' in cucina. -> Loro ___ in cucina.",
-            "tried": 1
-        },
-        {
-            "answer": "The daughter is in the bedroom.",
-            "failed": 0,
-            "lastAsked": 1446660031.094027,
-            "question": "What is the definition of \"La figlia e' in camera.\"?",
-            "tried": 1
-        },
-        {
+            "alternates": [
+                "io sono di Roma, e' lei?"
+            ],
             "answer": "Io sono di Roma, e Lei?",
             "failed": 1,
-            "lastAsked": 1446660083.3440156,
+            "lastAsked": 1517433148.095811,
             "question": "Given the definition \"I am from Rome, and you? (formal)\", what is the word?",
-            "tried": 2
+            "tried": 3
         },
         {
-            "answer": "il padre, i padri",
-            "failed": 0,
-            "lastAsked": 1446660002.1143694,
-            "question": "padre -> (the) -> (the plural)",
-            "tried": 1
+            "alternates": [
+                "lei e' d'accordo"
+            ],
+            "answer": "Lei e' d'accordo?",
+            "failed": 1,
+            "lastAsked": 1517432962.0626435,
+            "question": "Given the definition \"Do you (formal) agree?\", what is the word?",
+            "tried": 3
         },
         {
-            "answer": "siete",
-            "failed": 0,
-            "lastAsked": 1446660060.8967316,
-            "question": "(essere) Voi ___ di Firenze.",
-            "tried": 1
+            "alternates": [],
+            "answer": "l'armadio, gli armadi",
+            "failed": 2,
+            "lastAsked": 1517433166.420492,
+            "question": "armadio -> (the) -> (the plural)",
+            "tried": 4
         },
         {
-            "answer": "The chairs are in the kitchen.",
-            "failed": 0,
-            "lastAsked": 1446660010.5978549,
-            "question": "What is the definition of \"Le sedie sono in cucina.\"?",
-            "tried": 1
+            "alternates": [
+                "il padre e' di Venezia",
+                "il padre e' di venezia"
+            ],
+            "answer": "Il padre e' di Venezia.",
+            "failed": 2,
+            "lastAsked": 1517433186.2643716,
+            "question": "Given the definition \"The father is from Venice.\", what is the word?",
+            "tried": 4
         },
         {
+            "alternates": [
+                "gli amici sono in soggiorno"
+            ],
+            "answer": "Gli amici sono in soggiorno.",
+            "failed": 2,
+            "lastAsked": 1517433220.3914878,
+            "question": "Given the definition \"The friends are in the living room.\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
             "answer": "sono",
-            "failed": 0,
-            "lastAsked": 1446660018.9453323,
-            "question": "(essere) Io ___ di Firenze.",
-            "tried": 1
-        },
-        {
-            "answer": "they are",
-            "failed": 0,
-            "lastAsked": 1446660036.03731,
-            "question": "What is the definition of \"loro sono\"?",
-            "tried": 1
-        },
-        {
-            "answer": "Do you (formal) agree?",
-            "failed": 0,
-            "lastAsked": 1446660076.2596104,
-            "question": "What is the definition of \"Lei e' d'accordo?\"?",
-            "tried": 1
-        },
-        {
-            "answer": "In bagno c'e' uno speccio.",
             "failed": 1,
-            "lastAsked": 1446660211.3513372,
-            "question": "Given the definition \"In the bathrrom there is a mirror.\", what is the word?",
-            "tried": 2
+            "lastAsked": 1517433065.3345058,
+            "question": "Tu sei a casa. -> Io ___ casa.",
+            "tried": 3
         },
         {
-            "answer": "you are (informal)",
-            "failed": 0,
-            "lastAsked": 1446660158.356306,
-            "question": "What is the definition of \"tu sei\"?",
-            "tried": 1
-        },
-        {
-            "answer": "loro sono",
-            "failed": 0,
-            "lastAsked": 1446660198.7266152,
-            "question": "Given the definition \"they are\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "tu sei",
-            "failed": 0,
-            "lastAsked": 1446660091.8064995,
-            "question": "Given the definition \"you are (informal)\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "la casa, le case",
-            "failed": 0,
-            "lastAsked": 1446660152.4009655,
-            "question": "casa -> (the) -> (the plural)",
-            "tried": 1
-        },
-        {
-            "answer": "il ragazzo, i ragazzi",
-            "failed": 0,
-            "lastAsked": 1446660167.586834,
-            "question": "ragazzo -> (the) -> (the plural)",
-            "tried": 1
-        },
-        {
+            "alternates": [],
             "answer": "to be on time",
             "failed": 1,
-            "lastAsked": 1446660214.4715157,
+            "lastAsked": 1517432950.140091,
             "question": "What is the definition of \"essere in orario\"?",
-            "tried": 2
+            "tried": 3
         },
         {
-            "answer": "The girls are hungry.",
-            "failed": 0,
-            "lastAsked": 1446660190.4101393,
-            "question": "What is the definition of \"Le bambine hanno fame.\"?",
-            "tried": 1
+            "alternates": [
+                "in bagno c'e uno specchio"
+            ],
+            "answer": "In bagno c'e' uno speccio.",
+            "failed": 2,
+            "lastAsked": 1517433209.5592525,
+            "question": "Given the definition \"In the bathrrom there is a mirror.\", what is the word?",
+            "tried": 4
         },
         {
-            "answer": "I am in a hurry.",
-            "failed": 0,
-            "lastAsked": 1446660251.4676318,
-            "question": "What is the definition of \"Ho fretta.\"?",
-            "tried": 1
-        },
-        {
-            "answer": "to be on time",
-            "failed": 0,
-            "lastAsked": 1446660260.513149,
-            "question": "What is the definition of \"essere puntuale\"?",
-            "tried": 1
-        },
-        {
-            "answer": "I am",
-            "failed": 0,
-            "lastAsked": 1446660286.7076473,
-            "question": "What is the definition of \"io sono\"?",
-            "tried": 1
-        },
-        {
+            "alternates": [],
             "answer": "lo specchio, gli specchi",
             "failed": 1,
-            "lastAsked": 1446660340.9957523,
+            "lastAsked": 1517433284.2570121,
             "question": "specchio -> (the) -> (the plural)",
-            "tried": 2
+            "tried": 3
         },
         {
-            "answer": "la ragazza, le ragazze",
-            "failed": 0,
-            "lastAsked": 1446660294.761108,
-            "question": "ragazza -> (the) -> (the plural)",
-            "tried": 1
+            "alternates": [
+                "i libri sono sul tavolo",
+                "I libri sono sul tavolo"
+            ],
+            "answer": "I libri sono sul tavolo.",
+            "failed": 2,
+            "lastAsked": 1517433328.865877,
+            "question": "Given the definition \"The books are on the table.\", what is the word?",
+            "tried": 4
         },
         {
-            "answer": "The books are on the table.",
-            "failed": 0,
-            "lastAsked": 1446660283.2484496,
-            "question": "What is the definition of \"I libri sono sul tavolo.\"?",
-            "tried": 1
+            "alternates": [],
+            "answer": "voi siete",
+            "failed": 1,
+            "lastAsked": 1517433304.200198,
+            "question": "Given the definition \"y'all are\", what is the word?",
+            "tried": 3
         },
         {
+            "alternates": [],
+            "answer": "e'",
+            "failed": 1,
+            "lastAsked": 1517433319.6992755,
+            "question": "(essere) Carlo ___ di Firenze.",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "essere puntuale",
+            "failed": 2,
+            "lastAsked": 1517433335.1330042,
+            "question": "Given the definition \"to be on time\", what is the word?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "tu sei in ritardo"
+            ],
             "answer": "Sei in ritardo.",
             "failed": 1,
-            "lastAsked": 1446660331.8942318,
+            "lastAsked": 1517433316.3180957,
             "question": "Given the definition \"You (informal) are late.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Do you agree? (formal)"
+            ],
+            "answer": "Do you (formal) agree?",
+            "failed": 0,
+            "lastAsked": 1517433299.7390573,
+            "question": "What is the definition of \"Lei e' d'accordo?\"?",
             "tried": 2
         },
         {
-            "answer": "The father is from Venice.",
+            "alternates": [],
+            "answer": "e'",
             "failed": 0,
-            "lastAsked": 1446660275.8050237,
-            "question": "What is the definition of \"Il padre e' di Venezia.\"?",
-            "tried": 1
-        },
-        {
-            "answer": "In the kitchen there are plates and cups.",
-            "failed": 0,
-            "lastAsked": 1446660414.5559597,
-            "question": "What is the definition of \"In cucina ci sono i piatti e le tazze.\"?",
-            "tried": 1
-        },
-        {
-            "answer": "Le bambine hanno fame.",
-            "failed": 2,
-            "lastAsked": 1446660535.932902,
-            "question": "Given the definition \"The girls are hungry.\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "essere d'accordo",
-            "failed": 2,
-            "lastAsked": 1446660542.1112556,
-            "question": "Given the definition \"to agree\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "essere in ritardo",
-            "failed": 2,
-            "lastAsked": 1446660517.573852,
-            "question": "Given the definition \"to be late\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "The friends are in the living room.",
-            "failed": 0,
-            "lastAsked": 1446660373.560615,
-            "question": "What is the definition of \"Gli amici sono in soggiorno.\"?",
-            "tried": 1
-        },
-        {
-            "answer": "sono",
-            "failed": 1,
-            "lastAsked": 1446660475.2874334,
-            "question": "Tu sei a casa. -> Io ___ casa.",
+            "lastAsked": 1517433257.5958605,
+            "question": "(essere) La madre ___ di Roma.",
             "tried": 2
         },
         {
+            "alternates": [],
             "answer": "sono",
             "failed": 0,
-            "lastAsked": 1446660400.2881439,
-            "question": "Loro sono in cucina. -> Io ___ in cucina.",
-            "tried": 1
+            "lastAsked": 1517433363.9705713,
+            "question": "(essere) Le ragazze ___ di Roma.",
+            "tried": 2
         },
         {
-            "answer": "la cucina, le cucine",
+            "alternates": [],
+            "answer": "il padre, i padri",
             "failed": 0,
-            "lastAsked": 1446660380.9150357,
-            "question": "cucina -> (the) -> (the plural)",
-            "tried": 1
+            "lastAsked": 1517433340.919026,
+            "question": "padre -> (the) -> (the plural)",
+            "tried": 2
         },
         {
-            "answer": "siete",
+            "alternates": [
+                "The daughter is in the bedroom"
+            ],
+            "answer": "The daughter is in the bedroom.",
             "failed": 0,
-            "lastAsked": 1446660650.687466,
-            "question": "Tu sei a casa. -> Voi ___ a casa.",
-            "tried": 1
+            "lastAsked": 1517433386.3048046,
+            "question": "What is the definition of \"La figlia e' in camera.\"?",
+            "tried": 2
         },
         {
-            "answer": "In the bathrrom there is a mirror.",
-            "failed": 0,
-            "lastAsked": 1446660559.864271,
-            "question": "What is the definition of \"In bagno c'e' uno speccio.\"?",
-            "tried": 1
-        },
-        {
-            "answer": "Le sedie sono in cucina.",
-            "failed": 0,
-            "lastAsked": 1446660579.589399,
-            "question": "Given the definition \"The chairs are in the kitchen.\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "essere in orario",
-            "failed": 2,
-            "lastAsked": 1446660671.947682,
-            "question": "Given the definition \"to be on time\", what is the word?",
-            "tried": 3
-        },
-        {
-            "answer": "siete",
-            "failed": 0,
-            "lastAsked": 1446660586.6178012,
-            "question": "Io sono in cucina. -> Voi ___ in cucina.",
-            "tried": 1
-        },
-        {
-            "answer": "siamo",
-            "failed": 0,
-            "lastAsked": 1446660583.2336075,
-            "question": "(essere) Noi ___ di Firenze.",
-            "tried": 1
-        },
-        {
-            "answer": "I nonni sono in camera da letto.",
-            "failed": 0,
-            "lastAsked": 1446660645.9121926,
-            "question": "Given the definition \"The grandparents are in the bedroom.\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "il bambino, i bambini",
-            "failed": 0,
-            "lastAsked": 1446660617.0565422,
-            "question": "bambino -> (the) -> (the plural)",
-            "tried": 1
-        },
-        {
-            "answer": "la studentessa, le studentesse",
-            "failed": 0,
-            "lastAsked": 1446660721.3505075,
-            "question": "studentessa -> (the) -> (the plural)",
-            "tried": 1
-        },
-        {
-            "answer": "siamo",
-            "failed": 0,
-            "lastAsked": 1446660677.8110173,
-            "question": "Lui e' a casa. -> Noi ___ a casa.",
-            "tried": 1
-        },
-        {
+            "alternates": [],
             "answer": "il tavolo, i tavoli",
             "failed": 0,
-            "lastAsked": 1446660688.4466255,
+            "lastAsked": 1517433347.965819,
             "question": "tavolo -> (the) -> (the plural)",
-            "tried": 1
-        },
-        {
-            "answer": "La figlia e' in camera.",
-            "failed": 0,
-            "lastAsked": 1446660706.342649,
-            "question": "Given the definition \"The daughter is in the bedroom.\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "e'",
-            "failed": 1,
-            "lastAsked": 1446660757.1725564,
-            "question": "(essere) Carlo ___ di Firenze.",
             "tried": 2
         },
         {
-            "answer": "to be late",
+            "alternates": [],
+            "answer": "siamo",
             "failed": 0,
-            "lastAsked": 1446660693.1108923,
-            "question": "What is the definition of \"essere in ritardo\"?",
-            "tried": 1
+            "lastAsked": 1517433367.9508204,
+            "question": "Lui e' a casa. -> Noi ___ a casa.",
+            "tried": 2
         },
         {
+            "alternates": [
+                "you are"
+            ],
+            "answer": "you are (informal)",
+            "failed": 0,
+            "lastAsked": 1517433352.9281,
+            "question": "What is the definition of \"tu sei\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "the books are on the table"
+            ],
+            "answer": "The books are on the table.",
+            "failed": 0,
+            "lastAsked": 1517433359.7629461,
+            "question": "What is the definition of \"I libri sono sul tavolo.\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "in the bathroom there is a mirror"
+            ],
+            "answer": "In the bathrrom there is a mirror.",
+            "failed": 0,
+            "lastAsked": 1517433376.098142,
+            "question": "What is the definition of \"In bagno c'e' uno speccio.\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "the chairs are in the kitchen"
+            ],
+            "answer": "The chairs are in the kitchen.",
+            "failed": 0,
+            "lastAsked": 1517433400.0046477,
+            "question": "What is the definition of \"Le sedie sono in cucina.\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "i nonni sono in camera"
+            ],
+            "answer": "I nonni sono in camera da letto.",
+            "failed": 0,
+            "lastAsked": 1517433411.5186286,
+            "question": "Given the definition \"The grandparents are in the bedroom.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "siete",
+            "failed": 0,
+            "lastAsked": 1517433392.2938845,
+            "question": "Tu sei a casa. -> Voi ___ a casa.",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "The grandparents are in the bedroom"
+            ],
+            "answer": "The grandparents are in the bedroom.",
+            "failed": 0,
+            "lastAsked": 1517433423.3853233,
+            "question": "What is the definition of \"I nonni sono in camera da letto.\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "la studentessa, le studentesse",
+            "failed": 0,
+            "lastAsked": 1517433481.3335707,
+            "question": "studentessa -> (the) -> (the plural)",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "the baby girls are hungry"
+            ],
+            "answer": "The girls are hungry.",
+            "failed": 0,
+            "lastAsked": 1517433457.4914002,
+            "question": "What is the definition of \"Le bambine hanno fame.\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "they are in the garden"
+            ],
+            "answer": "They are in the garden.",
+            "failed": 0,
+            "lastAsked": 1517433463.134448,
+            "question": "What is the definition of \"Loro sono in giardino.\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "in cucina ci sono i piatti e le tazze"
+            ],
+            "answer": "In cucina ci sono i piatti e le tazze.",
+            "failed": 0,
+            "lastAsked": 1517433445.2348146,
+            "question": "Given the definition \"In the kitchen there are plates and cups.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "he, she is"
+            ],
+            "answer": "he/she is",
+            "failed": 0,
+            "lastAsked": 1517433496.5706573,
+            "question": "What is the definition of \"lui/lei e'\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "sono",
+            "failed": 0,
+            "lastAsked": 1517433501.4306684,
+            "question": "Io sono a casa. -> Loro ___ a casa.",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "loro sono in giardino"
+            ],
+            "answer": "Loro sono in giardino.",
+            "failed": 0,
+            "lastAsked": 1517433509.231116,
+            "question": "Given the definition \"They are in the garden.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "the father is from Venice"
+            ],
+            "answer": "The father is from Venice.",
+            "failed": 0,
+            "lastAsked": 1517433489.1054165,
+            "question": "What is the definition of \"Il padre e' di Venezia.\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "the friends are in the living room"
+            ],
+            "answer": "The friends are in the living room.",
+            "failed": 0,
+            "lastAsked": 1517433531.4164438,
+            "question": "What is the definition of \"Gli amici sono in soggiorno.\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to agree",
+            "failed": 0,
+            "lastAsked": 1517433512.6309593,
+            "question": "What is the definition of \"essere d'accordo\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "il ragazzo, i ragazzi",
+            "failed": 0,
+            "lastAsked": 1517433539.1022065,
+            "question": "ragazzo -> (the) -> (the plural)",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "siamo",
+            "failed": 0,
+            "lastAsked": 1517433521.2846732,
+            "question": "(essere) Noi ___ di Firenze.",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "in the kitchen there are plates and cups"
+            ],
+            "answer": "In the kitchen there are plates and cups.",
+            "failed": 0,
+            "lastAsked": 1517433554.4691424,
+            "question": "What is the definition of \"In cucina ci sono i piatti e le tazze.\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "la casa, le case",
+            "failed": 0,
+            "lastAsked": 1517433565.846212,
+            "question": "casa -> (the) -> (the plural)",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "la figlia e' in camera da letto"
+            ],
+            "answer": "La figlia e' in camera.",
+            "failed": 0,
+            "lastAsked": 1517433582.9257486,
+            "question": "Given the definition \"The daughter is in the bedroom.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "la madre, le madri",
+            "failed": 0,
+            "lastAsked": 1517433544.486459,
+            "question": "madre -> (the) -> (the plural)",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "sono",
+            "failed": 0,
+            "lastAsked": 1517433557.6726422,
+            "question": "Loro sono in cucina. -> Io ___ in cucina.",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "tu sei",
+            "failed": 0,
+            "lastAsked": 1517433570.5778785,
+            "question": "Given the definition \"you are (informal)\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "siete",
+            "failed": 0,
+            "lastAsked": 1517433585.7253482,
+            "question": "(essere) Voi ___ di Firenze.",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "sono",
+            "failed": 0,
+            "lastAsked": 1517433560.7497077,
+            "question": "(essere) Io ___ di Firenze.",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "e'",
+            "failed": 0,
+            "lastAsked": 1517433620.161617,
+            "question": "Tu sei in cucina. -> Lei ___ in cucina.",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "e'",
+            "failed": 0,
+            "lastAsked": 1517433616.9317927,
+            "question": "Lui e' a casa. -> Lei ___ casa.",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "the professor is always on time"
+            ],
+            "answer": "The professor is always on time.",
+            "failed": 0,
+            "lastAsked": 1517433592.9844882,
+            "question": "What is the definition of \"Il professore e' sempre puntuale.\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "lo studente, gli studenti",
+            "failed": 0,
+            "lastAsked": 1517433607.9859643,
+            "question": "studente -> (the) -> (the plural)",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "siamo",
+            "failed": 0,
+            "lastAsked": 1517433595.1676257,
+            "question": "Io sono in cucina. -> Noi ___ in cucina.",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "la ragazza, le ragazze",
+            "failed": 0,
+            "lastAsked": 1517433600.7893724,
+            "question": "ragazza -> (the) -> (the plural)",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "sono",
+            "failed": 0,
+            "lastAsked": 1517433613.692109,
+            "question": "(essere) I ragazzi ___ di Roma.",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "y'all are",
+            "failed": 0,
+            "lastAsked": 1517433623.341868,
+            "question": "What is the definition of \"voi siete\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "noi siamo",
+            "failed": 0,
+            "lastAsked": 1517433634.641468,
+            "question": "Given the definition \"we are\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
             "answer": "la zia, le zie",
             "failed": 0,
-            "lastAsked": 1446660728.2018993,
+            "lastAsked": 1517433653.3298485,
             "question": "zia -> (the) -> (the plural)",
-            "tried": 1
+            "tried": 2
         },
         {
-            "answer": "lo zio, gli zii",
-            "failed": 2,
-            "lastAsked": 1446660790.2404478,
-            "question": "zio -> (the) -> (the plural)",
+            "alternates": [],
+            "answer": "we are",
+            "failed": 0,
+            "lastAsked": 1517433625.5856185,
+            "question": "What is the definition of \"noi siamo\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "e'",
+            "failed": 1,
+            "lastAsked": 1517433694.1898696,
+            "question": "(essere) La ragazza ___ di Roma.",
             "tried": 3
         },
         {
-            "answer": "we are",
+            "alternates": [],
+            "answer": "to be on time",
             "failed": 0,
-            "lastAsked": 1446660794.2346761,
-            "question": "What is the definition of \"noi siamo\"?",
-            "tried": 1
-        },
-        {
-            "answer": "I am from Rome, and you? (formal)",
-            "failed": 0,
-            "lastAsked": 1446660912.14042,
-            "question": "What is the definition of \"Io sono di Roma, e Lei?\"?",
-            "tried": 1
-        },
-        {
-            "answer": "You (informal) are late.",
-            "failed": 0,
-            "lastAsked": 1446660850.3228843,
-            "question": "What is the definition of \"Sei in ritardo.\"?",
-            "tried": 1
-        },
-        {
-            "answer": "la madre, le madri",
-            "failed": 0,
-            "lastAsked": 1446660862.8646016,
-            "question": "madre -> (the) -> (the plural)",
-            "tried": 1
-        },
-        {
-            "answer": "In cucina ci sono i piatti e le tazze.",
-            "failed": 0,
-            "lastAsked": 1446660901.0677867,
-            "question": "Given the definition \"In the kitchen there are plates and cups.\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "to agree",
-            "failed": 0,
-            "lastAsked": 1446660856.089214,
-            "question": "What is the definition of \"essere d'accordo\"?",
-            "tried": 1
-        },
-        {
-            "answer": "Il professore e' sempre puntuale.",
-            "failed": 1,
-            "lastAsked": 1446660928.92538,
-            "question": "Given the definition \"The professor is always on time.\", what is the word?",
+            "lastAsked": 1517433629.1943688,
+            "question": "What is the definition of \"essere puntuale\"?",
             "tried": 2
         },
         {
-            "answer": "sono",
+            "alternates": [],
+            "answer": "to be late",
             "failed": 0,
-            "lastAsked": 1446660800.6270418,
-            "question": "(essere) I ragazzi ___ di Roma.",
-            "tried": 1
-        },
-        {
-            "answer": "essere puntuale",
-            "failed": 1,
-            "lastAsked": 1446661045.71206,
-            "question": "Given the definition \"to be on time\", what is the word?",
+            "lastAsked": 1517433644.0669792,
+            "question": "What is the definition of \"essere in ritardo\"?",
             "tried": 2
         },
         {
+            "alternates": [
+                "do you agree?"
+            ],
             "answer": "Do you agree?",
             "failed": 0,
-            "lastAsked": 1446661039.4937043,
+            "lastAsked": 1517433686.5183637,
             "question": "What is the definition of \"Sei d'accordo\"?",
-            "tried": 1
-        },
-        {
-            "answer": "e'",
-            "failed": 0,
-            "lastAsked": 1446660973.610936,
-            "question": "Tu sei in cucina. -> Lei ___ in cucina.",
-            "tried": 1
-        },
-        {
-            "answer": "I libri sono sul tavolo.",
-            "failed": 1,
-            "lastAsked": 1446661067.6643155,
-            "question": "Given the definition \"The books are on the table.\", what is the word?",
             "tried": 2
         },
         {
-            "answer": "la bambina, le bambine",
-            "failed": 0,
-            "lastAsked": 1446661033.212345,
-            "question": "bambina -> (the) -> (the plural)",
-            "tried": 1
+            "alternates": [
+                "le sedie sono in cucina"
+            ],
+            "answer": "Le sedie sono in cucina.",
+            "failed": 1,
+            "lastAsked": 1517433691.408524,
+            "question": "Given the definition \"The chairs are in the kitchen.\", what is the word?",
+            "tried": 3
         },
         {
-            "answer": "l'armadio, gli armadi",
-            "failed": 1,
-            "lastAsked": 1446661074.73972,
-            "question": "armadio -> (the) -> (the plural)",
+            "alternates": [],
+            "answer": "sono",
+            "failed": 0,
+            "lastAsked": 1517433707.5439506,
+            "question": "Lei e' in cucina. -> Loro ___ in cucina.",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "la camara, le camare",
+                "la camera, le camere"
+            ],
+            "answer": "la camera, le camare",
+            "failed": 2,
+            "lastAsked": 1517433809.877319,
+            "question": "camera -> (the) -> (the plural)",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "il bambino, i bambini",
+            "failed": 0,
+            "lastAsked": 1517433704.9102437,
+            "question": "bambino -> (the) -> (the plural)",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "la cucina, le cucine",
+            "failed": 0,
+            "lastAsked": 1517433712.8744478,
+            "question": "cucina -> (the) -> (the plural)",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "you are late"
+            ],
+            "answer": "You (informal) are late.",
+            "failed": 0,
+            "lastAsked": 1517433755.390176,
+            "question": "What is the definition of \"Sei in ritardo.\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "lui/lei e'",
+            "failed": 0,
+            "lastAsked": 1517433697.5968912,
+            "question": "Given the definition \"he/she is\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "loro sono",
+            "failed": 0,
+            "lastAsked": 1517433750.4611282,
+            "question": "Given the definition \"they are\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "I am in a hurry"
+            ],
+            "answer": "I am in a hurry.",
+            "failed": 0,
+            "lastAsked": 1517433747.9045973,
+            "question": "What is the definition of \"Ho fretta.\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "I am from Rome, and you?"
+            ],
+            "answer": "I am from Rome, and you? (formal)",
+            "failed": 0,
+            "lastAsked": 1517433835.7504005,
+            "question": "What is the definition of \"Io sono di Roma, e Lei?\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "siete",
+            "failed": 0,
+            "lastAsked": 1517433826.6868796,
+            "question": "Io sono in cucina. -> Voi ___ in cucina.",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "io sono",
+            "failed": 0,
+            "lastAsked": 1517433841.1391933,
+            "question": "Given the definition \"I am\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "la bambina, le bambine",
+            "failed": 0,
+            "lastAsked": 1517433824.432357,
+            "question": "bambina -> (the) -> (the plural)",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "they are",
+            "failed": 0,
+            "lastAsked": 1517433829.118144,
+            "question": "What is the definition of \"loro sono\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "I am",
+            "failed": 0,
+            "lastAsked": 1517433843.764159,
+            "question": "What is the definition of \"io sono\"?",
             "tried": 2
         }
     ]

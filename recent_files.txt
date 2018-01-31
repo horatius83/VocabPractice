@@ -1,5 +1,3 @@
-.\Italian\Gianluigi5.json
-.\Italian\Gianluigi7.json
 .\Italian\Gianluigi9.json
 .\Italian\Gianluigi10.json
 .\Italian\Italian1.json
@@ -8,3 +6,5 @@
 .\Italian\Italian4.json
 .\Italian\Italian5.json
 .\Italian\Italian6.json
+.\Italian\Italian7.json
+.\Italian\Italian8.json

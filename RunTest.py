@@ -1,5 +1,4 @@
 # automatic kanji lookup
-# answer returned from user and answer displayed can be different
 # ui
 # threshold for questions (all questions with less than 70% pass rate)
 # automatically convert files ending in .txt to a json file and load that file
@@ -9,7 +8,9 @@ import sys
 from FileManagement import OpenJsonFile, ProcessJsonObj, OutputJsonFile
 from Vocab import Quiz, EightsQuizFunction
 from Parsing import ConvertFile
-from os.path import isfile
+from os.path import isfile, isdir
+from os import walk
+import os
 
 def RunTest(filename):
     print("Opening file: {0}".format(filename))
@@ -47,6 +48,7 @@ if len(sys.argv) > 1:
     for arg in sys.argv[1:]:
         if arg.endswith('.txt'):
             ConvertFile(arg)
+            print('Converted {0} to {1}'.format(arg, arg.replace('.txt', '.json')))
         elif arg.endswith('.json'):
             # open recent_files
             recent_files = get_recent_files()
@@ -59,6 +61,17 @@ if len(sys.argv) > 1:
                 print([arg])
                 update_recent_files(recent_files[-9:] + [arg])
             RunTest(arg)
+        elif isdir(arg):
+            (_,_,all_files) = next(walk(arg))
+            files = [f for f in all_files if f.endswith('.json')]
+            first_30_files = ['{0}: {1}'.format(i,f) for (i,f) in enumerate(files[:30])]
+            sections = [[first_30_files[x] for x in range(i,i+3)] for i in range(0,30,3)]
+            print('\n'.join(map(lambda x: '\t'.join(x),sections)))
+            try:
+                result = int(input('Enter selection: '))
+                RunTest(os.path.join(arg, files[result]))
+            except:
+                pass
 else:
     #RunTest(defaultFile)
     files = []
@@ -72,5 +85,4 @@ else:
         selection_as_number = int(selection)
         RunTest(files[selection_as_number])
     except:
-        RunTest(selection)
-        update_recent_files(recent_files[:9] + [selection])
+        pass

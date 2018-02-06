@@ -3,343 +3,207 @@
     "vocab": [
         {
             "alternates": [],
-            "answer": "ovale",
-            "failed": 1,
-            "lastAsked": 1492622053.354203,
-            "question": "Given the definition \"oval\", what is the word?",
-            "tried": 2
+            "answer": "lavare",
+            "failed": 7,
+            "lastAsked": 1492796492.7676225,
+            "question": "Given the definition \"to wash\", what is the word?",
+            "tried": 9
         },
         {
             "alternates": [],
-            "answer": "lavare",
+            "answer": "la passione",
             "failed": 4,
-            "lastAsked": 1492622139.4352307,
-            "question": "Given the definition \"to wash\", what is the word?",
-            "tried": 5
+            "lastAsked": 1492796340.9203331,
+            "question": "Given the definition \"passion\", what is the word?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "la ciliegia",
+            "failed": 9,
+            "lastAsked": 1492796836.7290676,
+            "question": "Given the definition \"cherry\", what is the word?",
+            "tried": 11
+        },
+        {
+            "alternates": [],
+            "answer": "di solito",
+            "failed": 5,
+            "lastAsked": 1492796478.3363807,
+            "question": "Given the definition \"usually\", what is the word?",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "il grappolo",
+            "failed": 6,
+            "lastAsked": 1492796495.3591173,
+            "question": "Given the definition \"brunch\", what is the word?",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "l'armadietto",
+            "failed": 5,
+            "lastAsked": 1492796454.6446488,
+            "question": "Given the definition \"cupboard\", what is the word?",
+            "tried": 7
         },
         {
             "alternates": [],
             "answer": "il piattino",
-            "failed": 3,
-            "lastAsked": 1492622131.4683084,
+            "failed": 7,
+            "lastAsked": 1492796821.8418713,
             "question": "Given the definition \"saucer\", what is the word?",
-            "tried": 4
+            "tried": 9
         },
         {
             "alternates": [],
-            "answer": "tagliare",
-            "failed": 0,
-            "lastAsked": 1492622040.778535,
-            "question": "Given the definition \"to cut\", what is the word?",
-            "tried": 1
+            "answer": "abbondante",
+            "failed": 6,
+            "lastAsked": 1492796490.479684,
+            "question": "Given the definition \"abundant, plentiful\", what is the word?",
+            "tried": 8
         },
         {
             "alternates": [],
             "answer": "sbucciare",
-            "failed": 2,
-            "lastAsked": 1492622102.673038,
+            "failed": 3,
+            "lastAsked": 1492796933.94241,
             "question": "Given the definition \"to peel\", what is the word?",
-            "tried": 3
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "pezzettino"
+            ],
+            "answer": "il pezzettino",
+            "failed": 3,
+            "lastAsked": 1492796951.6177773,
+            "question": "Given the definition \"small piece\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "delicious",
+            "failed": 2,
+            "lastAsked": 1492796852.6839993,
+            "question": "What is the definition of \"delizioso\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "favorite",
+            "failed": 2,
+            "lastAsked": 1492796842.312733,
+            "question": "What is the definition of \"preferito\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "small piece",
+            "failed": 3,
+            "lastAsked": 1492796959.0014753,
+            "question": "What is the definition of \"il pezzettino\"?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "spiegare",
+            "failed": 3,
+            "lastAsked": 1492796964.4820058,
+            "question": "Given the definition \"to explain\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "before",
+            "failed": 2,
+            "lastAsked": 1492796937.198268,
+            "question": "What is the definition of \"prima\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "dividere",
+            "failed": 2,
+            "lastAsked": 1492796931.1500635,
+            "question": "Given the definition \"to divide, share\", what is the word?",
+            "tried": 4
         },
         {
             "alternates": [],
             "answer": "to cut",
             "failed": 1,
-            "lastAsked": 1492622048.7144718,
+            "lastAsked": 1492796984.708624,
             "question": "What is the definition of \"tagliare\"?",
-            "tried": 2
+            "tried": 3
         },
         {
             "alternates": [],
-            "answer": "l'armadietto",
-            "failed": 3,
-            "lastAsked": 1492622135.2195532,
-            "question": "Given the definition \"cupboard\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "succoso",
+            "answer": "to peel",
             "failed": 1,
-            "lastAsked": 1492622087.629293,
-            "question": "Given the definition \"juicy\", what is the word?",
-            "tried": 2
+            "lastAsked": 1492796982.6685116,
+            "question": "What is the definition of \"sbucciare\"?",
+            "tried": 3
         },
         {
             "alternates": [],
-            "answer": "sweet",
-            "failed": 0,
-            "lastAsked": 1492622200.2901402,
-            "question": "What is the definition of \"dolce\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "at what time"
-            ],
-            "answer": "a what time?",
-            "failed": 0,
-            "lastAsked": 1492622176.4466362,
-            "question": "What is the definition of \"a che ora?\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "juicy",
-            "failed": 0,
-            "lastAsked": 1492622164.6627398,
-            "question": "What is the definition of \"succoso\"?",
-            "tried": 1
+            "answer": "fruit cocktail",
+            "failed": 3,
+            "lastAsked": 1492797045.9989426,
+            "question": "What is the definition of \"la macedonia\"?",
+            "tried": 5
         },
         {
             "alternates": [],
             "answer": "rotondo",
             "failed": 1,
-            "lastAsked": 1492622229.3889408,
+            "lastAsked": 1492796979.8451624,
             "question": "Given the definition \"round\", what is the word?",
-            "tried": 2
+            "tried": 3
         },
         {
             "alternates": [],
-            "answer": "la macedonia",
+            "answer": "cherry",
             "failed": 1,
-            "lastAsked": 1492622214.517441,
-            "question": "Given the definition \"fruit cocktail\", what is the word?",
-            "tried": 2
+            "lastAsked": 1492796977.7729006,
+            "question": "What is the definition of \"la ciliegia\"?",
+            "tried": 3
         },
         {
             "alternates": [],
-            "answer": "spiegare",
-            "failed": 2,
-            "lastAsked": 1492622232.8008337,
-            "question": "Given the definition \"to explain\", what is the word?",
+            "answer": "dovere",
+            "failed": 1,
+            "lastAsked": 1492797014.2719922,
+            "question": "Given the definition \"to have to, must\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "succoso",
+            "failed": 3,
+            "lastAsked": 1492797050.942265,
+            "question": "Given the definition \"juicy\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "zucchero"
+            ],
+            "answer": "lo zucchero",
+            "failed": 1,
+            "lastAsked": 1492797010.0403397,
+            "question": "Given the definition \"sugar\", what is the word?",
             "tried": 3
         },
         {
             "alternates": [],
             "answer": "to explain",
             "failed": 1,
-            "lastAsked": 1492622226.6287322,
+            "lastAsked": 1492797057.574649,
             "question": "What is the definition of \"spiegare\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "before",
-            "failed": 1,
-            "lastAsked": 1492622202.8818314,
-            "question": "What is the definition of \"prima\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "delicious",
-            "failed": 2,
-            "lastAsked": 1492622319.8180816,
-            "question": "What is the definition of \"delizioso\"?",
             "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "di solito",
-            "failed": 3,
-            "lastAsked": 1492622323.4502637,
-            "question": "Given the definition \"usually\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "to have dinner",
-            "failed": 1,
-            "lastAsked": 1492622290.8551273,
-            "question": "What is the definition of \"cenare\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "dividere",
-            "failed": 1,
-            "lastAsked": 1492622286.715375,
-            "question": "Given the definition \"to divide, share\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "cherry",
-            "failed": 1,
-            "lastAsked": 1492622298.5507529,
-            "question": "What is the definition of \"la ciliegia\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "delizioso",
-            "failed": 0,
-            "lastAsked": 1492622270.111855,
-            "question": "Given the definition \"delicious\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "to wash",
-            "failed": 0,
-            "lastAsked": 1492622272.5918238,
-            "question": "What is the definition of \"lavare\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "after",
-            "failed": 0,
-            "lastAsked": 1492622238.5890453,
-            "question": "What is the definition of \"dopo\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "to divide"
-            ],
-            "answer": "to divide, share",
-            "failed": 0,
-            "lastAsked": 1492622361.141174,
-            "question": "What is the definition of \"dividere\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "round",
-            "failed": 0,
-            "lastAsked": 1492622364.6127915,
-            "question": "What is the definition of \"rotondo\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "small piece",
-            "failed": 2,
-            "lastAsked": 1492622390.3401825,
-            "question": "What is the definition of \"il pezzettino\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [],
-            "answer": "fruit cocktail",
-            "failed": 1,
-            "lastAsked": 1492622385.9122212,
-            "question": "What is the definition of \"la macedonia\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "la passione",
-            "failed": 3,
-            "lastAsked": 1492622399.4839473,
-            "question": "Given the definition \"passion\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "oval",
-            "failed": 0,
-            "lastAsked": 1492622362.8209038,
-            "question": "What is the definition of \"ovale\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "saucer",
-            "failed": 0,
-            "lastAsked": 1492622357.0134842,
-            "question": "What is the definition of \"il piattino\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "passion",
-            "failed": 0,
-            "lastAsked": 1492622367.9209268,
-            "question": "What is the definition of \"la passione\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "lo zucchero",
-            "failed": 1,
-            "lastAsked": 1492622454.074471,
-            "question": "Given the definition \"sugar\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "a che ora?",
-            "failed": 1,
-            "lastAsked": 1492622457.834197,
-            "question": "Given the definition \"a what time?\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "cenare",
-            "failed": 1,
-            "lastAsked": 1492622449.994392,
-            "question": "Given the definition \"to have dinner\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "di solito",
-            "failed": 0,
-            "lastAsked": 1492622428.1190374,
-            "question": "Given the definition \"usually\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "il grappolo",
-            "failed": 3,
-            "lastAsked": 1492622473.8536081,
-            "question": "Given the definition \"brunch\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "usually",
-            "failed": 1,
-            "lastAsked": 1492622461.642123,
-            "question": "What is the definition of \"di solito\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "dolce",
-            "failed": 0,
-            "lastAsked": 1492622425.0231266,
-            "question": "Given the definition \"sweet\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "cupboard",
-            "failed": 0,
-            "lastAsked": 1492622441.7346182,
-            "question": "What is the definition of \"l'armadietto\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "sugar",
-            "failed": 0,
-            "lastAsked": 1492622500.5849798,
-            "question": "What is the definition of \"lo zucchero\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "dovere",
-            "failed": 1,
-            "lastAsked": 1492622515.2802937,
-            "question": "Given the definition \"to have to, must\", what is the word?",
-            "tried": 2
         },
         {
             "alternates": [
@@ -347,73 +211,123 @@
             ],
             "answer": "to have to, must",
             "failed": 1,
-            "lastAsked": 1492622524.952353,
+            "lastAsked": 1492797078.0740733,
             "question": "What is the definition of \"dovere\"?",
-            "tried": 2
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "cenare",
+            "failed": 1,
+            "lastAsked": 1492797085.4735262,
+            "question": "Given the definition \"to have dinner\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "a che ora?",
+            "failed": 1,
+            "lastAsked": 1492797054.4862514,
+            "question": "Given the definition \"a what time?\", what is the word?",
+            "tried": 3
         },
         {
             "alternates": [],
             "answer": "brunch",
             "failed": 1,
-            "lastAsked": 1492622513.2891538,
+            "lastAsked": 1492797090.4055314,
             "question": "What is the definition of \"il grappolo\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "abbondante",
-            "failed": 3,
-            "lastAsked": 1492622545.0115051,
-            "question": "Given the definition \"abundant, plentiful\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "favorite",
-            "failed": 2,
-            "lastAsked": 1492622532.6440458,
-            "question": "What is the definition of \"preferito\"?",
             "tried": 3
         },
         {
             "alternates": [],
-            "answer": "to peel",
+            "answer": "la macedonia",
+            "failed": 3,
+            "lastAsked": 1492797103.757192,
+            "question": "Given the definition \"fruit cocktail\", what is the word?",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "ovale",
             "failed": 1,
-            "lastAsked": 1492622510.9200745,
-            "question": "What is the definition of \"sbucciare\"?",
-            "tried": 2
+            "lastAsked": 1492797079.8345733,
+            "question": "Given the definition \"oval\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "to have dinner",
+            "failed": 1,
+            "lastAsked": 1492797083.0019329,
+            "question": "What is the definition of \"cenare\"?",
+            "tried": 3
         },
         {
             "alternates": [],
             "answer": "usually",
-            "failed": 0,
-            "lastAsked": 1492622508.560788,
+            "failed": 1,
+            "lastAsked": 1492797120.5083997,
             "question": "What is the definition of \"di solito\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "il pezzettino",
-            "failed": 2,
-            "lastAsked": 1492622635.6087635,
-            "question": "Given the definition \"small piece\", what is the word?",
             "tried": 3
         },
         {
             "alternates": [],
-            "answer": "preferito",
+            "answer": "dolce",
             "failed": 0,
-            "lastAsked": 1492622607.4057302,
-            "question": "Given the definition \"favorite\", what is the word?",
-            "tried": 1
+            "lastAsked": 1492797129.1124525,
+            "question": "Given the definition \"sweet\", what is the word?",
+            "tried": 2
         },
         {
             "alternates": [],
-            "answer": "dopo",
+            "answer": "sugar",
             "failed": 0,
-            "lastAsked": 1492622597.3059635,
-            "question": "Given the definition \"after\", what is the word?",
-            "tried": 1
+            "lastAsked": 1492797118.1013203,
+            "question": "What is the definition of \"lo zucchero\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "round",
+            "failed": 0,
+            "lastAsked": 1492797116.0925262,
+            "question": "What is the definition of \"rotondo\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "delizioso",
+            "failed": 0,
+            "lastAsked": 1492797114.1816928,
+            "question": "Given the definition \"delicious\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "at what time"
+            ],
+            "answer": "a what time?",
+            "failed": 0,
+            "lastAsked": 1492797123.4260397,
+            "question": "What is the definition of \"a che ora?\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "sweet",
+            "failed": 0,
+            "lastAsked": 1492797105.9415538,
+            "question": "What is the definition of \"dolce\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "di solito",
+            "failed": 0,
+            "lastAsked": 1492797109.2530408,
+            "question": "Given the definition \"usually\", what is the word?",
+            "tried": 2
         },
         {
             "alternates": [
@@ -421,25 +335,117 @@
             ],
             "answer": "abundant, plentiful",
             "failed": 0,
-            "lastAsked": 1492622602.6143868,
+            "lastAsked": 1492797132.3920963,
             "question": "What is the definition of \"abbondante\"?",
-            "tried": 1
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "after",
+            "failed": 0,
+            "lastAsked": 1492797139.000323,
+            "question": "What is the definition of \"dopo\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "to wash",
+            "failed": 0,
+            "lastAsked": 1492797141.2481806,
+            "question": "What is the definition of \"lavare\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "oval",
+            "failed": 0,
+            "lastAsked": 1492797147.116011,
+            "question": "What is the definition of \"ovale\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "cupboard",
+            "failed": 0,
+            "lastAsked": 1492797144.8601234,
+            "question": "What is the definition of \"l'armadietto\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "to divide"
+            ],
+            "answer": "to divide, share",
+            "failed": 0,
+            "lastAsked": 1492797134.9120655,
+            "question": "What is the definition of \"dividere\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "passion",
+            "failed": 0,
+            "lastAsked": 1492797136.9682267,
+            "question": "What is the definition of \"la passione\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "small plate"
+            ],
+            "answer": "saucer",
+            "failed": 0,
+            "lastAsked": 1492797154.5638144,
+            "question": "What is the definition of \"il piattino\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "tagliare",
+            "failed": 0,
+            "lastAsked": 1492797178.3263977,
+            "question": "Given the definition \"to cut\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "dopo",
+            "failed": 0,
+            "lastAsked": 1492797165.4593163,
+            "question": "Given the definition \"after\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "usually",
+            "failed": 0,
+            "lastAsked": 1492797157.0513573,
+            "question": "What is the definition of \"di solito\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "juicy",
+            "failed": 0,
+            "lastAsked": 1492797169.1872752,
+            "question": "What is the definition of \"succoso\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "preferito",
+            "failed": 0,
+            "lastAsked": 1492797175.0469804,
+            "question": "Given the definition \"favorite\", what is the word?",
+            "tried": 2
         },
         {
             "alternates": [],
             "answer": "prima",
-            "failed": 0,
-            "lastAsked": 1492622547.3154418,
+            "failed": 1,
+            "lastAsked": 1492797181.4391055,
             "question": "Given the definition \"before\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "la ciliegia",
-            "failed": 3,
-            "lastAsked": 1492622653.52865,
-            "question": "Given the definition \"cherry\", what is the word?",
-            "tried": 4
+            "tried": 3
         }
     ]
 }

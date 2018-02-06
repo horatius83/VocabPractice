@@ -2,949 +2,1403 @@
     "name": ".\\Italian\\Italian10.json",
     "vocab": [
         {
+            "alternates": [],
             "answer": "vicine",
-            "failed": 1,
-            "lastAsked": 1461000310.980158,
-            "question": "Le scuole sono (near).",
+            "failed": 0,
+            "lastAsked": 1517941374.7161431,
+            "question": "La scuola e' vicina. Le scuole sono ___",
             "tried": 1
         },
         {
-            "answer": "(un) ospedale",
-            "failed": 0,
-            "question": "Given the definition \"hospital\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "The theater is next to the church.",
-            "failed": 0,
-            "question": "Given the definition \"Il teatro e' vicino alla chiesa.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "l'ospedale",
-            "failed": 1,
-            "lastAsked": 1461000294.9170132,
-            "question": "What is the definition of \"the hospital\"?",
-            "tried": 1
-        },
-        {
-            "answer": "(una) scuola",
-            "failed": 0,
-            "lastAsked": 1461000315.9885437,
-            "question": "Given the definition \"school\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "far",
-            "failed": 0,
-            "question": "Given the definition \"lontano / lontana / lontani / lontane\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "vicino",
-            "failed": 0,
-            "question": "La banca e' qui (near).",
-            "tried": 0
-        },
-        {
-            "answer": "(una) chiesa",
-            "failed": 0,
-            "question": "Given the definition \"church\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "happy anniversary",
-            "failed": 0,
-            "question": "What is the definition of \"buon anniversario\"?",
-            "tried": 0
-        },
-        {
-            "answer": "There is a church on Mazzini Street.",
-            "failed": 0,
-            "question": "Given the definition \"C'e' una chiesa in via Mazzini.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "(un) cinema",
-            "failed": 0,
-            "question": "Given the definition \"movie theater\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "vicini",
-            "failed": 0,
-            "question": "Il semaforo e' vicino. I semafori sono ____",
-            "tried": 0
-        },
-        {
-            "answer": "kind",
-            "failed": 0,
-            "question": "What is the definition of \"gentile/gentili\"?",
-            "tried": 0
-        },
-        {
-            "answer": "C'e' una banca qui vicino.",
-            "failed": 0,
-            "question": "Given the definition \"There is a bank nearby.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "un officio postale",
-            "failed": 0,
-            "question": "What is the definition of \"a post office\"?",
-            "tried": 0
-        },
-        {
-            "answer": "vicino",
-            "failed": 0,
-            "question": "Gli ospedali sono (near) alla scuola.",
-            "tried": 0
-        },
-        {
-            "answer": "Where is a movie theater on Roma Avenue?",
-            "failed": 0,
-            "question": "Given the definition \"C'e' un cinema in viale Roma.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "chiesa, centro",
-            "failed": 0,
-            "question": "The church is downtown, too. Anche la ___ e' in ___.",
-            "tried": 0
-        },
-        {
-            "answer": "interessanti",
-            "failed": 0,
-            "question": "Il museo e' interessante. I musei sono ___",
-            "tried": 0
-        },
-        {
-            "answer": "eccelente/eccelenti",
-            "failed": 0,
-            "question": "Given the definition \"excellent\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "stazione, vicino, scuola",
-            "failed": 0,
-            "question": "The train station is next to the school. La ___ e' ___ alla ___.",
-            "tried": 0
-        },
-        {
-            "answer": "buon viaggio",
-            "failed": 0,
-            "question": "Given the definition \"have a good trip\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "farmacia, vicina",
-            "failed": 0,
-            "question": "The pharmacy, on the other hand, is near. La ___, inceve, e' ___.",
-            "tried": 0
-        },
-        {
-            "answer": "vicini",
-            "failed": 0,
-            "question": "Gli ospedali sono (near).",
-            "tried": 0
-        },
-        {
-            "answer": "vicini",
-            "failed": 0,
-            "question": "L'ufficio postale e' vicino. Gli uffici postali sono ___.",
-            "tried": 0
-        },
-        {
-            "answer": "buon Natale",
-            "failed": 0,
-            "question": "Given the definition \"Merry Christmas\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "pharmacy",
-            "failed": 0,
-            "question": "What is the definition of \"(una) farmacia\"?",
-            "tried": 0
-        },
-        {
-            "answer": "vicina",
-            "failed": 0,
-            "question": "La banca e' (near).",
-            "tried": 0
-        },
-        {
-            "answer": "a post office",
-            "failed": 0,
-            "question": "Given the definition \"un officio postale\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "La scuola e' qui vicino.",
-            "failed": 0,
-            "question": "Given the definition \"The school is nearby.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "La scuola e' vicina.",
-            "failed": 0,
-            "question": "Given the definition \"The school is near.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "vicino",
-            "failed": 0,
-            "question": "La famracia e' (near) all stazione.",
-            "tried": 0
-        },
-        {
-            "answer": "Enjoy your dinner!",
-            "failed": 0,
-            "question": "What is the definition of \"Buona cena!\"?",
-            "tried": 0
-        },
-        {
-            "answer": "scusa",
-            "failed": 0,
-            "question": "Given the definition \"excuse me (informal)\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "happy holidays",
-            "failed": 0,
-            "question": "What is the definition of \"buone feste\"?",
-            "tried": 0
-        },
-        {
-            "answer": "(un) museo",
-            "failed": 0,
-            "question": "Given the definition \"museum\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "vicino",
-            "failed": 0,
-            "question": "La farmacia e' qui (near).",
-            "tried": 0
-        },
-        {
-            "answer": "There is a pharmacy in Dante Square.",
-            "failed": 0,
-            "question": "Given the definition \"C'e' una farmacia in piazza Dante.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "vicini",
-            "failed": 0,
-            "question": "What is the definition of \"near (plural masculine)\"?",
-            "tried": 0
-        },
-        {
-            "answer": "C'e' una banca qui vicino?",
-            "failed": 0,
-            "question": "What is the definition of \"Is there a bank nearby?\"?",
-            "tried": 0
-        },
-        {
-            "answer": "buona fortuna",
-            "failed": 0,
-            "question": "Given the definition \"good luck\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "(un) supermercato",
-            "failed": 0,
-            "question": "Given the definition \"supermarket\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "in centro",
-            "failed": 0,
-            "question": "What is the definition of \"downtown\"?",
-            "tried": 0
-        },
-        {
-            "answer": "vicina",
-            "failed": 0,
-            "question": "What is the definition of \"near (singular feminine)\"?",
-            "tried": 0
-        },
-        {
-            "answer": "again",
-            "failed": 0,
-            "question": "Given the definition \"ancora\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "buone feste",
-            "failed": 0,
-            "question": "Given the definition \"happy holidays\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "fino a",
-            "failed": 0,
-            "question": "What is the definition of \"up to\"?",
-            "tried": 0
-        },
-        {
-            "answer": "excuse me (informal)",
-            "failed": 0,
-            "question": "What is the definition of \"scusa\"?",
-            "tried": 0
-        },
-        {
-            "answer": "There is a bank nearby.",
-            "failed": 0,
-            "question": "What is the definition of \"C'e' una banca qui vicino.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Dov'e' la stazione?",
-            "failed": 0,
-            "question": "What is the definition of \"Where is the train station?\"?",
-            "tried": 0
-        },
-        {
-            "answer": "near",
-            "failed": 0,
-            "question": "Given the definition \"vicino / vicina / vicini / vicine\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "C'e', cinema",
-            "failed": 0,
-            "question": "There's a movie theater on Mazzini street. ___ un ___ in via Mazzini.",
-            "tried": 0
-        },
-        {
-            "answer": "Il museo e' vicino alla stazione.",
-            "failed": 0,
-            "question": "What is the definition of \"The museum is next to the station.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "vicino",
-            "failed": 0,
-            "question": "Le scuole sono (near) alla banca.",
-            "tried": 0
-        },
-        {
+            "alternates": [
+                "teatro"
+            ],
             "answer": "(un) teatro",
             "failed": 0,
+            "lastAsked": 1517941426.5525901,
             "question": "Given the definition \"theater\", what is the word?",
-            "tried": 0
+            "tried": 1
         },
         {
-            "answer": "primo/prima/primi/prime",
-            "failed": 0,
-            "question": "Given the definition \"first\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "vicina",
-            "failed": 0,
-            "question": "La scuola e' (near).",
-            "tried": 0
-        },
-        {
-            "answer": "C'e' una farmacia in piazza Dante.",
-            "failed": 0,
-            "question": "What is the definition of \"There is a pharmacy in Dante Square.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "intersection",
-            "failed": 0,
-            "question": "Given the definition \"incrocio\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "eccelelenti",
-            "failed": 0,
-            "question": "Il ristorante e' eccelente. I ristoranti sono ___",
-            "tried": 0
-        },
-        {
-            "answer": "banca, ufficio",
-            "failed": 0,
-            "question": "The bank and the post office are downtown. La ___ e l'___ postale sono in centro.",
-            "tried": 0
-        },
-        {
-            "answer": "Is there a bank nearby?",
-            "failed": 0,
-            "question": "Given the definition \"C'e' una banca qui vicino?\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "(a) destra",
-            "failed": 0,
-            "question": "What is the definition of \"on the right, to the right\"?",
-            "tried": 0
-        },
-        {
-            "answer": "C'e' un cinema in viale Roma.",
-            "failed": 0,
-            "question": "What is the definition of \"There is a movie theater on Roma Avenue.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "secondo/seconda/secondi/seconde",
-            "failed": 0,
-            "question": "Given the definition \"second\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "movie theater",
-            "failed": 0,
-            "question": "What is the definition of \"(un) cinema\"?",
-            "tried": 0
-        },
-        {
-            "answer": "eccelenti",
-            "failed": 0,
-            "question": "La scuola e' eccelente. Le scuole sono ___",
-            "tried": 0
-        },
-        {
-            "answer": "vicino",
-            "failed": 0,
-            "question": "La chiesa e' qui (near).",
-            "tried": 0
-        },
-        {
-            "answer": "Buona passeggiata!",
-            "failed": 0,
-            "question": "Given the definition \"Enjoy your walk!\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "hospital",
-            "failed": 0,
-            "question": "What is the definition of \"(un) ospedale\"?",
-            "tried": 0
-        },
-        {
-            "answer": "teatro, piazza",
-            "failed": 0,
-            "question": "And there's a theater in Dante Square. E c'e' un ___ in ___ Dante.",
-            "tried": 0
-        },
-        {
-            "answer": "(un) officio postale",
-            "failed": 0,
-            "question": "Given the definition \"post office\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "on the right, to the right",
-            "failed": 0,
-            "question": "Given the definition \"(a) destra\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "la scuola",
-            "failed": 0,
-            "question": "What is the definition of \"the school\"?",
-            "tried": 0
-        },
-        {
-            "answer": "post office",
-            "failed": 0,
-            "question": "What is the definition of \"(un) officio postale\"?",
-            "tried": 0
-        },
-        {
-            "answer": "happy birthday",
-            "failed": 0,
-            "question": "What is the definition of \"buon compleanno\"?",
-            "tried": 0
-        },
-        {
-            "answer": "have a good trip",
-            "failed": 0,
-            "question": "What is the definition of \"buon viaggio\"?",
-            "tried": 0
-        },
-        {
-            "answer": "gentili",
-            "failed": 0,
-            "question": "La madre e' gentile. Le madri sono ___",
-            "tried": 0
-        },
-        {
-            "answer": "near (plural masculine)",
-            "failed": 0,
-            "question": "Given the definition \"vicini\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "vicine",
-            "failed": 0,
-            "question": "La scuola e' vicina. Le scuole sono ___",
-            "tried": 0
-        },
-        {
-            "answer": "C'e' un cinema in viale Roma.",
-            "failed": 0,
-            "question": "What is the definition of \"Where is a movie theater on Roma Avenue?\"?",
-            "tried": 0
-        },
-        {
-            "answer": "supermarket",
-            "failed": 0,
-            "question": "What is the definition of \"(un) supermercato\"?",
-            "tried": 0
-        },
-        {
-            "answer": "incrocio",
-            "failed": 0,
-            "question": "What is the definition of \"intersection\"?",
-            "tried": 0
-        },
-        {
-            "answer": "scusi",
-            "failed": 0,
-            "question": "Given the definition \"excuse me (formal)\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "Buona cena!",
-            "failed": 0,
-            "question": "Given the definition \"Enjoy your dinner!\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "bank",
-            "failed": 0,
-            "question": "What is the definition of \"(una) banca\"?",
-            "tried": 0
-        },
-        {
-            "answer": "(una) stazione",
-            "failed": 0,
-            "question": "Given the definition \"train station\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "un supermercato",
-            "failed": 0,
-            "question": "What is the definition of \"a supermarket\"?",
-            "tried": 0
-        },
-        {
-            "answer": "vicino",
-            "failed": 0,
-            "question": "Le scuole sono qui (near).",
-            "tried": 0
-        },
-        {
-            "answer": "La scuola e' vicino alla chiesa.",
-            "failed": 0,
-            "question": "Given the definition \"The school is next to the church.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "vicine",
-            "failed": 0,
-            "question": "Le scuole sono (near).",
-            "tried": 0
-        },
-        {
-            "answer": "The school is nearby.",
-            "failed": 0,
-            "question": "What is the definition of \"La scuola e' qui vicino.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "buon compleanno",
-            "failed": 0,
-            "question": "Given the definition \"happy birthday\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "first",
-            "failed": 0,
-            "question": "What is the definition of \"primo/prima/primi/prime\"?",
-            "tried": 0
-        },
-        {
-            "answer": "buon riposo",
-            "failed": 0,
-            "question": "Given the definition \"have a good rest\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "vicino",
-            "failed": 0,
-            "question": "What is the definition of \"near (singular masculine)\"?",
-            "tried": 0
-        },
-        {
-            "answer": "lontani",
-            "failed": 0,
-            "question": "L'ospedale e' lontano. Gli ospedali sono ___",
-            "tried": 0
-        },
-        {
-            "answer": "The school is next to the church.",
-            "failed": 0,
-            "question": "What is the definition of \"La scuola e' vicino alla chiesa.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "vicina",
-            "failed": 0,
-            "question": "La banca e' (near).",
-            "tried": 0
-        },
-        {
-            "answer": "Il teatro e' vicino alla chiesa.",
-            "failed": 0,
-            "question": "What is the definition of \"The theater is next to the church.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "ancora",
-            "failed": 0,
-            "question": "What is the definition of \"again\"?",
-            "tried": 0
-        },
-        {
-            "answer": "vicino",
-            "failed": 0,
-            "question": "Il ristorante e' (near) alla farmacia.",
-            "tried": 0
-        },
-        {
-            "answer": "The museum is next to the station.",
-            "failed": 0,
-            "question": "Given the definition \"Il museo e' vicino alla stazione.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "school",
-            "failed": 0,
-            "question": "What is the definition of \"(una) scuola\"?",
-            "tried": 0
-        },
-        {
-            "answer": "near (singular masculine)",
-            "failed": 0,
-            "question": "Given the definition \"vicino\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "lontane",
-            "failed": 0,
-            "question": "La banca e' lontana. Le banche sono ___",
-            "tried": 0
-        },
-        {
-            "answer": "near (plural feminine)",
-            "failed": 0,
-            "question": "Given the definition \"vicine\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "poi",
-            "failed": 0,
-            "question": "What is the definition of \"then\"?",
-            "tried": 0
-        },
-        {
-            "answer": "good luck",
-            "failed": 0,
-            "question": "What is the definition of \"buona fortuna\"?",
-            "tried": 0
-        },
-        {
-            "answer": "semaforo",
-            "failed": 0,
-            "question": "What is the definition of \"traffic light\"?",
-            "tried": 0
-        },
-        {
-            "answer": "sempre diritto",
-            "failed": 0,
-            "question": "What is the definition of \"straight ahead\"?",
-            "tried": 0
-        },
-        {
-            "answer": "gentile/gentili",
-            "failed": 0,
-            "question": "Given the definition \"kind\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "vicino",
-            "failed": 0,
-            "question": "La stazione e' (near) all abanca.",
-            "tried": 0
-        },
-        {
-            "answer": "Merry Christmas",
-            "failed": 0,
-            "question": "What is the definition of \"buon Natale\"?",
-            "tried": 0
-        },
-        {
-            "answer": "excellent",
-            "failed": 0,
-            "question": "What is the definition of \"eccelente/eccelenti\"?",
-            "tried": 0
-        },
-        {
-            "answer": "vicine",
-            "failed": 0,
-            "question": "What is the definition of \"near (plural feminine)\"?",
-            "tried": 0
-        },
-        {
-            "answer": "buon anniversario",
-            "failed": 0,
-            "question": "Given the definition \"happy anniversary\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "second",
-            "failed": 0,
-            "question": "What is the definition of \"secondo/seconda/secondi/seconde\"?",
-            "tried": 0
-        },
-        {
-            "answer": "There is a movie theater on Roma Avenue.",
-            "failed": 0,
-            "question": "Given the definition \"C'e' un cinema in viale Roma.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "(una) farmacia",
-            "failed": 0,
-            "question": "Given the definition \"pharmacy\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "vicino",
-            "failed": 0,
-            "question": "I supermercati sono (near) alla stazione.",
-            "tried": 0
-        },
-        {
-            "answer": "near (singular feminine)",
-            "failed": 0,
-            "question": "Given the definition \"vicina\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "simpatici",
-            "failed": 0,
-            "question": "Il padre e' simpatico. I padri sono ___",
-            "tried": 0
-        },
-        {
-            "answer": "have a good rest",
-            "failed": 0,
-            "question": "What is the definition of \"buon riposo\"?",
-            "tried": 0
-        },
-        {
-            "answer": "downtown",
-            "failed": 0,
-            "question": "Given the definition \"in centro\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "excuse me (formal)",
-            "failed": 0,
-            "question": "What is the definition of \"scusi\"?",
-            "tried": 0
-        },
-        {
-            "answer": "on the left, to the left",
-            "failed": 0,
-            "question": "Given the definition \"(a) sinistra\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "then",
-            "failed": 0,
-            "question": "Given the definition \"poi\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "vicino / vicina / vicini / vicine",
-            "failed": 0,
-            "question": "What is the definition of \"near\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Il ristorante e' vicino alla scuola.",
-            "failed": 0,
-            "question": "What is the definition of \"The restaurant is next to the school.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "restaurant",
-            "failed": 0,
-            "question": "What is the definition of \"(un) ristorante\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Enjoy your walk!",
-            "failed": 0,
-            "question": "What is the definition of \"Buona passeggiata!\"?",
-            "tried": 0
-        },
-        {
-            "answer": "the hospital",
-            "failed": 0,
-            "question": "Given the definition \"l'ospedale\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "museum",
-            "failed": 0,
-            "question": "What is the definition of \"(un) museo\"?",
-            "tried": 0
-        },
-        {
-            "answer": "citta'",
-            "failed": 0,
-            "question": "This is my hometown. Questa e' la mia ___ natale.",
-            "tried": 0
-        },
-        {
-            "answer": "ospedale, lontano",
-            "failed": 0,
-            "question": "The hospital is far. L'___ e' ____.",
-            "tried": 0
-        },
-        {
-            "answer": "The restaurant is next to the school.",
-            "failed": 0,
-            "question": "Given the definition \"Il ristorante e' vicino alla scuola.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "straight ahead",
-            "failed": 0,
-            "question": "Given the definition \"sempre diritto\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "lontano / lontana / lontani / lontane",
-            "failed": 0,
-            "question": "What is the definition of \"far\"?",
-            "tried": 0
-        },
-        {
-            "answer": "(un) ristorante",
-            "failed": 0,
-            "question": "Given the definition \"restaurant\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "train station",
-            "failed": 0,
-            "question": "What is the definition of \"(una) stazione\"?",
-            "tried": 0
-        },
-        {
-            "answer": "church",
-            "failed": 0,
-            "question": "What is the definition of \"(una) chiesa\"?",
-            "tried": 0
-        },
-        {
-            "answer": "up to",
-            "failed": 0,
-            "question": "Given the definition \"fino a\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "through",
-            "failed": 0,
-            "question": "Given the definition \"per\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "a supermarket",
-            "failed": 0,
-            "question": "Given the definition \"un supermercato\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "(a) sinistra",
-            "failed": 0,
-            "question": "What is the definition of \"on the left, to the left\"?",
-            "tried": 0
-        },
-        {
-            "answer": "Where is the train station?",
-            "failed": 0,
-            "question": "Given the definition \"Dov'e' la stazione?\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "vicino",
-            "failed": 0,
-            "question": "L'ufficio postale e' (near).",
-            "tried": 0
-        },
-        {
-            "answer": "per",
-            "failed": 0,
-            "question": "What is the definition of \"through\"?",
-            "tried": 0
-        },
-        {
-            "answer": "The school is near.",
-            "failed": 0,
-            "question": "What is the definition of \"La scuola e' vicina.\"?",
-            "tried": 0
-        },
-        {
-            "answer": "(una) banca",
-            "failed": 0,
-            "question": "Given the definition \"bank\", what is the word?",
-            "tried": 0
-        },
-        {
-            "answer": "traffic light",
-            "failed": 0,
-            "question": "Given the definition \"semaforo\", what is the word?",
-            "tried": 0
-        },
-        {
+            "alternates": [],
             "answer": "theater",
             "failed": 0,
+            "lastAsked": 1517941403.56042,
             "question": "What is the definition of \"(un) teatro\"?",
-            "tried": 0
+            "tried": 1
         },
         {
+            "alternates": [],
+            "answer": "interessanti",
+            "failed": 0,
+            "lastAsked": 1517941381.6923735,
+            "question": "Il museo e' interessante. I musei sono ___",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "vicino",
+            "failed": 1,
+            "lastAsked": 1517941437.877129,
+            "question": "La farmacia e' qui (near).",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "scusi",
+            "failed": 0,
+            "lastAsked": 1517941399.876403,
+            "question": "Given the definition \"excuse me (formal)\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "la scuola e' qui vicino"
+            ],
+            "answer": "La scuola e' qui vicino.",
+            "failed": 1,
+            "lastAsked": 1517941444.280092,
+            "question": "Given the definition \"The school is nearby.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "lontani",
+            "failed": 0,
+            "lastAsked": 1517941434.4093404,
+            "question": "L'ospedale e' lontano. Gli ospedali sono ___",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "train station",
+            "failed": 1,
+            "lastAsked": 1517941550.6428733,
+            "question": "What is the definition of \"(una) stazione\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "vicino",
+            "failed": 1,
+            "lastAsked": 1517941542.586263,
+            "question": "I supermercati sono (near) alla stazione.",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "vicini",
+            "failed": 0,
+            "lastAsked": 1517941457.6954818,
+            "question": "L'ufficio postale e' vicino. Gli uffici postali sono ___.",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "There is a movie theater on Roma avenue"
+            ],
+            "answer": "There is a movie theater on Roma Avenue.",
+            "failed": 1,
+            "lastAsked": 1517941562.911708,
+            "question": "Given the definition \"C'e' un cinema in viale Roma.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "merry christmas"
+            ],
+            "answer": "Merry Christmas",
+            "failed": 0,
+            "lastAsked": 1517941529.209633,
+            "question": "What is the definition of \"buon Natale\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "banca, ufficio",
+            "failed": 1,
+            "lastAsked": 1517941546.9503863,
+            "question": "The bank and the post office are downtown. La ___ e l'___ postale sono in centro.",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "have a good dinner"
+            ],
+            "answer": "Enjoy your dinner!",
+            "failed": 0,
+            "lastAsked": 1517941451.4896243,
+            "question": "What is the definition of \"Buona cena!\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "vicine",
+            "failed": 0,
+            "lastAsked": 1517941539.5459456,
+            "question": "What is the definition of \"near (plural feminine)\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "excellent",
+            "failed": 0,
+            "lastAsked": 1517941565.7957046,
+            "question": "What is the definition of \"eccelente/eccelenti\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "gentile"
+            ],
+            "answer": "gentile/gentili",
+            "failed": 1,
+            "lastAsked": 1517941620.9886172,
+            "question": "Given the definition \"kind\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "poi",
+            "failed": 2,
+            "lastAsked": 1517941643.4772305,
+            "question": "What is the definition of \"then\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
             "answer": "vicino",
             "failed": 0,
-            "question": "La banca e' (near) alla chiesa.",
-            "tried": 0
+            "lastAsked": 1517941617.8108857,
+            "question": "La stazione e' (near) all abanca.",
+            "tried": 1
         },
         {
-            "answer": "C'e' una chiesa in via Mazzini.",
+            "alternates": [
+                "close (feminine)"
+            ],
+            "answer": "near (singular feminine)",
+            "failed": 1,
+            "lastAsked": 1517941633.941365,
+            "question": "Given the definition \"vicina\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "vicino",
             "failed": 0,
-            "question": "What is the definition of \"There is a church on Mazzini Street.\"?",
-            "tried": 0
+            "lastAsked": 1517941606.6614742,
+            "question": "La famracia e' (near) all stazione.",
+            "tried": 1
         },
         {
+            "alternates": [
+                "ufficio postale"
+            ],
+            "answer": "(un) officio postale",
+            "failed": 0,
+            "lastAsked": 1517941577.0165846,
+            "question": "Given the definition \"post office\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "incrocio",
+            "failed": 2,
+            "lastAsked": 1517941641.6504924,
+            "question": "What is the definition of \"intersection\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "a pharmacy"
+            ],
+            "answer": "pharmacy",
+            "failed": 0,
+            "lastAsked": 1517941650.973732,
+            "question": "What is the definition of \"(una) farmacia\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "il teatro e' vicino alla chiesa"
+            ],
+            "answer": "Il teatro e' vicino alla chiesa.",
+            "failed": 3,
+            "lastAsked": 1517941816.7445924,
+            "question": "What is the definition of \"The theater is next to the church.\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "la scuola e' vicina"
+            ],
+            "answer": "La scuola e' vicina.",
+            "failed": 1,
+            "lastAsked": 1517941787.1424408,
+            "question": "Given the definition \"The school is near.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "vicini",
+            "failed": 0,
+            "lastAsked": 1517941746.093191,
+            "question": "What is the definition of \"near (plural masculine)\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "hospital"
+            ],
+            "answer": "the hospital",
+            "failed": 0,
+            "lastAsked": 1517941733.1531208,
+            "question": "Given the definition \"l'ospedale\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "have a good trip",
+            "failed": 0,
+            "lastAsked": 1517941738.6215575,
+            "question": "What is the definition of \"buon viaggio\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "second",
+            "failed": 1,
+            "lastAsked": 1517941764.2134743,
+            "question": "What is the definition of \"secondo/seconda/secondi/seconde\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "Dov'e la stazione?"
+            ],
+            "answer": "Dov'e' la stazione?",
+            "failed": 0,
+            "lastAsked": 1517941762.1592286,
+            "question": "What is the definition of \"Where is the train station?\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "lontane",
+            "failed": 1,
+            "lastAsked": 1517941897.3371696,
+            "question": "La banca e' lontana. Le banche sono ___",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "buona passeggiata"
+            ],
+            "answer": "Buona passeggiata!",
+            "failed": 2,
+            "lastAsked": 1517941905.083171,
+            "question": "Given the definition \"Enjoy your walk!\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "first",
+            "failed": 0,
+            "lastAsked": 1517941818.6381264,
+            "question": "What is the definition of \"primo/prima/primi/prime\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "vicino"
+            ],
+            "answer": "vicino / vicina / vicini / vicine",
+            "failed": 0,
+            "lastAsked": 1517941876.7600546,
+            "question": "What is the definition of \"near\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "a restaurant"
+            ],
+            "answer": "restaurant",
+            "failed": 0,
+            "lastAsked": 1517941841.6940694,
+            "question": "What is the definition of \"(un) ristorante\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "teatro, piazza",
+            "failed": 0,
+            "lastAsked": 1517941851.6432292,
+            "question": "And there's a theater in Dante Square. E c'e' un ___ in ___ Dante.",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "vicino",
+            "failed": 1,
+            "lastAsked": 1517941900.4942477,
+            "question": "La banca e' qui (near).",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "per",
+            "failed": 1,
+            "lastAsked": 1517941878.4955895,
+            "question": "What is the definition of \"through\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "again",
+            "failed": 1,
+            "lastAsked": 1517941992.5942492,
+            "question": "Given the definition \"ancora\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "la scuola",
+            "failed": 1,
+            "lastAsked": 1517941996.4885983,
+            "question": "What is the definition of \"the school\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "ancora",
+            "failed": 1,
+            "lastAsked": 1517942001.1184874,
+            "question": "What is the definition of \"again\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "The school is next to the church"
+            ],
+            "answer": "The school is next to the church.",
+            "failed": 0,
+            "lastAsked": 1517941990.1107712,
+            "question": "What is the definition of \"La scuola e' vicino alla chiesa.\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "There is a church on Mazzini street"
+            ],
+            "answer": "There is a church on Mazzini Street.",
+            "failed": 0,
+            "lastAsked": 1517941979.7002242,
+            "question": "Given the definition \"C'e' una chiesa in via Mazzini.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "supermercato"
+            ],
+            "answer": "(un) supermercato",
+            "failed": 1,
+            "lastAsked": 1517942004.8477952,
+            "question": "Given the definition \"supermarket\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "Is there a bank nearby?",
+            "failed": 0,
+            "lastAsked": 1517941923.0383067,
+            "question": "Given the definition \"C'e' una banca qui vicino?\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "C'e una banca qui vicino"
+            ],
+            "answer": "C'e' una banca qui vicino.",
+            "failed": 2,
+            "lastAsked": 1517942032.8701656,
+            "question": "Given the definition \"There is a bank nearby.\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "good luck",
+            "failed": 0,
+            "lastAsked": 1517942081.1646805,
+            "question": "What is the definition of \"buona fortuna\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "the school is nearby"
+            ],
+            "answer": "The school is nearby.",
+            "failed": 0,
+            "lastAsked": 1517942073.6210253,
+            "question": "What is the definition of \"La scuola e' qui vicino.\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "ristorante"
+            ],
+            "answer": "(un) ristorante",
+            "failed": 0,
+            "lastAsked": 1517942090.0930507,
+            "question": "Given the definition \"restaurant\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
             "answer": "vicina",
             "failed": 0,
-            "question": "La famracia e' (near).",
-            "tried": 0
+            "lastAsked": 1517942084.9160535,
+            "question": "La banca e' (near).",
+            "tried": 1
         },
         {
+            "alternates": [],
+            "answer": "scusa",
+            "failed": 2,
+            "lastAsked": 1517942123.128345,
+            "question": "Given the definition \"excuse me (informal)\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "buona cena"
+            ],
+            "answer": "Buona cena!",
+            "failed": 1,
+            "lastAsked": 1517942118.3445218,
+            "question": "Given the definition \"Enjoy your dinner!\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "secondo"
+            ],
+            "answer": "secondo/seconda/secondi/seconde",
+            "failed": 0,
+            "lastAsked": 1517942076.87678,
+            "question": "Given the definition \"second\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "The restaurant is next to the school"
+            ],
+            "answer": "The restaurant is next to the school.",
+            "failed": 0,
+            "lastAsked": 1517942102.3138933,
+            "question": "Given the definition \"Il ristorante e' vicino alla scuola.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "chiesa, centro",
+            "failed": 0,
+            "lastAsked": 1517942236.3916612,
+            "question": "The church is downtown, too. Anche la ___ e' in ___.",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "il ristorante e' vicino alla scuola"
+            ],
+            "answer": "Il ristorante e' vicino alla scuola.",
+            "failed": 0,
+            "lastAsked": 1517942166.9002547,
+            "question": "What is the definition of \"The restaurant is next to the school.\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "downtown",
+            "failed": 0,
+            "lastAsked": 1517942228.281234,
+            "question": "Given the definition \"in centro\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "stazione"
+            ],
+            "answer": "(una) stazione",
+            "failed": 0,
+            "lastAsked": 1517942242.0850985,
+            "question": "Given the definition \"train station\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "happy anniversary",
+            "failed": 0,
+            "lastAsked": 1517942252.9505417,
+            "question": "What is the definition of \"buon anniversario\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "far",
+            "failed": 0,
+            "lastAsked": 1517942255.63078,
+            "question": "Given the definition \"lontano / lontana / lontani / lontane\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "hospital",
+            "failed": 0,
+            "lastAsked": 1517942259.3247063,
+            "question": "What is the definition of \"(un) ospedale\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "vicine",
+            "failed": 1,
+            "lastAsked": 1517942222.8943114,
+            "question": "Le scuole sono (near).",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "la scuola e' vicino alla chiesa"
+            ],
+            "answer": "La scuola e' vicino alla chiesa.",
+            "failed": 0,
+            "lastAsked": 1517942314.9294984,
+            "question": "Given the definition \"The school is next to the church.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "farmacia"
+            ],
+            "answer": "(una) farmacia",
+            "failed": 0,
+            "lastAsked": 1517942296.3527768,
+            "question": "Given the definition \"pharmacy\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "C'e una banca qui vicino"
+            ],
+            "answer": "C'e' una banca qui vicino?",
+            "failed": 0,
+            "lastAsked": 1517942288.7691653,
+            "question": "What is the definition of \"Is there a bank nearby?\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "close"
+            ],
+            "answer": "near",
+            "failed": 0,
+            "lastAsked": 1517942318.6213312,
+            "question": "Given the definition \"vicino / vicina / vicini / vicine\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "a destra"
+            ],
+            "answer": "(a) destra",
+            "failed": 1,
+            "lastAsked": 1517942369.7202468,
+            "question": "What is the definition of \"on the right, to the right\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "the theater is next to the church"
+            ],
+            "answer": "The theater is next to the church.",
+            "failed": 0,
+            "lastAsked": 1517942335.0575323,
+            "question": "Given the definition \"Il teatro e' vicino alla chiesa.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "buona fortuna",
+            "failed": 0,
+            "lastAsked": 1517942274.1208155,
+            "question": "Given the definition \"good luck\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "up to",
+            "failed": 1,
+            "lastAsked": 1517942372.6768842,
+            "question": "Given the definition \"fino a\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "supermercato"
+            ],
+            "answer": "un supermercato",
+            "failed": 0,
+            "lastAsked": 1517942468.4207935,
+            "question": "What is the definition of \"a supermarket\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "traffic light",
+            "failed": 0,
+            "lastAsked": 1517942553.968586,
+            "question": "Given the definition \"semaforo\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "C'e una chiesa in via Mazzini"
+            ],
+            "answer": "C'e' una chiesa in via Mazzini.",
+            "failed": 0,
+            "lastAsked": 1517942488.5534592,
+            "question": "What is the definition of \"There is a church on Mazzini Street.\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "vicino",
+            "failed": 0,
+            "lastAsked": 1517942549.3267922,
+            "question": "L'ufficio postale e' (near).",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "buone feste",
+            "failed": 1,
+            "lastAsked": 1517942575.4742172,
+            "question": "Given the definition \"happy holidays\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "happy birthday",
+            "failed": 0,
+            "lastAsked": 1517942493.0757034,
+            "question": "What is the definition of \"buon compleanno\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "sempre diritto",
+            "failed": 2,
+            "lastAsked": 1517942586.4057543,
+            "question": "What is the definition of \"straight ahead\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "the school is close"
+            ],
+            "answer": "The school is near.",
+            "failed": 0,
+            "lastAsked": 1517942474.298371,
+            "question": "What is the definition of \"La scuola e' vicina.\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "il museo e' vicino alla stazione"
+            ],
+            "answer": "Il museo e' vicino alla stazione.",
+            "failed": 0,
+            "lastAsked": 1517942600.5988865,
+            "question": "What is the definition of \"The museum is next to the station.\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "kind",
+            "failed": 0,
+            "lastAsked": 1517942609.3559797,
+            "question": "What is the definition of \"gentile/gentili\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "close (plural, feminine)"
+            ],
+            "answer": "near (plural feminine)",
+            "failed": 0,
+            "lastAsked": 1517942666.4620845,
+            "question": "Given the definition \"vicine\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "eccelenti",
+            "failed": 0,
+            "lastAsked": 1517942673.020581,
+            "question": "La scuola e' eccelente. Le scuole sono ___",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "stazione, vicino, scuola",
+            "failed": 0,
+            "lastAsked": 1517942655.41192,
+            "question": "The train station is next to the school. La ___ e' ___ alla ___.",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "eccelente"
+            ],
+            "answer": "eccelente/eccelenti",
+            "failed": 0,
+            "lastAsked": 1517942620.963402,
+            "question": "Given the definition \"excellent\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "chiesa"
+            ],
+            "answer": "(una) chiesa",
+            "failed": 0,
+            "lastAsked": 1517942604.4962778,
+            "question": "Given the definition \"church\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "intersection",
+            "failed": 0,
+            "lastAsked": 1517942615.4304152,
+            "question": "Given the definition \"incrocio\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "ospedale"
+            ],
+            "answer": "(un) ospedale",
+            "failed": 0,
+            "lastAsked": 1517942736.427753,
+            "question": "Given the definition \"hospital\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "post office",
+            "failed": 0,
+            "lastAsked": 1517942728.721307,
+            "question": "What is the definition of \"(un) officio postale\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "buon compleanno",
+            "failed": 1,
+            "lastAsked": 1517942739.5767436,
+            "question": "Given the definition \"happy birthday\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "lontano"
+            ],
+            "answer": "lontano / lontana / lontani / lontane",
+            "failed": 0,
+            "lastAsked": 1517942711.1322088,
+            "question": "What is the definition of \"far\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "vicina",
+            "failed": 0,
+            "lastAsked": 1517942707.4577672,
+            "question": "La scuola e' (near).",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "supermarket",
+            "failed": 2,
+            "lastAsked": 1517942755.8937438,
+            "question": "What is the definition of \"(un) supermercato\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "excuse me (informal)",
+            "failed": 1,
+            "lastAsked": 1517942751.7034256,
+            "question": "What is the definition of \"scusa\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "vicina",
+            "failed": 0,
+            "lastAsked": 1517942714.8970623,
+            "question": "La banca e' (near).",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "a sinistra"
+            ],
+            "answer": "(a) sinistra",
+            "failed": 1,
+            "lastAsked": 1517942801.1689675,
+            "question": "What is the definition of \"on the left, to the left\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "straight ahead",
+            "failed": 0,
+            "lastAsked": 1517942764.692037,
+            "question": "Given the definition \"sempre diritto\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "cinema"
+            ],
+            "answer": "(un) cinema",
+            "failed": 0,
+            "lastAsked": 1517942761.0537403,
+            "question": "Given the definition \"movie theater\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "then",
+            "failed": 1,
+            "lastAsked": 1517942797.5779428,
+            "question": "Given the definition \"poi\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "left"
+            ],
+            "answer": "on the left, to the left",
+            "failed": 0,
+            "lastAsked": 1517942777.1657767,
+            "question": "Given the definition \"(a) sinistra\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "l'ospedale",
+            "failed": 1,
+            "lastAsked": 1517942789.9644554,
+            "question": "What is the definition of \"the hospital\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "banca"
+            ],
+            "answer": "(una) banca",
+            "failed": 0,
+            "lastAsked": 1517942785.6470091,
+            "question": "Given the definition \"bank\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "vicine",
+            "failed": 0,
+            "lastAsked": 1517942793.851476,
+            "question": "Le scuole sono (near).",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "in centro",
+            "failed": 1,
+            "lastAsked": 1517942855.761899,
+            "question": "What is the definition of \"downtown\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "vicino",
+            "failed": 1,
+            "lastAsked": 1517942853.389964,
+            "question": "Le scuole sono (near) alla banca.",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "ospedale, lontano",
+            "failed": 0,
+            "lastAsked": 1517942841.0263782,
+            "question": "The hospital is far. L'___ e' ____.",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "semaforo",
+            "failed": 0,
+            "lastAsked": 1517942833.5940835,
+            "question": "What is the definition of \"traffic light\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "vicina",
+            "failed": 0,
+            "lastAsked": 1517942803.9318128,
+            "question": "What is the definition of \"near (singular feminine)\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "museo"
+            ],
+            "answer": "(un) museo",
+            "failed": 0,
+            "lastAsked": 1517942815.6840053,
+            "question": "Given the definition \"museum\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "happy holidays",
+            "failed": 0,
+            "lastAsked": 1517942819.3970351,
+            "question": "What is the definition of \"buone feste\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "There is a bank nearby"
+            ],
+            "answer": "There is a bank nearby.",
+            "failed": 0,
+            "lastAsked": 1517942830.938894,
+            "question": "What is the definition of \"C'e' una banca qui vicino.\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "eccelenti"
+            ],
+            "answer": "eccelelenti",
+            "failed": 0,
+            "lastAsked": 1517942866.4624314,
+            "question": "Il ristorante e' eccelente. I ristoranti sono ___",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "gentili",
+            "failed": 1,
+            "lastAsked": 1517942910.399024,
+            "question": "La madre e' gentile. Le madri sono ___",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "right"
+            ],
+            "answer": "on the right, to the right",
+            "failed": 0,
+            "lastAsked": 1517942879.3693774,
+            "question": "Given the definition \"(a) destra\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "vicino",
+            "failed": 0,
+            "lastAsked": 1517942858.861532,
+            "question": "Le scuole sono qui (near).",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "have a good walk"
+            ],
+            "answer": "Enjoy your walk!",
+            "failed": 0,
+            "lastAsked": 1517942898.5184333,
+            "question": "What is the definition of \"Buona passeggiata!\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "simpatici",
+            "failed": 0,
+            "lastAsked": 1517942884.4693284,
+            "question": "Il padre e' simpatico. I padri sono ___",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "vicino",
+            "failed": 0,
+            "lastAsked": 1517942903.9422922,
+            "question": "Gli ospedali sono (near) alla scuola.",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "citta'",
+            "failed": 1,
+            "lastAsked": 1517942907.595392,
+            "question": "This is my hometown. Questa e' la mia ___ natale.",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "farmacia, vicina",
+            "failed": 1,
+            "lastAsked": 1517942993.8586814,
+            "question": "The pharmacy, on the other hand, is near. La ___, inceve, e' ___.",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "a school"
+            ],
+            "answer": "school",
+            "failed": 0,
+            "lastAsked": 1517942955.6450934,
+            "question": "What is the definition of \"(una) scuola\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "The museum is next to the train station"
+            ],
+            "answer": "The museum is next to the station.",
+            "failed": 0,
+            "lastAsked": 1517942935.514171,
+            "question": "Given the definition \"Il museo e' vicino alla stazione.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "supermarket"
+            ],
+            "answer": "a supermarket",
+            "failed": 1,
+            "lastAsked": 1517942984.7447598,
+            "question": "Given the definition \"un supermercato\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "C'e una farmacia in piazza Dante"
+            ],
+            "answer": "C'e' una farmacia in piazza Dante.",
+            "failed": 0,
+            "lastAsked": 1517942950.8151426,
+            "question": "What is the definition of \"There is a pharmacy in Dante Square.\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "vicino",
+            "failed": 0,
+            "lastAsked": 1517942913.7555523,
+            "question": "Il ristorante e' (near) alla farmacia.",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "a movie theater"
+            ],
+            "answer": "movie theater",
+            "failed": 0,
+            "lastAsked": 1517942960.3631809,
+            "question": "What is the definition of \"(un) cinema\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "vicino",
+            "failed": 0,
+            "lastAsked": 1517942925.7877676,
+            "question": "La chiesa e' qui (near).",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "primo"
+            ],
+            "answer": "primo/prima/primi/prime",
+            "failed": 0,
+            "lastAsked": 1517943030.755168,
+            "question": "Given the definition \"first\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "buon riposo",
+            "failed": 1,
+            "lastAsked": 1517943049.0382235,
+            "question": "Given the definition \"have a good rest\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "vicina",
+            "failed": 0,
+            "lastAsked": 1517943026.520067,
+            "question": "La famracia e' (near).",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "a bank"
+            ],
+            "answer": "bank",
+            "failed": 0,
+            "lastAsked": 1517942996.7672567,
+            "question": "What is the definition of \"(una) banca\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "buon anniversario",
+            "failed": 1,
+            "lastAsked": 1517943055.1901574,
+            "question": "Given the definition \"happy anniversary\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "vicini",
+            "failed": 1,
+            "lastAsked": 1517943045.2143593,
+            "question": "Gli ospedali sono (near).",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "vicino",
+            "failed": 0,
+            "lastAsked": 1517943010.3949149,
+            "question": "What is the definition of \"near (singular masculine)\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "near"
+            ],
+            "answer": "near (singular masculine)",
+            "failed": 0,
+            "lastAsked": 1517943022.273589,
+            "question": "Given the definition \"vicino\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "a museum"
+            ],
+            "answer": "museum",
+            "failed": 0,
+            "lastAsked": 1517943069.9292727,
+            "question": "What is the definition of \"(un) museo\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "through",
+            "failed": 0,
+            "lastAsked": 1517943072.9982276,
+            "question": "Given the definition \"per\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "un ufficio postale"
+            ],
+            "answer": "un officio postale",
+            "failed": 0,
+            "lastAsked": 1517943087.4049065,
+            "question": "What is the definition of \"a post office\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "close (plural, masculine)"
+            ],
+            "answer": "near (plural masculine)",
+            "failed": 0,
+            "lastAsked": 1517943079.8527038,
+            "question": "Given the definition \"vicini\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
             "answer": "the school",
             "failed": 0,
+            "lastAsked": 1517943058.0622406,
             "question": "Given the definition \"la scuola\", what is the word?",
-            "tried": 0
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "Dov'e una cinema in viale Roma?",
+                "Dov'e un cinema in viale Roma?"
+            ],
+            "answer": "C'e' un cinema in viale Roma.",
+            "failed": 1,
+            "lastAsked": 1517943160.8430429,
+            "question": "What is the definition of \"Where is a movie theater on Roma Avenue?\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "a post office",
+            "failed": 0,
+            "lastAsked": 1517943061.264364,
+            "question": "Given the definition \"un officio postale\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "a church"
+            ],
+            "answer": "church",
+            "failed": 0,
+            "lastAsked": 1517943146.6089227,
+            "question": "What is the definition of \"(una) chiesa\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "Where is the station"
+            ],
+            "answer": "Where is the train station?",
+            "failed": 0,
+            "lastAsked": 1517943232.9245458,
+            "question": "Given the definition \"Dov'e' la stazione?\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "vicino",
+            "failed": 0,
+            "lastAsked": 1517943172.2326064,
+            "question": "La banca e' (near) alla chiesa.",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "have a good rest",
+            "failed": 0,
+            "lastAsked": 1517943227.6975782,
+            "question": "What is the definition of \"buon riposo\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "buon viaggio",
+            "failed": 0,
+            "lastAsked": 1517943250.1015816,
+            "question": "Given the definition \"have a good trip\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "vicini",
+            "failed": 0,
+            "lastAsked": 1517943222.4555576,
+            "question": "Il semaforo e' vicino. I semafori sono ____",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "excuse me (formal)",
+            "failed": 0,
+            "lastAsked": 1517943166.1440709,
+            "question": "What is the definition of \"scusi\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "C'e, cinema"
+            ],
+            "answer": "C'e', cinema",
+            "failed": 0,
+            "lastAsked": 1517943244.4581766,
+            "question": "There's a movie theater on Mazzini street. ___ un ___ in via Mazzini.",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "buon natale"
+            ],
+            "answer": "buon Natale",
+            "failed": 1,
+            "lastAsked": 1517943252.7604947,
+            "question": "Given the definition \"Merry Christmas\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "C'e una cinema in viale Roma"
+            ],
+            "answer": "C'e' un cinema in viale Roma.",
+            "failed": 0,
+            "lastAsked": 1517943298.7257938,
+            "question": "What is the definition of \"There is a movie theater on Roma Avenue.\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "There is a pharmacy on Dante plaza"
+            ],
+            "answer": "There is a pharmacy in Dante Square.",
+            "failed": 0,
+            "lastAsked": 1517943276.8033137,
+            "question": "Given the definition \"C'e' una farmacia in piazza Dante.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "There is a movie theater on Roma street"
+            ],
+            "answer": "Where is a movie theater on Roma Avenue?",
+            "failed": 0,
+            "lastAsked": 1517943262.7490623,
+            "question": "Given the definition \"C'e' un cinema in viale Roma.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "fino a",
+            "failed": 2,
+            "lastAsked": 1517943315.6741748,
+            "question": "What is the definition of \"up to\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "scuola"
+            ],
+            "answer": "(una) scuola",
+            "failed": 0,
+            "lastAsked": 1517943306.1206872,
+            "question": "Given the definition \"school\", what is the word?",
+            "tried": 2
         }
     ]
 }

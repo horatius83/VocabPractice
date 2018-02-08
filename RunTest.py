@@ -5,13 +5,15 @@
 # when encountering a txt file, check for a corresponding json file first
 
 import sys
-from typing import Iterable, List
+from typing import Iterable, List, Tuple
 from FileManagement import OpenJsonFile, ProcessJsonObj, OutputJsonFile
 from Vocab import Quiz, EightsQuizFunction
 from Parsing import ConvertFile
 from os.path import isfile, isdir
 from os import walk
 import os
+import datetime
+import json
 
 def RunTest(filename: str) -> None:
     add_recent_file(filename)
@@ -27,20 +29,24 @@ def RunTest(filename: str) -> None:
     OutputJsonFile(newWords,filename)
     print("Done.")    
 
-recent_files_path = './recent_files.txt'
-def get_recent_files() -> List[str]:
+#recent_files_path = './recent_files.txt'
+recent_files_path = './recent_files.json'
+def get_recent_files() -> List[Tuple[str, datetime.datetime]]:
     with open(recent_files_path,'r') as in_data:
-        files = [x for x in in_data.read().split('\n') if x.strip() is not '']
-        return files
+        #files = [x for x in in_data.read().split('\n') if x.strip() is not '']
+        json_obj = json.loads(in_data.read(),encoding='utf-8')
+        for (file_path, str_datetime) in json_obj:
+            yield (file_path, datetime.datetime.strptime(str_datetime, '%Y-%m-%d %H:%M:%S.%f'))
 
-def update_recent_files(files: Iterable[str]) -> None:
+
+def update_recent_files(files: Iterable[Tuple[str, datetime.datetime]]) -> None:
     with open(recent_files_path, 'w') as out_data:
-        out_data.write('\n'.join(files))
+        out_data.write(json.dumps([(f,str(dt)) for (f,dt) in files]))
 
 def add_recent_file(most_recent_file: str) -> None:
-    recent_files = get_recent_files()
-    if most_recent_file not in recent_files:
-        update_recent_files(recent_files[-9:] + [most_recent_file])
+    recent_files = list(get_recent_files())
+    if most_recent_file not in [rf for (rf,_) in recent_files]:
+        update_recent_files(recent_files[-9:] + [(most_recent_file, datetime.datetime.now())])
 
 if len(sys.argv) > 1:
     for arg in sys.argv[1:]:
@@ -48,15 +54,6 @@ if len(sys.argv) > 1:
             ConvertFile(arg)
             print('Converted {0} to {1}'.format(arg, arg.replace('.txt', '.json')))
         elif arg.endswith('.json'):
-            # open recent_files
-            recent_files = get_recent_files()
-            # check if the file is in there
-            # if not, add it
-            if arg not in recent_files:
-                print(recent_files)
-                print(recent_files[:9])
-                print(arg)
-                print([arg])
             RunTest(arg)
         elif isdir(arg):
             (_,_,all_files) = next(walk(arg))
@@ -75,7 +72,7 @@ else:
         files = get_recent_files()
         print('--==((Recent Files))==--')
         for (selection, file) in enumerate(files):
-            print('({0}): {1}'.format(selection, file))
+            print('({0}): {1}'.format(selection, file[0]))
     selection = input('Enter Selection: ')
     try:
         selection_as_number = int(selection)

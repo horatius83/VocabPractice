@@ -1,0 +1,365 @@
+{
+    "name": ".\\Italian\\Chapter6Quiz.json",
+    "vocab": [
+        {
+            "answer": "io ho",
+            "failed": 0,
+            "question": "What is the definition of \"I have\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I have",
+            "failed": 0,
+            "question": "Given the definition \"io ho\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "ci sono",
+            "failed": 0,
+            "question": "What is the definition of \"there are\"?",
+            "tried": 0
+        },
+        {
+            "answer": "there are",
+            "failed": 0,
+            "question": "Given the definition \"ci sono\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "c'e'",
+            "failed": 0,
+            "question": "What is the definition of \"there is\"?",
+            "tried": 0
+        },
+        {
+            "answer": "there is",
+            "failed": 0,
+            "question": "Given the definition \"c'e'\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "(Io) ho fame.",
+            "failed": 0,
+            "question": "What is the definition of \"I am hungry.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I am hungry.",
+            "failed": 0,
+            "question": "Given the definition \"(Io) ho fame.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "(Io) ho freddo.",
+            "failed": 0,
+            "question": "What is the definition of \"I am cold.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "I am cold.",
+            "failed": 0,
+            "question": "Given the definition \"(Io) ho freddo.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "(Tu) hai fretta.",
+            "failed": 0,
+            "question": "What is the definition of \"You (informal) are in a hurry.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "You (informal) are in a hurry.",
+            "failed": 0,
+            "question": "Given the definition \"(Tu) hai fretta.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ecco una famiglia.",
+            "failed": 0,
+            "question": "What is the definition of \"Here is a family.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Here is a family.",
+            "failed": 0,
+            "question": "Given the definition \"Ecco una famiglia.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ecco due famiglie.",
+            "failed": 0,
+            "question": "What is the definition of \"Here are two families.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Here are two families.",
+            "failed": 0,
+            "question": "Given the definition \"Ecco due famiglie.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ecco i miei amici.",
+            "failed": 0,
+            "question": "What is the definition of \"Here are my friends.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Here are my friends.",
+            "failed": 0,
+            "question": "Given the definition \"Ecco i miei amici.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "un letto",
+            "failed": 0,
+            "question": "What is the definition of \"a bed\"?",
+            "tried": 0
+        },
+        {
+            "answer": "a bed",
+            "failed": 0,
+            "question": "Given the definition \"un letto\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "un armadio",
+            "failed": 0,
+            "question": "What is the definition of \"a closet\"?",
+            "tried": 0
+        },
+        {
+            "answer": "a closet",
+            "failed": 0,
+            "question": "Given the definition \"un armadio\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "un tappeto",
+            "failed": 0,
+            "question": "What is the definition of \"a rug\"?",
+            "tried": 0
+        },
+        {
+            "answer": "a rug",
+            "failed": 0,
+            "question": "Given the definition \"un tappeto\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ecco uno specchio.",
+            "failed": 0,
+            "question": "What is the definition of \"Here is a mirror.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Here is a mirror.",
+            "failed": 0,
+            "question": "Given the definition \"Ecco uno specchio.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Ecco quattro sedie.",
+            "failed": 0,
+            "question": "What is the definition of \"Here are four chairs.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Here are four chairs.",
+            "failed": 0,
+            "question": "Given the definition \"Ecco quattro sedie.\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "la mia casa",
+            "failed": 0,
+            "question": "What is the definition of \"my house\"?",
+            "tried": 0
+        },
+        {
+            "answer": "my house",
+            "failed": 0,
+            "question": "Given the definition \"la mia casa\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "il tuo appartamento",
+            "failed": 0,
+            "question": "What is the definition of \"your (informal) apartment\"?",
+            "tried": 0
+        },
+        {
+            "answer": "your (informal) apartment",
+            "failed": 0,
+            "question": "Given the definition \"il tuo appartamento\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "la casa di Marta",
+            "failed": 0,
+            "question": "What is the definition of \"Marta's house.\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Marta's house.",
+            "failed": 0,
+            "question": "Given the definition \"la casa di Marta\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "piccolo / piccola / piccoli / piccole",
+            "failed": 0,
+            "question": "What is the definition of \"small (four forms)\"?",
+            "tried": 0
+        },
+        {
+            "answer": "small (four forms)",
+            "failed": 0,
+            "question": "Given the definition \"piccolo / piccola / piccoli / piccole\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "grande / grandi",
+            "failed": 0,
+            "question": "What is the definition of \"large (two forms)\"?",
+            "tried": 0
+        },
+        {
+            "answer": "large (two forms)",
+            "failed": 0,
+            "question": "Given the definition \"grande / grandi\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "in centro",
+            "failed": 0,
+            "question": "What is the definition of \"downtown\"?",
+            "tried": 0
+        },
+        {
+            "answer": "downtown",
+            "failed": 0,
+            "question": "Given the definition \"in centro\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "il supermercato",
+            "failed": 0,
+            "question": "What is the definition of \"the supermarket\"?",
+            "tried": 0
+        },
+        {
+            "answer": "the supermarket",
+            "failed": 0,
+            "question": "Given the definition \"il supermercato\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "la stazione",
+            "failed": 0,
+            "question": "What is the definition of \"the station\"?",
+            "tried": 0
+        },
+        {
+            "answer": "the station",
+            "failed": 0,
+            "question": "Given the definition \"la stazione\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "le scuole",
+            "failed": 0,
+            "question": "What is the definition of \"the schools\"?",
+            "tried": 0
+        },
+        {
+            "answer": "the schools",
+            "failed": 0,
+            "question": "Given the definition \"le scuole\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "Dov'e' la stazione?",
+            "failed": 0,
+            "question": "What is the definition of \"Where is the station?\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Where is the station?",
+            "failed": 0,
+            "question": "Given the definition \"Dov'e' la stazione?\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "C'e' un ristorante qui vicino?",
+            "failed": 0,
+            "question": "What is the definition of \"Is there a restaurant nearby?\"?",
+            "tried": 0
+        },
+        {
+            "answer": "Is there a restaurant nearby?",
+            "failed": 0,
+            "question": "Given the definition \"C'e' un ristorante qui vicino?\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "il semaforo",
+            "failed": 0,
+            "question": "What is the definition of \"the traffic light\"?",
+            "tried": 0
+        },
+        {
+            "answer": "the traffic light",
+            "failed": 0,
+            "question": "Given the definition \"il semaforo\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "a sinistra",
+            "failed": 0,
+            "question": "What is the definition of \"on the left\"?",
+            "tried": 0
+        },
+        {
+            "answer": "on the left",
+            "failed": 0,
+            "question": "Given the definition \"a sinistra\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "a destra",
+            "failed": 0,
+            "question": "What is the definition of \"on the right\"?",
+            "tried": 0
+        },
+        {
+            "answer": "on the right",
+            "failed": 0,
+            "question": "Given the definition \"a destra\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "sempre diritto",
+            "failed": 0,
+            "question": "What is the definition of \"straight ahead\"?",
+            "tried": 0
+        },
+        {
+            "answer": "straight ahead",
+            "failed": 0,
+            "question": "Given the definition \"sempre diritto\", what is the word?",
+            "tried": 0
+        },
+        {
+            "answer": "un incorcio",
+            "failed": 0,
+            "question": "What is the definition of \"an intersection\"?",
+            "tried": 0
+        },
+        {
+            "answer": "an intersection",
+            "failed": 0,
+            "question": "Given the definition \"un incorcio\", what is the word?",
+            "tried": 0
+        }
+    ]
+}

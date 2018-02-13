@@ -2,257 +2,85 @@
     "name": ".\\Italian\\Chapter7_2.json",
     "vocab": [
         {
-            "alternates": [],
-            "answer": "sei",
-            "failed": 0,
-            "lastAsked": 1486405918.048862,
-            "question": "essere (tu)",
-            "tried": 1
-        },
-        {
             "alternates": [
-                "Yes, of course. A half a liter of the house red and a bottle of mineral water: still.",
-                "Yes of course. A half a liter of the house red and a bottle of mineral water"
+                "i'll take"
             ],
-            "answer": "Yes, sure. Half a liter of the house red. And a bottle of mineral water, still.",
-            "failed": 1,
-            "lastAsked": 1486406076.4652414,
-            "question": "Given the definition \"Si, certo: mezzo litro di (vino) rosso della casa. E una bottiglia di acqua minerale naturale.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "Si, la carne e' eccellente. Prendo una bistecca con contorno di insalata"
-            ],
-            "answer": "Si, la carne e' eccellente. Prendo una bistecca con contorno di insalata.",
-            "failed": 2,
-            "lastAsked": 1486406274.101317,
-            "question": "What is the definition of \"Yes, the meat is excellent. I'll have a beefsteak with a side of salad.\"?",
-            "tried": 3
-        },
-        {
-            "alternates": [
-                "Shall I order the wine also",
-                "Shall I order wine too?"
-            ],
-            "answer": "Shall I order wine, too?",
-            "failed": 1,
-            "lastAsked": 1486406043.5499017,
-            "question": "Given the definition \"Ordino anche il vino?\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "paghiamo",
-            "failed": 1,
-            "lastAsked": 1486406020.6508267,
-            "question": "Noi (pagare) con la carta di credito.",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "you ask for",
-            "failed": 3,
-            "lastAsked": 1486406277.7809372,
-            "question": "Given the definition \"chiedi\", what is the word?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "e'",
-            "failed": 0,
-            "lastAsked": 1486405928.3488622,
-            "question": "essere (lui/lei)",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "beefsteak"
-            ],
-            "answer": "the beefsteak",
-            "failed": 0,
-            "lastAsked": 1486406015.5390582,
-            "question": "What is the definition of \"la bistecca\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "delicious",
-            "failed": 1,
-            "lastAsked": 1486406898.4798994,
-            "question": "What is the definition of \"squisito/squisita/squisiti/squisite\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "ordinano",
-            "failed": 2,
-            "lastAsked": 1486406984.6379588,
-            "question": "Loro (ordinare) la bistecca.",
-            "tried": 3
-        },
-        {
-            "alternates": [
-                "Buono idea! Io invece vorrei il maiale al forno con contorno di patate.",
-                "Buona idea! Io invece vorrei il maiale al forno con contorno di potate."
-            ],
-            "answer": "Buona idea. Io invece vorrei il maiale al forno con contorno di patate.",
-            "failed": 3,
-            "lastAsked": 1486407228.1525202,
-            "question": "What is the definition of \"Good idea! I'd like the pork roast with a side of potatoes instead.\"?",
-            "tried": 4
-        },
-        {
-            "alternates": [],
-            "answer": "chiedo",
-            "failed": 0,
-            "lastAsked": 1486406875.7963161,
-            "question": "What is the definition of \"I ask for\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "you take the ravioli with meat sauce"
-            ],
-            "answer": "You (informal) take the ravioli with meat sauce.",
-            "failed": 1,
-            "lastAsked": 1486406895.2483015,
-            "question": "Given the definition \"Tu prendi i ravioli al ragu'.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "ordino",
-            "failed": 0,
-            "lastAsked": 1486406321.7683575,
-            "question": "What is the definition of \"I order\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "chiedi",
-            "failed": 0,
-            "lastAsked": 1486406324.8173673,
-            "question": "What is the definition of \"you ask for\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "C'e' un ufficio postale qui vicino?",
-            "failed": 3,
-            "lastAsked": 1486407128.7433362,
-            "question": "Is there a post office nearby?",
-            "tried": 4
-        },
-        {
-            "answer": "Si, certo: mezzo litro di (vino) rosso della casa. E una bottiglia di acqua minerale naturale.",
-            "failed": 0,
-            "question": "What is the definition of \"Yes, sure. Half a liter of the house red. And a bottle of mineral water, still.\"?",
-            "tried": 0
-        },
-        {
-            "alternates": [
-                "chiedi, caffe"
-            ],
-            "answer": "chiedi, caffe'",
-            "failed": 0,
-            "lastAsked": 1486407286.503855,
-            "question": "You ask for dessert and coffee. Tu ___ il dolce e il ___.",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "ordini, griglia",
-            "failed": 0,
-            "lastAsked": 1486407269.0517848,
-            "question": "You order grilled fish and mixed salad. Tu ___ il pesce all ___ e l'insalata mista.",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "chiamo",
-            "failed": 0,
-            "lastAsked": 1486407230.680852,
-            "question": "chiamare (io)",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "the potatoes",
-            "failed": 0,
-            "lastAsked": 1486407292.4075444,
-            "question": "What is the definition of \"le patate\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "Possiamo pagare con la carta di credito?",
-            "failed": 1,
-            "lastAsked": 1486407564.061125,
-            "question": "Can we pay by credit card?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "I would like the bruschette of the house"
-            ],
-            "answer": "I would like the bruschette of the house.",
-            "failed": 1,
-            "lastAsked": 1486407256.428361,
-            "question": "Given the definition \"Vorrei le bruschette della casa.\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "chiede",
-            "failed": 0,
-            "lastAsked": 1486407274.595637,
-            "question": "What is the definition of \"he/she asks for\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "ordino anche il vino?"
-            ],
-            "answer": "Ordino anche il vino?",
-            "failed": 1,
-            "lastAsked": 1486061909.644316,
-            "question": "What is the definition of \"Shall I order wine, too?\"?",
-            "tried": 1
-        },
-        {
             "answer": "I take",
-            "failed": 0,
+            "failed": 1,
+            "lastAsked": 1518547471.7369099,
             "question": "Given the definition \"prendo\", what is the word?",
-            "tried": 0
+            "tried": 2
         },
         {
             "alternates": [],
             "answer": "Allora Giulia, che cosa prendi?",
-            "failed": 2,
-            "lastAsked": 1486148172.6476924,
+            "failed": 4,
+            "lastAsked": 1518547503.9967668,
             "question": "What is the definition of \"Well, Giulia, what are you having?\"?",
-            "tried": 2
+            "tried": 5
         },
         {
-            "answer": "Well, Giulia, what are you having?",
-            "failed": 0,
-            "question": "Given the definition \"Allora Giulia, che cosa prendi?\", what is the word?",
-            "tried": 0
+            "alternates": [
+                "I'll have the bruschette of the house",
+                "I would like the bruschette of the house"
+            ],
+            "answer": "I would like the bruschette of the house.",
+            "failed": 2,
+            "lastAsked": 1518547497.0766606,
+            "question": "Given the definition \"Vorrei le bruschette della casa.\", what is the word?",
+            "tried": 3
         },
         {
-            "answer": "prendi",
-            "failed": 0,
-            "question": "What is the definition of \"you take\"?",
-            "tried": 0
+            "alternates": [
+                "Ordino anche il vino",
+                "Ordino anche, il vino?",
+                "ordino anche il vino?"
+            ],
+            "answer": "Ordino anche il vino?",
+            "failed": 3,
+            "lastAsked": 1518547513.2767627,
+            "question": "What is the definition of \"Shall I order wine, too?\"?",
+            "tried": 4
         },
         {
             "alternates": [],
             "answer": "il maiale al forno",
-            "failed": 1,
-            "lastAsked": 1486061881.2561612,
+            "failed": 2,
+            "lastAsked": 1518547464.9175096,
             "question": "Given the definition \"the pork roast\", what is the word?",
-            "tried": 1
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "squisito"
+            ],
+            "answer": "squisito/squisita/squisiti/squisite",
+            "failed": 2,
+            "lastAsked": 1518547487.224447,
+            "question": "Given the definition \"delicious\", what is the word?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Possiamo pagare con la carta di credito",
+                "possiamo pagare con la carta di credito"
+            ],
+            "answer": "Possiamo pagare con la carta di credito?",
+            "failed": 2,
+            "lastAsked": 1518547484.145092,
+            "question": "Can we pay by credit card?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "Well Giulia, what will you have?",
+                "Well Giulia, what are you having?"
+            ],
+            "answer": "Well, Giulia, what are you having?",
+            "failed": 1,
+            "lastAsked": 1518547459.0771482,
+            "question": "Given the definition \"Allora Giulia, che cosa prendi?\", what is the word?",
+            "tried": 2
         },
         {
             "answer": "ordinate",
@@ -262,19 +90,13 @@
             "tried": 1
         },
         {
+            "alternates": [
+                "I'll have the appetizer"
+            ],
             "answer": "I order the antipasto.",
             "failed": 0,
+            "lastAsked": 1518547523.8003106,
             "question": "Given the definition \"Io ordino l'antipasto.\", what is the word?",
-            "tried": 0
-        },
-        {
-            "alternates": [
-                "squisito"
-            ],
-            "answer": "squisito/squisita/squisiti/squisite",
-            "failed": 1,
-            "lastAsked": 1486061919.4281735,
-            "question": "Given the definition \"delicious\", what is the word?",
             "tried": 1
         },
         {
@@ -288,10 +110,32 @@
             "tried": 1
         },
         {
-            "answer": "chiede",
+            "answer": "prendi",
+            "failed": 0,
+            "question": "What is the definition of \"you take\"?",
+            "tried": 0
+        },
+        {
+            "alternates": [],
+            "answer": "Si, certo: mezzo litro di (vino) rosso della casa. E una bottiglia di acqua minerale naturale.",
+            "failed": 1,
+            "lastAsked": 1518548651.5033035,
+            "question": "What is the definition of \"Yes, sure. Half a liter of the house red. And a bottle of mineral water, still.\"?",
+            "tried": 1
+        },
+        {
+            "answer": "E cosa prendi per primo?",
             "failed": 3,
-            "lastAsked": 1454955676.2230499,
-            "question": "chidere (lui/lei)",
+            "lastAsked": 1454955682.820712,
+            "question": "What is the definition of \"And what are you having as a first course?\"?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "you ask for",
+            "failed": 3,
+            "lastAsked": 1486406277.7809372,
+            "question": "Given the definition \"chiedi\", what is the word?",
             "tried": 4
         },
         {
@@ -313,24 +157,36 @@
             "tried": 4
         },
         {
-            "answer": "E cosa prendi per primo?",
+            "alternates": [
+                "Buono idea! Io invece vorrei il maiale al forno con contorno di patate.",
+                "Buona idea! Io invece vorrei il maiale al forno con contorno di potate."
+            ],
+            "answer": "Buona idea. Io invece vorrei il maiale al forno con contorno di patate.",
             "failed": 3,
-            "lastAsked": 1454955682.820712,
-            "question": "What is the definition of \"And what are you having as a first course?\"?",
+            "lastAsked": 1486407228.1525202,
+            "question": "What is the definition of \"Good idea! I'd like the pork roast with a side of potatoes instead.\"?",
             "tried": 4
         },
         {
-            "answer": "pmodoro e basilico",
-            "failed": 2,
-            "lastAsked": 1455122116.784781,
-            "question": "Given the definition \"tomato and basil\", what is the word?",
-            "tried": 3
+            "answer": "chiede",
+            "failed": 3,
+            "lastAsked": 1454955676.2230499,
+            "question": "chidere (lui/lei)",
+            "tried": 4
         },
         {
-            "answer": "Are you having a main course, too?",
+            "alternates": [],
+            "answer": "C'e' un ufficio postale qui vicino?",
+            "failed": 3,
+            "lastAsked": 1486407128.7433362,
+            "question": "Is there a post office nearby?",
+            "tried": 4
+        },
+        {
+            "answer": "Il divano di Carla e' vecchio.",
             "failed": 2,
-            "lastAsked": 1454955036.0098822,
-            "question": "Given the definition \"Prendi anche il secondo?\", what is the word?",
+            "lastAsked": 1454955130.6907837,
+            "question": "Carla's couch is old.",
             "tried": 3
         },
         {
@@ -342,12 +198,43 @@
         },
         {
             "alternates": [
-                "posso avere la carta di vini?"
+                "Si, la carne e' eccellente. Prendo una bistecca con contorno di insalata"
             ],
-            "answer": "Posso avere la carta di vini?",
+            "answer": "Si, la carne e' eccellente. Prendo una bistecca con contorno di insalata.",
             "failed": 2,
-            "lastAsked": 1486061738.192459,
-            "question": "May I have the wine list?",
+            "lastAsked": 1486406274.101317,
+            "question": "What is the definition of \"Yes, the meat is excellent. I'll have a beefsteak with a side of salad.\"?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "vorrei l'acqua minerale"
+            ],
+            "answer": "Vorrei l'acqua minerale",
+            "failed": 2,
+            "lastAsked": 1486061259.3340983,
+            "question": "I would like the mineral water.",
+            "tried": 3
+        },
+        {
+            "answer": "chiedo",
+            "failed": 2,
+            "lastAsked": 1454696900.1115398,
+            "question": "chidere (io)",
+            "tried": 3
+        },
+        {
+            "answer": "Lui prende il dolce.",
+            "failed": 2,
+            "lastAsked": 1454955353.2753098,
+            "question": "What is the definition of \"He takes the dessert.\"?",
+            "tried": 3
+        },
+        {
+            "answer": "prende",
+            "failed": 2,
+            "lastAsked": 1454955655.6273358,
+            "question": "prendere (lui/lei)",
             "tried": 3
         },
         {
@@ -363,34 +250,34 @@
             "tried": 3
         },
         {
-            "answer": "Lui prende il dolce.",
+            "answer": "Are you having a main course, too?",
             "failed": 2,
-            "lastAsked": 1454955353.2753098,
-            "question": "What is the definition of \"He takes the dessert.\"?",
+            "lastAsked": 1454955036.0098822,
+            "question": "Given the definition \"Prendi anche il secondo?\", what is the word?",
             "tried": 3
         },
         {
-            "answer": "chiedo",
+            "answer": "pmodoro e basilico",
             "failed": 2,
-            "lastAsked": 1454696900.1115398,
-            "question": "chidere (io)",
+            "lastAsked": 1455122116.784781,
+            "question": "Given the definition \"tomato and basil\", what is the word?",
             "tried": 3
         },
         {
-            "answer": "paga",
+            "answer": "you pay",
             "failed": 2,
-            "lastAsked": 1454955792.7666085,
-            "question": "What is the definition of \"he/she pays\"?",
+            "lastAsked": 1454955113.838378,
+            "question": "Given the definition \"paghi\", what is the word?",
             "tried": 3
         },
         {
             "alternates": [
-                "vorrei l'acqua minerale"
+                "posso avere la carta di vini?"
             ],
-            "answer": "Vorrei l'acqua minerale",
+            "answer": "Posso avere la carta di vini?",
             "failed": 2,
-            "lastAsked": 1486061259.3340983,
-            "question": "I would like the mineral water.",
+            "lastAsked": 1486061738.192459,
+            "question": "May I have the wine list?",
             "tried": 3
         },
         {
@@ -405,25 +292,63 @@
             "tried": 3
         },
         {
+            "alternates": [],
+            "answer": "ordinano",
+            "failed": 2,
+            "lastAsked": 1486406984.6379588,
+            "question": "Loro (ordinare) la bistecca.",
+            "tried": 3
+        },
+        {
+            "answer": "paga",
+            "failed": 2,
+            "lastAsked": 1454955792.7666085,
+            "question": "What is the definition of \"he/she pays\"?",
+            "tried": 3
+        },
+        {
             "answer": "prende",
-            "failed": 2,
-            "lastAsked": 1454955655.6273358,
-            "question": "prendere (lui/lei)",
-            "tried": 3
+            "failed": 1,
+            "lastAsked": 1455122107.444847,
+            "question": "What is the definition of \"he/she takes\"?",
+            "tried": 2
         },
         {
-            "answer": "Il divano di Carla e' vecchio.",
-            "failed": 2,
-            "lastAsked": 1454955130.6907837,
-            "question": "Carla's couch is old.",
-            "tried": 3
+            "answer": "Nella camera c'e' il letto matrimoniale.",
+            "failed": 1,
+            "lastAsked": 1455122076.0837111,
+            "question": "In the bedroom there is the double bed.",
+            "tried": 2
         },
         {
-            "answer": "you pay",
-            "failed": 2,
-            "lastAsked": 1454955113.838378,
-            "question": "Given the definition \"paghi\", what is the word?",
-            "tried": 3
+            "alternates": [],
+            "answer": "the pork roast",
+            "failed": 1,
+            "lastAsked": 1486061244.0264332,
+            "question": "What is the definition of \"il maiale al forno\"?",
+            "tried": 2
+        },
+        {
+            "answer": "Lei ordina la frutta.",
+            "failed": 1,
+            "lastAsked": 1454955313.9455366,
+            "question": "What is the definition of \"She orders the fruit.\"?",
+            "tried": 2
+        },
+        {
+            "answer": "paghi",
+            "failed": 1,
+            "lastAsked": 1454955765.687558,
+            "question": "pagare (tu)",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "ordina, misto",
+            "failed": 1,
+            "lastAsked": 1486147696.177813,
+            "question": "Maria orders mixed appetizers. Maria ___ l'antipasto ___.",
+            "tried": 2
         },
         {
             "alternates": [],
@@ -431,6 +356,14 @@
             "failed": 1,
             "lastAsked": 1486147615.5918999,
             "question": "Maria asks for the bill. Maria ___ il ____.",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "chiedi",
+            "failed": 1,
+            "lastAsked": 1486147389.3245978,
+            "question": "chidere (tu)",
             "tried": 2
         },
         {
@@ -444,152 +377,28 @@
             "tried": 2
         },
         {
-            "answer": "Lei ordina la frutta.",
-            "failed": 1,
-            "lastAsked": 1454955313.9455366,
-            "question": "What is the definition of \"She orders the fruit.\"?",
-            "tried": 2
-        },
-        {
             "alternates": [
-                "mia mamma e' simpatica"
+                "Shall I order the wine also",
+                "Shall I order wine too?"
             ],
-            "answer": "Mia mamma e' simpatica.",
+            "answer": "Shall I order wine, too?",
             "failed": 1,
-            "lastAsked": 1486148147.2442238,
-            "question": "My mom is nice.",
+            "lastAsked": 1486406043.5499017,
+            "question": "Given the definition \"Ordino anche il vino?\", what is the word?",
             "tried": 2
         },
         {
-            "answer": "All right, I'll call the waiter right away.",
+            "answer": "ordina",
             "failed": 1,
-            "lastAsked": 1454954705.5547116,
-            "question": "Given the definition \"Bene, chaimo subito il cameriere.\", what is the word?",
+            "lastAsked": 1454955301.7132583,
+            "question": "ordinare (lui/lei)",
             "tried": 2
         },
         {
-            "alternates": [],
-            "answer": "le patate",
+            "answer": "La scuola e' vicino alla stazione.",
             "failed": 1,
-            "lastAsked": 1486061751.9402359,
-            "question": "Given the definition \"the potatoes\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "tomato and basil",
-            "failed": 1,
-            "lastAsked": 1486147400.0810797,
-            "question": "What is the definition of \"pmodoro e basilico\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "Io invece vorrei le penne al pomodoro e basilico: sono squisite"
-            ],
-            "answer": "Io invece vorrei le penne al pmodoro e basilico: sono squisite.",
-            "failed": 1,
-            "lastAsked": 1486061722.2936385,
-            "question": "What is the definition of \"I, on the other hand, would like the penne with tomato and basil sauce. It's delicious.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "Paghiamo con la carta di credito.",
-            "failed": 1,
-            "lastAsked": 1454696838.47554,
-            "question": "We pay by credit card.",
-            "tried": 2
-        },
-        {
-            "answer": "I take the side dish.",
-            "failed": 1,
-            "lastAsked": 1454696893.43254,
-            "question": "Given the definition \"Io prendo il contorno.\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "L'automobile/la macchina di Luigi e' rossa",
-            "failed": 1,
-            "lastAsked": 1454954717.1031544,
-            "question": "Luigi's car is red",
-            "tried": 2
-        },
-        {
-            "answer": "Il bagno e' nuovo.",
-            "failed": 1,
-            "lastAsked": 1455122101.964299,
-            "question": "The bathroom is new.",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "chiede",
-            "failed": 1,
-            "lastAsked": 1486147393.792633,
-            "question": "Lui (chiedere) il conto.",
-            "tried": 2
-        },
-        {
-            "answer": "And what are you having as a first course?",
-            "failed": 1,
-            "lastAsked": 1454696851.19554,
-            "question": "Given the definition \"E cosa prendi per primo?\", what is the word?",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "i fiori di Paola sono in giardino"
-            ],
-            "answer": "I fiori di Paola sono in giardino.",
-            "failed": 1,
-            "lastAsked": 1486147741.138092,
-            "question": "Paola's flowers are in the garden.",
-            "tried": 2
-        },
-        {
-            "answer": "prendi",
-            "failed": 1,
-            "lastAsked": 1455122095.284631,
-            "question": "prendere (tu)",
-            "tried": 2
-        },
-        {
-            "answer": "prende",
-            "failed": 1,
-            "lastAsked": 1455122107.444847,
-            "question": "What is the definition of \"he/she takes\"?",
-            "tried": 2
-        },
-        {
-            "alternates": [],
-            "answer": "ordina, misto",
-            "failed": 1,
-            "lastAsked": 1486147696.177813,
-            "question": "Maria orders mixed appetizers. Maria ___ l'antipasto ___.",
-            "tried": 2
-        },
-        {
-            "answer": "paghi",
-            "failed": 1,
-            "lastAsked": 1454955765.687558,
-            "question": "pagare (tu)",
-            "tried": 2
-        },
-        {
-            "alternates": [
-                "vorrei le bruschette della casa"
-            ],
-            "answer": "Vorrei le bruschette della casa.",
-            "failed": 1,
-            "lastAsked": 1486148104.9891255,
-            "question": "What is the definition of \"I would like the bruschette of the house.\"?",
-            "tried": 2
-        },
-        {
-            "answer": "siamo, ristorante",
-            "failed": 1,
-            "lastAsked": 1454955604.7820046,
-            "question": "We are are an Italian restaurant. ___ in un ___ italiano.",
+            "lastAsked": 1454955062.0453708,
+            "question": "The school is next to the station.",
             "tried": 2
         },
         {
@@ -597,6 +406,24 @@
             "failed": 1,
             "lastAsked": 1454955344.6471367,
             "question": "Lei (pagare) con la carta di credito.",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "Yes, of course. A half a liter of the house red and a bottle of mineral water: still.",
+                "Yes of course. A half a liter of the house red and a bottle of mineral water"
+            ],
+            "answer": "Yes, sure. Half a liter of the house red. And a bottle of mineral water, still.",
+            "failed": 1,
+            "lastAsked": 1486406076.4652414,
+            "question": "Given the definition \"Si, certo: mezzo litro di (vino) rosso della casa. E una bottiglia di acqua minerale naturale.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "ho",
+            "failed": 1,
+            "lastAsked": 1454955783.3540568,
+            "question": "avere (io)",
             "tried": 2
         },
         {
@@ -611,24 +438,17 @@
         },
         {
             "alternates": [],
-            "answer": "the pork roast",
+            "answer": "chiede",
             "failed": 1,
-            "lastAsked": 1486061244.0264332,
-            "question": "What is the definition of \"il maiale al forno\"?",
+            "lastAsked": 1486147393.792633,
+            "question": "Lui (chiedere) il conto.",
             "tried": 2
         },
         {
-            "answer": "he/she asks for",
+            "answer": "Paghiamo con la carta di credito.",
             "failed": 1,
-            "lastAsked": 1454954722.8774521,
-            "question": "Given the definition \"chiede\", what is the word?",
-            "tried": 2
-        },
-        {
-            "answer": "ho",
-            "failed": 1,
-            "lastAsked": 1454955783.3540568,
-            "question": "avere (io)",
+            "lastAsked": 1454696838.47554,
+            "question": "We pay by credit card.",
             "tried": 2
         },
         {
@@ -639,39 +459,28 @@
             "tried": 2
         },
         {
-            "answer": "Nella camera c'e' il letto matrimoniale.",
+            "alternates": [
+                "i fiori di Paola sono in giardino"
+            ],
+            "answer": "I fiori di Paola sono in giardino.",
             "failed": 1,
-            "lastAsked": 1455122076.0837111,
-            "question": "In the bedroom there is the double bed.",
+            "lastAsked": 1486147741.138092,
+            "question": "Paola's flowers are in the garden.",
             "tried": 2
         },
         {
-            "answer": "naturale/naturali",
+            "answer": "siamo, ristorante",
             "failed": 1,
-            "lastAsked": 1454696828.65654,
-            "question": "Given the definition \"natural, non-carbonated, still\", what is the word?",
+            "lastAsked": 1454955604.7820046,
+            "question": "We are are an Italian restaurant. ___ in un ___ italiano.",
             "tried": 2
         },
         {
             "alternates": [],
-            "answer": "chiedi",
+            "answer": "tomato and basil",
             "failed": 1,
-            "lastAsked": 1486147389.3245978,
-            "question": "chidere (tu)",
-            "tried": 2
-        },
-        {
-            "answer": "pago",
-            "failed": 1,
-            "lastAsked": 1454955787.6904929,
-            "question": "What is the definition of \"I pay\"?",
-            "tried": 2
-        },
-        {
-            "answer": "Prendo i ravioli al ragu'.",
-            "failed": 1,
-            "lastAsked": 1454955046.5482938,
-            "question": "I'll have (take) the ravioli with meat sauce.",
+            "lastAsked": 1486147400.0810797,
+            "question": "What is the definition of \"pmodoro e basilico\"?",
             "tried": 2
         },
         {
@@ -682,10 +491,29 @@
             "tried": 2
         },
         {
-            "answer": "ordina",
+            "alternates": [
+                "vorrei le bruschette della casa"
+            ],
+            "answer": "Vorrei le bruschette della casa.",
             "failed": 1,
-            "lastAsked": 1454955301.7132583,
-            "question": "ordinare (lui/lei)",
+            "lastAsked": 1486148104.9891255,
+            "question": "What is the definition of \"I would like the bruschette of the house.\"?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "le patate",
+            "failed": 1,
+            "lastAsked": 1486061751.9402359,
+            "question": "Given the definition \"the potatoes\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "delicious",
+            "failed": 1,
+            "lastAsked": 1486406898.4798994,
+            "question": "What is the definition of \"squisito/squisita/squisiti/squisite\"?",
             "tried": 2
         },
         {
@@ -697,6 +525,86 @@
             "tried": 2
         },
         {
+            "alternates": [],
+            "answer": "paghiamo",
+            "failed": 1,
+            "lastAsked": 1486406020.6508267,
+            "question": "Noi (pagare) con la carta di credito.",
+            "tried": 2
+        },
+        {
+            "answer": "he/she asks for",
+            "failed": 1,
+            "lastAsked": 1454954722.8774521,
+            "question": "Given the definition \"chiede\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "Prendo i ravioli al ragu'.",
+            "failed": 1,
+            "lastAsked": 1454955046.5482938,
+            "question": "I'll have (take) the ravioli with meat sauce.",
+            "tried": 2
+        },
+        {
+            "answer": "L'automobile/la macchina di Luigi e' rossa",
+            "failed": 1,
+            "lastAsked": 1454954717.1031544,
+            "question": "Luigi's car is red",
+            "tried": 2
+        },
+        {
+            "answer": "And what are you having as a first course?",
+            "failed": 1,
+            "lastAsked": 1454696851.19554,
+            "question": "Given the definition \"E cosa prendi per primo?\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "mia mamma e' simpatica"
+            ],
+            "answer": "Mia mamma e' simpatica.",
+            "failed": 1,
+            "lastAsked": 1486148147.2442238,
+            "question": "My mom is nice.",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "you take the ravioli with meat sauce"
+            ],
+            "answer": "You (informal) take the ravioli with meat sauce.",
+            "failed": 1,
+            "lastAsked": 1486406895.2483015,
+            "question": "Given the definition \"Tu prendi i ravioli al ragu'.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "Io invece vorrei le penne al pomodoro e basilico: sono squisite"
+            ],
+            "answer": "Io invece vorrei le penne al pmodoro e basilico: sono squisite.",
+            "failed": 1,
+            "lastAsked": 1486061722.2936385,
+            "question": "What is the definition of \"I, on the other hand, would like the penne with tomato and basil sauce. It's delicious.\"?",
+            "tried": 2
+        },
+        {
+            "answer": "I take the side dish.",
+            "failed": 1,
+            "lastAsked": 1454696893.43254,
+            "question": "Given the definition \"Io prendo il contorno.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "answer": "naturale/naturali",
+            "failed": 1,
+            "lastAsked": 1454696828.65654,
+            "question": "Given the definition \"natural, non-carbonated, still\", what is the word?",
+            "tried": 2
+        },
+        {
             "answer": "Good idea! I'd like the pork roast with a side of potatoes instead.",
             "failed": 1,
             "lastAsked": 1454955027.0656476,
@@ -704,137 +612,55 @@
             "tried": 2
         },
         {
-            "answer": "La scuola e' vicino alla stazione.",
+            "answer": "pago",
             "failed": 1,
-            "lastAsked": 1454955062.0453708,
-            "question": "The school is next to the station.",
+            "lastAsked": 1454955787.6904929,
+            "question": "What is the definition of \"I pay\"?",
             "tried": 2
         },
         {
-            "answer": "prendiamo",
+            "answer": "prendi",
+            "failed": 1,
+            "lastAsked": 1455122095.284631,
+            "question": "prendere (tu)",
+            "tried": 2
+        },
+        {
+            "answer": "Il bagno e' nuovo.",
+            "failed": 1,
+            "lastAsked": 1455122101.964299,
+            "question": "The bathroom is new.",
+            "tried": 2
+        },
+        {
+            "answer": "All right, I'll call the waiter right away.",
+            "failed": 1,
+            "lastAsked": 1454954705.5547116,
+            "question": "Given the definition \"Bene, chaimo subito il cameriere.\", what is the word?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "prendo",
             "failed": 0,
-            "lastAsked": 1455122050.1831214,
-            "question": "Noi (prendere) il dolce ed il caffe'.",
+            "lastAsked": 1486147805.8360138,
+            "question": "What is the definition of \"I take\"?",
             "tried": 1
         },
         {
             "alternates": [],
-            "answer": "ordini",
+            "answer": "you take",
             "failed": 0,
-            "lastAsked": 1486061567.116031,
-            "question": "What is the definition of \"you order\"?",
+            "lastAsked": 1486061756.3486636,
+            "question": "Given the definition \"prendi\", what is the word?",
             "tried": 1
         },
         {
             "alternates": [],
-            "answer": "chiami",
+            "answer": "chiedo",
             "failed": 0,
-            "lastAsked": 1486147808.3316991,
-            "question": "chiamare (tu)",
-            "tried": 1
-        },
-        {
-            "answer": "paghi",
-            "failed": 0,
-            "lastAsked": 1454955724.842416,
-            "question": "What is the definition of \"you pay\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "I'll take the ravioli; it's very good"
-            ],
-            "answer": "I'll have the ravioli; they're very good.",
-            "failed": 0,
-            "lastAsked": 1486147279.5592103,
-            "question": "Given the definition \"Prendo i ravioli; sono molto buoni.\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "ordino, al",
-            "failed": 0,
-            "lastAsked": 1486061693.744842,
-            "question": "I order ravioli with meat sauce. Io ___ i ravioli ___ ragu'.",
-            "tried": 1
-        },
-        {
-            "answer": "natural, non-carbonated, still",
-            "failed": 0,
-            "lastAsked": 1454954591.253199,
-            "question": "What is the definition of \"naturale/naturali\"?",
-            "tried": 1
-        },
-        {
-            "answer": "He orders the main course.",
-            "failed": 0,
-            "lastAsked": 1454955141.4965332,
-            "question": "Given the definition \"Lui ordina il secondo.\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "sono",
-            "failed": 0,
-            "lastAsked": 1486061223.1111853,
-            "question": "essere (io)",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "tu ordini il primo"
-            ],
-            "answer": "Tu ordini il primo.",
-            "failed": 0,
-            "lastAsked": 1486061113.5611181,
-            "question": "What is the definition of \"You (informal) order the first course.\"?",
-            "tried": 1
-        },
-        {
-            "answer": "I order",
-            "failed": 0,
-            "lastAsked": 1454955572.2812016,
-            "question": "Given the definition \"ordino\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "ha",
-            "failed": 0,
-            "lastAsked": 1454955258.8198066,
-            "question": "avere (lui/lei)",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "ordini",
-            "failed": 0,
-            "lastAsked": 1486147648.2866626,
-            "question": "Tu (ordinare) il pesce della casa.",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "pago, carta",
-            "failed": 0,
-            "lastAsked": 1486147441.4110892,
-            "question": "I pay the check by credit card. Io ___ il conto con la ___ di credito.",
-            "tried": 1
-        },
-        {
-            "answer": "pago",
-            "failed": 0,
-            "lastAsked": 1454955717.2517428,
-            "question": "pagare (io)",
-            "tried": 1
-        },
-        {
-            "alternates": [
-                "siamo in cucina"
-            ],
-            "answer": "Siamo in cucina.",
-            "failed": 0,
-            "lastAsked": 1486061685.473506,
-            "question": "We are in the kitchen",
+            "lastAsked": 1486406875.7963161,
+            "question": "What is the definition of \"I ask for\"?",
             "tried": 1
         },
         {
@@ -848,66 +674,6 @@
             "tried": 1
         },
         {
-            "alternates": [],
-            "answer": "mineral water",
-            "failed": 0,
-            "lastAsked": 1486147316.4501731,
-            "question": "What is the definition of \"l'acqua minerale\"?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "I pay",
-            "failed": 0,
-            "lastAsked": 1486147284.159608,
-            "question": "Given the definition \"pago\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "You (formal) take the first course.",
-            "failed": 0,
-            "lastAsked": 1454696814.55754,
-            "question": "Given the definition \"Lei (formal) prende il primo.\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "he/she takes",
-            "failed": 0,
-            "lastAsked": 1486147604.861122,
-            "question": "Given the definition \"prende\", what is the word?",
-            "tried": 1
-        },
-        {
-            "alternates": [],
-            "answer": "ordino",
-            "failed": 0,
-            "lastAsked": 1486061167.056159,
-            "question": "ordinare (io)",
-            "tried": 1
-        },
-        {
-            "answer": "paga",
-            "failed": 0,
-            "lastAsked": 1454955356.7714121,
-            "question": "pagare (lui/lei)",
-            "tried": 1
-        },
-        {
-            "answer": "la bistecca",
-            "failed": 0,
-            "lastAsked": 1454955252.3676417,
-            "question": "Given the definition \"the beefsteak\", what is the word?",
-            "tried": 1
-        },
-        {
-            "answer": "ordini",
-            "failed": 0,
-            "lastAsked": 1454954595.2852905,
-            "question": "ordinare (tu)",
-            "tried": 1
-        },
-        {
             "answer": "you order",
             "failed": 0,
             "lastAsked": 1454954682.001217,
@@ -915,10 +681,92 @@
             "tried": 1
         },
         {
-            "answer": "he/she pays",
+            "answer": "I order",
             "failed": 0,
-            "lastAsked": 1454955580.273617,
-            "question": "Given the definition \"paga\", what is the word?",
+            "lastAsked": 1454955572.2812016,
+            "question": "Given the definition \"ordino\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "I'll take the ravioli; it's very good"
+            ],
+            "answer": "I'll have the ravioli; they're very good.",
+            "failed": 0,
+            "lastAsked": 1486147279.5592103,
+            "question": "Given the definition \"Prendo i ravioli; sono molto buoni.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "beefsteak"
+            ],
+            "answer": "the beefsteak",
+            "failed": 0,
+            "lastAsked": 1486406015.5390582,
+            "question": "What is the definition of \"la bistecca\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "sei",
+            "failed": 0,
+            "lastAsked": 1486405918.048862,
+            "question": "essere (tu)",
+            "tried": 1
+        },
+        {
+            "answer": "ordina",
+            "failed": 0,
+            "lastAsked": 1455116608.6965604,
+            "question": "What is the definition of \"he/she orders\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "I, on the other hand, would like the penne with tomatoes and basil sauce: it's exquisite"
+            ],
+            "answer": "I, on the other hand, would like the penne with tomato and basil sauce. It's delicious.",
+            "failed": 0,
+            "lastAsked": 1486061676.601143,
+            "question": "Given the definition \"Io invece vorrei le penne al pmodoro e basilico: sono squisite.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "chiamo",
+            "failed": 0,
+            "lastAsked": 1486147369.9934568,
+            "question": "Io (chiamare) il cameriere.",
+            "tried": 1
+        },
+        {
+            "answer": "She orders the fruit.",
+            "failed": 0,
+            "lastAsked": 1454954677.3230543,
+            "question": "Given the definition \"Lei ordina la frutta.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "He takes the dessert.",
+            "failed": 0,
+            "lastAsked": 1455116739.1885602,
+            "question": "Given the definition \"Lui prende il dolce.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "chiami",
+            "failed": 0,
+            "lastAsked": 1486147808.3316991,
+            "question": "chiamare (tu)",
+            "tried": 1
+        },
+        {
+            "answer": "pago",
+            "failed": 0,
+            "lastAsked": 1454955717.2517428,
+            "question": "pagare (io)",
             "tried": 1
         },
         {
@@ -932,33 +780,130 @@
             "tried": 1
         },
         {
-            "answer": "he/she orders",
+            "answer": "paga",
             "failed": 0,
-            "lastAsked": 1454954626.2741532,
-            "question": "Given the definition \"ordina\", what is the word?",
+            "lastAsked": 1454955356.7714121,
+            "question": "pagare (lui/lei)",
             "tried": 1
         },
         {
             "alternates": [],
-            "answer": "you take",
+            "answer": "ordino",
             "failed": 0,
-            "lastAsked": 1486061756.3486636,
-            "question": "Given the definition \"prendi\", what is the word?",
+            "lastAsked": 1486061167.056159,
+            "question": "ordinare (io)",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "tu ordini il primo"
+            ],
+            "answer": "Tu ordini il primo.",
+            "failed": 0,
+            "lastAsked": 1486061113.5611181,
+            "question": "What is the definition of \"You (informal) order the first course.\"?",
+            "tried": 1
+        },
+        {
+            "answer": "la bistecca",
+            "failed": 0,
+            "lastAsked": 1454955252.3676417,
+            "question": "Given the definition \"the beefsteak\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "You (formal) take the first course.",
+            "failed": 0,
+            "lastAsked": 1454696814.55754,
+            "question": "Given the definition \"Lei (formal) prende il primo.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "ha",
+            "failed": 0,
+            "lastAsked": 1454955258.8198066,
+            "question": "avere (lui/lei)",
             "tried": 1
         },
         {
             "alternates": [],
-            "answer": "prendo",
+            "answer": "ordino, al",
             "failed": 0,
-            "lastAsked": 1486147805.8360138,
-            "question": "What is the definition of \"I take\"?",
+            "lastAsked": 1486061693.744842,
+            "question": "I order ravioli with meat sauce. Io ___ i ravioli ___ ragu'.",
             "tried": 1
         },
         {
-            "answer": "ordina",
+            "alternates": [
+                "siamo in cucina"
+            ],
+            "answer": "Siamo in cucina.",
             "failed": 0,
-            "lastAsked": 1455116608.6965604,
-            "question": "What is the definition of \"he/she orders\"?",
+            "lastAsked": 1486061685.473506,
+            "question": "We are in the kitchen",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "the potatoes",
+            "failed": 0,
+            "lastAsked": 1486407292.4075444,
+            "question": "What is the definition of \"le patate\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "ordini",
+            "failed": 0,
+            "lastAsked": 1486147648.2866626,
+            "question": "Tu (ordinare) il pesce della casa.",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "chiedi, caffe"
+            ],
+            "answer": "chiedi, caffe'",
+            "failed": 0,
+            "lastAsked": 1486407286.503855,
+            "question": "You ask for dessert and coffee. Tu ___ il dolce e il ___.",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "chiedi",
+            "failed": 0,
+            "lastAsked": 1486406324.8173673,
+            "question": "What is the definition of \"you ask for\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "ordini",
+            "failed": 0,
+            "lastAsked": 1486061567.116031,
+            "question": "What is the definition of \"you order\"?",
+            "tried": 1
+        },
+        {
+            "answer": "He orders the main course.",
+            "failed": 0,
+            "lastAsked": 1454955141.4965332,
+            "question": "Given the definition \"Lui ordina il secondo.\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "natural, non-carbonated, still",
+            "failed": 0,
+            "lastAsked": 1454954591.253199,
+            "question": "What is the definition of \"naturale/naturali\"?",
+            "tried": 1
+        },
+        {
+            "answer": "prendiamo",
+            "failed": 0,
+            "lastAsked": 1455122050.1831214,
+            "question": "Noi (prendere) il dolce ed il caffe'.",
             "tried": 1
         },
         {
@@ -969,32 +914,73 @@
             "tried": 1
         },
         {
-            "answer": "hai",
+            "alternates": [],
+            "answer": "mineral water",
             "failed": 0,
-            "lastAsked": 1454696504.75754,
-            "question": "avere (tu)",
+            "lastAsked": 1486147316.4501731,
+            "question": "What is the definition of \"l'acqua minerale\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "chiede",
+            "failed": 0,
+            "lastAsked": 1486407274.595637,
+            "question": "What is the definition of \"he/she asks for\"?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "I pay",
+            "failed": 0,
+            "lastAsked": 1486147284.159608,
+            "question": "Given the definition \"pago\", what is the word?",
             "tried": 1
         },
         {
             "alternates": [],
             "answer": "chiamo",
             "failed": 0,
-            "lastAsked": 1486147369.9934568,
-            "question": "Io (chiamare) il cameriere.",
+            "lastAsked": 1486407230.680852,
+            "question": "chiamare (io)",
             "tried": 1
         },
         {
-            "answer": "Yes, the meat is excellent. I'll have a beefsteak with a side of salad.",
+            "alternates": [],
+            "answer": "ordini, griglia",
             "failed": 0,
-            "lastAsked": 1454955244.9994912,
-            "question": "Given the definition \"Si, la carne e' eccellente. Prendo una bistecca con contorno di insalata.\", what is the word?",
+            "lastAsked": 1486407269.0517848,
+            "question": "You order grilled fish and mixed salad. Tu ___ il pesce all ___ e l'insalata mista.",
             "tried": 1
         },
         {
-            "answer": "She orders the fruit.",
+            "alternates": [],
+            "answer": "sono",
             "failed": 0,
-            "lastAsked": 1454954677.3230543,
-            "question": "Given the definition \"Lei ordina la frutta.\", what is the word?",
+            "lastAsked": 1486061223.1111853,
+            "question": "essere (io)",
+            "tried": 1
+        },
+        {
+            "answer": "he/she orders",
+            "failed": 0,
+            "lastAsked": 1454954626.2741532,
+            "question": "Given the definition \"ordina\", what is the word?",
+            "tried": 1
+        },
+        {
+            "answer": "he/she pays",
+            "failed": 0,
+            "lastAsked": 1454955580.273617,
+            "question": "Given the definition \"paga\", what is the word?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "he/she takes",
+            "failed": 0,
+            "lastAsked": 1486147604.861122,
+            "question": "Given the definition \"prende\", what is the word?",
             "tried": 1
         },
         {
@@ -1005,20 +991,55 @@
             "tried": 1
         },
         {
-            "answer": "He takes the dessert.",
+            "alternates": [],
+            "answer": "pago, carta",
             "failed": 0,
-            "lastAsked": 1455116739.1885602,
-            "question": "Given the definition \"Lui prende il dolce.\", what is the word?",
+            "lastAsked": 1486147441.4110892,
+            "question": "I pay the check by credit card. Io ___ il conto con la ___ di credito.",
             "tried": 1
         },
         {
-            "alternates": [
-                "I, on the other hand, would like the penne with tomatoes and basil sauce: it's exquisite"
-            ],
-            "answer": "I, on the other hand, would like the penne with tomato and basil sauce. It's delicious.",
+            "alternates": [],
+            "answer": "e'",
             "failed": 0,
-            "lastAsked": 1486061676.601143,
-            "question": "Given the definition \"Io invece vorrei le penne al pmodoro e basilico: sono squisite.\", what is the word?",
+            "lastAsked": 1486405928.3488622,
+            "question": "essere (lui/lei)",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "ordino",
+            "failed": 0,
+            "lastAsked": 1486406321.7683575,
+            "question": "What is the definition of \"I order\"?",
+            "tried": 1
+        },
+        {
+            "answer": "ordini",
+            "failed": 0,
+            "lastAsked": 1454954595.2852905,
+            "question": "ordinare (tu)",
+            "tried": 1
+        },
+        {
+            "answer": "hai",
+            "failed": 0,
+            "lastAsked": 1454696504.75754,
+            "question": "avere (tu)",
+            "tried": 1
+        },
+        {
+            "answer": "paghi",
+            "failed": 0,
+            "lastAsked": 1454955724.842416,
+            "question": "What is the definition of \"you pay\"?",
+            "tried": 1
+        },
+        {
+            "answer": "Yes, the meat is excellent. I'll have a beefsteak with a side of salad.",
+            "failed": 0,
+            "lastAsked": 1454955244.9994912,
+            "question": "Given the definition \"Si, la carne e' eccellente. Prendo una bistecca con contorno di insalata.\", what is the word?",
             "tried": 1
         }
     ]

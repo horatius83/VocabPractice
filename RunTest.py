@@ -33,10 +33,13 @@ def RunTest(filename: str) -> None:
 recent_files_path = './recent_files.json'
 def get_recent_files() -> List[Tuple[str, datetime.datetime]]:
     with open(recent_files_path,'r') as in_data:
-        #files = [x for x in in_data.read().split('\n') if x.strip() is not '']
-        json_obj = json.loads(in_data.read(),encoding='utf-8')
-        for (file_path, str_datetime) in json_obj:
-            yield (file_path, datetime.datetime.strptime(str_datetime, '%Y-%m-%d %H:%M:%S.%f'))
+        raw_list = in_data.read()
+        if(raw_list != ''):
+            json_obj = json.loads(raw_list, encoding='utf-8')
+            for (file_path, str_datetime) in json_obj:
+                yield (file_path, datetime.datetime.strptime(str_datetime, '%Y-%m-%d %H:%M:%S.%f'))
+        else:
+            return []
 
 
 def update_recent_files(files: Iterable[Tuple[str, datetime.datetime]]) -> None:
@@ -69,7 +72,7 @@ if len(sys.argv) > 1:
 else:
     files = []
     if isfile(recent_files_path): 
-        files = get_recent_files()
+        files = list(get_recent_files())
         print('--==((Recent Files))==--')
         for (selection, file) in enumerate(files):
             print('({0}): {1}'.format(selection, file[0]))
@@ -77,6 +80,6 @@ else:
     try:
         selection_as_number = int(selection)
         selected_file = files[selection_as_number]
-        RunTest(selected_file)
+        RunTest(selected_file[0])
     except Exception as e:
         print(e)

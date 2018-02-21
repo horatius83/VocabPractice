@@ -1,0 +1,1231 @@
+{
+    "name": "Italian Adjectives",
+    "vocab": [
+        {
+            "alternates": [],
+            "answer": "bagnato",
+            "failed": 9,
+            "lastAsked": 1519152163.1085134,
+            "question": "wet",
+            "tried": 12
+        },
+        {
+            "alternates": [],
+            "answer": "weak",
+            "failed": 8,
+            "lastAsked": 1519152139.2647622,
+            "question": "debole",
+            "tried": 11
+        },
+        {
+            "alternates": [],
+            "answer": "thick",
+            "failed": 9,
+            "lastAsked": 1519152181.5114658,
+            "question": "spesso",
+            "tried": 12
+        },
+        {
+            "alternates": [],
+            "answer": "stretto",
+            "failed": 9,
+            "lastAsked": 1519152188.2395997,
+            "question": "narrow",
+            "tried": 12
+        },
+        {
+            "alternates": [],
+            "answer": "empty",
+            "failed": 8,
+            "lastAsked": 1519152176.5118766,
+            "question": "vuoto",
+            "tried": 11
+        },
+        {
+            "alternates": [],
+            "answer": "few",
+            "failed": 7,
+            "lastAsked": 1519152141.600138,
+            "question": "pochi",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "straniero",
+            "failed": 8,
+            "lastAsked": 1519152173.4923658,
+            "question": "foreign",
+            "tried": 11
+        },
+        {
+            "alternates": [],
+            "answer": "molti",
+            "failed": 6,
+            "lastAsked": 1519152170.923636,
+            "question": "many",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "molto",
+            "failed": 6,
+            "lastAsked": 1519152219.579072,
+            "question": "much",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "wrong",
+            "failed": 6,
+            "lastAsked": 1519152208.3951447,
+            "question": "sbagliato",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "slow",
+            "failed": 5,
+            "lastAsked": 1519152203.107134,
+            "question": "lento",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "secco",
+            "failed": 5,
+            "lastAsked": 1519152198.6793714,
+            "question": "dry",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "dritto",
+            "failed": 5,
+            "lastAsked": 1519152238.8790946,
+            "question": "straight",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "buio",
+            "failed": 7,
+            "lastAsked": 1519152267.9463549,
+            "question": "dark",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "i gusti",
+            "failed": 7,
+            "lastAsked": 1519152269.995561,
+            "question": "tastes",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "debole",
+            "failed": 7,
+            "lastAsked": 1519152265.1551988,
+            "question": "weak",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "wide",
+            "failed": 5,
+            "lastAsked": 1519152297.846192,
+            "question": "ampio",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "potente",
+            "failed": 4,
+            "lastAsked": 1519152300.4782653,
+            "question": "powerful",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "amaro",
+            "failed": 5,
+            "lastAsked": 1519152321.026098,
+            "question": "bitter",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "pulito",
+            "failed": 4,
+            "lastAsked": 1519152279.5784965,
+            "question": "clean",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "pesante",
+            "failed": 5,
+            "lastAsked": 1519152325.2177227,
+            "question": "heavy",
+            "tried": 8
+        },
+        {
+            "alternates": [
+                "dimensioni"
+            ],
+            "answer": "dimensioni (or) misure",
+            "failed": 4,
+            "lastAsked": 1519152276.0430038,
+            "question": "sizes",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "bitter",
+            "failed": 5,
+            "lastAsked": 1519152327.5383656,
+            "question": "amaro",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "alcuni",
+            "failed": 5,
+            "lastAsked": 1519152314.6106904,
+            "question": "some",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "ampio",
+            "failed": 4,
+            "lastAsked": 1519152345.181678,
+            "question": "wide",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "spesso",
+            "failed": 5,
+            "lastAsked": 1519152372.2890186,
+            "question": "thick",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "corretto",
+            "failed": 5,
+            "lastAsked": 1519152370.2813811,
+            "question": "correct",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "some",
+            "failed": 5,
+            "lastAsked": 1519152367.5053947,
+            "question": "alcuni",
+            "tried": 8
+        },
+        {
+            "alternates": [],
+            "answer": "acido",
+            "failed": 4,
+            "lastAsked": 1519152358.4340534,
+            "question": "sour",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "narrow",
+            "failed": 7,
+            "lastAsked": 1519152381.5375867,
+            "question": "stretto",
+            "tried": 10
+        },
+        {
+            "alternates": [],
+            "answer": "morbido",
+            "failed": 3,
+            "lastAsked": 1519152352.5414197,
+            "question": "soft",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "fresco",
+            "failed": 3,
+            "lastAsked": 1519152347.2861154,
+            "question": "fresh",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "cattivo",
+            "failed": 3,
+            "lastAsked": 1519152384.6655881,
+            "question": "bad",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "shapes",
+            "failed": 4,
+            "lastAsked": 1519152421.8818853,
+            "question": "forme",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "triangolare",
+            "failed": 4,
+            "lastAsked": 1519152419.5519395,
+            "question": "triangular",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "inexpensive",
+            "failed": 3,
+            "lastAsked": 1519152416.696964,
+            "question": "economico",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "piccante",
+            "failed": 3,
+            "lastAsked": 1519152390.094297,
+            "question": "spicy",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "a few"
+            ],
+            "answer": "a few",
+            "failed": 3,
+            "lastAsked": 1519152402.1493986,
+            "question": "qualche",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "lento",
+            "failed": 3,
+            "lastAsked": 1519152411.8767946,
+            "question": "slow",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "quantita"
+            ],
+            "answer": "quantità",
+            "failed": 3,
+            "lastAsked": 1519152393.261011,
+            "question": "quantities",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "wet",
+            "failed": 4,
+            "lastAsked": 1519152471.096196,
+            "question": "bagnato",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "sottile",
+            "failed": 3,
+            "lastAsked": 1519152441.1240215,
+            "question": "thin",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "economico",
+            "failed": 3,
+            "lastAsked": 1519152429.0167274,
+            "question": "inexpensive",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "easy",
+            "failed": 4,
+            "lastAsked": 1519152466.5358171,
+            "question": "facile",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "pochi",
+            "failed": 6,
+            "lastAsked": 1519152481.2805204,
+            "question": "few",
+            "tried": 9
+        },
+        {
+            "alternates": [],
+            "answer": "tastes",
+            "failed": 4,
+            "lastAsked": 1519152464.063713,
+            "question": "i gusti",
+            "tried": 7
+        },
+        {
+            "alternates": [],
+            "answer": "very",
+            "failed": 3,
+            "lastAsked": 1519152468.4381275,
+            "question": "molto",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "whole",
+            "failed": 2,
+            "lastAsked": 1519152454.5158064,
+            "question": "tutto (or)completo, totale",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "circolare",
+            "failed": 2,
+            "lastAsked": 1519152486.089359,
+            "question": "circular",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "costoso",
+            "failed": 2,
+            "lastAsked": 1519152499.9881475,
+            "question": "expensive",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "poco",
+            "failed": 4,
+            "lastAsked": 1519152509.2990515,
+            "question": "little",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "tutto"
+            ],
+            "answer": "tutto (or)completo, totale",
+            "failed": 2,
+            "lastAsked": 1519152491.5596938,
+            "question": "whole",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "rumoroso",
+            "failed": 2,
+            "lastAsked": 1519152489.3362036,
+            "question": "noisy",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "quiet",
+            "failed": 2,
+            "lastAsked": 1519152502.5244393,
+            "question": "tranquillo",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "vuoto",
+            "failed": 2,
+            "lastAsked": 1519152483.2809787,
+            "question": "empty",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "forme",
+            "failed": 2,
+            "lastAsked": 1519152504.3953424,
+            "question": "shapes",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "pieno",
+            "failed": 2,
+            "lastAsked": 1519152547.8270988,
+            "question": "full",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "luce",
+            "failed": 3,
+            "lastAsked": 1519152553.3956287,
+            "question": "light",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "sporco",
+            "failed": 2,
+            "lastAsked": 1519152514.987013,
+            "question": "dirty",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "local",
+            "failed": 2,
+            "lastAsked": 1519152538.9112222,
+            "question": "locale",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "sizes",
+            "failed": 3,
+            "lastAsked": 1519152551.0926907,
+            "question": "dimensioni (or) misure",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "qualche"
+            ],
+            "answer": "a few",
+            "failed": 2,
+            "lastAsked": 1519152523.2398148,
+            "question": "a",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "sbagliato",
+            "failed": 2,
+            "lastAsked": 1519152519.1998487,
+            "question": "wrong",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "profondo",
+            "failed": 2,
+            "lastAsked": 1519152536.7357361,
+            "question": "deep",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "salato",
+            "failed": 2,
+            "lastAsked": 1519152557.2996292,
+            "question": "salty",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "bianco",
+            "failed": 2,
+            "lastAsked": 1519152563.739197,
+            "question": "white",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "quantities",
+            "failed": 1,
+            "lastAsked": 1519152561.3310275,
+            "question": "quantità",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "viola",
+            "failed": 1,
+            "lastAsked": 1519152555.3467903,
+            "question": "purple",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "light",
+            "failed": 1,
+            "lastAsked": 1519152574.2068546,
+            "question": "luce",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "dirty",
+            "failed": 1,
+            "lastAsked": 1519152567.8588643,
+            "question": "sporco",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "tranquillo",
+            "failed": 1,
+            "lastAsked": 1519152572.4146717,
+            "question": "quiet",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "facile",
+            "failed": 1,
+            "lastAsked": 1519152565.8110027,
+            "question": "easy",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "dry",
+            "failed": 1,
+            "lastAsked": 1519152603.1219716,
+            "question": "secco",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "colors",
+            "failed": 1,
+            "lastAsked": 1519152588.8634682,
+            "question": "colori",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "hard",
+            "failed": 1,
+            "lastAsked": 1519152578.5352168,
+            "question": "duro (or)difficile (difficult)",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "very"
+            ],
+            "answer": "much",
+            "failed": 2,
+            "lastAsked": 1519152608.8742292,
+            "question": "molto",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "parts"
+            ],
+            "answer": "part",
+            "failed": 1,
+            "lastAsked": 1519152593.2312593,
+            "question": "parte",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "correct",
+            "failed": 1,
+            "lastAsked": 1519152576.598917,
+            "question": "corretto",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "square",
+            "failed": 1,
+            "lastAsked": 1519152595.706918,
+            "question": "quadrato",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "small"
+            ],
+            "answer": "little",
+            "failed": 2,
+            "lastAsked": 1519152606.1621218,
+            "question": "poco",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "qualita"
+            ],
+            "answer": "qualità",
+            "failed": 1,
+            "lastAsked": 1519152614.81834,
+            "question": "qualities",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "fresh",
+            "failed": 1,
+            "lastAsked": 1519152631.7177515,
+            "question": "fresco",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "qualities",
+            "failed": 1,
+            "lastAsked": 1519152629.1024742,
+            "question": "qualità",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "arancione",
+            "failed": 1,
+            "lastAsked": 1519152619.9389284,
+            "question": "orange",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "thin",
+            "failed": 1,
+            "lastAsked": 1519152626.5028386,
+            "question": "sottile",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "parte",
+            "failed": 1,
+            "lastAsked": 1519152616.490678,
+            "question": "part",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "lungo",
+            "failed": 2,
+            "lastAsked": 1519152635.7739275,
+            "question": "long",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "dark",
+            "failed": 1,
+            "lastAsked": 1519152633.8697145,
+            "question": "buio",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "duro"
+            ],
+            "answer": "duro (or)difficile (difficult)",
+            "failed": 1,
+            "lastAsked": 1519152661.0262616,
+            "question": "hard",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "giovane"
+            ],
+            "answer": "giovane / giovani",
+            "failed": 2,
+            "lastAsked": 1519152667.362157,
+            "question": "young",
+            "tried": 5
+        },
+        {
+            "alternates": [],
+            "answer": "buono",
+            "failed": 1,
+            "lastAsked": 1519152638.2861834,
+            "question": "good",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "circular",
+            "failed": 1,
+            "lastAsked": 1519152658.5141044,
+            "question": "circolare",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "quadrato",
+            "failed": 1,
+            "lastAsked": 1519152664.561023,
+            "question": "square",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "soft",
+            "failed": 1,
+            "lastAsked": 1519152652.3261364,
+            "question": "morbido",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "sweet",
+            "failed": 0,
+            "lastAsked": 1519152654.161985,
+            "question": "dolce",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "brown",
+            "failed": 0,
+            "lastAsked": 1519152656.1223898,
+            "question": "marrone",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "giallo",
+            "failed": 0,
+            "lastAsked": 1519152676.6139832,
+            "question": "yellow",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "colori",
+            "failed": 0,
+            "lastAsked": 1519152678.382005,
+            "question": "colors",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "full",
+            "failed": 0,
+            "lastAsked": 1519152689.5335972,
+            "question": "pieno",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "molto",
+            "failed": 0,
+            "lastAsked": 1519152687.6619062,
+            "question": "very",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "triangular",
+            "failed": 1,
+            "lastAsked": 1519152692.454698,
+            "question": "triangolare",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "vecchio",
+            "failed": 0,
+            "lastAsked": 1519152684.2133577,
+            "question": "old",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "blue",
+            "failed": 0,
+            "lastAsked": 1519152681.9418817,
+            "question": "blu",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "rosso",
+            "failed": 0,
+            "lastAsked": 1519152680.509542,
+            "question": "red",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "red",
+            "failed": 0,
+            "lastAsked": 1519152703.6319594,
+            "question": "rosso",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "veloce",
+            "failed": 0,
+            "lastAsked": 1519152698.3572643,
+            "question": "fast",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "old",
+            "failed": 0,
+            "lastAsked": 1519152696.3972204,
+            "question": "vecchio",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "grigio",
+            "failed": 0,
+            "lastAsked": 1519152700.733074,
+            "question": "gray",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "gray",
+            "failed": 0,
+            "lastAsked": 1519152694.9413319,
+            "question": "grigio",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "blu",
+            "failed": 0,
+            "lastAsked": 1519152702.1056986,
+            "question": "blue",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "straight",
+            "failed": 0,
+            "lastAsked": 1519152708.6655998,
+            "question": "dritto",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "many",
+            "failed": 0,
+            "lastAsked": 1519152705.5937657,
+            "question": "molti",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "orange",
+            "failed": 0,
+            "lastAsked": 1519152714.8340094,
+            "question": "arancione",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "deep",
+            "failed": 0,
+            "lastAsked": 1519152722.1052854,
+            "question": "profondo",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "verde",
+            "failed": 0,
+            "lastAsked": 1519152716.6973796,
+            "question": "green",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "white",
+            "failed": 0,
+            "lastAsked": 1519152710.4505858,
+            "question": "bianco",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "difficult",
+            "failed": 0,
+            "lastAsked": 1519152724.4013295,
+            "question": "difficile",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "long",
+            "failed": 0,
+            "lastAsked": 1519152718.2815156,
+            "question": "lungo",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "marrone",
+            "failed": 0,
+            "lastAsked": 1519152712.4579084,
+            "question": "brown",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "salty",
+            "failed": 0,
+            "lastAsked": 1519152720.0972638,
+            "question": "salato",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "basso"
+            ],
+            "answer": "breve (or)corto (or)basso",
+            "failed": 0,
+            "lastAsked": 1519152726.6413722,
+            "question": "short",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "piccolo",
+            "failed": 0,
+            "lastAsked": 1519152729.0169551,
+            "question": "small",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "short",
+            "failed": 0,
+            "lastAsked": 1519152734.8372412,
+            "question": "breve (or)corto (or)basso",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "new",
+            "failed": 0,
+            "lastAsked": 1519152730.3329866,
+            "question": "nuovo",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "strong"
+            ],
+            "answer": "powerful",
+            "failed": 0,
+            "lastAsked": 1519152741.4053922,
+            "question": "potente",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "small",
+            "failed": 0,
+            "lastAsked": 1519152732.1013277,
+            "question": "piccolo",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "green",
+            "failed": 0,
+            "lastAsked": 1519152739.2853158,
+            "question": "verde",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "purple",
+            "failed": 0,
+            "lastAsked": 1519152737.2218432,
+            "question": "viola",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "yellow",
+            "failed": 0,
+            "lastAsked": 1519152743.7917686,
+            "question": "giallo",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "noisy",
+            "failed": 0,
+            "lastAsked": 1519152759.8109903,
+            "question": "rumoroso",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "sour",
+            "failed": 0,
+            "lastAsked": 1519152750.4372883,
+            "question": "acido",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "dolce",
+            "failed": 0,
+            "lastAsked": 1519152745.8292434,
+            "question": "sweet",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "spicy",
+            "failed": 0,
+            "lastAsked": 1519152763.9127295,
+            "question": "piccante",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "foreign",
+            "failed": 0,
+            "lastAsked": 1519152757.3090909,
+            "question": "straniero",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "nero",
+            "failed": 0,
+            "lastAsked": 1519152761.4083388,
+            "question": "black",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "good",
+            "failed": 0,
+            "lastAsked": 1519152752.1644497,
+            "question": "buono",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "tall",
+            "failed": 0,
+            "lastAsked": 1519152770.896388,
+            "question": "alto",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "alto",
+            "failed": 0,
+            "lastAsked": 1519152769.1279333,
+            "question": "tall",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "big",
+            "failed": 0,
+            "lastAsked": 1519152765.5134995,
+            "question": "grande",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "bad",
+            "failed": 0,
+            "lastAsked": 1519152767.3527465,
+            "question": "cattivo",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "young",
+            "failed": 0,
+            "lastAsked": 1519152773.504095,
+            "question": "giovane / giovani",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "heavy",
+            "failed": 0,
+            "lastAsked": 1519152775.7368665,
+            "question": "pesante",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "fast",
+            "failed": 0,
+            "lastAsked": 1519152779.8241732,
+            "question": "veloce",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "black",
+            "failed": 0,
+            "lastAsked": 1519152777.7056382,
+            "question": "nero",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "nuovo",
+            "failed": 0,
+            "lastAsked": 1519152793.700298,
+            "question": "new",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "clean",
+            "failed": 0,
+            "lastAsked": 1519152787.2929385,
+            "question": "pulito",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "grande",
+            "failed": 0,
+            "lastAsked": 1519152781.7367349,
+            "question": "big",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "locale",
+            "failed": 0,
+            "lastAsked": 1519152791.765123,
+            "question": "local",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "difficile",
+            "failed": 0,
+            "lastAsked": 1519152790.0047467,
+            "question": "difficult",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "expensive",
+            "failed": 0,
+            "lastAsked": 1519152785.3165817,
+            "question": "costoso",
+            "tried": 3
+        }
+    ]
+}

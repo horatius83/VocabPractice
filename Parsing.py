@@ -1,3 +1,4 @@
+from typing import Dict, Tuple, List
 import FileManagement
 
 #===========Parsing stuff, application specific================
@@ -125,6 +126,11 @@ def createVocabJsonObj(filename,testName):
     vocab = convertVocabularyFile(filename)
     jsonObj = {'name' : testName, 'vocab' : [x for x in vocab]}
     return jsonObj
+
+def createTest(name: str, questions: List[Tuple[str,str]]) -> Dict[str,object]:
+    '''Convert a name and a list of tuples into a test object'''
+    vocab = [createEntry(q,a) for (q,a) in questions]
+    return {'name': name, 'vocab': vocab}
 
 def reparseAllTheVocabularyFiles():
     """Reparse all the files in ./Vocabulary"""

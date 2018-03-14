@@ -1,0 +1,2578 @@
+[
+    {
+        "io": {
+            "presente": "amo",
+            "passato prossimo": "ho",
+            "futuro semplice": "amato",
+            "imperetto": "amer\u00f2",
+            "pr. condizionale": "amavo"
+        },
+        "tu": {
+            "presente": "ami",
+            "passato prossimo": "hai",
+            "futuro semplice": "amato",
+            "imperetto": "amerai",
+            "pr. condizionale": "amavi"
+        },
+        "lui / lei": {
+            "presente": "ama",
+            "passato prossimo": "ha",
+            "futuro semplice": "amato",
+            "imperetto": "amer\u00e0",
+            "pr. condizionale": "amava"
+        },
+        "noi": {
+            "presente": "amiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "amato",
+            "imperetto": "ameremo",
+            "pr. condizionale": "amavamo"
+        },
+        "voi": {
+            "presente": "amate",
+            "passato prossimo": "avete",
+            "futuro semplice": "amato",
+            "imperetto": "amerete",
+            "pr. condizionale": "amavate"
+        },
+        "loro": {
+            "presente": "amano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "amato",
+            "imperetto": "ameranno",
+            "pr. condizionale": "amavano"
+        },
+        "word": "amare",
+        "definition": "To Love"
+    },
+    {
+        "io": {
+            "presente": "vado",
+            "passato prossimo": "sono",
+            "futuro semplice": "andato/a",
+            "imperetto": "andr\u00f2",
+            "pr. condizionale": "andavo"
+        },
+        "tu": {
+            "presente": "vai",
+            "passato prossimo": "sei",
+            "futuro semplice": "andato/a",
+            "imperetto": "andrai",
+            "pr. condizionale": "andavi"
+        },
+        "lui / lei": {
+            "presente": "va",
+            "passato prossimo": "\u00e8",
+            "futuro semplice": "andato/a",
+            "imperetto": "andr\u00e0",
+            "pr. condizionale": "andava"
+        },
+        "noi": {
+            "presente": "andiamo",
+            "passato prossimo": "siamo",
+            "futuro semplice": "andati/e",
+            "imperetto": "andremo",
+            "pr. condizionale": "andavamo"
+        },
+        "voi": {
+            "presente": "andate",
+            "passato prossimo": "siete",
+            "futuro semplice": "andati/e",
+            "imperetto": "andrete",
+            "pr. condizionale": "andavate"
+        },
+        "loro": {
+            "presente": "vanno",
+            "passato prossimo": "sono",
+            "futuro semplice": "andati/e",
+            "imperetto": "andranno",
+            "pr. condizionale": "andavano"
+        },
+        "word": "andare",
+        "definition": "To Go"
+    },
+    {
+        "io": {
+            "presente": "apro",
+            "passato prossimo": "ho",
+            "futuro semplice": "aperto",
+            "imperetto": "aprir\u00f2",
+            "pr. condizionale": "aprivo"
+        },
+        "tu": {
+            "presente": "apri",
+            "passato prossimo": "hai",
+            "futuro semplice": "aperto",
+            "imperetto": "aprirai",
+            "pr. condizionale": "aprivi"
+        },
+        "lui / lei": {
+            "presente": "apre",
+            "passato prossimo": "ha",
+            "futuro semplice": "aperto",
+            "imperetto": "aprir\u00e0",
+            "pr. condizionale": "apriva"
+        },
+        "noi": {
+            "presente": "apriamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "aperto",
+            "imperetto": "apriremo",
+            "pr. condizionale": "aprivamo"
+        },
+        "voi": {
+            "presente": "aprite",
+            "passato prossimo": "avete",
+            "futuro semplice": "aperto",
+            "imperetto": "aprirete",
+            "pr. condizionale": "aprivate"
+        },
+        "loro": {
+            "presente": "aprono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "aperto",
+            "imperetto": "apriranno",
+            "pr. condizionale": "aprivano"
+        },
+        "word": "aprire",
+        "definition": "To Open"
+    },
+    {
+        "io": {
+            "presente": "arrivo",
+            "passato prossimo": "sono",
+            "futuro semplice": "arrivato/a",
+            "imperetto": "arriver\u00f2",
+            "pr. condizionale": "arrivavo"
+        },
+        "tu": {
+            "presente": "arrivi",
+            "passato prossimo": "sei",
+            "futuro semplice": "arrivato/a",
+            "imperetto": "arriverai",
+            "pr. condizionale": "arrivavi"
+        },
+        "lui / lei": {
+            "presente": "arriva",
+            "passato prossimo": "\u00e8",
+            "futuro semplice": "arrivato/a",
+            "imperetto": "arriver\u00e0",
+            "pr. condizionale": "arrivava"
+        },
+        "noi": {
+            "presente": "arriviamo",
+            "passato prossimo": "siamo",
+            "futuro semplice": "arrivati/e",
+            "imperetto": "arriveremo",
+            "pr. condizionale": "arrivavamo"
+        },
+        "voi": {
+            "presente": "arrivate",
+            "passato prossimo": "siete",
+            "futuro semplice": "arrivati/e",
+            "imperetto": "arriverete",
+            "pr. condizionale": "arrivavate"
+        },
+        "loro": {
+            "presente": "arrivano",
+            "passato prossimo": "sono",
+            "futuro semplice": "arrivati/e",
+            "imperetto": "arriveranno",
+            "pr. condizionale": "arrivavano"
+        },
+        "word": "arrivare",
+        "definition": "To Arrive"
+    },
+    {
+        "io": {
+            "presente": "aspetto",
+            "passato prossimo": "ho",
+            "futuro semplice": "aspettato",
+            "imperetto": "aspetter\u00f2",
+            "pr. condizionale": "aspettavo"
+        },
+        "tu": {
+            "presente": "aspetti",
+            "passato prossimo": "hai",
+            "futuro semplice": "aspettato",
+            "imperetto": "aspetterai",
+            "pr. condizionale": "aspettavi"
+        },
+        "lui / lei": {
+            "presente": "aspetta",
+            "passato prossimo": "ha",
+            "futuro semplice": "aspettato",
+            "imperetto": "aspetter\u00e0",
+            "pr. condizionale": "aspettava"
+        },
+        "noi": {
+            "presente": "aspettiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "aspettato",
+            "imperetto": "aspetteremo",
+            "pr. condizionale": "aspettavamo"
+        },
+        "voi": {
+            "presente": "aspettate",
+            "passato prossimo": "avete",
+            "futuro semplice": "aspettato",
+            "imperetto": "aspetterete",
+            "pr. condizionale": "aspettavate"
+        },
+        "loro": {
+            "presente": "aspettano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "aspettato",
+            "imperetto": "aspetteranno",
+            "pr. condizionale": "aspettavano"
+        },
+        "word": "aspettare",
+        "definition": "To Wait"
+    },
+    {
+        "io": {
+            "presente": "ho",
+            "passato prossimo": "ho",
+            "futuro semplice": "avuto",
+            "imperetto": "avr\u00f2",
+            "pr. condizionale": "avevo"
+        },
+        "tu": {
+            "presente": "hai",
+            "passato prossimo": "hai",
+            "futuro semplice": "avuto",
+            "imperetto": "avrai",
+            "pr. condizionale": "avevi"
+        },
+        "lui / lei": {
+            "presente": "ha",
+            "passato prossimo": "ha",
+            "futuro semplice": "avuto",
+            "imperetto": "avr\u00e0",
+            "pr. condizionale": "aveva"
+        },
+        "noi": {
+            "presente": "abbiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "avuto",
+            "imperetto": "avremo",
+            "pr. condizionale": "avevamo"
+        },
+        "voi": {
+            "presente": "avete",
+            "passato prossimo": "avete",
+            "futuro semplice": "avuto",
+            "imperetto": "avrete",
+            "pr. condizionale": "avevate"
+        },
+        "loro": {
+            "presente": "hanno",
+            "passato prossimo": "hanno",
+            "futuro semplice": "avuto",
+            "imperetto": "avranno",
+            "pr. condizionale": "avevano"
+        },
+        "word": "avere",
+        "definition": "To Have"
+    },
+    {
+        "io": {
+            "presente": "bevo",
+            "passato prossimo": "ho",
+            "futuro semplice": "bevuto",
+            "imperetto": "berr\u00f2",
+            "pr. condizionale": "bevevo"
+        },
+        "tu": {
+            "presente": "bevi",
+            "passato prossimo": "hai",
+            "futuro semplice": "bevuto",
+            "imperetto": "berrai",
+            "pr. condizionale": "bevevi"
+        },
+        "lui / lei": {
+            "presente": "beve",
+            "passato prossimo": "ha",
+            "futuro semplice": "bevuto",
+            "imperetto": "berr\u00e0",
+            "pr. condizionale": "beveva"
+        },
+        "noi": {
+            "presente": "beviamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "bevuto",
+            "imperetto": "berremo",
+            "pr. condizionale": "bevevamo"
+        },
+        "voi": {
+            "presente": "bevete",
+            "passato prossimo": "avete",
+            "futuro semplice": "bevuto",
+            "imperetto": "berrete",
+            "pr. condizionale": "bevevate"
+        },
+        "loro": {
+            "presente": "bevono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "bevuto",
+            "imperetto": "berranno",
+            "pr. condizionale": "bevevano"
+        },
+        "word": "bere",
+        "definition": "To Drink"
+    },
+    {
+        "io": {
+            "presente": "bollo",
+            "passato prossimo": "ho",
+            "futuro semplice": "bollito",
+            "imperetto": "bollir\u00f2",
+            "pr. condizionale": "bollivo"
+        },
+        "tu": {
+            "presente": "bolli",
+            "passato prossimo": "hai",
+            "futuro semplice": "bollito",
+            "imperetto": "bollirai",
+            "pr. condizionale": "bollivi"
+        },
+        "lui / lei": {
+            "presente": "bolle",
+            "passato prossimo": "ha",
+            "futuro semplice": "bollito",
+            "imperetto": "bollir\u00e0",
+            "pr. condizionale": "bolliva"
+        },
+        "noi": {
+            "presente": "bolliamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "bollito",
+            "imperetto": "bolliremo",
+            "pr. condizionale": "bollivamo"
+        },
+        "voi": {
+            "presente": "bollite",
+            "passato prossimo": "avete",
+            "futuro semplice": "bollito",
+            "imperetto": "bollirete",
+            "pr. condizionale": "bollivate"
+        },
+        "loro": {
+            "presente": "bollono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "bollito",
+            "imperetto": "bolliranno",
+            "pr. condizionale": "bollivano"
+        },
+        "word": "bollire",
+        "definition": "To Boil"
+    },
+    {
+        "io": {
+            "presente": "capisco",
+            "passato prossimo": "ho",
+            "futuro semplice": "capito",
+            "imperetto": "capir\u00f2",
+            "pr. condizionale": "capivo"
+        },
+        "tu": {
+            "presente": "capisci",
+            "passato prossimo": "hai",
+            "futuro semplice": "capito",
+            "imperetto": "capirai",
+            "pr. condizionale": "capivi"
+        },
+        "lui / lei": {
+            "presente": "capisce",
+            "passato prossimo": "ha",
+            "futuro semplice": "capito",
+            "imperetto": "capir\u00e0",
+            "pr. condizionale": "capiva"
+        },
+        "noi": {
+            "presente": "capiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "capito",
+            "imperetto": "capiremo",
+            "pr. condizionale": "capivamo"
+        },
+        "voi": {
+            "presente": "capite",
+            "passato prossimo": "avete",
+            "futuro semplice": "capito",
+            "imperetto": "capirete",
+            "pr. condizionale": "capivate"
+        },
+        "loro": {
+            "presente": "capiscono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "capito",
+            "imperetto": "capiranno",
+            "pr. condizionale": "capivano"
+        },
+        "word": "capire",
+        "definition": "To Understand"
+    },
+    {
+        "io": {
+            "presente": "ceno",
+            "passato prossimo": "ho",
+            "futuro semplice": "cenato",
+            "imperetto": "cener\u00f2",
+            "pr. condizionale": "cenavo"
+        },
+        "tu": {
+            "presente": "ceni",
+            "passato prossimo": "hai",
+            "futuro semplice": "cenato",
+            "imperetto": "cenerai",
+            "pr. condizionale": "cenavi"
+        },
+        "lui / lei": {
+            "presente": "cena",
+            "passato prossimo": "ha",
+            "futuro semplice": "cenato",
+            "imperetto": "cener\u00e0",
+            "pr. condizionale": "cenava"
+        },
+        "noi": {
+            "presente": "ceniamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "cenato",
+            "imperetto": "ceneremo",
+            "pr. condizionale": "cenavamo"
+        },
+        "voi": {
+            "presente": "cenate",
+            "passato prossimo": "avete",
+            "futuro semplice": "cenato",
+            "imperetto": "cenerete",
+            "pr. condizionale": "cenavate"
+        },
+        "loro": {
+            "presente": "cenano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "cenato",
+            "imperetto": "ceneranno",
+            "pr. condizionale": "cenavano"
+        },
+        "word": "cenare",
+        "definition": "To Dine"
+    },
+    {
+        "io": {
+            "presente": "chiamo",
+            "passato prossimo": "ho",
+            "futuro semplice": "chiamato",
+            "imperetto": "chiamer\u00f2",
+            "pr. condizionale": "chiamavo"
+        },
+        "tu": {
+            "presente": "chiami",
+            "passato prossimo": "hai",
+            "futuro semplice": "chiamato",
+            "imperetto": "chiamerai",
+            "pr. condizionale": "chiamavi"
+        },
+        "lui / lei": {
+            "presente": "chiama",
+            "passato prossimo": "ha",
+            "futuro semplice": "chiamato",
+            "imperetto": "chiamer\u00e0",
+            "pr. condizionale": "chiamava"
+        },
+        "noi": {
+            "presente": "chiamiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "chiamato",
+            "imperetto": "chiameremo",
+            "pr. condizionale": "chiamavamo"
+        },
+        "voi": {
+            "presente": "chiamate",
+            "passato prossimo": "avete",
+            "futuro semplice": "chiamato",
+            "imperetto": "chiamerete",
+            "pr. condizionale": "chiamavate"
+        },
+        "loro": {
+            "presente": "chiamano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "chiamato",
+            "imperetto": "chiameranno",
+            "pr. condizionale": "chiamavano"
+        },
+        "word": "chiamare",
+        "definition": "To Call"
+    },
+    {
+        "io": {
+            "presente": "chiedo",
+            "passato prossimo": "ho",
+            "futuro semplice": "chiesto",
+            "imperetto": "chieder\u00f2",
+            "pr. condizionale": "chiedevo"
+        },
+        "tu": {
+            "presente": "chiedi",
+            "passato prossimo": "hai",
+            "futuro semplice": "chiesto",
+            "imperetto": "chiederai",
+            "pr. condizionale": "chiedevi"
+        },
+        "lui / lei": {
+            "presente": "chiede",
+            "passato prossimo": "ha",
+            "futuro semplice": "chiesto",
+            "imperetto": "chieder\u00e0",
+            "pr. condizionale": "chiedeva"
+        },
+        "noi": {
+            "presente": "chiediamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "chiesto",
+            "imperetto": "chiederemo",
+            "pr. condizionale": "chiedevamo"
+        },
+        "voi": {
+            "presente": "chiedete",
+            "passato prossimo": "avete",
+            "futuro semplice": "chiesto",
+            "imperetto": "chiederete",
+            "pr. condizionale": "chiedevate"
+        },
+        "loro": {
+            "presente": "chiedono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "chiesto",
+            "imperetto": "chiederanno",
+            "pr. condizionale": "chiedevano"
+        },
+        "word": "chiedere",
+        "definition": "To Ask"
+    },
+    {
+        "io": {
+            "presente": "compro",
+            "passato prossimo": "ho",
+            "futuro semplice": "comprato",
+            "imperetto": "comprer\u00f2",
+            "pr. condizionale": "compravo"
+        },
+        "tu": {
+            "presente": "compri",
+            "passato prossimo": "hai",
+            "futuro semplice": "comprato",
+            "imperetto": "comprerai",
+            "pr. condizionale": "compravi"
+        },
+        "lui / lei": {
+            "presente": "compra",
+            "passato prossimo": "ha",
+            "futuro semplice": "comprato",
+            "imperetto": "comprer\u00e0",
+            "pr. condizionale": "comprava"
+        },
+        "noi": {
+            "presente": "compriamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "comprato",
+            "imperetto": "compreremo",
+            "pr. condizionale": "compravamo"
+        },
+        "voi": {
+            "presente": "comprate",
+            "passato prossimo": "avete",
+            "futuro semplice": "comprato",
+            "imperetto": "comprerete",
+            "pr. condizionale": "compravate"
+        },
+        "loro": {
+            "presente": "comprano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "comprato",
+            "imperetto": "compreranno",
+            "pr. condizionale": "compravano"
+        },
+        "word": "comprare",
+        "definition": "To Buy"
+    },
+    {
+        "io": {
+            "presente": "conosco",
+            "passato prossimo": "ho",
+            "futuro semplice": "conosciuto",
+            "imperetto": "conoscer\u00f2",
+            "pr. condizionale": "conoscevo"
+        },
+        "tu": {
+            "presente": "conosci",
+            "passato prossimo": "hai",
+            "futuro semplice": "conosciuto",
+            "imperetto": "conoscerai",
+            "pr. condizionale": "conoscevi"
+        },
+        "lui / lei": {
+            "presente": "conosce",
+            "passato prossimo": "ha",
+            "futuro semplice": "conosciuto",
+            "imperetto": "conoscer\u00e0",
+            "pr. condizionale": "conosceva"
+        },
+        "noi": {
+            "presente": "conosciamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "conosciuto",
+            "imperetto": "conosceremo",
+            "pr. condizionale": "conoscevamo"
+        },
+        "voi": {
+            "presente": "conoscete",
+            "passato prossimo": "avete",
+            "futuro semplice": "conosciuto",
+            "imperetto": "conoscerete",
+            "pr. condizionale": "conoscevate"
+        },
+        "loro": {
+            "presente": "conoscono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "conosciuto",
+            "imperetto": "conosceranno",
+            "pr. condizionale": "conoscevano"
+        },
+        "word": "conoscere",
+        "definition": "To Know / Meet *regular conjugations with some exceptions"
+    },
+    {
+        "io": {
+            "presente": "credo",
+            "passato prossimo": "ho",
+            "futuro semplice": "creduto",
+            "imperetto": "creder\u00f2",
+            "pr. condizionale": "credevo"
+        },
+        "tu": {
+            "presente": "credi",
+            "passato prossimo": "hai",
+            "futuro semplice": "creduto",
+            "imperetto": "crederai",
+            "pr. condizionale": "credevi"
+        },
+        "lui / lei": {
+            "presente": "crede",
+            "passato prossimo": "ha",
+            "futuro semplice": "creduto",
+            "imperetto": "creder\u00e0",
+            "pr. condizionale": "credeva"
+        },
+        "noi": {
+            "presente": "crediamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "creduto",
+            "imperetto": "crederemo",
+            "pr. condizionale": "credevamo"
+        },
+        "voi": {
+            "presente": "credete",
+            "passato prossimo": "avete",
+            "futuro semplice": "creduto",
+            "imperetto": "crederete",
+            "pr. condizionale": "credevate"
+        },
+        "loro": {
+            "presente": "credono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "creduto",
+            "imperetto": "crederanno",
+            "pr. condizionale": "credevano"
+        },
+        "word": "credere",
+        "definition": "To Believe"
+    },
+    {
+        "io": {
+            "presente": "cucino",
+            "passato prossimo": "ho",
+            "futuro semplice": "cucinato",
+            "imperetto": "cuciner\u00f2",
+            "pr. condizionale": "cucinavo"
+        },
+        "tu": {
+            "presente": "cucini",
+            "passato prossimo": "hai",
+            "futuro semplice": "cucinato",
+            "imperetto": "cucinerai",
+            "pr. condizionale": "cucinavi"
+        },
+        "lui / lei": {
+            "presente": "cucina",
+            "passato prossimo": "ha",
+            "futuro semplice": "cucinato",
+            "imperetto": "cuciner\u00e0",
+            "pr. condizionale": "cucinava"
+        },
+        "noi": {
+            "presente": "cuciniamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "cucinato",
+            "imperetto": "cucineremo",
+            "pr. condizionale": "cucinavamo"
+        },
+        "voi": {
+            "presente": "cucinate",
+            "passato prossimo": "avete",
+            "futuro semplice": "cucinato",
+            "imperetto": "cucinerete",
+            "pr. condizionale": "cucinavate"
+        },
+        "loro": {
+            "presente": "cucinano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "cucinato",
+            "imperetto": "cucineranno",
+            "pr. condizionale": "cucinavano"
+        },
+        "word": "cucinare",
+        "definition": "To Cook"
+    },
+    {
+        "io": {
+            "presente": "do",
+            "passato prossimo": "ho",
+            "futuro semplice": "dato",
+            "imperetto": "dar\u00f2",
+            "pr. condizionale": "davo"
+        },
+        "tu": {
+            "presente": "dai",
+            "passato prossimo": "hai",
+            "futuro semplice": "dato",
+            "imperetto": "darai",
+            "pr. condizionale": "davi"
+        },
+        "lui / lei": {
+            "presente": "d\u00e0",
+            "passato prossimo": "ha",
+            "futuro semplice": "dato",
+            "imperetto": "dar\u00e0",
+            "pr. condizionale": "dava"
+        },
+        "noi": {
+            "presente": "diamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "dato",
+            "imperetto": "daremo",
+            "pr. condizionale": "davamo"
+        },
+        "voi": {
+            "presente": "date",
+            "passato prossimo": "avete",
+            "futuro semplice": "dato",
+            "imperetto": "darete",
+            "pr. condizionale": "davate"
+        },
+        "loro": {
+            "presente": "danno",
+            "passato prossimo": "hanno",
+            "futuro semplice": "dato",
+            "imperetto": "daranno",
+            "pr. condizionale": "davano"
+        },
+        "word": "dare",
+        "definition": "To Give"
+    },
+    {
+        "io": {
+            "presente": "decido",
+            "passato prossimo": "ho",
+            "futuro semplice": "deciso",
+            "imperetto": "decider\u00f2",
+            "pr. condizionale": "decidevo"
+        },
+        "tu": {
+            "presente": "decidi",
+            "passato prossimo": "hai",
+            "futuro semplice": "deciso",
+            "imperetto": "deciderai",
+            "pr. condizionale": "decidevi"
+        },
+        "lui / lei": {
+            "presente": "decide",
+            "passato prossimo": "ha",
+            "futuro semplice": "deciso",
+            "imperetto": "decider\u00e0",
+            "pr. condizionale": "decideva"
+        },
+        "noi": {
+            "presente": "decidiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "deciso",
+            "imperetto": "decideremo",
+            "pr. condizionale": "decidevamo"
+        },
+        "voi": {
+            "presente": "decidete",
+            "passato prossimo": "avete",
+            "futuro semplice": "deciso",
+            "imperetto": "deciderete",
+            "pr. condizionale": "decidevate"
+        },
+        "loro": {
+            "presente": "decidono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "deciso",
+            "imperetto": "decideranno",
+            "pr. condizionale": "decidevano"
+        },
+        "word": "decidere",
+        "definition": "To Decide"
+    },
+    {
+        "io": {
+            "presente": "desidero",
+            "passato prossimo": "ho",
+            "futuro semplice": "desiderato",
+            "imperetto": "desiderer\u00f2",
+            "pr. condizionale": "desideravo"
+        },
+        "tu": {
+            "presente": "desideri",
+            "passato prossimo": "hai",
+            "futuro semplice": "desiderato",
+            "imperetto": "desidererai",
+            "pr. condizionale": "desideravi"
+        },
+        "lui / lei": {
+            "presente": "desidera",
+            "passato prossimo": "ha",
+            "futuro semplice": "desiderato",
+            "imperetto": "desiderer\u00e0",
+            "pr. condizionale": "desiderava"
+        },
+        "noi": {
+            "presente": "desideriamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "desiderato",
+            "imperetto": "desidereremo",
+            "pr. condizionale": "desideravamo"
+        },
+        "voi": {
+            "presente": "desiderate",
+            "passato prossimo": "avete",
+            "futuro semplice": "desiderato",
+            "imperetto": "desidererete",
+            "pr. condizionale": "desideravate"
+        },
+        "loro": {
+            "presente": "desiderano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "desiderato",
+            "imperetto": "desidereranno",
+            "pr. condizionale": "desideravano"
+        },
+        "word": "desiderare",
+        "definition": "To Wish / Desire"
+    },
+    {
+        "io": {
+            "presente": "dico",
+            "passato prossimo": "ho",
+            "futuro semplice": "detto",
+            "imperetto": "dir\u00f2",
+            "pr. condizionale": "dicevo"
+        },
+        "tu": {
+            "presente": "dici",
+            "passato prossimo": "hai",
+            "futuro semplice": "detto",
+            "imperetto": "dirai",
+            "pr. condizionale": "dicevi"
+        },
+        "lui / lei": {
+            "presente": "dice",
+            "passato prossimo": "ha",
+            "futuro semplice": "detto",
+            "imperetto": "dir\u00e0",
+            "pr. condizionale": "diceva"
+        },
+        "noi": {
+            "presente": "diciamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "detto",
+            "imperetto": "diremo",
+            "pr. condizionale": "dicevamo"
+        },
+        "voi": {
+            "presente": "dite",
+            "passato prossimo": "avete",
+            "futuro semplice": "detto",
+            "imperetto": "direte",
+            "pr. condizionale": "dicevate"
+        },
+        "loro": {
+            "presente": "dicono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "detto",
+            "imperetto": "diranno",
+            "pr. condizionale": "dicevano"
+        },
+        "word": "dire",
+        "definition": "To Say / Tell"
+    },
+    {
+        "io": {
+            "presente": "divento",
+            "passato prossimo": "sono",
+            "futuro semplice": "diventato/a",
+            "imperetto": "diventer\u00f2",
+            "pr. condizionale": "diventavo"
+        },
+        "tu": {
+            "presente": "diventi",
+            "passato prossimo": "sei",
+            "futuro semplice": "diventato/a",
+            "imperetto": "diventerai",
+            "pr. condizionale": "diventavi"
+        },
+        "lui / lei": {
+            "presente": "diventa",
+            "passato prossimo": "\u00e8",
+            "futuro semplice": "diventato/a",
+            "imperetto": "diventer\u00e0",
+            "pr. condizionale": "diventava"
+        },
+        "noi": {
+            "presente": "diventiamo",
+            "passato prossimo": "siamo",
+            "futuro semplice": "diventati/e",
+            "imperetto": "diventeremo",
+            "pr. condizionale": "diventavamo"
+        },
+        "voi": {
+            "presente": "diventate",
+            "passato prossimo": "siete",
+            "futuro semplice": "diventati/e",
+            "imperetto": "diventerete",
+            "pr. condizionale": "diventavate"
+        },
+        "loro": {
+            "presente": "diventano",
+            "passato prossimo": "sono",
+            "futuro semplice": "diventati/e",
+            "imperetto": "diventeranno",
+            "pr. condizionale": "diventavano"
+        },
+        "word": "diventare",
+        "definition": "To Become"
+    },
+    {
+        "io": {
+            "presente": "devo",
+            "passato prossimo": "ho",
+            "futuro semplice": "dovuto",
+            "imperetto": "dovr\u00f2",
+            "pr. condizionale": "dovevo"
+        },
+        "tu": {
+            "presente": "devi",
+            "passato prossimo": "hai",
+            "futuro semplice": "dovuto",
+            "imperetto": "dovrai",
+            "pr. condizionale": "dovevi"
+        },
+        "lui / lei": {
+            "presente": "deve",
+            "passato prossimo": "ha",
+            "futuro semplice": "dovuto",
+            "imperetto": "dovr\u00e0",
+            "pr. condizionale": "doveva"
+        },
+        "noi": {
+            "presente": "dobbiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "dovuto",
+            "imperetto": "dovremo",
+            "pr. condizionale": "dovevamo"
+        },
+        "voi": {
+            "presente": "dovete",
+            "passato prossimo": "avete",
+            "futuro semplice": "dovuto",
+            "imperetto": "dovrete",
+            "pr. condizionale": "dovevate"
+        },
+        "loro": {
+            "presente": "devono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "dovuto",
+            "imperetto": "dovranno",
+            "pr. condizionale": "dovevano"
+        },
+        "word": "dovere",
+        "definition": "To Have To (Must)"
+    },
+    {
+        "io": {
+            "presente": "entro",
+            "passato prossimo": "sono",
+            "futuro semplice": "entrato/a",
+            "imperetto": "entrer\u00f2",
+            "pr. condizionale": "entravo"
+        },
+        "tu": {
+            "presente": "entri",
+            "passato prossimo": "sei",
+            "futuro semplice": "entrato/a",
+            "imperetto": "entrerai",
+            "pr. condizionale": "entravi"
+        },
+        "lui / lei": {
+            "presente": "entra",
+            "passato prossimo": "\u00e8",
+            "futuro semplice": "entrato/a",
+            "imperetto": "entrer\u00e0",
+            "pr. condizionale": "entrava"
+        },
+        "noi": {
+            "presente": "entriamo",
+            "passato prossimo": "siamo",
+            "futuro semplice": "entrati/e",
+            "imperetto": "entreremo",
+            "pr. condizionale": "entravamo"
+        },
+        "voi": {
+            "presente": "entrate",
+            "passato prossimo": "siete",
+            "futuro semplice": "entrati/e",
+            "imperetto": "entrerete",
+            "pr. condizionale": "entravate"
+        },
+        "loro": {
+            "presente": "entrano",
+            "passato prossimo": "sono",
+            "futuro semplice": "entrati/e",
+            "imperetto": "entreranno",
+            "pr. condizionale": "entravano"
+        },
+        "word": "entrare",
+        "definition": "To Enter"
+    },
+    {
+        "io": {
+            "presente": "sono",
+            "passato prossimo": "sono",
+            "futuro semplice": "stato/a",
+            "imperetto": "sar\u00f2",
+            "pr. condizionale": "ero"
+        },
+        "tu": {
+            "presente": "sei",
+            "passato prossimo": "sei",
+            "futuro semplice": "stato/a",
+            "imperetto": "sarai",
+            "pr. condizionale": "eri"
+        },
+        "lui / lei": {
+            "presente": "\u00e8",
+            "passato prossimo": "\u00e8",
+            "futuro semplice": "stato/a",
+            "imperetto": "sar\u00e0",
+            "pr. condizionale": "era"
+        },
+        "noi": {
+            "presente": "siamo",
+            "passato prossimo": "siamo",
+            "futuro semplice": "stati/e",
+            "imperetto": "saremo",
+            "pr. condizionale": "eravamo"
+        },
+        "voi": {
+            "presente": "siete",
+            "passato prossimo": "siete",
+            "futuro semplice": "stati/e",
+            "imperetto": "sarete",
+            "pr. condizionale": "eravate"
+        },
+        "loro": {
+            "presente": "sono",
+            "passato prossimo": "sono",
+            "futuro semplice": "stati/e",
+            "imperetto": "saranno",
+            "pr. condizionale": "erano"
+        },
+        "word": "essere",
+        "definition": "To Be"
+    },
+    {
+        "io": {
+            "presente": "faccio",
+            "passato prossimo": "ho",
+            "futuro semplice": "fatto",
+            "imperetto": "far\u00f2",
+            "pr. condizionale": "facevo"
+        },
+        "tu": {
+            "presente": "fai",
+            "passato prossimo": "hai",
+            "futuro semplice": "fatto",
+            "imperetto": "farai",
+            "pr. condizionale": "facevi"
+        },
+        "lui / lei": {
+            "presente": "fa",
+            "passato prossimo": "ha",
+            "futuro semplice": "fatto",
+            "imperetto": "far\u00e0",
+            "pr. condizionale": "faceva"
+        },
+        "noi": {
+            "presente": "facciamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "fatto",
+            "imperetto": "faremo",
+            "pr. condizionale": "facevamo"
+        },
+        "voi": {
+            "presente": "fate",
+            "passato prossimo": "avete",
+            "futuro semplice": "fatto",
+            "imperetto": "farete",
+            "pr. condizionale": "facevate"
+        },
+        "loro": {
+            "presente": "fanno",
+            "passato prossimo": "hanno",
+            "futuro semplice": "fatto",
+            "imperetto": "faranno",
+            "pr. condizionale": "facevano"
+        },
+        "word": "fare",
+        "definition": "To Make / Do"
+    },
+    {
+        "io": {
+            "presente": "finisco",
+            "passato prossimo": "ho",
+            "futuro semplice": "finito",
+            "imperetto": "finir\u00f2",
+            "pr. condizionale": "finivo"
+        },
+        "tu": {
+            "presente": "finisci",
+            "passato prossimo": "hai",
+            "futuro semplice": "finito",
+            "imperetto": "finirai",
+            "pr. condizionale": "finivi"
+        },
+        "lui / lei": {
+            "presente": "finisce",
+            "passato prossimo": "ha",
+            "futuro semplice": "finito",
+            "imperetto": "finir\u00e0",
+            "pr. condizionale": "finiva"
+        },
+        "noi": {
+            "presente": "finiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "finito",
+            "imperetto": "finiremo",
+            "pr. condizionale": "finivamo"
+        },
+        "voi": {
+            "presente": "finite",
+            "passato prossimo": "avete",
+            "futuro semplice": "finito",
+            "imperetto": "finirete",
+            "pr. condizionale": "finivate"
+        },
+        "loro": {
+            "presente": "finiscono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "finito",
+            "imperetto": "finiranno",
+            "pr. condizionale": "finivano"
+        },
+        "word": "finire",
+        "definition": "To Finish"
+    },
+    {
+        "io": {
+            "presente": "guardo",
+            "passato prossimo": "ho",
+            "futuro semplice": "guardato",
+            "imperetto": "guarder\u00f2",
+            "pr. condizionale": "guardavo"
+        },
+        "tu": {
+            "presente": "guardi",
+            "passato prossimo": "hai",
+            "futuro semplice": "guardato",
+            "imperetto": "guarderai",
+            "pr. condizionale": "guardavi"
+        },
+        "lui / lei": {
+            "presente": "guarda",
+            "passato prossimo": "ha",
+            "futuro semplice": "guardato",
+            "imperetto": "guarder\u00e0",
+            "pr. condizionale": "guardava"
+        },
+        "noi": {
+            "presente": "guardiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "guardato",
+            "imperetto": "guarderemo",
+            "pr. condizionale": "guardavamo"
+        },
+        "voi": {
+            "presente": "guardate",
+            "passato prossimo": "avete",
+            "futuro semplice": "guardato",
+            "imperetto": "guarderete",
+            "pr. condizionale": "guardavate"
+        },
+        "loro": {
+            "presente": "guardano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "guardato",
+            "imperetto": "guarderanno",
+            "pr. condizionale": "guardavano"
+        },
+        "word": "guardare",
+        "definition": "To Watch / Look"
+    },
+    {
+        "io": {
+            "presente": "lascio",
+            "passato prossimo": "ho",
+            "futuro semplice": "lasciato",
+            "imperetto": "lascer\u00f2",
+            "pr. condizionale": "lasciavo"
+        },
+        "tu": {
+            "presente": "lasci",
+            "passato prossimo": "hai",
+            "futuro semplice": "lasciato",
+            "imperetto": "lascerai",
+            "pr. condizionale": "lasciavi"
+        },
+        "lui / lei": {
+            "presente": "lascia",
+            "passato prossimo": "ha",
+            "futuro semplice": "lasciato",
+            "imperetto": "lascer\u00e0",
+            "pr. condizionale": "lasciava"
+        },
+        "noi": {
+            "presente": "lasciamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "lasciato",
+            "imperetto": "lasceremo",
+            "pr. condizionale": "lasciavamo"
+        },
+        "voi": {
+            "presente": "lasciate",
+            "passato prossimo": "avete",
+            "futuro semplice": "lasciato",
+            "imperetto": "lascerete",
+            "pr. condizionale": "lasciavate"
+        },
+        "loro": {
+            "presente": "lasciano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "lasciato",
+            "imperetto": "lasceranno",
+            "pr. condizionale": "lasciavano"
+        },
+        "word": "lasciare",
+        "definition": "To Leave"
+    },
+    {
+        "io": {
+            "presente": "lavoro",
+            "passato prossimo": "ho",
+            "futuro semplice": "lavorato",
+            "imperetto": "lavorer\u00f2",
+            "pr. condizionale": "lavoravo"
+        },
+        "tu": {
+            "presente": "lavori",
+            "passato prossimo": "hai",
+            "futuro semplice": "lavorato",
+            "imperetto": "lavorerai",
+            "pr. condizionale": "lavoravi"
+        },
+        "lui / lei": {
+            "presente": "lavora",
+            "passato prossimo": "ha",
+            "futuro semplice": "lavorato",
+            "imperetto": "lavorer\u00e0",
+            "pr. condizionale": "lavorava"
+        },
+        "noi": {
+            "presente": "lavoriamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "lavorato",
+            "imperetto": "lavoreremo",
+            "pr. condizionale": "lavoravamo"
+        },
+        "voi": {
+            "presente": "lavorate",
+            "passato prossimo": "avete",
+            "futuro semplice": "lavorato",
+            "imperetto": "lavorerete",
+            "pr. condizionale": "lavoravate"
+        },
+        "loro": {
+            "presente": "lavorano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "lavorato",
+            "imperetto": "lavoreranno",
+            "pr. condizionale": "lavoravano"
+        },
+        "word": "lavorare",
+        "definition": "To Work"
+    },
+    {
+        "io": {
+            "presente": "leggo",
+            "passato prossimo": "ho",
+            "futuro semplice": "letto",
+            "imperetto": "legger\u00f2",
+            "pr. condizionale": "leggevo"
+        },
+        "tu": {
+            "presente": "leggi",
+            "passato prossimo": "hai",
+            "futuro semplice": "letto",
+            "imperetto": "leggerai",
+            "pr. condizionale": "leggevi"
+        },
+        "lui / lei": {
+            "presente": "legge",
+            "passato prossimo": "ha",
+            "futuro semplice": "letto",
+            "imperetto": "legger\u00e0",
+            "pr. condizionale": "leggeva"
+        },
+        "noi": {
+            "presente": "leggiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "letto",
+            "imperetto": "leggeremo",
+            "pr. condizionale": "leggevamo"
+        },
+        "voi": {
+            "presente": "leggete",
+            "passato prossimo": "avete",
+            "futuro semplice": "letto",
+            "imperetto": "leggerete",
+            "pr. condizionale": "leggevate"
+        },
+        "loro": {
+            "presente": "ono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "letto",
+            "imperetto": "leggeranno",
+            "pr. condizionale": "leggevano"
+        },
+        "word": "leggere",
+        "definition": "To Read"
+    },
+    {
+        "io": {
+            "presente": "mangio",
+            "passato prossimo": "ho",
+            "futuro semplice": "mangiato",
+            "imperetto": "manger\u00f2",
+            "pr. condizionale": "mangiavo"
+        },
+        "tu": {
+            "presente": "mangi",
+            "passato prossimo": "hai",
+            "futuro semplice": "mangiato",
+            "imperetto": "mangerai",
+            "pr. condizionale": "mangiavi"
+        },
+        "lui / lei": {
+            "presente": "mangia",
+            "passato prossimo": "ha",
+            "futuro semplice": "mangiato",
+            "imperetto": "manger\u00e0",
+            "pr. condizionale": "mangiava"
+        },
+        "noi": {
+            "presente": "mangiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "mangiato",
+            "imperetto": "mangeremo",
+            "pr. condizionale": "mangiavamo"
+        },
+        "voi": {
+            "presente": "mangiate",
+            "passato prossimo": "avete",
+            "futuro semplice": "mangiato",
+            "imperetto": "mangerete",
+            "pr. condizionale": "mangiavate"
+        },
+        "loro": {
+            "presente": "mangiano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "mangiato",
+            "imperetto": "mangeranno",
+            "pr. condizionale": "mangiavano"
+        },
+        "word": "mangiare",
+        "definition": "To Eat"
+    },
+    {
+        "io": {
+            "presente": "metto",
+            "passato prossimo": "ho",
+            "futuro semplice": "messo",
+            "imperetto": "metter\u00f2",
+            "pr. condizionale": "mettevo"
+        },
+        "tu": {
+            "presente": "metti",
+            "passato prossimo": "hai",
+            "futuro semplice": "messo",
+            "imperetto": "metterai",
+            "pr. condizionale": "mettevi"
+        },
+        "lui / lei": {
+            "presente": "mette",
+            "passato prossimo": "ha",
+            "futuro semplice": "messo",
+            "imperetto": "metter\u00e0",
+            "pr. condizionale": "metteva"
+        },
+        "noi": {
+            "presente": "mettiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "messo",
+            "imperetto": "metteremo",
+            "pr. condizionale": "mettevamo"
+        },
+        "voi": {
+            "presente": "mettete",
+            "passato prossimo": "avete",
+            "futuro semplice": "messo",
+            "imperetto": "metterete",
+            "pr. condizionale": "mettevate"
+        },
+        "loro": {
+            "presente": "mettono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "messo",
+            "imperetto": "metteranno",
+            "pr. condizionale": "mettevano"
+        },
+        "word": "mettere",
+        "definition": "To Put"
+    },
+    {
+        "io": {
+            "presente": "muoio",
+            "passato prossimo": "sono",
+            "futuro semplice": "morto/a",
+            "imperetto": "mor(i)r\u00f2",
+            "pr. condizionale": "morivo"
+        },
+        "tu": {
+            "presente": "muori",
+            "passato prossimo": "sei",
+            "futuro semplice": "morto/a",
+            "imperetto": "mor(i)rai",
+            "pr. condizionale": "morivi"
+        },
+        "lui / lei": {
+            "presente": "muore",
+            "passato prossimo": "\u00e8",
+            "futuro semplice": "morto/a",
+            "imperetto": "mor(i)r\u00e0",
+            "pr. condizionale": "moriva"
+        },
+        "noi": {
+            "presente": "moriamo",
+            "passato prossimo": "siamo",
+            "futuro semplice": "morti/e",
+            "imperetto": "mor(i)remo",
+            "pr. condizionale": "morivamo"
+        },
+        "voi": {
+            "presente": "morite",
+            "passato prossimo": "siete",
+            "futuro semplice": "morti/e",
+            "imperetto": "mor(i)rete",
+            "pr. condizionale": "morivate"
+        },
+        "loro": {
+            "presente": "muoiono",
+            "passato prossimo": "sono",
+            "futuro semplice": "morti/e",
+            "imperetto": "mor(i)ranno",
+            "pr. condizionale": "morivano"
+        },
+        "word": "morire",
+        "definition": "To Die"
+    },
+    {
+        "io": {
+            "presente": "parlo",
+            "passato prossimo": "ho",
+            "futuro semplice": "parlato",
+            "imperetto": "parler\u00f2",
+            "pr. condizionale": "parlavo"
+        },
+        "tu": {
+            "presente": "parli",
+            "passato prossimo": "hai",
+            "futuro semplice": "parlato",
+            "imperetto": "parlerai",
+            "pr. condizionale": "parlavi"
+        },
+        "lui / lei": {
+            "presente": "parla",
+            "passato prossimo": "ha",
+            "futuro semplice": "parlato",
+            "imperetto": "parler\u00e0",
+            "pr. condizionale": "parlava"
+        },
+        "noi": {
+            "presente": "parliamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "parlato",
+            "imperetto": "parleremo",
+            "pr. condizionale": "parlavamo"
+        },
+        "voi": {
+            "presente": "parlate",
+            "passato prossimo": "avete",
+            "futuro semplice": "parlato",
+            "imperetto": "parlerete",
+            "pr. condizionale": "parlavate"
+        },
+        "loro": {
+            "presente": "parlano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "parlato",
+            "imperetto": "parleranno",
+            "pr. condizionale": "parlavano"
+        },
+        "word": "parlare",
+        "definition": "To Speak"
+    },
+    {
+        "io": {
+            "presente": "passo",
+            "passato prossimo": "ho",
+            "futuro semplice": "passato",
+            "imperetto": "passer\u00f2",
+            "pr. condizionale": "passavo"
+        },
+        "tu": {
+            "presente": "passi",
+            "passato prossimo": "hai",
+            "futuro semplice": "passato",
+            "imperetto": "passerai",
+            "pr. condizionale": "passavi"
+        },
+        "lui / lei": {
+            "presente": "passa",
+            "passato prossimo": "ha",
+            "futuro semplice": "passato",
+            "imperetto": "passer\u00e0",
+            "pr. condizionale": "passava"
+        },
+        "noi": {
+            "presente": "passiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "passato",
+            "imperetto": "passeremo",
+            "pr. condizionale": "passavamo"
+        },
+        "voi": {
+            "presente": "passate",
+            "passato prossimo": "avete",
+            "futuro semplice": "passato",
+            "imperetto": "passerete",
+            "pr. condizionale": "passavate"
+        },
+        "loro": {
+            "presente": "passano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "passato",
+            "imperetto": "passeranno",
+            "pr. condizionale": "passavano"
+        },
+        "word": "passare",
+        "definition": "To Pass / Spend"
+    },
+    {
+        "io": {
+            "presente": "penso",
+            "passato prossimo": "ho",
+            "futuro semplice": "pensato",
+            "imperetto": "penser\u00f2",
+            "pr. condizionale": "pensavo"
+        },
+        "tu": {
+            "presente": "pensi",
+            "passato prossimo": "hai",
+            "futuro semplice": "pensato",
+            "imperetto": "penserai",
+            "pr. condizionale": "pensavi"
+        },
+        "lui / lei": {
+            "presente": "pensa",
+            "passato prossimo": "ha",
+            "futuro semplice": "pensato",
+            "imperetto": "penser\u00e0",
+            "pr. condizionale": "pensava"
+        },
+        "noi": {
+            "presente": "pensiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "pensato",
+            "imperetto": "penseremo",
+            "pr. condizionale": "pensavamo"
+        },
+        "voi": {
+            "presente": "pensate",
+            "passato prossimo": "avete",
+            "futuro semplice": "pensato",
+            "imperetto": "penserete",
+            "pr. condizionale": "pensavate"
+        },
+        "loro": {
+            "presente": "pensano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "pensato",
+            "imperetto": "penseranno",
+            "pr. condizionale": "pensavano"
+        },
+        "word": "pensare",
+        "definition": "To Think"
+    },
+    {
+        "io": {
+            "presente": "porto",
+            "passato prossimo": "ho",
+            "futuro semplice": "portato",
+            "imperetto": "porter\u00f2",
+            "pr. condizionale": "portavo"
+        },
+        "tu": {
+            "presente": "porti",
+            "passato prossimo": "hai",
+            "futuro semplice": "portato",
+            "imperetto": "porterai",
+            "pr. condizionale": "portavi"
+        },
+        "lui / lei": {
+            "presente": "porta",
+            "passato prossimo": "ha",
+            "futuro semplice": "portato",
+            "imperetto": "porter\u00e0",
+            "pr. condizionale": "portava"
+        },
+        "noi": {
+            "presente": "portiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "portato",
+            "imperetto": "porteremo",
+            "pr. condizionale": "portavamo"
+        },
+        "voi": {
+            "presente": "portate",
+            "passato prossimo": "avete",
+            "futuro semplice": "portato",
+            "imperetto": "porterete",
+            "pr. condizionale": "portavate"
+        },
+        "loro": {
+            "presente": "portano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "portato",
+            "imperetto": "porteranno",
+            "pr. condizionale": "portavano"
+        },
+        "word": "portare",
+        "definition": "To Carry / Bring / Wear"
+    },
+    {
+        "io": {
+            "presente": "posso",
+            "passato prossimo": "ho",
+            "futuro semplice": "potuto",
+            "imperetto": "potr\u00f2",
+            "pr. condizionale": "potevo"
+        },
+        "tu": {
+            "presente": "puoi",
+            "passato prossimo": "hai",
+            "futuro semplice": "potuto",
+            "imperetto": "potrai",
+            "pr. condizionale": "potevi"
+        },
+        "lui / lei": {
+            "presente": "pu\u00f2",
+            "passato prossimo": "ha",
+            "futuro semplice": "potuto",
+            "imperetto": "potr\u00e0",
+            "pr. condizionale": "poteva"
+        },
+        "noi": {
+            "presente": "possiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "potuto",
+            "imperetto": "potremo",
+            "pr. condizionale": "potevamo"
+        },
+        "voi": {
+            "presente": "potete",
+            "passato prossimo": "avete",
+            "futuro semplice": "potuto",
+            "imperetto": "potrete",
+            "pr. condizionale": "potevate"
+        },
+        "loro": {
+            "presente": "possono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "potuto",
+            "imperetto": "potranno",
+            "pr. condizionale": "potevano"
+        },
+        "word": "potere",
+        "definition": "To Be Able To"
+    },
+    {
+        "io": {
+            "presente": "pranzo",
+            "passato prossimo": "ho",
+            "futuro semplice": "pranzato",
+            "imperetto": "pranzer\u00f2",
+            "pr. condizionale": "pranzavo"
+        },
+        "tu": {
+            "presente": "pranzi",
+            "passato prossimo": "hai",
+            "futuro semplice": "pranzato",
+            "imperetto": "pranzerai",
+            "pr. condizionale": "pranzavi"
+        },
+        "lui / lei": {
+            "presente": "pranza",
+            "passato prossimo": "ha",
+            "futuro semplice": "pranzato",
+            "imperetto": "pranzer\u00e0",
+            "pr. condizionale": "pranzava"
+        },
+        "noi": {
+            "presente": "pranziamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "pranzato",
+            "imperetto": "pranzeremo",
+            "pr. condizionale": "pranzavamo"
+        },
+        "voi": {
+            "presente": "pranzate",
+            "passato prossimo": "avete",
+            "futuro semplice": "pranzato",
+            "imperetto": "pranzerete",
+            "pr. condizionale": "pranzavate"
+        },
+        "loro": {
+            "presente": "pranzano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "pranzato",
+            "imperetto": "pranzeranno",
+            "pr. condizionale": "pranzavano"
+        },
+        "word": "pranzare",
+        "definition": "To Lunch"
+    },
+    {
+        "io": {
+            "presente": "prendo",
+            "passato prossimo": "ho",
+            "futuro semplice": "preso",
+            "imperetto": "prender\u00f2",
+            "pr. condizionale": "prendevo"
+        },
+        "tu": {
+            "presente": "prendi",
+            "passato prossimo": "hai",
+            "futuro semplice": "preso",
+            "imperetto": "prenderai",
+            "pr. condizionale": "prendevi"
+        },
+        "lui / lei": {
+            "presente": "prende",
+            "passato prossimo": "ha",
+            "futuro semplice": "preso",
+            "imperetto": "prender\u00e0",
+            "pr. condizionale": "prendeva"
+        },
+        "noi": {
+            "presente": "prendiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "preso",
+            "imperetto": "prenderemo",
+            "pr. condizionale": "prendevamo"
+        },
+        "voi": {
+            "presente": "prendete",
+            "passato prossimo": "avete",
+            "futuro semplice": "preso",
+            "imperetto": "prenderete",
+            "pr. condizionale": "prendevate"
+        },
+        "loro": {
+            "presente": "prendono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "preso",
+            "imperetto": "prenderanno",
+            "pr. condizionale": "prendevano"
+        },
+        "word": "prendere",
+        "definition": "To Take"
+    },
+    {
+        "io": {
+            "presente": "ricordo",
+            "passato prossimo": "ho",
+            "futuro semplice": "ricordato",
+            "imperetto": "ricorder\u00f2",
+            "pr. condizionale": "ricordavo"
+        },
+        "tu": {
+            "presente": "ricordi",
+            "passato prossimo": "hai",
+            "futuro semplice": "ricordato",
+            "imperetto": "ricorderai",
+            "pr. condizionale": "ricordavi"
+        },
+        "lui / lei": {
+            "presente": "ricorda",
+            "passato prossimo": "ha",
+            "futuro semplice": "ricordato",
+            "imperetto": "ricorder\u00e0",
+            "pr. condizionale": "ricordava"
+        },
+        "noi": {
+            "presente": "ricordiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "ricordato",
+            "imperetto": "ricorderemo",
+            "pr. condizionale": "ricordavamo"
+        },
+        "voi": {
+            "presente": "ricordate",
+            "passato prossimo": "avete",
+            "futuro semplice": "ricordato",
+            "imperetto": "ricorderete",
+            "pr. condizionale": "ricordavate"
+        },
+        "loro": {
+            "presente": "ricordano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "ricordato",
+            "imperetto": "ricorderanno",
+            "pr. condizionale": "ricordavano"
+        },
+        "word": "ricordare",
+        "definition": "To Remember"
+    },
+    {
+        "io": {
+            "presente": "rimango",
+            "passato prossimo": "sono",
+            "futuro semplice": "rimasto/a",
+            "imperetto": "rimarr\u00f2",
+            "pr. condizionale": "rimanevo"
+        },
+        "tu": {
+            "presente": "rimani",
+            "passato prossimo": "sei",
+            "futuro semplice": "rimasto/a",
+            "imperetto": "rimarrai",
+            "pr. condizionale": "rimanevi"
+        },
+        "lui / lei": {
+            "presente": "rimane",
+            "passato prossimo": "\u00e8",
+            "futuro semplice": "rimasto/a",
+            "imperetto": "rimarr\u00e0",
+            "pr. condizionale": "rimaneva"
+        },
+        "noi": {
+            "presente": "rimaniamo",
+            "passato prossimo": "siamo",
+            "futuro semplice": "rimasti/e",
+            "imperetto": "rimarremo",
+            "pr. condizionale": "rimanevamo"
+        },
+        "voi": {
+            "presente": "rimanete",
+            "passato prossimo": "siete",
+            "futuro semplice": "rimasti/e",
+            "imperetto": "rimarrete",
+            "pr. condizionale": "rimanevate"
+        },
+        "loro": {
+            "presente": "rimangono",
+            "passato prossimo": "sono",
+            "futuro semplice": "rimasti/e",
+            "imperetto": "rimarranno",
+            "pr. condizionale": "rimanevano"
+        },
+        "word": "rimanere",
+        "definition": "To Remain / Stay"
+    },
+    {
+        "io": {
+            "presente": "so",
+            "passato prossimo": "ho",
+            "futuro semplice": "saputo",
+            "imperetto": "sapr\u00f2",
+            "pr. condizionale": "sapevo"
+        },
+        "tu": {
+            "presente": "sai",
+            "passato prossimo": "hai",
+            "futuro semplice": "saputo",
+            "imperetto": "saprai",
+            "pr. condizionale": "sapevi"
+        },
+        "lui / lei": {
+            "presente": "sa",
+            "passato prossimo": "ha",
+            "futuro semplice": "saputo",
+            "imperetto": "sapr\u00e0",
+            "pr. condizionale": "sapeva"
+        },
+        "noi": {
+            "presente": "sappiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "saputo",
+            "imperetto": "sapremo",
+            "pr. condizionale": "sapevamo"
+        },
+        "voi": {
+            "presente": "sapete",
+            "passato prossimo": "avete",
+            "futuro semplice": "saputo",
+            "imperetto": "saprete",
+            "pr. condizionale": "sapevate"
+        },
+        "loro": {
+            "presente": "sanno",
+            "passato prossimo": "hanno",
+            "futuro semplice": "saputo",
+            "imperetto": "sapranno",
+            "pr. condizionale": "sapevano"
+        },
+        "word": "sapere",
+        "definition": "To Know (a fact)"
+    },
+    {
+        "io": {
+            "presente": "scrivo",
+            "passato prossimo": "ho",
+            "futuro semplice": "scritto",
+            "imperetto": "scriver\u00f2",
+            "pr. condizionale": "scrivevo"
+        },
+        "tu": {
+            "presente": "scrivi",
+            "passato prossimo": "hai",
+            "futuro semplice": "scritto",
+            "imperetto": "scriverai",
+            "pr. condizionale": "scrivevi"
+        },
+        "lui / lei": {
+            "presente": "scrive",
+            "passato prossimo": "ha",
+            "futuro semplice": "scritto",
+            "imperetto": "scriver\u00e0",
+            "pr. condizionale": "scriveva"
+        },
+        "noi": {
+            "presente": "scriviamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "scritto",
+            "imperetto": "scriveremo",
+            "pr. condizionale": "scrivevamo"
+        },
+        "voi": {
+            "presente": "scrivete",
+            "passato prossimo": "avete",
+            "futuro semplice": "scritto",
+            "imperetto": "scriverete",
+            "pr. condizionale": "scrivevate"
+        },
+        "loro": {
+            "presente": "scrivono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "scritto",
+            "imperetto": "scriveranno",
+            "pr. condizionale": "scrivevano"
+        },
+        "word": "scrivere",
+        "definition": "To Write"
+    },
+    {
+        "io": {
+            "presente": "seguo",
+            "passato prossimo": "ho",
+            "futuro semplice": "seguito",
+            "imperetto": "seguir\u00f2",
+            "pr. condizionale": "seguivo"
+        },
+        "tu": {
+            "presente": "segui",
+            "passato prossimo": "hai",
+            "futuro semplice": "seguito",
+            "imperetto": "seguirai",
+            "pr. condizionale": "seguivi"
+        },
+        "lui / lei": {
+            "presente": "segue",
+            "passato prossimo": "ha",
+            "futuro semplice": "seguito",
+            "imperetto": "seguir\u00e0",
+            "pr. condizionale": "seguiva"
+        },
+        "noi": {
+            "presente": "seguiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "seguito",
+            "imperetto": "seguiremo",
+            "pr. condizionale": "seguivamo"
+        },
+        "voi": {
+            "presente": "seguite",
+            "passato prossimo": "avete",
+            "futuro semplice": "seguito",
+            "imperetto": "seguirete",
+            "pr. condizionale": "seguivate"
+        },
+        "loro": {
+            "presente": "seguono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "seguito",
+            "imperetto": "seguiranno",
+            "pr. condizionale": "seguivano"
+        },
+        "word": "seguire",
+        "definition": "To Follow"
+    },
+    {
+        "io": {
+            "presente": "sento",
+            "passato prossimo": "ho",
+            "futuro semplice": "sentito",
+            "imperetto": "sentir\u00f2",
+            "pr. condizionale": "sentivo"
+        },
+        "tu": {
+            "presente": "senti",
+            "passato prossimo": "hai",
+            "futuro semplice": "sentito",
+            "imperetto": "sentirai",
+            "pr. condizionale": "sentivi"
+        },
+        "lui / lei": {
+            "presente": "sente",
+            "passato prossimo": "ha",
+            "futuro semplice": "sentito",
+            "imperetto": "sentir\u00e0",
+            "pr. condizionale": "sentiva"
+        },
+        "noi": {
+            "presente": "sentiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "sentito",
+            "imperetto": "sentiremo",
+            "pr. condizionale": "sentivamo"
+        },
+        "voi": {
+            "presente": "sentite",
+            "passato prossimo": "avete",
+            "futuro semplice": "sentito",
+            "imperetto": "sentirete",
+            "pr. condizionale": "sentivate"
+        },
+        "loro": {
+            "presente": "sentono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "sentito",
+            "imperetto": "sentiranno",
+            "pr. condizionale": "sentivano"
+        },
+        "word": "sentire",
+        "definition": "To Hear / Sense"
+    },
+    {
+        "io": {
+            "presente": "sto",
+            "passato prossimo": "sono",
+            "futuro semplice": "stato/a",
+            "imperetto": "star\u00f2",
+            "pr. condizionale": "stavo"
+        },
+        "tu": {
+            "presente": "stai",
+            "passato prossimo": "sei",
+            "futuro semplice": "stato/a",
+            "imperetto": "starai",
+            "pr. condizionale": "stavi"
+        },
+        "lui / lei": {
+            "presente": "sta",
+            "passato prossimo": "\u00e8",
+            "futuro semplice": "stato/a",
+            "imperetto": "star\u00e0",
+            "pr. condizionale": "stava"
+        },
+        "noi": {
+            "presente": "stiamo",
+            "passato prossimo": "siamo",
+            "futuro semplice": "stati/e",
+            "imperetto": "staremo",
+            "pr. condizionale": "stavamo"
+        },
+        "voi": {
+            "presente": "state",
+            "passato prossimo": "siete",
+            "futuro semplice": "stati/e",
+            "imperetto": "starete",
+            "pr. condizionale": "stavate"
+        },
+        "loro": {
+            "presente": "stanno",
+            "passato prossimo": "sono",
+            "futuro semplice": "stati/e",
+            "imperetto": "staranno",
+            "pr. condizionale": "stavano"
+        },
+        "word": "stare",
+        "definition": "To Stay (to be located / in the state of)"
+    },
+    {
+        "io": {
+            "presente": "taglio",
+            "passato prossimo": "ho",
+            "futuro semplice": "tagliato",
+            "imperetto": "taglier\u00f2",
+            "pr. condizionale": "tagliavo"
+        },
+        "tu": {
+            "presente": "tagli",
+            "passato prossimo": "hai",
+            "futuro semplice": "tagliato",
+            "imperetto": "taglierai",
+            "pr. condizionale": "tagliavi"
+        },
+        "lui / lei": {
+            "presente": "taglia",
+            "passato prossimo": "ha",
+            "futuro semplice": "tagliato",
+            "imperetto": "taglier\u00e0",
+            "pr. condizionale": "tagliava"
+        },
+        "noi": {
+            "presente": "tagliamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "tagliato",
+            "imperetto": "taglieremo",
+            "pr. condizionale": "tagliavamo"
+        },
+        "voi": {
+            "presente": "tagliate",
+            "passato prossimo": "avete",
+            "futuro semplice": "tagliato",
+            "imperetto": "taglierete",
+            "pr. condizionale": "tagliavate"
+        },
+        "loro": {
+            "presente": "tagliano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "tagliato",
+            "imperetto": "taglieranno",
+            "pr. condizionale": "tagliavano"
+        },
+        "word": "tagliare",
+        "definition": "To Cut"
+    },
+    {
+        "io": {
+            "presente": "tengo",
+            "passato prossimo": "ho",
+            "futuro semplice": "tenuto",
+            "imperetto": "terr\u00f2",
+            "pr. condizionale": "tenevo"
+        },
+        "tu": {
+            "presente": "tieni",
+            "passato prossimo": "hai",
+            "futuro semplice": "tenuto",
+            "imperetto": "terrai",
+            "pr. condizionale": "tenevi"
+        },
+        "lui / lei": {
+            "presente": "tiene",
+            "passato prossimo": "ha",
+            "futuro semplice": "tenuto",
+            "imperetto": "terr\u00e0",
+            "pr. condizionale": "teneva"
+        },
+        "noi": {
+            "presente": "teniamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "tenuto",
+            "imperetto": "terremo",
+            "pr. condizionale": "tenevamo"
+        },
+        "voi": {
+            "presente": "tenete",
+            "passato prossimo": "avete",
+            "futuro semplice": "tenuto",
+            "imperetto": "terrete",
+            "pr. condizionale": "tenevate"
+        },
+        "loro": {
+            "presente": "tengono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "tenuto",
+            "imperetto": "terranno",
+            "pr. condizionale": "tenevano"
+        },
+        "word": "tenere",
+        "definition": "To Keep / Hold"
+    },
+    {
+        "io": {
+            "presente": "trovo",
+            "passato prossimo": "ho",
+            "futuro semplice": "trovato",
+            "imperetto": "trover\u00f2",
+            "pr. condizionale": "trovavo"
+        },
+        "tu": {
+            "presente": "trovi",
+            "passato prossimo": "hai",
+            "futuro semplice": "trovato",
+            "imperetto": "troverai",
+            "pr. condizionale": "trovavi"
+        },
+        "lui / lei": {
+            "presente": "trova",
+            "passato prossimo": "ha",
+            "futuro semplice": "trovato",
+            "imperetto": "trover\u00e0",
+            "pr. condizionale": "trovava"
+        },
+        "noi": {
+            "presente": "troviamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "trovato",
+            "imperetto": "troveremo",
+            "pr. condizionale": "trovavamo"
+        },
+        "voi": {
+            "presente": "trovate",
+            "passato prossimo": "avete",
+            "futuro semplice": "trovato",
+            "imperetto": "troverete",
+            "pr. condizionale": "trovavate"
+        },
+        "loro": {
+            "presente": "trovano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "trovato",
+            "imperetto": "troveranno",
+            "pr. condizionale": "trovavano"
+        },
+        "word": "trovare",
+        "definition": "To Find"
+    },
+    {
+        "io": {
+            "presente": "uso",
+            "passato prossimo": "ho",
+            "futuro semplice": "usato",
+            "imperetto": "user\u00f2",
+            "pr. condizionale": "usavo"
+        },
+        "tu": {
+            "presente": "usi",
+            "passato prossimo": "hai",
+            "futuro semplice": "usato",
+            "imperetto": "userai",
+            "pr. condizionale": "usavi"
+        },
+        "lui / lei": {
+            "presente": "usa",
+            "passato prossimo": "ha",
+            "futuro semplice": "usato",
+            "imperetto": "user\u00e0",
+            "pr. condizionale": "usava"
+        },
+        "noi": {
+            "presente": "usiamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "usato",
+            "imperetto": "useremo",
+            "pr. condizionale": "usavamo"
+        },
+        "voi": {
+            "presente": "usate",
+            "passato prossimo": "avete",
+            "futuro semplice": "usato",
+            "imperetto": "userete",
+            "pr. condizionale": "usavate"
+        },
+        "loro": {
+            "presente": "usano",
+            "passato prossimo": "hanno",
+            "futuro semplice": "usato",
+            "imperetto": "useranno",
+            "pr. condizionale": "usavano"
+        },
+        "word": "usare",
+        "definition": "To Use"
+    },
+    {
+        "io": {
+            "presente": "esco",
+            "passato prossimo": "sono",
+            "futuro semplice": "uscito/a",
+            "imperetto": "uscir\u00f2",
+            "pr. condizionale": "uscivo"
+        },
+        "tu": {
+            "presente": "esci",
+            "passato prossimo": "sei",
+            "futuro semplice": "uscito/a",
+            "imperetto": "uscirai",
+            "pr. condizionale": "uscivi"
+        },
+        "lui / lei": {
+            "presente": "esce",
+            "passato prossimo": "\u00e8",
+            "futuro semplice": "uscito/a",
+            "imperetto": "uscir\u00e0",
+            "pr. condizionale": "usciva"
+        },
+        "noi": {
+            "presente": "usciamo",
+            "passato prossimo": "siamo",
+            "futuro semplice": "usciti/e",
+            "imperetto": "usciremo",
+            "pr. condizionale": "uscivamo"
+        },
+        "voi": {
+            "presente": "uscite",
+            "passato prossimo": "siete",
+            "futuro semplice": "usciti/e",
+            "imperetto": "uscirete",
+            "pr. condizionale": "uscivate"
+        },
+        "loro": {
+            "presente": "escono",
+            "passato prossimo": "sono",
+            "futuro semplice": "usciti/e",
+            "imperetto": "usciranno",
+            "pr. condizionale": "uscivano"
+        },
+        "word": "uscire",
+        "definition": "To Leave"
+    },
+    {
+        "io": {
+            "presente": "vedo",
+            "passato prossimo": "ho",
+            "futuro semplice": "visto",
+            "imperetto": "vedr\u00f2",
+            "pr. condizionale": "vedevo"
+        },
+        "tu": {
+            "presente": "vedi",
+            "passato prossimo": "hai",
+            "futuro semplice": "visto",
+            "imperetto": "vedrai",
+            "pr. condizionale": "vedevi"
+        },
+        "lui / lei": {
+            "presente": "vede",
+            "passato prossimo": "ha",
+            "futuro semplice": "visto",
+            "imperetto": "vedr\u00e0",
+            "pr. condizionale": "vedeva"
+        },
+        "noi": {
+            "presente": "vediamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "visto",
+            "imperetto": "vedremo",
+            "pr. condizionale": "vedevamo"
+        },
+        "voi": {
+            "presente": "vedete",
+            "passato prossimo": "avete",
+            "futuro semplice": "visto",
+            "imperetto": "vedrete",
+            "pr. condizionale": "vedevate"
+        },
+        "loro": {
+            "presente": "vedono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "visto",
+            "imperetto": "vedranno",
+            "pr. condizionale": "vedevano"
+        },
+        "word": "vedere",
+        "definition": "To See"
+    },
+    {
+        "io": {
+            "presente": "vengo",
+            "passato prossimo": "sono",
+            "futuro semplice": "venuto/a",
+            "imperetto": "verr\u00f2",
+            "pr. condizionale": "venivo"
+        },
+        "tu": {
+            "presente": "vieni",
+            "passato prossimo": "sei",
+            "futuro semplice": "venuto/a",
+            "imperetto": "verrai",
+            "pr. condizionale": "venivi"
+        },
+        "lui / lei": {
+            "presente": "viene",
+            "passato prossimo": "\u00e8",
+            "futuro semplice": "venuto/a",
+            "imperetto": "verr\u00e0",
+            "pr. condizionale": "veniva"
+        },
+        "noi": {
+            "presente": "veniamo",
+            "passato prossimo": "siamo",
+            "futuro semplice": "venuti/e",
+            "imperetto": "verremo",
+            "pr. condizionale": "venivamo"
+        },
+        "voi": {
+            "presente": "venite",
+            "passato prossimo": "siete",
+            "futuro semplice": "venuti/e",
+            "imperetto": "verrete",
+            "pr. condizionale": "venivate"
+        },
+        "loro": {
+            "presente": "vengono",
+            "passato prossimo": "sono",
+            "futuro semplice": "venuti/e",
+            "imperetto": "verranno",
+            "pr. condizionale": "venivano"
+        },
+        "word": "venire",
+        "definition": "To Come"
+    },
+    {
+        "io": {
+            "presente": "vivo",
+            "passato prossimo": "ho",
+            "futuro semplice": "vissuto",
+            "imperetto": "vivr\u00f2",
+            "pr. condizionale": "vivevo"
+        },
+        "tu": {
+            "presente": "vivi",
+            "passato prossimo": "hai",
+            "futuro semplice": "vissuto",
+            "imperetto": "vivrai",
+            "pr. condizionale": "vivevi"
+        },
+        "lui / lei": {
+            "presente": "vive",
+            "passato prossimo": "ha",
+            "futuro semplice": "vissuto",
+            "imperetto": "vivr\u00e0",
+            "pr. condizionale": "viveva"
+        },
+        "noi": {
+            "presente": "viviamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "vissuto",
+            "imperetto": "vivremo",
+            "pr. condizionale": "vivevamo"
+        },
+        "voi": {
+            "presente": "vivete",
+            "passato prossimo": "avete",
+            "futuro semplice": "vissuto",
+            "imperetto": "vivrete",
+            "pr. condizionale": "vivevate"
+        },
+        "loro": {
+            "presente": "vivono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "vissuto",
+            "imperetto": "vivranno",
+            "pr. condizionale": "vivevano"
+        },
+        "word": "vivere",
+        "definition": "To Live"
+    },
+    {
+        "io": {
+            "presente": "voglio",
+            "passato prossimo": "ho",
+            "futuro semplice": "voluto",
+            "imperetto": "vorr\u00f2",
+            "pr. condizionale": "volevo"
+        },
+        "tu": {
+            "presente": "vuoi",
+            "passato prossimo": "hai",
+            "futuro semplice": "voluto",
+            "imperetto": "vorrai",
+            "pr. condizionale": "volevi"
+        },
+        "lui / lei": {
+            "presente": "vuole",
+            "passato prossimo": "ha",
+            "futuro semplice": "voluto",
+            "imperetto": "vorr\u00e0",
+            "pr. condizionale": "voleva"
+        },
+        "noi": {
+            "presente": "vogliamo",
+            "passato prossimo": "abbiamo",
+            "futuro semplice": "voluto",
+            "imperetto": "vorremo",
+            "pr. condizionale": "volevamo"
+        },
+        "voi": {
+            "presente": "volete",
+            "passato prossimo": "avete",
+            "futuro semplice": "voluto",
+            "imperetto": "vorrete",
+            "pr. condizionale": "volevate"
+        },
+        "loro": {
+            "presente": "vogliono",
+            "passato prossimo": "hanno",
+            "futuro semplice": "voluto",
+            "imperetto": "vorranno",
+            "pr. condizionale": "volevano"
+        },
+        "word": "volere",
+        "definition": "To Want"
+    }
+]

@@ -1,0 +1,392 @@
+"AMARE • To Love
+IO amo ho amato amerò amavo amerei
+TU ami hai amato amerai amavi ameresti
+LUI / LEI ama ha amato amerà amava amerebbe
+NOI amiamo abbiamo amato ameremo amavamo ameremmo
+VOI amate avete amato amerete amavate amereste
+LORO amano hanno amato ameranno amavano amerebbero
+ANDARE • To Go
+IO vado sono andato/a andrò andavo andrei
+TU vai sei andato/a andrai andavi andresti
+LUI / LEI va è andato/a andrà andava andrebbe
+NOI andiamo siamo andati/e andremo andavamo andremmo
+VOI andate siete andati/e andrete andavate andreste
+LORO vanno sono andati/e andranno andavano andrebbero
+APRIRE • To Open
+IO apro ho aperto aprirò aprivo aprirei
+TU apri hai aperto aprirai aprivi apriresti
+LUI / LEI apre ha aperto aprirà apriva aprirebbe
+NOI apriamo abbiamo aperto apriremo aprivamo apriremmo
+VOI aprite avete aperto aprirete aprivate aprireste
+LORO aprono hanno aperto apriranno aprivano aprirebbero
+ARRIVARE • To Arrive
+IO arrivo sono arrivato/a arriverò arrivavo arriverei
+TU arrivi sei arrivato/a arriverai arrivavi arriveresti
+LUI / LEI arriva è arrivato/a arriverà arrivava arriverebbe
+NOI arriviamo siamo arrivati/e arriveremo arrivavamo arriveremmo
+VOI arrivate siete arrivati/e arriverete arrivavate arrivereste
+LORO arrivano sono arrivati/e arriveranno arrivavano arriverebbero
+ASPETTARE • To Wait
+IO aspetto ho aspettato aspetterò aspettavo aspetterei
+TU aspetti hai aspettato aspetterai aspettavi aspetteresti
+LUI / LEI aspetta ha aspettato aspetterà aspettava aspetterebbe
+NOI aspettiamo abbiamo aspettato aspetteremo aspettavamo aspetteremmo
+VOI aspettate avete aspettato aspetterete aspettavate aspettereste
+LORO aspettano hanno aspettato aspetteranno aspettavano aspetterebbero
+AVERE • To Have
+IO ho ho avuto avrò avevo avrei
+TU hai hai avuto avrai avevi avresti
+LUI / LEI ha ha avuto avrà aveva avrebbe
+NOI abbiamo abbiamo avuto avremo avevamo avremmo
+VOI avete avete avuto avrete avevate avreste
+LORO hanno hanno avuto avranno avevano avrebbero
+BERE • To Drink
+IO bevo ho bevuto berrò bevevo berrei
+TU bevi hai bevuto berrai bevevi berresti
+LUI / LEI beve ha bevuto berrà beveva berrebbe
+NOI beviamo abbiamo bevuto berremo bevevamo berremmo
+VOI bevete avete bevuto berrete bevevate berreste
+LORO bevono hanno bevuto berranno bevevano berrebbero
+BOLLIRE • To Boil
+IO bollo ho bollito bollirò bollivo bollirei
+TU bolli hai bollito bollirai bollivi bolliresti
+LUI / LEI bolle ha bollito bollirà bolliva bollirebbe
+NOI bolliamo abbiamo bollito bolliremo bollivamo bolliremmo
+VOI bollite avete bollito bollirete bollivate bollireste
+LORO bollono hanno bollito bolliranno bollivano bollirebbero
+CAPIRE • To Understand
+IO capisco ho capito capirò capivo capirei
+TU capisci hai capito capirai capivi capiresti
+LUI / LEI capisce ha capito capirà capiva capirebbe
+NOI capiamo abbiamo capito capiremo capivamo capiremmo
+VOI capite avete capito capirete capivate capireste
+LORO capiscono hanno capito capiranno capivano capirebbero
+CENARE • To Dine
+IO ceno ho cenato cenerò cenavo cenerei
+TU ceni hai cenato cenerai cenavi ceneresti
+LUI / LEI cena ha cenato cenerà cenava cenerebbe
+NOI ceniamo abbiamo cenato ceneremo cenavamo ceneremmo
+VOI cenate avete cenato cenerete cenavate cenereste
+LORO cenano hanno cenato ceneranno cenavano cenerebbero
+CHIAMARE • To Call
+IO chiamo ho chiamato chiamerò chiamavo chiamerei
+TU chiami hai chiamato chiamerai chiamavi chiameresti
+LUI / LEI chiama ha chiamato chiamerà chiamava chiamerebbe
+NOI chiamiamo abbiamo chiamato chiameremo chiamavamo chiameremmo
+VOI chiamate avete chiamato chiamerete chiamavate chiamereste
+LORO chiamano hanno chiamato chiameranno chiamavano chiamerebbero
+CHIEDERE • To Ask
+IO chiedo ho chiesto chiederò chiedevo chiederei
+TU chiedi hai chiesto chiederai chiedevi chiederesti
+LUI / LEI chiede ha chiesto chiederà chiedeva chiederebbe
+NOI chiediamo abbiamo chiesto chiederemo chiedevamo chiederemmo
+VOI chiedete avete chiesto chiederete chiedevate chiedereste
+LORO chiedono hanno chiesto chiederanno chiedevano chiederebbero
+COMPRARE • To Buy
+IO compro ho comprato comprerò compravo comprerei
+TU compri hai comprato comprerai compravi compreresti
+LUI / LEI compra ha comprato comprerà comprava comprerebbe
+NOI compriamo abbiamo comprato compreremo compravamo compreremmo
+VOI comprate avete comprato comprerete compravate comprereste
+LORO comprano hanno comprato compreranno compravano comprerebbero
+CONOSCERE • To Know / Meet *regular conjugations with some exceptions
+IO conosco ho conosciuto conoscerò conoscevo conoscerei
+TU conosci hai conosciuto conoscerai conoscevi conosceresti
+LUI / LEI conosce ha conosciuto conoscerà conosceva conoscerebbe
+NOI conosciamo abbiamo conosciuto conosceremo conoscevamo conosceremmo
+VOI conoscete avete conosciuto conoscerete conoscevate conoscereste
+LORO conoscono hanno conosciuto conosceranno conoscevano conoscerebbero
+CREDERE • To Believe
+IO credo ho creduto crederò credevo crederei
+TU credi hai creduto crederai credevi crederesti
+LUI / LEI crede ha creduto crederà credeva crederebbe
+NOI crediamo abbiamo creduto crederemo credevamo crederemmo
+VOI credete avete creduto crederete credevate credereste
+LORO credono hanno creduto crederanno credevano crederebbero
+CUCINARE • To Cook
+IO cucino ho cucinato cucinerò cucinavo cucinerei
+TU cucini hai cucinato cucinerai cucinavi cucineresti
+LUI / LEI cucina ha cucinato cucinerà cucinava cucinerebbe
+NOI cuciniamo abbiamo cucinato cucineremo cucinavamo cucineremmo
+VOI cucinate avete cucinato cucinerete cucinavate cucinereste
+LORO cucinano hanno cucinato cucineranno cucinavano cucinerebbero
+DARE • To Give
+IO do ho dato darò davo darei
+TU dai hai dato darai davi daresti
+LUI / LEI dà ha dato darà dava darebbe
+NOI diamo abbiamo dato daremo davamo daremmo
+VOI date avete dato darete davate dareste
+LORO danno hanno dato daranno davano darebbero
+DECIDERE • To Decide
+IO decido ho deciso deciderò decidevo deciderei
+TU decidi hai deciso deciderai decidevi decideresti
+LUI / LEI decide ha deciso deciderà decideva deciderebbe
+NOI decidiamo abbiamo deciso decideremo decidevamo decideremmo
+VOI decidete avete deciso deciderete decidevate decidereste
+LORO decidono hanno deciso decideranno decidevano deciderebbero
+DESIDERARE • To Wish / Desire
+IO desidero ho desiderato desidererò desideravo desidererei
+TU desideri hai desiderato desidererai desideravi desidereresti
+LUI / LEI desidera ha desiderato desidererà desiderava desidererebbe
+NOI desideriamo abbiamo desiderato desidereremo desideravamo desidereremmo
+VOI desiderate avete desiderato desidererete desideravate desiderereste
+LORO desiderano hanno desiderato desidereranno desideravano desidererebbero
+DIRE • To Say / Tell
+IO dico ho detto dirò dicevo direi
+TU dici hai detto dirai dicevi diresti
+LUI / LEI dice ha detto dirà diceva direbbe
+NOI diciamo abbiamo detto diremo dicevamo diremmo
+VOI dite avete detto direte dicevate direste
+LORO dicono hanno detto diranno dicevano direbbero
+DIVENTARE • To Become
+IO divento sono diventato/a diventerò diventavo diventerei
+TU diventi sei diventato/a diventerai diventavi diventeresti
+LUI / LEI diventa è diventato/a diventerà diventava diventerebbe
+NOI diventiamo siamo diventati/e diventeremo diventavamo diventeremmo
+VOI diventate siete diventati/e diventerete diventavate diventereste
+LORO diventano sono diventati/e diventeranno diventavano diventerebbero
+DOVERE • To Have To (Must)
+IO devo ho dovuto dovrò dovevo dovrei
+TU devi hai dovuto dovrai dovevi dovresti
+LUI / LEI deve ha dovuto dovrà doveva dovrebbe
+NOI dobbiamo abbiamo dovuto dovremo dovevamo dovremmo
+VOI dovete avete dovuto dovrete dovevate dovreste
+LORO devono hanno dovuto dovranno dovevano dovrebbero
+ENTRARE • To Enter
+IO entro sono entrato/a entrerò entravo entrerei
+TU entri sei entrato/a entrerai entravi entreresti
+LUI / LEI entra è entrato/a entrerà entrava entrerebbe
+NOI entriamo siamo entrati/e entreremo entravamo entreremmo
+VOI entrate siete entrati/e entrerete entravate entrereste
+LORO entrano sono entrati/e entreranno entravano entrerebbero
+ESSERE • To Be
+IO sono sono stato/a sarò ero sarei
+TU sei sei stato/a sarai eri saresti
+LUI / LEI è è stato/a sarà era sarebbe
+NOI siamo siamo stati/e saremo eravamo saremmo
+VOI siete siete stati/e sarete eravate sareste
+LORO sono sono stati/e saranno erano sarebbero
+FARE • To Make / Do
+IO faccio ho fatto farò facevo farei
+TU fai hai fatto farai facevi tfaresti
+LUI / LEI fa ha fatto farà faceva farebbe
+NOI facciamo abbiamo fatto faremo facevamo faremmo
+VOI fate avete fatto farete facevate fareste
+LORO fanno hanno fatto faranno facevano farebbero
+FINIRE • To Finish
+IO finisco ho finito finirò finivo finirei
+TU finisci hai finito finirai finivi finiresti
+LUI / LEI finisce ha finito finirà finiva finirebbe
+NOI finiamo abbiamo finito finiremo finivamo finiremmo
+VOI finite avete finito finirete finivate finireste
+LORO finiscono hanno finito finiranno finivano finirebbero
+GUARDARE • To Watch / Look
+IO guardo ho guardato guarderò guardavo guarderei
+TU guardi hai guardato guarderai guardavi guarderesti
+LUI / LEI guarda ha guardato guarderà guardava guarderebbe
+NOI guardiamo abbiamo guardato guarderemo guardavamo guarderemmo
+VOI guardate avete guardato guarderete guardavate guardereste
+LORO guardano hanno guardato guarderanno guardavano guarderebbero
+LASCIARE • To Leave
+IO lascio ho lasciato lascerò lasciavo lascerei
+TU lasci hai lasciato lascerai lasciavi lasceresti
+LUI / LEI lascia ha lasciato lascerà lasciava lascerebbe
+NOI lasciamo abbiamo lasciato lasceremo lasciavamo lasceremmo
+VOI lasciate avete lasciato lascerete lasciavate lascereste
+LORO lasciano hanno lasciato lasceranno lasciavano lascerebbero
+LAVORARE • To Work
+IO lavoro ho lavorato lavorerò lavoravo lavorerei
+TU lavori hai lavorato lavorerai lavoravi lavoreresti
+LUI / LEI lavora ha lavorato lavorerà lavorava lavorerebbe
+NOI lavoriamo abbiamo lavorato lavoreremo lavoravamo lavoreremmo
+VOI lavorate avete lavorato lavorerete lavoravate lavorereste
+LORO lavorano hanno lavorato lavoreranno lavoravano lavorerebbero
+LEGGERE • To Read
+IO leggo ho letto leggerò leggevo leggerei
+TU leggi hai letto leggerai leggevi leggeresti
+LUI / LEI legge ha letto leggerà leggeva leggerebbe
+NOI leggiamo abbiamo letto leggeremo leggevamo leggeremmo
+VOI leggete avete letto leggerete leggevate leggereste
+LORO legg ono hanno letto leggeranno leggevano leggerebbero
+MANGIARE • To Eat
+IO mangio ho mangiato mangerò mangiavo mangerei
+TU mangi hai mangiato mangerai mangiavi mangeresti
+LUI / LEI mangia ha mangiato mangerà mangiava mangerebbe
+NOI mangiamo abbiamo mangiato mangeremo mangiavamo mangeremmo
+VOI mangiate avete mangiato mangerete mangiavate mangereste
+LORO mangiano hanno mangiato mangeranno mangiavano mangerebbero
+METTERE • To Put
+IO metto ho messo metterò mettevo metterei
+TU metti hai messo metterai mettevi metteresti
+LUI / LEI mette ha messo metterà metteva metterebbe
+NOI mettiamo abbiamo messo metteremo mettevamo metteremmo
+VOI mettete avete messo metterete mettevate mettereste
+LORO mettono hanno messo metteranno mettevano metterebbero
+MORIRE • To Die
+IO muoio sono morto/a mor(i)rò morivo mor(i)rei
+TU muori sei morto/a mor(i)rai morivi mor(i)resti
+LUI / LEI muore è morto/a mor(i)rà moriva mor(i)rebbe
+NOI moriamo siamo morti/e mor(i)remo morivamo mor(i)remmo
+VOI morite siete morti/e mor(i)rete morivate mor(i)reste
+LORO muoiono sono morti/e mor(i)ranno morivano mor(i)rebbero
+PARLARE • To Speak
+IO parlo ho parlato parlerò parlavo parlerei
+TU parli hai parlato parlerai parlavi parleresti
+LUI / LEI parla ha parlato parlerà parlava parlerebbe
+NOI parliamo abbiamo parlato parleremo parlavamo parleremmo
+VOI parlate avete parlato parlerete parlavate parlereste
+LORO parlano hanno parlato parleranno parlavano parlerebbero
+PASSARE • To Pass / Spend
+IO passo ho passato passerò passavo passerei
+TU passi hai passato passerai passavi passeresti
+LUI / LEI passa ha passato passerà passava passerebbe
+NOI passiamo abbiamo passato passeremo passavamo passeremmo
+VOI passate avete passato passerete passavate passereste
+LORO passano hanno passato passeranno passavano passerebbero
+PENSARE • To Think
+IO penso ho pensato penserò pensavo penserei
+TU pensi hai pensato penserai pensavi penseresti
+LUI / LEI pensa ha pensato penserà pensava penserebbe
+NOI pensiamo abbiamo pensato penseremo pensavamo penseremmo
+VOI pensate avete pensato penserete pensavate pensereste
+LORO pensano hanno pensato penseranno pensavano penserebbero
+PORTARE • To Carry / Bring / Wear
+IO porto ho portato porterò portavo porterei
+TU porti hai portato porterai portavi porteresti
+LUI / LEI porta ha portato porterà portava porterebbe
+NOI portiamo abbiamo portato porteremo portavamo porteremmo
+VOI portate avete portato porterete portavate portereste
+LORO portano hanno portato porteranno portavano porterebbero
+POTERE • To Be Able To
+IO posso ho potuto potrò potevo potrei
+TU puoi hai potuto potrai potevi potresti
+LUI / LEI può ha potuto potrà poteva potrebbe
+NOI possiamo abbiamo potuto potremo potevamo potremmo
+VOI potete avete potuto potrete potevate potreste
+LORO possono hanno potuto potranno potevano potrebbero
+PRANZARE • To Lunch
+IO pranzo ho pranzato pranzerò pranzavo pranzerei
+TU pranzi hai pranzato pranzerai pranzavi pranzeresti
+LUI / LEI pranza ha pranzato pranzerà pranzava pranzerebbe
+NOI pranziamo abbiamo pranzato pranzeremo pranzavamo pranzeremmo
+VOI pranzate avete pranzato pranzerete pranzavate pranzereste
+LORO pranzano hanno pranzato pranzeranno pranzavano pranzerebbero
+PRENDERE • To Take
+IO prendo ho preso prenderò prendevo prenderei
+TU prendi hai preso prenderai prendevi prenderesti
+LUI / LEI prende ha preso prenderà prendeva prenderebbe
+NOI prendiamo abbiamo preso prenderemo prendevamo prenderemmo
+VOI prendete avete preso prenderete prendevate prendereste
+LORO prendono hanno preso prenderanno prendevano prenderebbero
+RICORDARE • To Remember
+IO ricordo ho ricordato ricorderò ricordavo ricorderei
+TU ricordi hai ricordato ricorderai ricordavi ricorderesti
+LUI / LEI ricorda ha ricordato ricorderà ricordava ricorderebbe
+NOI ricordiamo abbiamo ricordato ricorderemo ricordavamo ricorderemmo
+VOI ricordate avete ricordato ricorderete ricordavate ricordereste
+LORO ricordano hanno ricordato ricorderanno ricordavano ricorderebbero
+RIMANERE • To Remain / Stay
+IO rimango sono rimasto/a rimarrò rimanevo rimarrei
+TU rimani sei rimasto/a rimarrai rimanevi rimarresti
+LUI / LEI rimane è rimasto/a rimarrà rimaneva rimarrebbe
+NOI rimaniamo siamo rimasti/e rimarremo rimanevamo rimarremmo
+VOI rimanete siete rimasti/e rimarrete rimanevate rimarreste
+LORO rimangono sono rimasti/e rimarranno rimanevano rimarrebbero
+SAPERE • To Know (a fact)
+IO so ho saputo saprò sapevo saprei
+TU sai hai saputo saprai sapevi sapresti
+LUI / LEI sa ha saputo saprà sapeva saprebbe
+NOI sappiamo abbiamo saputo sapremo sapevamo sapremmo
+VOI sapete avete saputo saprete sapevate sapreste
+LORO sanno hanno saputo sapranno sapevano saprebbero
+SCRIVERE • To Write
+IO scrivo ho scritto scriverò scrivevo scriverei
+TU scrivi hai scritto scriverai scrivevi scriveresti
+LUI / LEI scrive ha scritto scriverà scriveva scriverebbe
+NOI scriviamo abbiamo scritto scriveremo scrivevamo scriveremmo
+VOI scrivete avete scritto scriverete scrivevate scrivereste
+LORO scrivono hanno scritto scriveranno scrivevano scriverebbero
+SEGUIRE • To Follow
+IO seguo ho seguito seguirò seguivo seguirei
+TU segui hai seguito seguirai seguivi seguiresti
+LUI / LEI segue ha seguito seguirà seguiva seguirebbe
+NOI seguiamo abbiamo seguito seguiremo seguivamo seguiremmo
+VOI seguite avete seguito seguirete seguivate seguireste
+LORO seguono hanno seguito seguiranno seguivano seguirebbero
+SENTIRE • To Hear / Sense
+IO sento ho sentito sentirò sentivo sentirei
+TU senti hai sentito sentirai sentivi sentiresti
+LUI / LEI sente ha sentito sentirà sentiva sentirebbe
+NOI sentiamo abbiamo sentito sentiremo sentivamo sentiremmo
+VOI sentite avete sentito sentirete sentivate sentireste
+LORO sentono hanno sentito sentiranno sentivano sentirebbero
+STARE • To Stay (to be located / in the state of)
+IO sto sono stato/a starò stavo starei
+TU stai sei stato/a starai stavi staresti
+LUI / LEI sta è stato/a starà stava starebbe
+NOI stiamo siamo stati/e staremo stavamo staremmo
+VOI state siete stati/e starete stavate stareste
+LORO stanno sono stati/e staranno stavano starebbero
+TAGLIARE • To Cut
+IO taglio ho tagliato taglierò tagliavo taglierei
+TU tagli hai tagliato taglierai tagliavi taglieresti
+LUI / LEI taglia ha tagliato taglierà tagliava taglierebbe
+NOI tagliamo abbiamo tagliato taglieremo tagliavamo taglieremmo
+VOI tagliate avete tagliato taglierete tagliavate tagliereste
+LORO tagliano hanno tagliato taglieranno tagliavano taglierebbero
+TENERE • To Keep / Hold
+IO tengo ho tenuto terrò tenevo terrei
+TU tieni hai tenuto terrai tenevi terresti
+LUI / LEI tiene ha tenuto terrà teneva terrebbe
+NOI teniamo abbiamo tenuto terremo tenevamo terremmo
+VOI tenete avete tenuto terrete tenevate terreste
+LORO tengono hanno tenuto terranno tenevano terrebbero
+TROVARE • To Find
+IO trovo ho trovato troverò trovavo troverei
+TU trovi hai trovato troverai trovavi troveresti
+LUI / LEI trova ha trovato troverà trovava troverebbe
+NOI troviamo abbiamo trovato troveremo trovavamo troveremmo
+VOI trovate avete trovato troverete trovavate trovereste
+LORO trovano hanno trovato troveranno trovavano troverebbero
+USARE • To Use
+IO uso ho usato userò usavo userei
+TU usi hai usato userai usavi useresti
+LUI / LEI usa ha usato userà usava userebbe
+NOI usiamo abbiamo usato useremo usavamo useremmo
+VOI usate avete usato userete usavate usereste
+LORO usano hanno usato useranno usavano userebbero
+USCIRE • To Leave
+IO esco sono uscito/a uscirò uscivo uscirei
+TU esci sei uscito/a uscirai uscivi usciresti
+LUI / LEI esce è uscito/a uscirà usciva uscirebbe
+NOI usciamo siamo usciti/e usciremo uscivamo usciremmo
+VOI uscite siete usciti/e uscirete uscivate uscireste
+LORO escono sono usciti/e usciranno uscivano uscirebbero
+VEDERE • To See
+IO vedo ho visto vedrò vedevo vedrei
+TU vedi hai visto vedrai vedevi vedresti
+LUI / LEI vede ha visto vedrà vedeva vedrebbe
+NOI vediamo abbiamo visto vedremo vedevamo vedremmo
+VOI vedete avete visto vedrete vedevate vedreste
+LORO vedono hanno visto vedranno vedevano vedrebbero
+VENIRE • To Come
+IO vengo sono venuto/a verrò venivo verrei
+TU vieni sei venuto/a verrai venivi verresti
+LUI / LEI viene è venuto/a verrà veniva verrebbe
+NOI veniamo siamo venuti/e verremo venivamo verremmo
+VOI venite siete venuti/e verrete venivate verreste
+LORO vengono sono venuti/e verranno venivano verrebbero
+VIVERE • To Live
+IO vivo ho vissuto vivrò vivevo vivrei
+TU vivi hai vissuto vivrai vivevi vivresti
+LUI / LEI vive ha vissuto vivrà viveva vivrebbe
+NOI viviamo abbiamo vissuto vivremo vivevamo vivremmo
+VOI vivete avete vissuto vivrete vivevate vivreste
+LORO vivono hanno vissuto vivranno vivevano vivrebbero
+VOLERE • To Want
+IO voglio ho voluto vorrò volevo vorrei
+TU vuoi hai voluto vorrai volevi vorresti
+LUI / LEI vuole ha voluto vorrà voleva vorrebbe
+NOI vogliamo abbiamo voluto vorremo volevamo vorremmo
+VOI volete avete voluto vorrete volevate vorreste
+LORO vogliono hanno voluto vorranno volevano vorrebbero"

@@ -2,172 +2,228 @@
     "name": "Antonyms",
     "vocab": [
         {
-            "answer": "freddo",
-            "failed": 0,
-            "question": "What is the antonym of \"caldo\"",
-            "tried": 0
-        },
-        {
-            "answer": "caldo",
-            "failed": 0,
-            "question": "What is the antonym of \"freddo\"",
-            "tried": 0
-        },
-        {
-            "answer": "alto",
-            "failed": 0,
-            "question": "What is the antonym of \"basso\"",
-            "tried": 0
-        },
-        {
-            "answer": "basso",
-            "failed": 0,
-            "question": "What is the antonym of \"alto\"",
-            "tried": 0
-        },
-        {
-            "answer": "grande",
-            "failed": 0,
-            "question": "What is the antonym of \"piccolo\"",
-            "tried": 0
-        },
-        {
-            "answer": "piccolo",
-            "failed": 0,
-            "question": "What is the antonym of \"grande\"",
-            "tried": 0
-        },
-        {
-            "answer": "pulito",
-            "failed": 0,
-            "question": "What is the antonym of \"sporco\"",
-            "tried": 0
-        },
-        {
-            "answer": "sporco",
-            "failed": 0,
-            "question": "What is the antonym of \"pulito\"",
-            "tried": 0
-        },
-        {
-            "answer": "profumato",
-            "failed": 0,
-            "question": "What is the antonym of \"puzzolente\"",
-            "tried": 0
-        },
-        {
-            "answer": "puzzolente",
-            "failed": 0,
-            "question": "What is the antonym of \"profumato\"",
-            "tried": 0
-        },
-        {
-            "answer": "sciocco",
-            "failed": 0,
-            "question": "What is the antonym of \"intelligente\"",
-            "tried": 0
-        },
-        {
-            "answer": "intelligente",
-            "failed": 0,
-            "question": "What is the antonym of \"sciocco\"",
-            "tried": 0
-        },
-        {
-            "answer": "leggero",
-            "failed": 0,
-            "question": "What is the antonym of \"pesante\"",
-            "tried": 0
-        },
-        {
-            "answer": "pesante",
-            "failed": 0,
-            "question": "What is the antonym of \"leggero\"",
-            "tried": 0
-        },
-        {
-            "answer": "brutto",
-            "failed": 0,
-            "question": "What is the antonym of \"bello\"",
-            "tried": 0
-        },
-        {
-            "answer": "bello",
-            "failed": 0,
-            "question": "What is the antonym of \"brutto\"",
-            "tried": 0
-        },
-        {
-            "answer": "triste",
-            "failed": 0,
-            "question": "What is the antonym of \"allegro\"",
-            "tried": 0
-        },
-        {
-            "answer": "allegro",
-            "failed": 0,
-            "question": "What is the antonym of \"triste\"",
-            "tried": 0
-        },
-        {
-            "answer": "vuoto",
-            "failed": 0,
-            "question": "What is the antonym of \"pieno\"",
-            "tried": 0
-        },
-        {
-            "answer": "pieno",
-            "failed": 0,
-            "question": "What is the antonym of \"vuoto\"",
-            "tried": 0
-        },
-        {
-            "answer": "giovane",
-            "failed": 0,
-            "question": "What is the antonym of \"vecchio\"",
-            "tried": 0
-        },
-        {
+            "alternates": [],
             "answer": "vecchio",
             "failed": 0,
+            "lastAsked": 1519240400.4840899,
             "question": "What is the antonym of \"giovane\"",
-            "tried": 0
+            "tried": 1
         },
         {
+            "alternates": [],
+            "answer": "bello",
+            "failed": 1,
+            "lastAsked": 1519240437.987287,
+            "question": "What is the antonym of \"brutto\"",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "pesante",
+            "failed": 3,
+            "lastAsked": 1519240452.1074796,
+            "question": "What is the antonym of \"leggero\"",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "caldo",
+            "failed": 0,
+            "lastAsked": 1519240415.6397092,
+            "question": "What is the antonym of \"freddo\"",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "grande",
+            "failed": 0,
+            "lastAsked": 1519240410.6990495,
+            "question": "What is the antonym of \"piccolo\"",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "arrabbiato",
+            "failed": 1,
+            "lastAsked": 1519240426.5032406,
+            "question": "What is the antonym of \"tranquillo\"",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "pieno",
+            "failed": 0,
+            "lastAsked": 1519240403.0996265,
+            "question": "What is the antonym of \"vuoto\"",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "puzzolente",
+            "failed": 2,
+            "lastAsked": 1519240444.6754086,
+            "question": "What is the antonym of \"profumato\"",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "triste",
+            "failed": 0,
+            "lastAsked": 1519240480.5828695,
+            "question": "What is the antonym of \"allegro\"",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "sincero",
+            "failed": 3,
+            "lastAsked": 1519240502.7470548,
+            "question": "What is the antonym of \"bugiardo\"",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "basso",
+            "failed": 0,
+            "lastAsked": 1519240456.4429727,
+            "question": "What is the antonym of \"alto\"",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "giovane",
+            "failed": 0,
+            "lastAsked": 1519240467.311207,
+            "question": "What is the antonym of \"vecchio\"",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "vuoto",
+            "failed": 0,
+            "lastAsked": 1519240454.2349515,
+            "question": "What is the antonym of \"pieno\"",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "allegro",
+            "failed": 1,
+            "lastAsked": 1519240488.734644,
+            "question": "What is the antonym of \"triste\"",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "brutto",
+            "failed": 0,
+            "lastAsked": 1519240475.4867253,
+            "question": "What is the antonym of \"bello\"",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "grasso",
+            "failed": 5,
+            "lastAsked": 1519240507.8506823,
+            "question": "What is the antonym of \"magro\"",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "freddo",
+            "failed": 0,
+            "lastAsked": 1519240514.0662515,
+            "question": "What is the antonym of \"caldo\"",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "magro",
+            "failed": 3,
+            "lastAsked": 1519240559.370345,
+            "question": "What is the antonym of \"grasso\"",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "bugiardo",
+            "failed": 1,
+            "lastAsked": 1519240549.6580284,
+            "question": "What is the antonym of \"sincero\"",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "profumato",
+            "failed": 0,
+            "lastAsked": 1519240518.7907753,
+            "question": "What is the antonym of \"puzzolente\"",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "intelligente",
+            "failed": 1,
+            "lastAsked": 1519240554.3460855,
+            "question": "What is the antonym of \"sciocco\"",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "pulito",
+            "failed": 0,
+            "lastAsked": 1519240529.8952613,
+            "question": "What is the antonym of \"sporco\"",
+            "tried": 1
+        },
+        {
+            "alternates": [],
             "answer": "tranquillo",
             "failed": 0,
+            "lastAsked": 1519240533.82259,
             "question": "What is the antonym of \"arrabbiato\"",
-            "tried": 0
+            "tried": 1
         },
         {
-            "answer": "arrabbiato",
+            "alternates": [],
+            "answer": "piccolo",
             "failed": 0,
-            "question": "What is the antonym of \"tranquillo\"",
-            "tried": 0
+            "lastAsked": 1519240539.0786476,
+            "question": "What is the antonym of \"grande\"",
+            "tried": 1
         },
         {
-            "answer": "magro",
+            "alternates": [],
+            "answer": "sporco",
             "failed": 0,
-            "question": "What is the antonym of \"grasso\"",
-            "tried": 0
+            "lastAsked": 1519240570.861672,
+            "question": "What is the antonym of \"pulito\"",
+            "tried": 1
         },
         {
-            "answer": "grasso",
+            "alternates": [],
+            "answer": "sciocco",
             "failed": 0,
-            "question": "What is the antonym of \"magro\"",
-            "tried": 0
+            "lastAsked": 1519240565.1056247,
+            "question": "What is the antonym of \"intelligente\"",
+            "tried": 1
         },
         {
-            "answer": "sincero",
+            "alternates": [],
+            "answer": "alto",
             "failed": 0,
-            "question": "What is the antonym of \"bugiardo\"",
-            "tried": 0
+            "lastAsked": 1519240561.5541098,
+            "question": "What is the antonym of \"basso\"",
+            "tried": 1
         },
         {
-            "answer": "bugiardo",
-            "failed": 0,
-            "question": "What is the antonym of \"sincero\"",
-            "tried": 0
+            "alternates": [],
+            "answer": "leggero",
+            "failed": 1,
+            "lastAsked": 1519240575.9414775,
+            "question": "What is the antonym of \"pesante\"",
+            "tried": 2
         }
     ]
 }

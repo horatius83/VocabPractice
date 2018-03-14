@@ -9,7 +9,7 @@ def OpenJsonFile(filename):
         return json.loads(txt)
     return None
     
-def OutputJsonFile(jsonObj,filename):
+def OutputJsonFile(jsonObj: object, filename: str):
     """Output a JSON object to the given filename"""
     with open(filename,encoding='utf-8',mode='w') as outData:
         json.dump(jsonObj,outData,ensure_ascii=False,indent=4,sort_keys=True)

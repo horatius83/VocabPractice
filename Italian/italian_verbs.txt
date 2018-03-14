@@ -1,4 +1,4 @@
-"AMARE • To Love
+AMARE • To Love
 IO amo ho amato amerò amavo amerei
 TU ami hai amato amerai amavi ameresti
 LUI / LEI ama ha amato amerà amava amerebbe
@@ -389,4 +389,4 @@ TU vuoi hai voluto vorrai volevi vorresti
 LUI / LEI vuole ha voluto vorrà voleva vorrebbe
 NOI vogliamo abbiamo voluto vorremo volevamo vorremmo
 VOI volete avete voluto vorrete volevate vorreste
-LORO vogliono hanno voluto vorranno volevano vorrebbero"
+LORO vogliono hanno voluto vorranno volevano vorrebbero

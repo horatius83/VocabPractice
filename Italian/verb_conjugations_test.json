@@ -1,0 +1,4037 @@
+{
+    "name": "Conjugations Test",
+    "vocab": [
+        {
+            "answer": "amo",
+            "failed": 0,
+            "question": "AMARE (To Love) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vado",
+            "failed": 0,
+            "question": "ANDARE (To Go) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "apro",
+            "failed": 0,
+            "question": "APRIRE (To Open) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "arrivo",
+            "failed": 0,
+            "question": "ARRIVARE (To Arrive) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "aspetto",
+            "failed": 0,
+            "question": "ASPETTARE (To Wait) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho",
+            "failed": 0,
+            "question": "AVERE (To Have) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "bevo",
+            "failed": 0,
+            "question": "BERE (To Drink) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "bollo",
+            "failed": 0,
+            "question": "BOLLIRE (To Boil) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "capisco",
+            "failed": 0,
+            "question": "CAPIRE (To Understand) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "ceno",
+            "failed": 0,
+            "question": "CENARE (To Dine) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "chiamo",
+            "failed": 0,
+            "question": "CHIAMARE (To Call) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "chiedo",
+            "failed": 0,
+            "question": "CHIEDERE (To Ask) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "compro",
+            "failed": 0,
+            "question": "COMPRARE (To Buy) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "conosco",
+            "failed": 0,
+            "question": "CONOSCERE (To Know / Meet *regular conjugations with some exceptions) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "credo",
+            "failed": 0,
+            "question": "CREDERE (To Believe) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "cucino",
+            "failed": 0,
+            "question": "CUCINARE (To Cook) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "do",
+            "failed": 0,
+            "question": "DARE (To Give) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "decido",
+            "failed": 0,
+            "question": "DECIDERE (To Decide) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "desidero",
+            "failed": 0,
+            "question": "DESIDERARE (To Wish / Desire) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "dico",
+            "failed": 0,
+            "question": "DIRE (To Say / Tell) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "divento",
+            "failed": 0,
+            "question": "DIVENTARE (To Become) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "devo",
+            "failed": 0,
+            "question": "DOVERE (To Have To (Must)) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "entro",
+            "failed": 0,
+            "question": "ENTRARE (To Enter) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono",
+            "failed": 0,
+            "question": "ESSERE (To Be) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "faccio",
+            "failed": 0,
+            "question": "FARE (To Make / Do) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "finisco",
+            "failed": 0,
+            "question": "FINIRE (To Finish) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "guardo",
+            "failed": 0,
+            "question": "GUARDARE (To Watch / Look) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "lascio",
+            "failed": 0,
+            "question": "LASCIARE (To Leave) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "lavoro",
+            "failed": 0,
+            "question": "LAVORARE (To Work) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "leggo",
+            "failed": 0,
+            "question": "LEGGERE (To Read) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "mangio",
+            "failed": 0,
+            "question": "MANGIARE (To Eat) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "metto",
+            "failed": 0,
+            "question": "METTERE (To Put) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "muoio",
+            "failed": 0,
+            "question": "MORIRE (To Die) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "parlo",
+            "failed": 0,
+            "question": "PARLARE (To Speak) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "passo",
+            "failed": 0,
+            "question": "PASSARE (To Pass / Spend) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "penso",
+            "failed": 0,
+            "question": "PENSARE (To Think) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "porto",
+            "failed": 0,
+            "question": "PORTARE (To Carry / Bring / Wear) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "posso",
+            "failed": 0,
+            "question": "POTERE (To Be Able To) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "pranzo",
+            "failed": 0,
+            "question": "PRANZARE (To Lunch) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "prendo",
+            "failed": 0,
+            "question": "PRENDERE (To Take) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "ricordo",
+            "failed": 0,
+            "question": "RICORDARE (To Remember) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "rimango",
+            "failed": 0,
+            "question": "RIMANERE (To Remain / Stay) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "so",
+            "failed": 0,
+            "question": "SAPERE (To Know (a fact)) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "scrivo",
+            "failed": 0,
+            "question": "SCRIVERE (To Write) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "seguo",
+            "failed": 0,
+            "question": "SEGUIRE (To Follow) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "sento",
+            "failed": 0,
+            "question": "SENTIRE (To Hear / Sense) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "sto",
+            "failed": 0,
+            "question": "STARE (To Stay (to be located / in the state of)) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "taglio",
+            "failed": 0,
+            "question": "TAGLIARE (To Cut) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "tengo",
+            "failed": 0,
+            "question": "TENERE (To Keep / Hold) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "trovo",
+            "failed": 0,
+            "question": "TROVARE (To Find) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "uso",
+            "failed": 0,
+            "question": "USARE (To Use) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "esco",
+            "failed": 0,
+            "question": "USCIRE (To Leave) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vedo",
+            "failed": 0,
+            "question": "VEDERE (To See) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vengo",
+            "failed": 0,
+            "question": "VENIRE (To Come) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vivo",
+            "failed": 0,
+            "question": "VIVERE (To Live) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "voglio",
+            "failed": 0,
+            "question": "VOLERE (To Want) IO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "ama",
+            "failed": 0,
+            "question": "AMARE (To Love) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "va",
+            "failed": 0,
+            "question": "ANDARE (To Go) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "apre",
+            "failed": 0,
+            "question": "APRIRE (To Open) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "arriva",
+            "failed": 0,
+            "question": "ARRIVARE (To Arrive) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "aspetta",
+            "failed": 0,
+            "question": "ASPETTARE (To Wait) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha",
+            "failed": 0,
+            "question": "AVERE (To Have) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "beve",
+            "failed": 0,
+            "question": "BERE (To Drink) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "bolle",
+            "failed": 0,
+            "question": "BOLLIRE (To Boil) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "capisce",
+            "failed": 0,
+            "question": "CAPIRE (To Understand) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "cena",
+            "failed": 0,
+            "question": "CENARE (To Dine) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "chiama",
+            "failed": 0,
+            "question": "CHIAMARE (To Call) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "chiede",
+            "failed": 0,
+            "question": "CHIEDERE (To Ask) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "compra",
+            "failed": 0,
+            "question": "COMPRARE (To Buy) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "conosce",
+            "failed": 0,
+            "question": "CONOSCERE (To Know / Meet *regular conjugations with some exceptions) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "crede",
+            "failed": 0,
+            "question": "CREDERE (To Believe) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "cucina",
+            "failed": 0,
+            "question": "CUCINARE (To Cook) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "dà",
+            "failed": 0,
+            "question": "DARE (To Give) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "decide",
+            "failed": 0,
+            "question": "DECIDERE (To Decide) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "desidera",
+            "failed": 0,
+            "question": "DESIDERARE (To Wish / Desire) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "dice",
+            "failed": 0,
+            "question": "DIRE (To Say / Tell) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "diventa",
+            "failed": 0,
+            "question": "DIVENTARE (To Become) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "deve",
+            "failed": 0,
+            "question": "DOVERE (To Have To (Must)) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "entra",
+            "failed": 0,
+            "question": "ENTRARE (To Enter) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "è",
+            "failed": 0,
+            "question": "ESSERE (To Be) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "fa",
+            "failed": 0,
+            "question": "FARE (To Make / Do) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "finisce",
+            "failed": 0,
+            "question": "FINIRE (To Finish) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "guarda",
+            "failed": 0,
+            "question": "GUARDARE (To Watch / Look) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "lascia",
+            "failed": 0,
+            "question": "LASCIARE (To Leave) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "lavora",
+            "failed": 0,
+            "question": "LAVORARE (To Work) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "legge",
+            "failed": 0,
+            "question": "LEGGERE (To Read) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "mangia",
+            "failed": 0,
+            "question": "MANGIARE (To Eat) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "mette",
+            "failed": 0,
+            "question": "METTERE (To Put) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "muore",
+            "failed": 0,
+            "question": "MORIRE (To Die) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "parla",
+            "failed": 0,
+            "question": "PARLARE (To Speak) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "passa",
+            "failed": 0,
+            "question": "PASSARE (To Pass / Spend) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "pensa",
+            "failed": 0,
+            "question": "PENSARE (To Think) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "porta",
+            "failed": 0,
+            "question": "PORTARE (To Carry / Bring / Wear) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "può",
+            "failed": 0,
+            "question": "POTERE (To Be Able To) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "pranza",
+            "failed": 0,
+            "question": "PRANZARE (To Lunch) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "prende",
+            "failed": 0,
+            "question": "PRENDERE (To Take) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "ricorda",
+            "failed": 0,
+            "question": "RICORDARE (To Remember) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "rimane",
+            "failed": 0,
+            "question": "RIMANERE (To Remain / Stay) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "sa",
+            "failed": 0,
+            "question": "SAPERE (To Know (a fact)) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "scrive",
+            "failed": 0,
+            "question": "SCRIVERE (To Write) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "segue",
+            "failed": 0,
+            "question": "SEGUIRE (To Follow) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "sente",
+            "failed": 0,
+            "question": "SENTIRE (To Hear / Sense) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "sta",
+            "failed": 0,
+            "question": "STARE (To Stay (to be located / in the state of)) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "taglia",
+            "failed": 0,
+            "question": "TAGLIARE (To Cut) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "tiene",
+            "failed": 0,
+            "question": "TENERE (To Keep / Hold) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "trova",
+            "failed": 0,
+            "question": "TROVARE (To Find) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "usa",
+            "failed": 0,
+            "question": "USARE (To Use) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "esce",
+            "failed": 0,
+            "question": "USCIRE (To Leave) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vede",
+            "failed": 0,
+            "question": "VEDERE (To See) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "viene",
+            "failed": 0,
+            "question": "VENIRE (To Come) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vive",
+            "failed": 0,
+            "question": "VIVERE (To Live) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vuole",
+            "failed": 0,
+            "question": "VOLERE (To Want) LUI / LEI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "ami",
+            "failed": 0,
+            "question": "AMARE (To Love) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vai",
+            "failed": 0,
+            "question": "ANDARE (To Go) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "apri",
+            "failed": 0,
+            "question": "APRIRE (To Open) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "arrivi",
+            "failed": 0,
+            "question": "ARRIVARE (To Arrive) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "aspetti",
+            "failed": 0,
+            "question": "ASPETTARE (To Wait) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai",
+            "failed": 0,
+            "question": "AVERE (To Have) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "bevi",
+            "failed": 0,
+            "question": "BERE (To Drink) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "bolli",
+            "failed": 0,
+            "question": "BOLLIRE (To Boil) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "capisci",
+            "failed": 0,
+            "question": "CAPIRE (To Understand) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "ceni",
+            "failed": 0,
+            "question": "CENARE (To Dine) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "chiami",
+            "failed": 0,
+            "question": "CHIAMARE (To Call) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "chiedi",
+            "failed": 0,
+            "question": "CHIEDERE (To Ask) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "compri",
+            "failed": 0,
+            "question": "COMPRARE (To Buy) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "conosci",
+            "failed": 0,
+            "question": "CONOSCERE (To Know / Meet *regular conjugations with some exceptions) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "credi",
+            "failed": 0,
+            "question": "CREDERE (To Believe) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "cucini",
+            "failed": 0,
+            "question": "CUCINARE (To Cook) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "dai",
+            "failed": 0,
+            "question": "DARE (To Give) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "decidi",
+            "failed": 0,
+            "question": "DECIDERE (To Decide) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "desideri",
+            "failed": 0,
+            "question": "DESIDERARE (To Wish / Desire) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "dici",
+            "failed": 0,
+            "question": "DIRE (To Say / Tell) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "diventi",
+            "failed": 0,
+            "question": "DIVENTARE (To Become) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "devi",
+            "failed": 0,
+            "question": "DOVERE (To Have To (Must)) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "entri",
+            "failed": 0,
+            "question": "ENTRARE (To Enter) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "sei",
+            "failed": 0,
+            "question": "ESSERE (To Be) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "fai",
+            "failed": 0,
+            "question": "FARE (To Make / Do) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "finisci",
+            "failed": 0,
+            "question": "FINIRE (To Finish) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "guardi",
+            "failed": 0,
+            "question": "GUARDARE (To Watch / Look) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "lasci",
+            "failed": 0,
+            "question": "LASCIARE (To Leave) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "lavori",
+            "failed": 0,
+            "question": "LAVORARE (To Work) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "leggi",
+            "failed": 0,
+            "question": "LEGGERE (To Read) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "mangi",
+            "failed": 0,
+            "question": "MANGIARE (To Eat) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "metti",
+            "failed": 0,
+            "question": "METTERE (To Put) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "muori",
+            "failed": 0,
+            "question": "MORIRE (To Die) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "parli",
+            "failed": 0,
+            "question": "PARLARE (To Speak) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "passi",
+            "failed": 0,
+            "question": "PASSARE (To Pass / Spend) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "pensi",
+            "failed": 0,
+            "question": "PENSARE (To Think) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "porti",
+            "failed": 0,
+            "question": "PORTARE (To Carry / Bring / Wear) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "puoi",
+            "failed": 0,
+            "question": "POTERE (To Be Able To) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "pranzi",
+            "failed": 0,
+            "question": "PRANZARE (To Lunch) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "prendi",
+            "failed": 0,
+            "question": "PRENDERE (To Take) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "ricordi",
+            "failed": 0,
+            "question": "RICORDARE (To Remember) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "rimani",
+            "failed": 0,
+            "question": "RIMANERE (To Remain / Stay) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "sai",
+            "failed": 0,
+            "question": "SAPERE (To Know (a fact)) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "scrivi",
+            "failed": 0,
+            "question": "SCRIVERE (To Write) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "segui",
+            "failed": 0,
+            "question": "SEGUIRE (To Follow) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "senti",
+            "failed": 0,
+            "question": "SENTIRE (To Hear / Sense) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "stai",
+            "failed": 0,
+            "question": "STARE (To Stay (to be located / in the state of)) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "tagli",
+            "failed": 0,
+            "question": "TAGLIARE (To Cut) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "tieni",
+            "failed": 0,
+            "question": "TENERE (To Keep / Hold) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "trovi",
+            "failed": 0,
+            "question": "TROVARE (To Find) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "usi",
+            "failed": 0,
+            "question": "USARE (To Use) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "esci",
+            "failed": 0,
+            "question": "USCIRE (To Leave) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vedi",
+            "failed": 0,
+            "question": "VEDERE (To See) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vieni",
+            "failed": 0,
+            "question": "VENIRE (To Come) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vivi",
+            "failed": 0,
+            "question": "VIVERE (To Live) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vuoi",
+            "failed": 0,
+            "question": "VOLERE (To Want) TU (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "amano",
+            "failed": 0,
+            "question": "AMARE (To Love) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vanno",
+            "failed": 0,
+            "question": "ANDARE (To Go) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "aprono",
+            "failed": 0,
+            "question": "APRIRE (To Open) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "arrivano",
+            "failed": 0,
+            "question": "ARRIVARE (To Arrive) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "aspettano",
+            "failed": 0,
+            "question": "ASPETTARE (To Wait) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno",
+            "failed": 0,
+            "question": "AVERE (To Have) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "bevono",
+            "failed": 0,
+            "question": "BERE (To Drink) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "bollono",
+            "failed": 0,
+            "question": "BOLLIRE (To Boil) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "capiscono",
+            "failed": 0,
+            "question": "CAPIRE (To Understand) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "cenano",
+            "failed": 0,
+            "question": "CENARE (To Dine) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "chiamano",
+            "failed": 0,
+            "question": "CHIAMARE (To Call) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "chiedono",
+            "failed": 0,
+            "question": "CHIEDERE (To Ask) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "comprano",
+            "failed": 0,
+            "question": "COMPRARE (To Buy) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "conoscono",
+            "failed": 0,
+            "question": "CONOSCERE (To Know / Meet *regular conjugations with some exceptions) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "credono",
+            "failed": 0,
+            "question": "CREDERE (To Believe) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "cucinano",
+            "failed": 0,
+            "question": "CUCINARE (To Cook) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "danno",
+            "failed": 0,
+            "question": "DARE (To Give) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "decidono",
+            "failed": 0,
+            "question": "DECIDERE (To Decide) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "desiderano",
+            "failed": 0,
+            "question": "DESIDERARE (To Wish / Desire) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "dicono",
+            "failed": 0,
+            "question": "DIRE (To Say / Tell) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "diventano",
+            "failed": 0,
+            "question": "DIVENTARE (To Become) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "devono",
+            "failed": 0,
+            "question": "DOVERE (To Have To (Must)) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "entrano",
+            "failed": 0,
+            "question": "ENTRARE (To Enter) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono",
+            "failed": 0,
+            "question": "ESSERE (To Be) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "fanno",
+            "failed": 0,
+            "question": "FARE (To Make / Do) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "finiscono",
+            "failed": 0,
+            "question": "FINIRE (To Finish) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "guardano",
+            "failed": 0,
+            "question": "GUARDARE (To Watch / Look) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "lasciano",
+            "failed": 0,
+            "question": "LASCIARE (To Leave) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "lavorano",
+            "failed": 0,
+            "question": "LAVORARE (To Work) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "ono",
+            "failed": 0,
+            "question": "LEGGERE (To Read) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "mangiano",
+            "failed": 0,
+            "question": "MANGIARE (To Eat) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "mettono",
+            "failed": 0,
+            "question": "METTERE (To Put) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "muoiono",
+            "failed": 0,
+            "question": "MORIRE (To Die) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "parlano",
+            "failed": 0,
+            "question": "PARLARE (To Speak) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "passano",
+            "failed": 0,
+            "question": "PASSARE (To Pass / Spend) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "pensano",
+            "failed": 0,
+            "question": "PENSARE (To Think) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "portano",
+            "failed": 0,
+            "question": "PORTARE (To Carry / Bring / Wear) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "possono",
+            "failed": 0,
+            "question": "POTERE (To Be Able To) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "pranzano",
+            "failed": 0,
+            "question": "PRANZARE (To Lunch) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "prendono",
+            "failed": 0,
+            "question": "PRENDERE (To Take) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "ricordano",
+            "failed": 0,
+            "question": "RICORDARE (To Remember) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "rimangono",
+            "failed": 0,
+            "question": "RIMANERE (To Remain / Stay) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "sanno",
+            "failed": 0,
+            "question": "SAPERE (To Know (a fact)) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "scrivono",
+            "failed": 0,
+            "question": "SCRIVERE (To Write) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "seguono",
+            "failed": 0,
+            "question": "SEGUIRE (To Follow) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "sentono",
+            "failed": 0,
+            "question": "SENTIRE (To Hear / Sense) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "stanno",
+            "failed": 0,
+            "question": "STARE (To Stay (to be located / in the state of)) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "tagliano",
+            "failed": 0,
+            "question": "TAGLIARE (To Cut) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "tengono",
+            "failed": 0,
+            "question": "TENERE (To Keep / Hold) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "trovano",
+            "failed": 0,
+            "question": "TROVARE (To Find) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "usano",
+            "failed": 0,
+            "question": "USARE (To Use) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "escono",
+            "failed": 0,
+            "question": "USCIRE (To Leave) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vedono",
+            "failed": 0,
+            "question": "VEDERE (To See) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vengono",
+            "failed": 0,
+            "question": "VENIRE (To Come) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vivono",
+            "failed": 0,
+            "question": "VIVERE (To Live) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vogliono",
+            "failed": 0,
+            "question": "VOLERE (To Want) LORO (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "amate",
+            "failed": 0,
+            "question": "AMARE (To Love) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "andate",
+            "failed": 0,
+            "question": "ANDARE (To Go) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "aprite",
+            "failed": 0,
+            "question": "APRIRE (To Open) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "arrivate",
+            "failed": 0,
+            "question": "ARRIVARE (To Arrive) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "aspettate",
+            "failed": 0,
+            "question": "ASPETTARE (To Wait) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete",
+            "failed": 0,
+            "question": "AVERE (To Have) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "bevete",
+            "failed": 0,
+            "question": "BERE (To Drink) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "bollite",
+            "failed": 0,
+            "question": "BOLLIRE (To Boil) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "capite",
+            "failed": 0,
+            "question": "CAPIRE (To Understand) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "cenate",
+            "failed": 0,
+            "question": "CENARE (To Dine) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "chiamate",
+            "failed": 0,
+            "question": "CHIAMARE (To Call) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "chiedete",
+            "failed": 0,
+            "question": "CHIEDERE (To Ask) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "comprate",
+            "failed": 0,
+            "question": "COMPRARE (To Buy) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "conoscete",
+            "failed": 0,
+            "question": "CONOSCERE (To Know / Meet *regular conjugations with some exceptions) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "credete",
+            "failed": 0,
+            "question": "CREDERE (To Believe) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "cucinate",
+            "failed": 0,
+            "question": "CUCINARE (To Cook) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "date",
+            "failed": 0,
+            "question": "DARE (To Give) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "decidete",
+            "failed": 0,
+            "question": "DECIDERE (To Decide) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "desiderate",
+            "failed": 0,
+            "question": "DESIDERARE (To Wish / Desire) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "dite",
+            "failed": 0,
+            "question": "DIRE (To Say / Tell) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "diventate",
+            "failed": 0,
+            "question": "DIVENTARE (To Become) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "dovete",
+            "failed": 0,
+            "question": "DOVERE (To Have To (Must)) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "entrate",
+            "failed": 0,
+            "question": "ENTRARE (To Enter) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "siete",
+            "failed": 0,
+            "question": "ESSERE (To Be) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "fate",
+            "failed": 0,
+            "question": "FARE (To Make / Do) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "finite",
+            "failed": 0,
+            "question": "FINIRE (To Finish) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "guardate",
+            "failed": 0,
+            "question": "GUARDARE (To Watch / Look) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "lasciate",
+            "failed": 0,
+            "question": "LASCIARE (To Leave) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "lavorate",
+            "failed": 0,
+            "question": "LAVORARE (To Work) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "leggete",
+            "failed": 0,
+            "question": "LEGGERE (To Read) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "mangiate",
+            "failed": 0,
+            "question": "MANGIARE (To Eat) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "mettete",
+            "failed": 0,
+            "question": "METTERE (To Put) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "morite",
+            "failed": 0,
+            "question": "MORIRE (To Die) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "parlate",
+            "failed": 0,
+            "question": "PARLARE (To Speak) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "passate",
+            "failed": 0,
+            "question": "PASSARE (To Pass / Spend) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "pensate",
+            "failed": 0,
+            "question": "PENSARE (To Think) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "portate",
+            "failed": 0,
+            "question": "PORTARE (To Carry / Bring / Wear) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "potete",
+            "failed": 0,
+            "question": "POTERE (To Be Able To) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "pranzate",
+            "failed": 0,
+            "question": "PRANZARE (To Lunch) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "prendete",
+            "failed": 0,
+            "question": "PRENDERE (To Take) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "ricordate",
+            "failed": 0,
+            "question": "RICORDARE (To Remember) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "rimanete",
+            "failed": 0,
+            "question": "RIMANERE (To Remain / Stay) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "sapete",
+            "failed": 0,
+            "question": "SAPERE (To Know (a fact)) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "scrivete",
+            "failed": 0,
+            "question": "SCRIVERE (To Write) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "seguite",
+            "failed": 0,
+            "question": "SEGUIRE (To Follow) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "sentite",
+            "failed": 0,
+            "question": "SENTIRE (To Hear / Sense) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "state",
+            "failed": 0,
+            "question": "STARE (To Stay (to be located / in the state of)) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "tagliate",
+            "failed": 0,
+            "question": "TAGLIARE (To Cut) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "tenete",
+            "failed": 0,
+            "question": "TENERE (To Keep / Hold) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "trovate",
+            "failed": 0,
+            "question": "TROVARE (To Find) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "usate",
+            "failed": 0,
+            "question": "USARE (To Use) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "uscite",
+            "failed": 0,
+            "question": "USCIRE (To Leave) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vedete",
+            "failed": 0,
+            "question": "VEDERE (To See) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "venite",
+            "failed": 0,
+            "question": "VENIRE (To Come) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vivete",
+            "failed": 0,
+            "question": "VIVERE (To Live) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "volete",
+            "failed": 0,
+            "question": "VOLERE (To Want) VOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "amiamo",
+            "failed": 0,
+            "question": "AMARE (To Love) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "andiamo",
+            "failed": 0,
+            "question": "ANDARE (To Go) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "apriamo",
+            "failed": 0,
+            "question": "APRIRE (To Open) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "arriviamo",
+            "failed": 0,
+            "question": "ARRIVARE (To Arrive) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "aspettiamo",
+            "failed": 0,
+            "question": "ASPETTARE (To Wait) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo",
+            "failed": 0,
+            "question": "AVERE (To Have) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "beviamo",
+            "failed": 0,
+            "question": "BERE (To Drink) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "bolliamo",
+            "failed": 0,
+            "question": "BOLLIRE (To Boil) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "capiamo",
+            "failed": 0,
+            "question": "CAPIRE (To Understand) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "ceniamo",
+            "failed": 0,
+            "question": "CENARE (To Dine) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "chiamiamo",
+            "failed": 0,
+            "question": "CHIAMARE (To Call) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "chiediamo",
+            "failed": 0,
+            "question": "CHIEDERE (To Ask) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "compriamo",
+            "failed": 0,
+            "question": "COMPRARE (To Buy) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "conosciamo",
+            "failed": 0,
+            "question": "CONOSCERE (To Know / Meet *regular conjugations with some exceptions) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "crediamo",
+            "failed": 0,
+            "question": "CREDERE (To Believe) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "cuciniamo",
+            "failed": 0,
+            "question": "CUCINARE (To Cook) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "diamo",
+            "failed": 0,
+            "question": "DARE (To Give) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "decidiamo",
+            "failed": 0,
+            "question": "DECIDERE (To Decide) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "desideriamo",
+            "failed": 0,
+            "question": "DESIDERARE (To Wish / Desire) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "diciamo",
+            "failed": 0,
+            "question": "DIRE (To Say / Tell) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "diventiamo",
+            "failed": 0,
+            "question": "DIVENTARE (To Become) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "dobbiamo",
+            "failed": 0,
+            "question": "DOVERE (To Have To (Must)) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "entriamo",
+            "failed": 0,
+            "question": "ENTRARE (To Enter) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "siamo",
+            "failed": 0,
+            "question": "ESSERE (To Be) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "facciamo",
+            "failed": 0,
+            "question": "FARE (To Make / Do) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "finiamo",
+            "failed": 0,
+            "question": "FINIRE (To Finish) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "guardiamo",
+            "failed": 0,
+            "question": "GUARDARE (To Watch / Look) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "lasciamo",
+            "failed": 0,
+            "question": "LASCIARE (To Leave) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "lavoriamo",
+            "failed": 0,
+            "question": "LAVORARE (To Work) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "leggiamo",
+            "failed": 0,
+            "question": "LEGGERE (To Read) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "mangiamo",
+            "failed": 0,
+            "question": "MANGIARE (To Eat) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "mettiamo",
+            "failed": 0,
+            "question": "METTERE (To Put) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "moriamo",
+            "failed": 0,
+            "question": "MORIRE (To Die) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "parliamo",
+            "failed": 0,
+            "question": "PARLARE (To Speak) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "passiamo",
+            "failed": 0,
+            "question": "PASSARE (To Pass / Spend) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "pensiamo",
+            "failed": 0,
+            "question": "PENSARE (To Think) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "portiamo",
+            "failed": 0,
+            "question": "PORTARE (To Carry / Bring / Wear) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "possiamo",
+            "failed": 0,
+            "question": "POTERE (To Be Able To) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "pranziamo",
+            "failed": 0,
+            "question": "PRANZARE (To Lunch) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "prendiamo",
+            "failed": 0,
+            "question": "PRENDERE (To Take) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "ricordiamo",
+            "failed": 0,
+            "question": "RICORDARE (To Remember) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "rimaniamo",
+            "failed": 0,
+            "question": "RIMANERE (To Remain / Stay) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "sappiamo",
+            "failed": 0,
+            "question": "SAPERE (To Know (a fact)) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "scriviamo",
+            "failed": 0,
+            "question": "SCRIVERE (To Write) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "seguiamo",
+            "failed": 0,
+            "question": "SEGUIRE (To Follow) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "sentiamo",
+            "failed": 0,
+            "question": "SENTIRE (To Hear / Sense) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "stiamo",
+            "failed": 0,
+            "question": "STARE (To Stay (to be located / in the state of)) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "tagliamo",
+            "failed": 0,
+            "question": "TAGLIARE (To Cut) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "teniamo",
+            "failed": 0,
+            "question": "TENERE (To Keep / Hold) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "troviamo",
+            "failed": 0,
+            "question": "TROVARE (To Find) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "usiamo",
+            "failed": 0,
+            "question": "USARE (To Use) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "usciamo",
+            "failed": 0,
+            "question": "USCIRE (To Leave) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vediamo",
+            "failed": 0,
+            "question": "VEDERE (To See) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "veniamo",
+            "failed": 0,
+            "question": "VENIRE (To Come) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "viviamo",
+            "failed": 0,
+            "question": "VIVERE (To Live) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "vogliamo",
+            "failed": 0,
+            "question": "VOLERE (To Want) NOI (presente): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho amato",
+            "failed": 0,
+            "question": "AMARE (To Love) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono andato/a",
+            "failed": 0,
+            "question": "ANDARE (To Go) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho aperto",
+            "failed": 0,
+            "question": "APRIRE (To Open) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono arrivato/a",
+            "failed": 0,
+            "question": "ARRIVARE (To Arrive) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho aspettato",
+            "failed": 0,
+            "question": "ASPETTARE (To Wait) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho avuto",
+            "failed": 0,
+            "question": "AVERE (To Have) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho bevuto",
+            "failed": 0,
+            "question": "BERE (To Drink) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho bollito",
+            "failed": 0,
+            "question": "BOLLIRE (To Boil) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho capito",
+            "failed": 0,
+            "question": "CAPIRE (To Understand) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho cenato",
+            "failed": 0,
+            "question": "CENARE (To Dine) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho chiamato",
+            "failed": 0,
+            "question": "CHIAMARE (To Call) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho chiesto",
+            "failed": 0,
+            "question": "CHIEDERE (To Ask) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho comprato",
+            "failed": 0,
+            "question": "COMPRARE (To Buy) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho conosciuto",
+            "failed": 0,
+            "question": "CONOSCERE (To Know / Meet *regular conjugations with some exceptions) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho creduto",
+            "failed": 0,
+            "question": "CREDERE (To Believe) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho cucinato",
+            "failed": 0,
+            "question": "CUCINARE (To Cook) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho dato",
+            "failed": 0,
+            "question": "DARE (To Give) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho deciso",
+            "failed": 0,
+            "question": "DECIDERE (To Decide) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho desiderato",
+            "failed": 0,
+            "question": "DESIDERARE (To Wish / Desire) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho detto",
+            "failed": 0,
+            "question": "DIRE (To Say / Tell) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono diventato/a",
+            "failed": 0,
+            "question": "DIVENTARE (To Become) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho dovuto",
+            "failed": 0,
+            "question": "DOVERE (To Have To (Must)) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono entrato/a",
+            "failed": 0,
+            "question": "ENTRARE (To Enter) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono stato/a",
+            "failed": 0,
+            "question": "ESSERE (To Be) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho fatto",
+            "failed": 0,
+            "question": "FARE (To Make / Do) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho finito",
+            "failed": 0,
+            "question": "FINIRE (To Finish) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho guardato",
+            "failed": 0,
+            "question": "GUARDARE (To Watch / Look) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho lasciato",
+            "failed": 0,
+            "question": "LASCIARE (To Leave) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho lavorato",
+            "failed": 0,
+            "question": "LAVORARE (To Work) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho letto",
+            "failed": 0,
+            "question": "LEGGERE (To Read) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho mangiato",
+            "failed": 0,
+            "question": "MANGIARE (To Eat) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho messo",
+            "failed": 0,
+            "question": "METTERE (To Put) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono morto/a",
+            "failed": 0,
+            "question": "MORIRE (To Die) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho parlato",
+            "failed": 0,
+            "question": "PARLARE (To Speak) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho passato",
+            "failed": 0,
+            "question": "PASSARE (To Pass / Spend) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho pensato",
+            "failed": 0,
+            "question": "PENSARE (To Think) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho portato",
+            "failed": 0,
+            "question": "PORTARE (To Carry / Bring / Wear) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho potuto",
+            "failed": 0,
+            "question": "POTERE (To Be Able To) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho pranzato",
+            "failed": 0,
+            "question": "PRANZARE (To Lunch) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho preso",
+            "failed": 0,
+            "question": "PRENDERE (To Take) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho ricordato",
+            "failed": 0,
+            "question": "RICORDARE (To Remember) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono rimasto/a",
+            "failed": 0,
+            "question": "RIMANERE (To Remain / Stay) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho saputo",
+            "failed": 0,
+            "question": "SAPERE (To Know (a fact)) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho scritto",
+            "failed": 0,
+            "question": "SCRIVERE (To Write) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho seguito",
+            "failed": 0,
+            "question": "SEGUIRE (To Follow) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho sentito",
+            "failed": 0,
+            "question": "SENTIRE (To Hear / Sense) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono stato/a",
+            "failed": 0,
+            "question": "STARE (To Stay (to be located / in the state of)) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho tagliato",
+            "failed": 0,
+            "question": "TAGLIARE (To Cut) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho tenuto",
+            "failed": 0,
+            "question": "TENERE (To Keep / Hold) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho trovato",
+            "failed": 0,
+            "question": "TROVARE (To Find) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho usato",
+            "failed": 0,
+            "question": "USARE (To Use) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono uscito/a",
+            "failed": 0,
+            "question": "USCIRE (To Leave) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho visto",
+            "failed": 0,
+            "question": "VEDERE (To See) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono venuto/a",
+            "failed": 0,
+            "question": "VENIRE (To Come) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho vissuto",
+            "failed": 0,
+            "question": "VIVERE (To Live) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ho voluto",
+            "failed": 0,
+            "question": "VOLERE (To Want) IO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha amato",
+            "failed": 0,
+            "question": "AMARE (To Love) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "è andato/a",
+            "failed": 0,
+            "question": "ANDARE (To Go) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha aperto",
+            "failed": 0,
+            "question": "APRIRE (To Open) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "è arrivato/a",
+            "failed": 0,
+            "question": "ARRIVARE (To Arrive) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha aspettato",
+            "failed": 0,
+            "question": "ASPETTARE (To Wait) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha avuto",
+            "failed": 0,
+            "question": "AVERE (To Have) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha bevuto",
+            "failed": 0,
+            "question": "BERE (To Drink) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha bollito",
+            "failed": 0,
+            "question": "BOLLIRE (To Boil) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha capito",
+            "failed": 0,
+            "question": "CAPIRE (To Understand) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha cenato",
+            "failed": 0,
+            "question": "CENARE (To Dine) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha chiamato",
+            "failed": 0,
+            "question": "CHIAMARE (To Call) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha chiesto",
+            "failed": 0,
+            "question": "CHIEDERE (To Ask) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha comprato",
+            "failed": 0,
+            "question": "COMPRARE (To Buy) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha conosciuto",
+            "failed": 0,
+            "question": "CONOSCERE (To Know / Meet *regular conjugations with some exceptions) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha creduto",
+            "failed": 0,
+            "question": "CREDERE (To Believe) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha cucinato",
+            "failed": 0,
+            "question": "CUCINARE (To Cook) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha dato",
+            "failed": 0,
+            "question": "DARE (To Give) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha deciso",
+            "failed": 0,
+            "question": "DECIDERE (To Decide) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha desiderato",
+            "failed": 0,
+            "question": "DESIDERARE (To Wish / Desire) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha detto",
+            "failed": 0,
+            "question": "DIRE (To Say / Tell) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "è diventato/a",
+            "failed": 0,
+            "question": "DIVENTARE (To Become) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha dovuto",
+            "failed": 0,
+            "question": "DOVERE (To Have To (Must)) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "è entrato/a",
+            "failed": 0,
+            "question": "ENTRARE (To Enter) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "è stato/a",
+            "failed": 0,
+            "question": "ESSERE (To Be) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha fatto",
+            "failed": 0,
+            "question": "FARE (To Make / Do) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha finito",
+            "failed": 0,
+            "question": "FINIRE (To Finish) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha guardato",
+            "failed": 0,
+            "question": "GUARDARE (To Watch / Look) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha lasciato",
+            "failed": 0,
+            "question": "LASCIARE (To Leave) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha lavorato",
+            "failed": 0,
+            "question": "LAVORARE (To Work) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha letto",
+            "failed": 0,
+            "question": "LEGGERE (To Read) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha mangiato",
+            "failed": 0,
+            "question": "MANGIARE (To Eat) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha messo",
+            "failed": 0,
+            "question": "METTERE (To Put) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "è morto/a",
+            "failed": 0,
+            "question": "MORIRE (To Die) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha parlato",
+            "failed": 0,
+            "question": "PARLARE (To Speak) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha passato",
+            "failed": 0,
+            "question": "PASSARE (To Pass / Spend) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha pensato",
+            "failed": 0,
+            "question": "PENSARE (To Think) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha portato",
+            "failed": 0,
+            "question": "PORTARE (To Carry / Bring / Wear) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha potuto",
+            "failed": 0,
+            "question": "POTERE (To Be Able To) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha pranzato",
+            "failed": 0,
+            "question": "PRANZARE (To Lunch) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha preso",
+            "failed": 0,
+            "question": "PRENDERE (To Take) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha ricordato",
+            "failed": 0,
+            "question": "RICORDARE (To Remember) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "è rimasto/a",
+            "failed": 0,
+            "question": "RIMANERE (To Remain / Stay) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha saputo",
+            "failed": 0,
+            "question": "SAPERE (To Know (a fact)) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha scritto",
+            "failed": 0,
+            "question": "SCRIVERE (To Write) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha seguito",
+            "failed": 0,
+            "question": "SEGUIRE (To Follow) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha sentito",
+            "failed": 0,
+            "question": "SENTIRE (To Hear / Sense) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "è stato/a",
+            "failed": 0,
+            "question": "STARE (To Stay (to be located / in the state of)) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha tagliato",
+            "failed": 0,
+            "question": "TAGLIARE (To Cut) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha tenuto",
+            "failed": 0,
+            "question": "TENERE (To Keep / Hold) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha trovato",
+            "failed": 0,
+            "question": "TROVARE (To Find) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha usato",
+            "failed": 0,
+            "question": "USARE (To Use) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "è uscito/a",
+            "failed": 0,
+            "question": "USCIRE (To Leave) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha visto",
+            "failed": 0,
+            "question": "VEDERE (To See) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "è venuto/a",
+            "failed": 0,
+            "question": "VENIRE (To Come) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha vissuto",
+            "failed": 0,
+            "question": "VIVERE (To Live) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "ha voluto",
+            "failed": 0,
+            "question": "VOLERE (To Want) LUI / LEI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai amato",
+            "failed": 0,
+            "question": "AMARE (To Love) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sei andato/a",
+            "failed": 0,
+            "question": "ANDARE (To Go) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai aperto",
+            "failed": 0,
+            "question": "APRIRE (To Open) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sei arrivato/a",
+            "failed": 0,
+            "question": "ARRIVARE (To Arrive) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai aspettato",
+            "failed": 0,
+            "question": "ASPETTARE (To Wait) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai avuto",
+            "failed": 0,
+            "question": "AVERE (To Have) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai bevuto",
+            "failed": 0,
+            "question": "BERE (To Drink) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai bollito",
+            "failed": 0,
+            "question": "BOLLIRE (To Boil) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai capito",
+            "failed": 0,
+            "question": "CAPIRE (To Understand) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai cenato",
+            "failed": 0,
+            "question": "CENARE (To Dine) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai chiamato",
+            "failed": 0,
+            "question": "CHIAMARE (To Call) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai chiesto",
+            "failed": 0,
+            "question": "CHIEDERE (To Ask) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai comprato",
+            "failed": 0,
+            "question": "COMPRARE (To Buy) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai conosciuto",
+            "failed": 0,
+            "question": "CONOSCERE (To Know / Meet *regular conjugations with some exceptions) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai creduto",
+            "failed": 0,
+            "question": "CREDERE (To Believe) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai cucinato",
+            "failed": 0,
+            "question": "CUCINARE (To Cook) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai dato",
+            "failed": 0,
+            "question": "DARE (To Give) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai deciso",
+            "failed": 0,
+            "question": "DECIDERE (To Decide) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai desiderato",
+            "failed": 0,
+            "question": "DESIDERARE (To Wish / Desire) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai detto",
+            "failed": 0,
+            "question": "DIRE (To Say / Tell) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sei diventato/a",
+            "failed": 0,
+            "question": "DIVENTARE (To Become) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai dovuto",
+            "failed": 0,
+            "question": "DOVERE (To Have To (Must)) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sei entrato/a",
+            "failed": 0,
+            "question": "ENTRARE (To Enter) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sei stato/a",
+            "failed": 0,
+            "question": "ESSERE (To Be) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai fatto",
+            "failed": 0,
+            "question": "FARE (To Make / Do) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai finito",
+            "failed": 0,
+            "question": "FINIRE (To Finish) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai guardato",
+            "failed": 0,
+            "question": "GUARDARE (To Watch / Look) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai lasciato",
+            "failed": 0,
+            "question": "LASCIARE (To Leave) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai lavorato",
+            "failed": 0,
+            "question": "LAVORARE (To Work) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai letto",
+            "failed": 0,
+            "question": "LEGGERE (To Read) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai mangiato",
+            "failed": 0,
+            "question": "MANGIARE (To Eat) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai messo",
+            "failed": 0,
+            "question": "METTERE (To Put) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sei morto/a",
+            "failed": 0,
+            "question": "MORIRE (To Die) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai parlato",
+            "failed": 0,
+            "question": "PARLARE (To Speak) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai passato",
+            "failed": 0,
+            "question": "PASSARE (To Pass / Spend) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai pensato",
+            "failed": 0,
+            "question": "PENSARE (To Think) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai portato",
+            "failed": 0,
+            "question": "PORTARE (To Carry / Bring / Wear) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai potuto",
+            "failed": 0,
+            "question": "POTERE (To Be Able To) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai pranzato",
+            "failed": 0,
+            "question": "PRANZARE (To Lunch) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai preso",
+            "failed": 0,
+            "question": "PRENDERE (To Take) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai ricordato",
+            "failed": 0,
+            "question": "RICORDARE (To Remember) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sei rimasto/a",
+            "failed": 0,
+            "question": "RIMANERE (To Remain / Stay) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai saputo",
+            "failed": 0,
+            "question": "SAPERE (To Know (a fact)) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai scritto",
+            "failed": 0,
+            "question": "SCRIVERE (To Write) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai seguito",
+            "failed": 0,
+            "question": "SEGUIRE (To Follow) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai sentito",
+            "failed": 0,
+            "question": "SENTIRE (To Hear / Sense) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sei stato/a",
+            "failed": 0,
+            "question": "STARE (To Stay (to be located / in the state of)) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai tagliato",
+            "failed": 0,
+            "question": "TAGLIARE (To Cut) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai tenuto",
+            "failed": 0,
+            "question": "TENERE (To Keep / Hold) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai trovato",
+            "failed": 0,
+            "question": "TROVARE (To Find) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai usato",
+            "failed": 0,
+            "question": "USARE (To Use) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sei uscito/a",
+            "failed": 0,
+            "question": "USCIRE (To Leave) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai visto",
+            "failed": 0,
+            "question": "VEDERE (To See) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sei venuto/a",
+            "failed": 0,
+            "question": "VENIRE (To Come) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai vissuto",
+            "failed": 0,
+            "question": "VIVERE (To Live) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hai voluto",
+            "failed": 0,
+            "question": "VOLERE (To Want) TU (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno amato",
+            "failed": 0,
+            "question": "AMARE (To Love) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono andati/e",
+            "failed": 0,
+            "question": "ANDARE (To Go) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno aperto",
+            "failed": 0,
+            "question": "APRIRE (To Open) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono arrivati/e",
+            "failed": 0,
+            "question": "ARRIVARE (To Arrive) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno aspettato",
+            "failed": 0,
+            "question": "ASPETTARE (To Wait) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno avuto",
+            "failed": 0,
+            "question": "AVERE (To Have) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno bevuto",
+            "failed": 0,
+            "question": "BERE (To Drink) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno bollito",
+            "failed": 0,
+            "question": "BOLLIRE (To Boil) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno capito",
+            "failed": 0,
+            "question": "CAPIRE (To Understand) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno cenato",
+            "failed": 0,
+            "question": "CENARE (To Dine) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno chiamato",
+            "failed": 0,
+            "question": "CHIAMARE (To Call) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno chiesto",
+            "failed": 0,
+            "question": "CHIEDERE (To Ask) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno comprato",
+            "failed": 0,
+            "question": "COMPRARE (To Buy) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno conosciuto",
+            "failed": 0,
+            "question": "CONOSCERE (To Know / Meet *regular conjugations with some exceptions) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno creduto",
+            "failed": 0,
+            "question": "CREDERE (To Believe) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno cucinato",
+            "failed": 0,
+            "question": "CUCINARE (To Cook) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno dato",
+            "failed": 0,
+            "question": "DARE (To Give) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno deciso",
+            "failed": 0,
+            "question": "DECIDERE (To Decide) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno desiderato",
+            "failed": 0,
+            "question": "DESIDERARE (To Wish / Desire) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno detto",
+            "failed": 0,
+            "question": "DIRE (To Say / Tell) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono diventati/e",
+            "failed": 0,
+            "question": "DIVENTARE (To Become) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno dovuto",
+            "failed": 0,
+            "question": "DOVERE (To Have To (Must)) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono entrati/e",
+            "failed": 0,
+            "question": "ENTRARE (To Enter) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono stati/e",
+            "failed": 0,
+            "question": "ESSERE (To Be) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno fatto",
+            "failed": 0,
+            "question": "FARE (To Make / Do) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno finito",
+            "failed": 0,
+            "question": "FINIRE (To Finish) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno guardato",
+            "failed": 0,
+            "question": "GUARDARE (To Watch / Look) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno lasciato",
+            "failed": 0,
+            "question": "LASCIARE (To Leave) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno lavorato",
+            "failed": 0,
+            "question": "LAVORARE (To Work) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno letto",
+            "failed": 0,
+            "question": "LEGGERE (To Read) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno mangiato",
+            "failed": 0,
+            "question": "MANGIARE (To Eat) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno messo",
+            "failed": 0,
+            "question": "METTERE (To Put) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono morti/e",
+            "failed": 0,
+            "question": "MORIRE (To Die) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno parlato",
+            "failed": 0,
+            "question": "PARLARE (To Speak) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno passato",
+            "failed": 0,
+            "question": "PASSARE (To Pass / Spend) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno pensato",
+            "failed": 0,
+            "question": "PENSARE (To Think) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno portato",
+            "failed": 0,
+            "question": "PORTARE (To Carry / Bring / Wear) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno potuto",
+            "failed": 0,
+            "question": "POTERE (To Be Able To) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno pranzato",
+            "failed": 0,
+            "question": "PRANZARE (To Lunch) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno preso",
+            "failed": 0,
+            "question": "PRENDERE (To Take) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno ricordato",
+            "failed": 0,
+            "question": "RICORDARE (To Remember) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono rimasti/e",
+            "failed": 0,
+            "question": "RIMANERE (To Remain / Stay) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno saputo",
+            "failed": 0,
+            "question": "SAPERE (To Know (a fact)) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno scritto",
+            "failed": 0,
+            "question": "SCRIVERE (To Write) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno seguito",
+            "failed": 0,
+            "question": "SEGUIRE (To Follow) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno sentito",
+            "failed": 0,
+            "question": "SENTIRE (To Hear / Sense) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono stati/e",
+            "failed": 0,
+            "question": "STARE (To Stay (to be located / in the state of)) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno tagliato",
+            "failed": 0,
+            "question": "TAGLIARE (To Cut) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno tenuto",
+            "failed": 0,
+            "question": "TENERE (To Keep / Hold) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno trovato",
+            "failed": 0,
+            "question": "TROVARE (To Find) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno usato",
+            "failed": 0,
+            "question": "USARE (To Use) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono usciti/e",
+            "failed": 0,
+            "question": "USCIRE (To Leave) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno visto",
+            "failed": 0,
+            "question": "VEDERE (To See) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "sono venuti/e",
+            "failed": 0,
+            "question": "VENIRE (To Come) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno vissuto",
+            "failed": 0,
+            "question": "VIVERE (To Live) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "hanno voluto",
+            "failed": 0,
+            "question": "VOLERE (To Want) LORO (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete amato",
+            "failed": 0,
+            "question": "AMARE (To Love) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siete andati/e",
+            "failed": 0,
+            "question": "ANDARE (To Go) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete aperto",
+            "failed": 0,
+            "question": "APRIRE (To Open) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siete arrivati/e",
+            "failed": 0,
+            "question": "ARRIVARE (To Arrive) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete aspettato",
+            "failed": 0,
+            "question": "ASPETTARE (To Wait) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete avuto",
+            "failed": 0,
+            "question": "AVERE (To Have) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete bevuto",
+            "failed": 0,
+            "question": "BERE (To Drink) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete bollito",
+            "failed": 0,
+            "question": "BOLLIRE (To Boil) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete capito",
+            "failed": 0,
+            "question": "CAPIRE (To Understand) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete cenato",
+            "failed": 0,
+            "question": "CENARE (To Dine) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete chiamato",
+            "failed": 0,
+            "question": "CHIAMARE (To Call) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete chiesto",
+            "failed": 0,
+            "question": "CHIEDERE (To Ask) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete comprato",
+            "failed": 0,
+            "question": "COMPRARE (To Buy) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete conosciuto",
+            "failed": 0,
+            "question": "CONOSCERE (To Know / Meet *regular conjugations with some exceptions) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete creduto",
+            "failed": 0,
+            "question": "CREDERE (To Believe) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete cucinato",
+            "failed": 0,
+            "question": "CUCINARE (To Cook) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete dato",
+            "failed": 0,
+            "question": "DARE (To Give) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete deciso",
+            "failed": 0,
+            "question": "DECIDERE (To Decide) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete desiderato",
+            "failed": 0,
+            "question": "DESIDERARE (To Wish / Desire) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete detto",
+            "failed": 0,
+            "question": "DIRE (To Say / Tell) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siete diventati/e",
+            "failed": 0,
+            "question": "DIVENTARE (To Become) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete dovuto",
+            "failed": 0,
+            "question": "DOVERE (To Have To (Must)) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siete entrati/e",
+            "failed": 0,
+            "question": "ENTRARE (To Enter) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siete stati/e",
+            "failed": 0,
+            "question": "ESSERE (To Be) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete fatto",
+            "failed": 0,
+            "question": "FARE (To Make / Do) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete finito",
+            "failed": 0,
+            "question": "FINIRE (To Finish) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete guardato",
+            "failed": 0,
+            "question": "GUARDARE (To Watch / Look) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete lasciato",
+            "failed": 0,
+            "question": "LASCIARE (To Leave) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete lavorato",
+            "failed": 0,
+            "question": "LAVORARE (To Work) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete letto",
+            "failed": 0,
+            "question": "LEGGERE (To Read) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete mangiato",
+            "failed": 0,
+            "question": "MANGIARE (To Eat) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete messo",
+            "failed": 0,
+            "question": "METTERE (To Put) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siete morti/e",
+            "failed": 0,
+            "question": "MORIRE (To Die) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete parlato",
+            "failed": 0,
+            "question": "PARLARE (To Speak) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete passato",
+            "failed": 0,
+            "question": "PASSARE (To Pass / Spend) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete pensato",
+            "failed": 0,
+            "question": "PENSARE (To Think) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete portato",
+            "failed": 0,
+            "question": "PORTARE (To Carry / Bring / Wear) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete potuto",
+            "failed": 0,
+            "question": "POTERE (To Be Able To) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete pranzato",
+            "failed": 0,
+            "question": "PRANZARE (To Lunch) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete preso",
+            "failed": 0,
+            "question": "PRENDERE (To Take) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete ricordato",
+            "failed": 0,
+            "question": "RICORDARE (To Remember) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siete rimasti/e",
+            "failed": 0,
+            "question": "RIMANERE (To Remain / Stay) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete saputo",
+            "failed": 0,
+            "question": "SAPERE (To Know (a fact)) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete scritto",
+            "failed": 0,
+            "question": "SCRIVERE (To Write) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete seguito",
+            "failed": 0,
+            "question": "SEGUIRE (To Follow) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete sentito",
+            "failed": 0,
+            "question": "SENTIRE (To Hear / Sense) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siete stati/e",
+            "failed": 0,
+            "question": "STARE (To Stay (to be located / in the state of)) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete tagliato",
+            "failed": 0,
+            "question": "TAGLIARE (To Cut) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete tenuto",
+            "failed": 0,
+            "question": "TENERE (To Keep / Hold) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete trovato",
+            "failed": 0,
+            "question": "TROVARE (To Find) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete usato",
+            "failed": 0,
+            "question": "USARE (To Use) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siete usciti/e",
+            "failed": 0,
+            "question": "USCIRE (To Leave) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete visto",
+            "failed": 0,
+            "question": "VEDERE (To See) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siete venuti/e",
+            "failed": 0,
+            "question": "VENIRE (To Come) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete vissuto",
+            "failed": 0,
+            "question": "VIVERE (To Live) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "avete voluto",
+            "failed": 0,
+            "question": "VOLERE (To Want) VOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo amato",
+            "failed": 0,
+            "question": "AMARE (To Love) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siamo andati/e",
+            "failed": 0,
+            "question": "ANDARE (To Go) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo aperto",
+            "failed": 0,
+            "question": "APRIRE (To Open) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siamo arrivati/e",
+            "failed": 0,
+            "question": "ARRIVARE (To Arrive) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo aspettato",
+            "failed": 0,
+            "question": "ASPETTARE (To Wait) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo avuto",
+            "failed": 0,
+            "question": "AVERE (To Have) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo bevuto",
+            "failed": 0,
+            "question": "BERE (To Drink) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo bollito",
+            "failed": 0,
+            "question": "BOLLIRE (To Boil) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo capito",
+            "failed": 0,
+            "question": "CAPIRE (To Understand) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo cenato",
+            "failed": 0,
+            "question": "CENARE (To Dine) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo chiamato",
+            "failed": 0,
+            "question": "CHIAMARE (To Call) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo chiesto",
+            "failed": 0,
+            "question": "CHIEDERE (To Ask) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo comprato",
+            "failed": 0,
+            "question": "COMPRARE (To Buy) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo conosciuto",
+            "failed": 0,
+            "question": "CONOSCERE (To Know / Meet *regular conjugations with some exceptions) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo creduto",
+            "failed": 0,
+            "question": "CREDERE (To Believe) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo cucinato",
+            "failed": 0,
+            "question": "CUCINARE (To Cook) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo dato",
+            "failed": 0,
+            "question": "DARE (To Give) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo deciso",
+            "failed": 0,
+            "question": "DECIDERE (To Decide) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo desiderato",
+            "failed": 0,
+            "question": "DESIDERARE (To Wish / Desire) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo detto",
+            "failed": 0,
+            "question": "DIRE (To Say / Tell) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siamo diventati/e",
+            "failed": 0,
+            "question": "DIVENTARE (To Become) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo dovuto",
+            "failed": 0,
+            "question": "DOVERE (To Have To (Must)) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siamo entrati/e",
+            "failed": 0,
+            "question": "ENTRARE (To Enter) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siamo stati/e",
+            "failed": 0,
+            "question": "ESSERE (To Be) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo fatto",
+            "failed": 0,
+            "question": "FARE (To Make / Do) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo finito",
+            "failed": 0,
+            "question": "FINIRE (To Finish) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo guardato",
+            "failed": 0,
+            "question": "GUARDARE (To Watch / Look) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo lasciato",
+            "failed": 0,
+            "question": "LASCIARE (To Leave) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo lavorato",
+            "failed": 0,
+            "question": "LAVORARE (To Work) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo letto",
+            "failed": 0,
+            "question": "LEGGERE (To Read) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo mangiato",
+            "failed": 0,
+            "question": "MANGIARE (To Eat) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo messo",
+            "failed": 0,
+            "question": "METTERE (To Put) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siamo morti/e",
+            "failed": 0,
+            "question": "MORIRE (To Die) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo parlato",
+            "failed": 0,
+            "question": "PARLARE (To Speak) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo passato",
+            "failed": 0,
+            "question": "PASSARE (To Pass / Spend) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo pensato",
+            "failed": 0,
+            "question": "PENSARE (To Think) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo portato",
+            "failed": 0,
+            "question": "PORTARE (To Carry / Bring / Wear) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo potuto",
+            "failed": 0,
+            "question": "POTERE (To Be Able To) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo pranzato",
+            "failed": 0,
+            "question": "PRANZARE (To Lunch) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo preso",
+            "failed": 0,
+            "question": "PRENDERE (To Take) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo ricordato",
+            "failed": 0,
+            "question": "RICORDARE (To Remember) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siamo rimasti/e",
+            "failed": 0,
+            "question": "RIMANERE (To Remain / Stay) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo saputo",
+            "failed": 0,
+            "question": "SAPERE (To Know (a fact)) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo scritto",
+            "failed": 0,
+            "question": "SCRIVERE (To Write) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo seguito",
+            "failed": 0,
+            "question": "SEGUIRE (To Follow) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo sentito",
+            "failed": 0,
+            "question": "SENTIRE (To Hear / Sense) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siamo stati/e",
+            "failed": 0,
+            "question": "STARE (To Stay (to be located / in the state of)) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo tagliato",
+            "failed": 0,
+            "question": "TAGLIARE (To Cut) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo tenuto",
+            "failed": 0,
+            "question": "TENERE (To Keep / Hold) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo trovato",
+            "failed": 0,
+            "question": "TROVARE (To Find) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo usato",
+            "failed": 0,
+            "question": "USARE (To Use) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siamo usciti/e",
+            "failed": 0,
+            "question": "USCIRE (To Leave) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo visto",
+            "failed": 0,
+            "question": "VEDERE (To See) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "siamo venuti/e",
+            "failed": 0,
+            "question": "VENIRE (To Come) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo vissuto",
+            "failed": 0,
+            "question": "VIVERE (To Live) NOI (passato prossimo): ",
+            "tried": 0
+        },
+        {
+            "answer": "abbiamo voluto",
+            "failed": 0,
+            "question": "VOLERE (To Want) NOI (passato prossimo): ",
+            "tried": 0
+        }
+    ]
+}

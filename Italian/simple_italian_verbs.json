@@ -2,676 +2,1130 @@
     "name": "Simple Verbs",
     "vocab": [
         {
-            "answer": "AMARE",
-            "failed": 0,
-            "question": "To Love",
-            "tried": 0
+            "alternates": [
+                "to take"
+            ],
+            "answer": "To Take",
+            "failed": 1,
+            "lastAsked": 1522169810.2417226,
+            "question": "PRENDERE",
+            "tried": 2
         },
         {
-            "answer": "ANDARE",
-            "failed": 0,
-            "question": "To Go",
-            "tried": 0
+            "alternates": [
+                "tagliare"
+            ],
+            "answer": "TAGLIARE",
+            "failed": 1,
+            "lastAsked": 1522169800.4823983,
+            "question": "To Cut",
+            "tried": 2
         },
         {
-            "answer": "APRIRE",
-            "failed": 0,
-            "question": "To Open",
-            "tried": 0
+            "alternates": [
+                "to know"
+            ],
+            "answer": "To Know (a fact)",
+            "failed": 4,
+            "lastAsked": 1522169837.3936758,
+            "question": "SAPERE",
+            "tried": 5
         },
         {
-            "answer": "ARRIVARE",
-            "failed": 0,
-            "question": "To Arrive",
-            "tried": 0
+            "alternates": [
+                "credere"
+            ],
+            "answer": "CREDERE",
+            "failed": 2,
+            "lastAsked": 1522169817.6026702,
+            "question": "To Believe",
+            "tried": 3
         },
         {
+            "alternates": [
+                "to open"
+            ],
+            "answer": "To Open",
+            "failed": 1,
+            "lastAsked": 1522169786.0740826,
+            "question": "APRIRE",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "dire"
+            ],
+            "answer": "DIRE",
+            "failed": 1,
+            "lastAsked": 1522169807.6990802,
+            "question": "To Say / Tell",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "aspettare"
+            ],
             "answer": "ASPETTARE",
-            "failed": 0,
+            "failed": 3,
+            "lastAsked": 1522169834.1939392,
             "question": "To Wait",
-            "tried": 0
+            "tried": 4
         },
         {
-            "answer": "AVERE",
-            "failed": 0,
-            "question": "To Have",
-            "tried": 0
-        },
-        {
-            "answer": "BERE",
-            "failed": 0,
-            "question": "To Drink",
-            "tried": 0
-        },
-        {
-            "answer": "BOLLIRE",
-            "failed": 0,
-            "question": "To Boil",
-            "tried": 0
-        },
-        {
-            "answer": "CAPIRE",
-            "failed": 0,
-            "question": "To Understand",
-            "tried": 0
-        },
-        {
+            "alternates": [
+                "cenare"
+            ],
             "answer": "CENARE",
             "failed": 0,
+            "lastAsked": 1522169774.4899826,
             "question": "To Dine",
-            "tried": 0
+            "tried": 1
         },
         {
-            "answer": "CHIAMARE",
-            "failed": 0,
-            "question": "To Call",
-            "tried": 0
+            "alternates": [
+                "to follow"
+            ],
+            "answer": "To Follow",
+            "failed": 2,
+            "lastAsked": 1522169934.9776192,
+            "question": "SEGUIRE",
+            "tried": 3
         },
         {
-            "answer": "CHIEDERE",
-            "failed": 0,
-            "question": "To Ask",
-            "tried": 0
-        },
-        {
-            "answer": "COMPRARE",
-            "failed": 0,
-            "question": "To Buy",
-            "tried": 0
-        },
-        {
-            "answer": "CONOSCERE",
-            "failed": 0,
-            "question": "To Know / Meet *regular conjugations with some exceptions",
-            "tried": 0
-        },
-        {
-            "answer": "CREDERE",
-            "failed": 0,
-            "question": "To Believe",
-            "tried": 0
-        },
-        {
-            "answer": "CUCINARE",
-            "failed": 0,
-            "question": "To Cook",
-            "tried": 0
-        },
-        {
-            "answer": "DARE",
-            "failed": 0,
-            "question": "To Give",
-            "tried": 0
-        },
-        {
-            "answer": "DECIDERE",
-            "failed": 0,
-            "question": "To Decide",
-            "tried": 0
-        },
-        {
-            "answer": "DESIDERARE",
-            "failed": 0,
-            "question": "To Wish / Desire",
-            "tried": 0
-        },
-        {
-            "answer": "DIRE",
-            "failed": 0,
-            "question": "To Say / Tell",
-            "tried": 0
-        },
-        {
-            "answer": "DIVENTARE",
-            "failed": 0,
-            "question": "To Become",
-            "tried": 0
-        },
-        {
-            "answer": "DOVERE",
-            "failed": 0,
-            "question": "To Have To (Must)",
-            "tried": 0
-        },
-        {
-            "answer": "ENTRARE",
-            "failed": 0,
-            "question": "To Enter",
-            "tried": 0
-        },
-        {
-            "answer": "ESSERE",
-            "failed": 0,
-            "question": "To Be",
-            "tried": 0
-        },
-        {
-            "answer": "FARE",
-            "failed": 0,
-            "question": "To Make / Do",
-            "tried": 0
-        },
-        {
-            "answer": "FINIRE",
-            "failed": 0,
-            "question": "To Finish",
-            "tried": 0
-        },
-        {
-            "answer": "GUARDARE",
-            "failed": 0,
-            "question": "To Watch / Look",
-            "tried": 0
-        },
-        {
-            "answer": "LASCIARE",
-            "failed": 0,
-            "question": "To Leave",
-            "tried": 0
-        },
-        {
-            "answer": "LAVORARE",
-            "failed": 0,
-            "question": "To Work",
-            "tried": 0
-        },
-        {
-            "answer": "LEGGERE",
-            "failed": 0,
-            "question": "To Read",
-            "tried": 0
-        },
-        {
-            "answer": "MANGIARE",
-            "failed": 0,
-            "question": "To Eat",
-            "tried": 0
-        },
-        {
-            "answer": "METTERE",
-            "failed": 0,
-            "question": "To Put",
-            "tried": 0
-        },
-        {
-            "answer": "MORIRE",
-            "failed": 0,
-            "question": "To Die",
-            "tried": 0
-        },
-        {
-            "answer": "PARLARE",
-            "failed": 0,
-            "question": "To Speak",
-            "tried": 0
-        },
-        {
-            "answer": "PASSARE",
-            "failed": 0,
-            "question": "To Pass / Spend",
-            "tried": 0
-        },
-        {
-            "answer": "PENSARE",
-            "failed": 0,
-            "question": "To Think",
-            "tried": 0
-        },
-        {
-            "answer": "PORTARE",
-            "failed": 0,
-            "question": "To Carry / Bring / Wear",
-            "tried": 0
-        },
-        {
-            "answer": "POTERE",
-            "failed": 0,
-            "question": "To Be Able To",
-            "tried": 0
-        },
-        {
-            "answer": "PRANZARE",
-            "failed": 0,
-            "question": "To Lunch",
-            "tried": 0
-        },
-        {
-            "answer": "PRENDERE",
-            "failed": 0,
-            "question": "To Take",
-            "tried": 0
-        },
-        {
-            "answer": "RICORDARE",
-            "failed": 0,
-            "question": "To Remember",
-            "tried": 0
-        },
-        {
-            "answer": "RIMANERE",
-            "failed": 0,
-            "question": "To Remain / Stay",
-            "tried": 0
-        },
-        {
-            "answer": "SAPERE",
-            "failed": 0,
-            "question": "To Know (a fact)",
-            "tried": 0
-        },
-        {
-            "answer": "SCRIVERE",
-            "failed": 0,
-            "question": "To Write",
-            "tried": 0
-        },
-        {
-            "answer": "SEGUIRE",
-            "failed": 0,
-            "question": "To Follow",
-            "tried": 0
-        },
-        {
-            "answer": "SENTIRE",
-            "failed": 0,
-            "question": "To Hear / Sense",
-            "tried": 0
-        },
-        {
-            "answer": "STARE",
-            "failed": 0,
-            "question": "To Stay (to be located / in the state of)",
-            "tried": 0
-        },
-        {
-            "answer": "TAGLIARE",
-            "failed": 0,
-            "question": "To Cut",
-            "tried": 0
-        },
-        {
-            "answer": "TENERE",
-            "failed": 0,
-            "question": "To Keep / Hold",
-            "tried": 0
-        },
-        {
-            "answer": "TROVARE",
-            "failed": 0,
-            "question": "To Find",
-            "tried": 0
-        },
-        {
-            "answer": "USARE",
-            "failed": 0,
-            "question": "To Use",
-            "tried": 0
-        },
-        {
-            "answer": "USCIRE",
-            "failed": 0,
-            "question": "To Leave",
-            "tried": 0
-        },
-        {
-            "answer": "VEDERE",
-            "failed": 0,
-            "question": "To See",
-            "tried": 0
-        },
-        {
-            "answer": "VENIRE",
-            "failed": 0,
-            "question": "To Come",
-            "tried": 0
-        },
-        {
-            "answer": "VIVERE",
-            "failed": 0,
-            "question": "To Live",
-            "tried": 0
-        },
-        {
-            "answer": "VOLERE",
-            "failed": 0,
-            "question": "To Want",
-            "tried": 0
-        },
-        {
-            "answer": "To Love",
-            "failed": 0,
-            "question": "AMARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Go",
-            "failed": 0,
-            "question": "ANDARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Open",
-            "failed": 0,
-            "question": "APRIRE",
-            "tried": 0
-        },
-        {
-            "answer": "To Arrive",
-            "failed": 0,
-            "question": "ARRIVARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Wait",
-            "failed": 0,
-            "question": "ASPETTARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Have",
-            "failed": 0,
-            "question": "AVERE",
-            "tried": 0
-        },
-        {
+            "alternates": [
+                "to drink"
+            ],
             "answer": "To Drink",
-            "failed": 0,
+            "failed": 1,
+            "lastAsked": 1522169899.849635,
             "question": "BERE",
-            "tried": 0
+            "tried": 2
         },
         {
-            "answer": "To Boil",
-            "failed": 0,
-            "question": "BOLLIRE",
-            "tried": 0
+            "alternates": [
+                "to remember"
+            ],
+            "answer": "To Remember",
+            "failed": 1,
+            "lastAsked": 1522169897.2013848,
+            "question": "RICORDARE",
+            "tried": 2
         },
         {
+            "alternates": [
+                "to understand"
+            ],
             "answer": "To Understand",
             "failed": 0,
+            "lastAsked": 1522169857.56219,
             "question": "CAPIRE",
-            "tried": 0
+            "tried": 1
         },
         {
-            "answer": "To Dine",
-            "failed": 0,
-            "question": "CENARE",
-            "tried": 0
+            "alternates": [
+                "to pass / spend"
+            ],
+            "answer": "To Pass / Spend",
+            "failed": 1,
+            "lastAsked": 1522169906.5851722,
+            "question": "PASSARE",
+            "tried": 2
         },
         {
-            "answer": "To Call",
-            "failed": 0,
-            "question": "CHIAMARE",
-            "tried": 0
+            "alternates": [
+                "to be able to",
+                "to be able to do"
+            ],
+            "answer": "To Be Able To",
+            "failed": 2,
+            "lastAsked": 1522169940.033222,
+            "question": "POTERE",
+            "tried": 3
         },
         {
-            "answer": "To Ask",
-            "failed": 0,
-            "question": "CHIEDERE",
-            "tried": 0
+            "alternates": [
+                "to carry / bring / wear"
+            ],
+            "answer": "To Carry / Bring / Wear",
+            "failed": 4,
+            "lastAsked": 1522169952.3612645,
+            "question": "PORTARE",
+            "tried": 5
         },
         {
-            "answer": "To Buy",
-            "failed": 0,
-            "question": "COMPRARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Know / Meet *regular conjugations with some exceptions",
-            "failed": 0,
-            "question": "CONOSCERE",
-            "tried": 0
-        },
-        {
-            "answer": "To Believe",
-            "failed": 0,
-            "question": "CREDERE",
-            "tried": 0
-        },
-        {
-            "answer": "To Cook",
-            "failed": 0,
-            "question": "CUCINARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Give",
-            "failed": 0,
-            "question": "DARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Decide",
-            "failed": 0,
-            "question": "DECIDERE",
-            "tried": 0
-        },
-        {
-            "answer": "To Wish / Desire",
-            "failed": 0,
-            "question": "DESIDERARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Say / Tell",
-            "failed": 0,
-            "question": "DIRE",
-            "tried": 0
-        },
-        {
-            "answer": "To Become",
-            "failed": 0,
-            "question": "DIVENTARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Have To (Must)",
-            "failed": 0,
-            "question": "DOVERE",
-            "tried": 0
-        },
-        {
-            "answer": "To Enter",
-            "failed": 0,
-            "question": "ENTRARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Be",
-            "failed": 0,
-            "question": "ESSERE",
-            "tried": 0
-        },
-        {
-            "answer": "To Make / Do",
-            "failed": 0,
-            "question": "FARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Finish",
-            "failed": 0,
-            "question": "FINIRE",
-            "tried": 0
-        },
-        {
-            "answer": "To Watch / Look",
-            "failed": 0,
-            "question": "GUARDARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Leave",
-            "failed": 0,
-            "question": "LASCIARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Work",
-            "failed": 0,
-            "question": "LAVORARE",
-            "tried": 0
-        },
-        {
+            "alternates": [
+                "to read"
+            ],
             "answer": "To Read",
             "failed": 0,
+            "lastAsked": 1522169867.2813466,
             "question": "LEGGERE",
-            "tried": 0
+            "tried": 1
         },
         {
-            "answer": "To Eat",
+            "alternates": [
+                "stare"
+            ],
+            "answer": "STARE",
+            "failed": 2,
+            "lastAsked": 1522170207.1838448,
+            "question": "To Stay (to be located / in the state of)",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "to leave"
+            ],
+            "answer": "To Leave",
+            "failed": 2,
+            "lastAsked": 1522170209.5115373,
+            "question": "LASCIARE",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "to want / desire",
+                "to want"
+            ],
+            "answer": "To Want",
+            "failed": 1,
+            "lastAsked": 1522170145.656054,
+            "question": "VOLERE",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "to wish / desire"
+            ],
+            "answer": "To Wish / Desire",
+            "failed": 3,
+            "lastAsked": 1522170219.1351345,
+            "question": "DESIDERARE",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "to believe"
+            ],
+            "answer": "To Believe",
             "failed": 0,
-            "question": "MANGIARE",
-            "tried": 0
+            "lastAsked": 1522169970.2248108,
+            "question": "CREDERE",
+            "tried": 1
         },
         {
-            "answer": "To Put",
+            "alternates": [
+                "to dine"
+            ],
+            "answer": "To Dine",
             "failed": 0,
-            "question": "METTERE",
-            "tried": 0
+            "lastAsked": 1522170049.5445137,
+            "question": "CENARE",
+            "tried": 1
         },
         {
-            "answer": "To Die",
-            "failed": 0,
-            "question": "MORIRE",
-            "tried": 0
+            "alternates": [
+                "volere"
+            ],
+            "answer": "VOLERE",
+            "failed": 3,
+            "lastAsked": 1522170221.2637084,
+            "question": "To Want",
+            "tried": 4
         },
         {
-            "answer": "To Speak",
-            "failed": 0,
-            "question": "PARLARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Pass / Spend",
-            "failed": 0,
-            "question": "PASSARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Think",
-            "failed": 0,
-            "question": "PENSARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Carry / Bring / Wear",
-            "failed": 0,
-            "question": "PORTARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Be Able To",
-            "failed": 0,
-            "question": "POTERE",
-            "tried": 0
-        },
-        {
-            "answer": "To Lunch",
-            "failed": 0,
-            "question": "PRANZARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Take",
-            "failed": 0,
-            "question": "PRENDERE",
-            "tried": 0
-        },
-        {
-            "answer": "To Remember",
-            "failed": 0,
-            "question": "RICORDARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Remain / Stay",
-            "failed": 0,
-            "question": "RIMANERE",
-            "tried": 0
-        },
-        {
-            "answer": "To Know (a fact)",
-            "failed": 0,
-            "question": "SAPERE",
-            "tried": 0
-        },
-        {
+            "alternates": [
+                "to write"
+            ],
             "answer": "To Write",
             "failed": 0,
+            "lastAsked": 1522170079.952467,
             "question": "SCRIVERE",
-            "tried": 0
+            "tried": 1
         },
         {
-            "answer": "To Follow",
+            "alternates": [
+                "essere"
+            ],
+            "answer": "ESSERE",
             "failed": 0,
-            "question": "SEGUIRE",
-            "tried": 0
+            "lastAsked": 1522170263.6072512,
+            "question": "To Be",
+            "tried": 1
         },
         {
-            "answer": "To Hear / Sense",
+            "alternates": [
+                "arrivare"
+            ],
+            "answer": "ARRIVARE",
+            "failed": 2,
+            "lastAsked": 1522170321.2149398,
+            "question": "To Arrive",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "to watch"
+            ],
+            "answer": "To Watch / Look",
             "failed": 0,
-            "question": "SENTIRE",
-            "tried": 0
+            "lastAsked": 1522170255.3274024,
+            "question": "GUARDARE",
+            "tried": 1
         },
         {
-            "answer": "To Stay (to be located / in the state of)",
-            "failed": 0,
-            "question": "STARE",
-            "tried": 0
-        },
-        {
-            "answer": "To Cut",
-            "failed": 0,
-            "question": "TAGLIARE",
-            "tried": 0
-        },
-        {
+            "alternates": [
+                "to keep / hold"
+            ],
             "answer": "To Keep / Hold",
-            "failed": 0,
+            "failed": 3,
+            "lastAsked": 1522170334.134402,
             "question": "TENERE",
-            "tried": 0
+            "tried": 4
         },
         {
-            "answer": "To Find",
+            "alternates": [
+                "avere"
+            ],
+            "answer": "AVERE",
+            "failed": 2,
+            "lastAsked": 1522170323.6388774,
+            "question": "To Have",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "capire"
+            ],
+            "answer": "CAPIRE",
             "failed": 0,
-            "question": "TROVARE",
-            "tried": 0
+            "lastAsked": 1522170275.76721,
+            "question": "To Understand",
+            "tried": 1
         },
         {
-            "answer": "To Use",
-            "failed": 0,
-            "question": "USARE",
-            "tried": 0
+            "alternates": [
+                "finire"
+            ],
+            "answer": "FINIRE",
+            "failed": 1,
+            "lastAsked": 1522170286.0627155,
+            "question": "To Finish",
+            "tried": 2
         },
         {
-            "answer": "To Leave",
-            "failed": 0,
-            "question": "USCIRE",
-            "tried": 0
-        },
-        {
+            "alternates": [
+                "to see"
+            ],
             "answer": "To See",
             "failed": 0,
+            "lastAsked": 1522170259.3754246,
             "question": "VEDERE",
-            "tried": 0
+            "tried": 1
         },
         {
-            "answer": "To Come",
+            "alternates": [
+                "to work"
+            ],
+            "answer": "To Work",
             "failed": 0,
-            "question": "VENIRE",
-            "tried": 0
+            "lastAsked": 1522170382.9662092,
+            "question": "LAVORARE",
+            "tried": 1
         },
         {
+            "alternates": [
+                "conoscere"
+            ],
+            "answer": "CONOSCERE",
+            "failed": 1,
+            "lastAsked": 1522170543.196739,
+            "question": "To Know / Meet *regular conjugations with some exceptions",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "to stay (to be located | to be in a state of)",
+                "to stay (be located / in state of)"
+            ],
+            "answer": "To Stay (to be located / in the state of)",
+            "failed": 2,
+            "lastAsked": 1522170568.7563753,
+            "question": "STARE",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "to remain",
+                "to remain / stay"
+            ],
+            "answer": "To Remain / Stay",
+            "failed": 3,
+            "lastAsked": 1522170654.6282237,
+            "question": "RIMANERE",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "sentire"
+            ],
+            "answer": "SENTIRE",
+            "failed": 2,
+            "lastAsked": 1522170610.6047018,
+            "question": "To Hear / Sense",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "mangiare"
+            ],
+            "answer": "MANGIARE",
+            "failed": 1,
+            "lastAsked": 1522170483.5013318,
+            "question": "To Eat",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "must do",
+                "to have to (must)"
+            ],
+            "answer": "To Have To (Must)",
+            "failed": 4,
+            "lastAsked": 1522170661.3724642,
+            "question": "DOVERE",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "to hear / sense"
+            ],
+            "answer": "To Hear / Sense",
+            "failed": 1,
+            "lastAsked": 1522170479.365661,
+            "question": "SENTIRE",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "to use"
+            ],
+            "answer": "To Use",
+            "failed": 6,
+            "lastAsked": 1522170816.2434857,
+            "question": "USARE",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "to have"
+            ],
+            "answer": "To Have",
+            "failed": 0,
+            "lastAsked": 1522170665.7401447,
+            "question": "AVERE",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "passare"
+            ],
+            "answer": "PASSARE",
+            "failed": 0,
+            "lastAsked": 1522170684.1320477,
+            "question": "To Pass / Spend",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "to finish"
+            ],
+            "answer": "To Finish",
+            "failed": 0,
+            "lastAsked": 1522170678.484312,
+            "question": "FINIRE",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "sequire"
+            ],
+            "answer": "SEGUIRE",
+            "failed": 4,
+            "lastAsked": 1522170806.8669276,
+            "question": "To Follow",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "parlare"
+            ],
+            "answer": "PARLARE",
+            "failed": 2,
+            "lastAsked": 1522170767.0595455,
+            "question": "To Speak",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "trovare"
+            ],
+            "answer": "TROVARE",
+            "failed": 4,
+            "lastAsked": 1522170802.6116538,
+            "question": "To Find",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "to decide"
+            ],
+            "answer": "To Decide",
+            "failed": 5,
+            "lastAsked": 1522170810.0110118,
+            "question": "DECIDERE",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "comprare"
+            ],
+            "answer": "COMPRARE",
+            "failed": 1,
+            "lastAsked": 1522170898.9062903,
+            "question": "To Buy",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "aprire"
+            ],
+            "answer": "APRIRE",
+            "failed": 0,
+            "lastAsked": 1522170849.1705587,
+            "question": "To Open",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "to ask"
+            ],
+            "answer": "To Ask",
+            "failed": 0,
+            "lastAsked": 1522170853.4348562,
+            "question": "CHIEDERE",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "to enter"
+            ],
+            "answer": "To Enter",
+            "failed": 0,
+            "lastAsked": 1522170842.483099,
+            "question": "ENTRARE",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "to make / do"
+            ],
+            "answer": "To Make / Do",
+            "failed": 1,
+            "lastAsked": 1522170887.570713,
+            "question": "FARE",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "bollire"
+            ],
+            "answer": "BOLLIRE",
+            "failed": 1,
+            "lastAsked": 1522170882.3943508,
+            "question": "To Boil",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "to put"
+            ],
+            "answer": "To Put",
+            "failed": 1,
+            "lastAsked": 1522170932.0980723,
+            "question": "METTERE",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "to wait"
+            ],
+            "answer": "To Wait",
+            "failed": 2,
+            "lastAsked": 1522170958.4498,
+            "question": "ASPETTARE",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "to become"
+            ],
+            "answer": "To Become",
+            "failed": 4,
+            "lastAsked": 1522171198.4400115,
+            "question": "DIVENTARE",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "to buy"
+            ],
+            "answer": "To Buy",
+            "failed": 0,
+            "lastAsked": 1522171010.92153,
+            "question": "COMPRARE",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "chiamare"
+            ],
+            "answer": "CHIAMARE",
+            "failed": 5,
+            "lastAsked": 1522171220.4082296,
+            "question": "To Call",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "venire"
+            ],
+            "answer": "VENIRE",
+            "failed": 5,
+            "lastAsked": 1522171215.151828,
+            "question": "To Come",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "portare"
+            ],
+            "answer": "PORTARE",
+            "failed": 3,
+            "lastAsked": 1522171165.736953,
+            "question": "To Carry / Bring / Wear",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "to eat"
+            ],
+            "answer": "To Eat",
+            "failed": 0,
+            "lastAsked": 1522171036.8976789,
+            "question": "MANGIARE",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "vivere"
+            ],
+            "answer": "VIVERE",
+            "failed": 1,
+            "lastAsked": 1522171064.2574446,
+            "question": "To Live",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "potere"
+            ],
+            "answer": "POTERE",
+            "failed": 4,
+            "lastAsked": 1522171205.0087163,
+            "question": "To Be Able To",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "mettere"
+            ],
+            "answer": "METTERE",
+            "failed": 1,
+            "lastAsked": 1522171336.135392,
+            "question": "To Put",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "ricordare"
+            ],
+            "answer": "RICORDARE",
+            "failed": 1,
+            "lastAsked": 1522171349.7837148,
+            "question": "To Remember",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "pensare"
+            ],
+            "answer": "PENSARE",
+            "failed": 2,
+            "lastAsked": 1522171355.455253,
+            "question": "To Think",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "guardare"
+            ],
+            "answer": "GUARDARE",
+            "failed": 4,
+            "lastAsked": 1522171372.247522,
+            "question": "To Watch / Look",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "to cut"
+            ],
+            "answer": "To Cut",
+            "failed": 0,
+            "lastAsked": 1522171228.8799157,
+            "question": "TAGLIARE",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "cucinare"
+            ],
+            "answer": "CUCINARE",
+            "failed": 1,
+            "lastAsked": 1522171299.9356868,
+            "question": "To Cook",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "to leave"
+            ],
+            "answer": "To Leave",
+            "failed": 2,
+            "lastAsked": 1522171365.3268895,
+            "question": "USCIRE",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "fare"
+            ],
+            "answer": "FARE",
+            "failed": 0,
+            "lastAsked": 1522171253.9041646,
+            "question": "To Make / Do",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "to come"
+            ],
+            "answer": "To Come",
+            "failed": 5,
+            "lastAsked": 1522171635.0048187,
+            "question": "VENIRE",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "to find"
+            ],
+            "answer": "To Find",
+            "failed": 1,
+            "lastAsked": 1522171503.3258984,
+            "question": "TROVARE",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "usare"
+            ],
+            "answer": "USARE",
+            "failed": 0,
+            "lastAsked": 1522171472.6863365,
+            "question": "To Use",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "desiderare"
+            ],
+            "answer": "DESIDERARE",
+            "failed": 5,
+            "lastAsked": 1522171643.8849974,
+            "question": "To Wish / Desire",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "lasciare"
+            ],
+            "answer": "LASCIARE",
+            "failed": 1,
+            "lastAsked": 1522171475.7986794,
+            "question": "To Leave",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "dare"
+            ],
+            "answer": "DARE",
+            "failed": 6,
+            "lastAsked": 1522171649.8050687,
+            "question": "To Give",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "morire"
+            ],
+            "answer": "MORIRE",
+            "failed": 2,
+            "lastAsked": 1522171560.5898852,
+            "question": "To Die",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "entrare"
+            ],
+            "answer": "ENTRARE",
+            "failed": 3,
+            "lastAsked": 1522171603.661203,
+            "question": "To Enter",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "to die"
+            ],
+            "answer": "To Die",
+            "failed": 0,
+            "lastAsked": 1522171720.6689608,
+            "question": "MORIRE",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "to boil"
+            ],
+            "answer": "To Boil",
+            "failed": 1,
+            "lastAsked": 1522171742.5724485,
+            "question": "BOLLIRE",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "to say / tell"
+            ],
+            "answer": "To Say / Tell",
+            "failed": 7,
+            "lastAsked": 1522171847.2920022,
+            "question": "DIRE",
+            "tried": 8
+        },
+        {
+            "alternates": [
+                "tenere"
+            ],
+            "answer": "TENERE",
+            "failed": 6,
+            "lastAsked": 1522171838.7478535,
+            "question": "To Keep / Hold",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "to cook"
+            ],
+            "answer": "To Cook",
+            "failed": 0,
+            "lastAsked": 1522171695.2927232,
+            "question": "CUCINARE",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "amare"
+            ],
+            "answer": "AMARE",
+            "failed": 1,
+            "lastAsked": 1522171744.4609623,
+            "question": "To Love",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "to speak"
+            ],
+            "answer": "To Speak",
+            "failed": 0,
+            "lastAsked": 1522171690.0370853,
+            "question": "PARLARE",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "lavorare"
+            ],
+            "answer": "LAVORARE",
+            "failed": 1,
+            "lastAsked": 1522171733.0603304,
+            "question": "To Work",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "to call"
+            ],
+            "answer": "To Call",
+            "failed": 3,
+            "lastAsked": 1522172015.9702597,
+            "question": "CHIAMARE",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "to lunch"
+            ],
+            "answer": "To Lunch",
+            "failed": 2,
+            "lastAsked": 1522172013.8100355,
+            "question": "PRANZARE",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "decidere"
+            ],
+            "answer": "DECIDERE",
+            "failed": 2,
+            "lastAsked": 1522172004.4189181,
+            "question": "To Decide",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "to know",
+                "To Know"
+            ],
+            "answer": "To Know / Meet *regular conjugations with some exceptions",
+            "failed": 1,
+            "lastAsked": 1522171944.8586226,
+            "question": "CONOSCERE",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "diventare"
+            ],
+            "answer": "DIVENTARE",
+            "failed": 5,
+            "lastAsked": 1522172028.2984414,
+            "question": "To Become",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "to go"
+            ],
+            "answer": "To Go",
+            "failed": 0,
+            "lastAsked": 1522171895.6277149,
+            "question": "ANDARE",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "to be"
+            ],
+            "answer": "To Be",
+            "failed": 0,
+            "lastAsked": 1522171852.3711965,
+            "question": "ESSERE",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "to arrive"
+            ],
+            "answer": "To Arrive",
+            "failed": 0,
+            "lastAsked": 1522171920.7475474,
+            "question": "ARRIVARE",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "to give"
+            ],
+            "answer": "To Give",
+            "failed": 3,
+            "lastAsked": 1522172122.497497,
+            "question": "DARE",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "to love"
+            ],
+            "answer": "To Love",
+            "failed": 0,
+            "lastAsked": 1522172060.122553,
+            "question": "AMARE",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "scrivere"
+            ],
+            "answer": "SCRIVERE",
+            "failed": 0,
+            "lastAsked": 1522172056.146213,
+            "question": "To Write",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "bere"
+            ],
+            "answer": "BERE",
+            "failed": 1,
+            "lastAsked": 1522172106.5381129,
+            "question": "To Drink",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "to live"
+            ],
             "answer": "To Live",
             "failed": 0,
+            "lastAsked": 1522172040.3541613,
             "question": "VIVERE",
-            "tried": 0
+            "tried": 1
         },
         {
-            "answer": "To Want",
+            "alternates": [
+                "to think"
+            ],
+            "answer": "To Think",
             "failed": 0,
-            "question": "VOLERE",
-            "tried": 0
+            "lastAsked": 1522172045.6984415,
+            "question": "PENSARE",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "andare"
+            ],
+            "answer": "ANDARE",
+            "failed": 1,
+            "lastAsked": 1522172108.5072594,
+            "question": "To Go",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "prendere"
+            ],
+            "answer": "PRENDERE",
+            "failed": 3,
+            "lastAsked": 1522172125.5535638,
+            "question": "To Take",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "sapere"
+            ],
+            "answer": "SAPERE",
+            "failed": 2,
+            "lastAsked": 1522172274.6324475,
+            "question": "To Know (a fact)",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "dovere"
+            ],
+            "answer": "DOVERE",
+            "failed": 3,
+            "lastAsked": 1522172289.8569734,
+            "question": "To Have To (Must)",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "chiedere"
+            ],
+            "answer": "CHIEDERE",
+            "failed": 2,
+            "lastAsked": 1522172277.8169549,
+            "question": "To Ask",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "uscire"
+            ],
+            "answer": "USCIRE",
+            "failed": 4,
+            "lastAsked": 1522172310.6242416,
+            "question": "To Leave",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "leggere"
+            ],
+            "answer": "LEGGERE",
+            "failed": 1,
+            "lastAsked": 1522172217.1370556,
+            "question": "To Read",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "vedere"
+            ],
+            "answer": "VEDERE",
+            "failed": 0,
+            "lastAsked": 1522172183.6012843,
+            "question": "To See",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "rimanere"
+            ],
+            "answer": "RIMANERE",
+            "failed": 5,
+            "lastAsked": 1522172321.8168948,
+            "question": "To Remain / Stay",
+            "tried": 6
+        },
+        {
+            "alternates": [
+                "pranzare"
+            ],
+            "answer": "PRANZARE",
+            "failed": 1,
+            "lastAsked": 1522172231.2013507,
+            "question": "To Lunch",
+            "tried": 2
         }
     ]
 }

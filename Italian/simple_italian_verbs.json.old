@@ -1,0 +1,677 @@
+{
+    "name": "Simple Verbs",
+    "vocab": [
+        {
+            "answer": "AMARE",
+            "failed": 0,
+            "question": "To Love",
+            "tried": 0
+        },
+        {
+            "answer": "ANDARE",
+            "failed": 0,
+            "question": "To Go",
+            "tried": 0
+        },
+        {
+            "answer": "APRIRE",
+            "failed": 0,
+            "question": "To Open",
+            "tried": 0
+        },
+        {
+            "answer": "ARRIVARE",
+            "failed": 0,
+            "question": "To Arrive",
+            "tried": 0
+        },
+        {
+            "answer": "ASPETTARE",
+            "failed": 0,
+            "question": "To Wait",
+            "tried": 0
+        },
+        {
+            "answer": "AVERE",
+            "failed": 0,
+            "question": "To Have",
+            "tried": 0
+        },
+        {
+            "answer": "BERE",
+            "failed": 0,
+            "question": "To Drink",
+            "tried": 0
+        },
+        {
+            "answer": "BOLLIRE",
+            "failed": 0,
+            "question": "To Boil",
+            "tried": 0
+        },
+        {
+            "answer": "CAPIRE",
+            "failed": 0,
+            "question": "To Understand",
+            "tried": 0
+        },
+        {
+            "answer": "CENARE",
+            "failed": 0,
+            "question": "To Dine",
+            "tried": 0
+        },
+        {
+            "answer": "CHIAMARE",
+            "failed": 0,
+            "question": "To Call",
+            "tried": 0
+        },
+        {
+            "answer": "CHIEDERE",
+            "failed": 0,
+            "question": "To Ask",
+            "tried": 0
+        },
+        {
+            "answer": "COMPRARE",
+            "failed": 0,
+            "question": "To Buy",
+            "tried": 0
+        },
+        {
+            "answer": "CONOSCERE",
+            "failed": 0,
+            "question": "To Know / Meet *regular conjugations with some exceptions",
+            "tried": 0
+        },
+        {
+            "answer": "CREDERE",
+            "failed": 0,
+            "question": "To Believe",
+            "tried": 0
+        },
+        {
+            "answer": "CUCINARE",
+            "failed": 0,
+            "question": "To Cook",
+            "tried": 0
+        },
+        {
+            "answer": "DARE",
+            "failed": 0,
+            "question": "To Give",
+            "tried": 0
+        },
+        {
+            "answer": "DECIDERE",
+            "failed": 0,
+            "question": "To Decide",
+            "tried": 0
+        },
+        {
+            "answer": "DESIDERARE",
+            "failed": 0,
+            "question": "To Wish / Desire",
+            "tried": 0
+        },
+        {
+            "answer": "DIRE",
+            "failed": 0,
+            "question": "To Say / Tell",
+            "tried": 0
+        },
+        {
+            "answer": "DIVENTARE",
+            "failed": 0,
+            "question": "To Become",
+            "tried": 0
+        },
+        {
+            "answer": "DOVERE",
+            "failed": 0,
+            "question": "To Have To (Must)",
+            "tried": 0
+        },
+        {
+            "answer": "ENTRARE",
+            "failed": 0,
+            "question": "To Enter",
+            "tried": 0
+        },
+        {
+            "answer": "ESSERE",
+            "failed": 0,
+            "question": "To Be",
+            "tried": 0
+        },
+        {
+            "answer": "FARE",
+            "failed": 0,
+            "question": "To Make / Do",
+            "tried": 0
+        },
+        {
+            "answer": "FINIRE",
+            "failed": 0,
+            "question": "To Finish",
+            "tried": 0
+        },
+        {
+            "answer": "GUARDARE",
+            "failed": 0,
+            "question": "To Watch / Look",
+            "tried": 0
+        },
+        {
+            "answer": "LASCIARE",
+            "failed": 0,
+            "question": "To Leave",
+            "tried": 0
+        },
+        {
+            "answer": "LAVORARE",
+            "failed": 0,
+            "question": "To Work",
+            "tried": 0
+        },
+        {
+            "answer": "LEGGERE",
+            "failed": 0,
+            "question": "To Read",
+            "tried": 0
+        },
+        {
+            "answer": "MANGIARE",
+            "failed": 0,
+            "question": "To Eat",
+            "tried": 0
+        },
+        {
+            "answer": "METTERE",
+            "failed": 0,
+            "question": "To Put",
+            "tried": 0
+        },
+        {
+            "answer": "MORIRE",
+            "failed": 0,
+            "question": "To Die",
+            "tried": 0
+        },
+        {
+            "answer": "PARLARE",
+            "failed": 0,
+            "question": "To Speak",
+            "tried": 0
+        },
+        {
+            "answer": "PASSARE",
+            "failed": 0,
+            "question": "To Pass / Spend",
+            "tried": 0
+        },
+        {
+            "answer": "PENSARE",
+            "failed": 0,
+            "question": "To Think",
+            "tried": 0
+        },
+        {
+            "answer": "PORTARE",
+            "failed": 0,
+            "question": "To Carry / Bring / Wear",
+            "tried": 0
+        },
+        {
+            "answer": "POTERE",
+            "failed": 0,
+            "question": "To Be Able To",
+            "tried": 0
+        },
+        {
+            "answer": "PRANZARE",
+            "failed": 0,
+            "question": "To Lunch",
+            "tried": 0
+        },
+        {
+            "answer": "PRENDERE",
+            "failed": 0,
+            "question": "To Take",
+            "tried": 0
+        },
+        {
+            "answer": "RICORDARE",
+            "failed": 0,
+            "question": "To Remember",
+            "tried": 0
+        },
+        {
+            "answer": "RIMANERE",
+            "failed": 0,
+            "question": "To Remain / Stay",
+            "tried": 0
+        },
+        {
+            "answer": "SAPERE",
+            "failed": 0,
+            "question": "To Know (a fact)",
+            "tried": 0
+        },
+        {
+            "answer": "SCRIVERE",
+            "failed": 0,
+            "question": "To Write",
+            "tried": 0
+        },
+        {
+            "answer": "SEGUIRE",
+            "failed": 0,
+            "question": "To Follow",
+            "tried": 0
+        },
+        {
+            "answer": "SENTIRE",
+            "failed": 0,
+            "question": "To Hear / Sense",
+            "tried": 0
+        },
+        {
+            "answer": "STARE",
+            "failed": 0,
+            "question": "To Stay (to be located / in the state of)",
+            "tried": 0
+        },
+        {
+            "answer": "TAGLIARE",
+            "failed": 0,
+            "question": "To Cut",
+            "tried": 0
+        },
+        {
+            "answer": "TENERE",
+            "failed": 0,
+            "question": "To Keep / Hold",
+            "tried": 0
+        },
+        {
+            "answer": "TROVARE",
+            "failed": 0,
+            "question": "To Find",
+            "tried": 0
+        },
+        {
+            "answer": "USARE",
+            "failed": 0,
+            "question": "To Use",
+            "tried": 0
+        },
+        {
+            "answer": "USCIRE",
+            "failed": 0,
+            "question": "To Leave",
+            "tried": 0
+        },
+        {
+            "answer": "VEDERE",
+            "failed": 0,
+            "question": "To See",
+            "tried": 0
+        },
+        {
+            "answer": "VENIRE",
+            "failed": 0,
+            "question": "To Come",
+            "tried": 0
+        },
+        {
+            "answer": "VIVERE",
+            "failed": 0,
+            "question": "To Live",
+            "tried": 0
+        },
+        {
+            "answer": "VOLERE",
+            "failed": 0,
+            "question": "To Want",
+            "tried": 0
+        },
+        {
+            "answer": "To Love",
+            "failed": 0,
+            "question": "AMARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Go",
+            "failed": 0,
+            "question": "ANDARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Open",
+            "failed": 0,
+            "question": "APRIRE",
+            "tried": 0
+        },
+        {
+            "answer": "To Arrive",
+            "failed": 0,
+            "question": "ARRIVARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Wait",
+            "failed": 0,
+            "question": "ASPETTARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Have",
+            "failed": 0,
+            "question": "AVERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Drink",
+            "failed": 0,
+            "question": "BERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Boil",
+            "failed": 0,
+            "question": "BOLLIRE",
+            "tried": 0
+        },
+        {
+            "answer": "To Understand",
+            "failed": 0,
+            "question": "CAPIRE",
+            "tried": 0
+        },
+        {
+            "answer": "To Dine",
+            "failed": 0,
+            "question": "CENARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Call",
+            "failed": 0,
+            "question": "CHIAMARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Ask",
+            "failed": 0,
+            "question": "CHIEDERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Buy",
+            "failed": 0,
+            "question": "COMPRARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Know / Meet *regular conjugations with some exceptions",
+            "failed": 0,
+            "question": "CONOSCERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Believe",
+            "failed": 0,
+            "question": "CREDERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Cook",
+            "failed": 0,
+            "question": "CUCINARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Give",
+            "failed": 0,
+            "question": "DARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Decide",
+            "failed": 0,
+            "question": "DECIDERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Wish / Desire",
+            "failed": 0,
+            "question": "DESIDERARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Say / Tell",
+            "failed": 0,
+            "question": "DIRE",
+            "tried": 0
+        },
+        {
+            "answer": "To Become",
+            "failed": 0,
+            "question": "DIVENTARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Have To (Must)",
+            "failed": 0,
+            "question": "DOVERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Enter",
+            "failed": 0,
+            "question": "ENTRARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Be",
+            "failed": 0,
+            "question": "ESSERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Make / Do",
+            "failed": 0,
+            "question": "FARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Finish",
+            "failed": 0,
+            "question": "FINIRE",
+            "tried": 0
+        },
+        {
+            "answer": "To Watch / Look",
+            "failed": 0,
+            "question": "GUARDARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Leave",
+            "failed": 0,
+            "question": "LASCIARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Work",
+            "failed": 0,
+            "question": "LAVORARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Read",
+            "failed": 0,
+            "question": "LEGGERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Eat",
+            "failed": 0,
+            "question": "MANGIARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Put",
+            "failed": 0,
+            "question": "METTERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Die",
+            "failed": 0,
+            "question": "MORIRE",
+            "tried": 0
+        },
+        {
+            "answer": "To Speak",
+            "failed": 0,
+            "question": "PARLARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Pass / Spend",
+            "failed": 0,
+            "question": "PASSARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Think",
+            "failed": 0,
+            "question": "PENSARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Carry / Bring / Wear",
+            "failed": 0,
+            "question": "PORTARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Be Able To",
+            "failed": 0,
+            "question": "POTERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Lunch",
+            "failed": 0,
+            "question": "PRANZARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Take",
+            "failed": 0,
+            "question": "PRENDERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Remember",
+            "failed": 0,
+            "question": "RICORDARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Remain / Stay",
+            "failed": 0,
+            "question": "RIMANERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Know (a fact)",
+            "failed": 0,
+            "question": "SAPERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Write",
+            "failed": 0,
+            "question": "SCRIVERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Follow",
+            "failed": 0,
+            "question": "SEGUIRE",
+            "tried": 0
+        },
+        {
+            "answer": "To Hear / Sense",
+            "failed": 0,
+            "question": "SENTIRE",
+            "tried": 0
+        },
+        {
+            "answer": "To Stay (to be located / in the state of)",
+            "failed": 0,
+            "question": "STARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Cut",
+            "failed": 0,
+            "question": "TAGLIARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Keep / Hold",
+            "failed": 0,
+            "question": "TENERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Find",
+            "failed": 0,
+            "question": "TROVARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Use",
+            "failed": 0,
+            "question": "USARE",
+            "tried": 0
+        },
+        {
+            "answer": "To Leave",
+            "failed": 0,
+            "question": "USCIRE",
+            "tried": 0
+        },
+        {
+            "answer": "To See",
+            "failed": 0,
+            "question": "VEDERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Come",
+            "failed": 0,
+            "question": "VENIRE",
+            "tried": 0
+        },
+        {
+            "answer": "To Live",
+            "failed": 0,
+            "question": "VIVERE",
+            "tried": 0
+        },
+        {
+            "answer": "To Want",
+            "failed": 0,
+            "question": "VOLERE",
+            "tried": 0
+        }
+    ]
+}

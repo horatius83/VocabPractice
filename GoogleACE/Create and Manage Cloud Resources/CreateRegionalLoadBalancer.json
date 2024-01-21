@@ -1,0 +1,113 @@
+{
+    "name": ".\\GoogleACE\\Create and Manage Cloud Resources\\CreateRegionalLoadBalancer.json",
+    "vocab": [
+        {
+            "alternates": [],
+            "answer": "gcloud compute forwarding-rules create www-rule --region us-east1 --ports 80 --address network-lb-ip-1 --target-pool www-pool",
+            "failed": 3,
+            "lastAsked": 1705334139.4859185,
+            "question": "How would you add a forwarding rule called www-rule in region us-east1, on port 80, pointing at extnernal IP network-lb-ip-1 using target-pool www-pool?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "1. Create static IP 2. Create health check 3. Create target pool 4. Add instances to target pool 5. Add forwarding rule",
+                "1. Create static ip 2. Create health check 3. Create target-pool 4. Add instances to target-pool 5. Create forwarding rule",
+                "1. Create static ip address 2. create health check 3. create target-pool 4. Add instances to target pools 5. Add forwarding rule",
+                "1. Create external IP 2. Create Health Check 3. Create Target-Pool 4. Add instances to Pool 5. Create forwarding rule"
+            ],
+            "answer": "1. Create a static external IP address 2. Add legacy HTTP health check 3. Add target pool 4. Add instances to pool 5. Add forwarding rule",
+            "failed": 3,
+            "lastAsked": 1705334409.0811539,
+            "question": "What are the steps to configure a load balancing service?",
+            "tried": 5
+        },
+        {
+            "alternates": [
+                "gcloud compute firewall-rules create www-firewall-network-lb --target-tags network-lb-tag --allow tcp:80"
+            ],
+            "answer": "gcloud compute firewall-rules create www-firewall-network-lb --target-tags network-lb-tag --alow tcp:80",
+            "failed": 2,
+            "lastAsked": 1705334444.631935,
+            "question": "How would you create a firewall rule called www-firewall-network-lb with tag network-lb-tag that allows TCP traffic on port 80?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "gcloud compute http-health-checks create basic-check",
+            "failed": 2,
+            "lastAsked": 1705334458.2651696,
+            "question": "How would you create a legacy HTTP health check resource?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "gcloud compute addresses create network-lb-ip-1 --region us-east1",
+            "failed": 1,
+            "lastAsked": 1705334065.2918398,
+            "question": "How would you create a static external IP address for your load balancer called network-lb-ip-1 in region us-east1?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "gcloud config set compute/region us-east1",
+            "failed": 1,
+            "lastAsked": 1705334148.734912,
+            "question": "How would you set the default region to use-east1?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "gcloud compute target-pools add-instances www-pool --instances=www1,www2,www3"
+            ],
+            "answer": "gcloud compute target-pools add-instances www-pool --instances www1, www2, www3",
+            "failed": 0,
+            "lastAsked": 1705334182.601865,
+            "question": "How would you add instances [www1, www2, www3] to pool www-pool?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "gcloud compute instances list",
+            "failed": 1,
+            "lastAsked": 1705334422.6898832,
+            "question": "How would you list compute VM instance?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "gcloud compute target-pools create www-pool --region us-east1 --http-health-check basic-check",
+            "failed": 1,
+            "lastAsked": 1705334695.0210402,
+            "question": "How would you create a target pool called www-pool in region us-east1 with HTTP check basic-check?",
+            "tried": 3
+        },
+        {
+            "alternates": [],
+            "answer": "1. Create instance 2. Create firewall rule",
+            "failed": 1,
+            "lastAsked": 1705334667.562585,
+            "question": "What are the steps to create a web server instance?",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "1. Configure region 2. Create instances 3. Create Load Balancer",
+                "1. Create instances 2. Configure Load Balancer service"
+            ],
+            "answer": "1. Set default region and zone 2. Create web server instances 3. Configure load balancing service",
+            "failed": 0,
+            "lastAsked": 1705334546.3529592,
+            "question": "What are the steps to create a regional load balancer?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "gcloud config set compute/zone us-east1-1",
+            "failed": 0,
+            "lastAsked": 1705334560.625613,
+            "question": "How would you set the default zone to us-east1-1?",
+            "tried": 2
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+v0.1 Create Kubernetes Cluster
+q   Set the default zone to us-east1-1  gcloud config set compute/zone us-east1-1
+q   Set the default region to use-east1 gcloud config set compute/region us-east1
+q   Create a GKE cluster with e2-medium instances in zone us-east1-c named 'lab-cluster'  gcloud container clusters create --machine-type=e2-medium --zone us-east1-c lab-cluster
+q   Get authentication credentials for cluster 'lab-cluster'  gcloud container clusters get-credentials lab-cluster
+q   Deploy an application called 'hello-server' with image 'gcr.io/google-samples/hello-app:1.0' on port 8080    kubectl create deployment hello-server --image=gcr.io/google-samples/hello-app:1.0 \kubectl expose deployment hello-server --type=LoadBalancer --port 8080
+q   Delete the cluster called 'lab-cluster' gcloud container clusters delete lab-cluster
+q   What are the steps to deploy a k8s cluster? 1. Set default compute zone 2. Create a GKE cluster 3. Get authentication credentials 4. Deploy application

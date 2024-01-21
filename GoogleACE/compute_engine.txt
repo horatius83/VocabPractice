@@ -1,0 +1,15 @@
+v0.1 Compute Engine Machine Types
+q   What is the E2 class?    Day-to-day compute at lower cost
+q   What machine would you need for day-today compute at lower cost? E2
+q   What are the N2, N2D, and N1 classes for?  Balanced price/performance 
+q   What machine would you need for balanced price/performance? N2, N2D, N1
+q   What are the C3, C3D classes for?   Consistently high performance
+q   What machine would you use for consistently high performance?   C3, C3D
+q   What are the Tau T2D, Tau T2A classes for?  Best per-core performance / cost
+q   What machine would you use for best per-core performance / cost?    Tau T2D, Tau T2A
+q   What are the H3, C2, C2D classes for?   Ultra high performance
+q   What machine would you use for ultra high performance?  H3, C2, C2D
+q   What are the M3, M2, M1 classes for?    Highest memory to compute ratios
+q   What machine would you use for memory intensive workloads?  M3, M2, M1
+q   What are the A3, A2, G2 classes for?    Accelerated high performance computing
+q   What machine would you use for accelerated high performance computing?  A3, A2, G2

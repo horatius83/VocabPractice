@@ -32,10 +32,10 @@ def RunTest(filename: str) -> None:
 #recent_files_path = './recent_files.txt'
 recent_files_path = './recent_files.json'
 def get_recent_files() -> List[Tuple[str, datetime.datetime]]:
-    with open(recent_files_path,'r') as in_data:
+    with open(recent_files_path,'r', encoding='utf-8') as in_data:
         raw_list = in_data.read()
         if(raw_list != ''):
-            json_obj = json.loads(raw_list, encoding='utf-8')
+            json_obj = json.loads(raw_list)
             for (file_path, str_datetime) in json_obj:
                 yield (file_path, datetime.datetime.strptime(str_datetime, '%Y-%m-%d %H:%M:%S.%f'))
         else:

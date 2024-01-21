@@ -1,0 +1,66 @@
+{
+    "name": ".\\GoogleACE\\Create and Manage Cloud Resources\\CreateK8sCluster.json",
+    "vocab": [
+        {
+            "alternates": [
+                "kubectl create deployment hello-server --image=gcr.io/google-samples/hello-app:1.0\\kubectl expose deployment hello-server --port 8080 --type=LoadBalancer",
+                "kubectl create deployment hello-server --image=gcr.io/google-samples/hello-app:1.0\\kubectl expose deployment hello-server --type=LoadBalancer --port 8080",
+                "kubectl create deployment hello-server --image=gcr.io/google-samples/hello-app:1.0\\kubectl expose deployment hello-server --type=LoadBalancer --port=8080"
+            ],
+            "answer": "kubectl create deployment hello-server --image=gcr.io/google-samples/hello-app:1.0 \\kubectl expose deployment hello-server --type=LoadBalancer --port 8080",
+            "failed": 5,
+            "lastAsked": 1705334009.6914036,
+            "question": "Deploy an application called 'hello-server' with image 'gcr.io/google-samples/hello-app:1.0' on port 8080",
+            "tried": 7
+        },
+        {
+            "alternates": [
+                "gcloud container clusters create lab-cluster --machine-type=e2-medium --zone=us-east1-c",
+                "gcloud container clusters create --machine-type=e2-medium --zone=us-east1-c lab-cluster"
+            ],
+            "answer": "gcloud container clusters create --machine-type=e2-medium --zone us-east1-c lab-cluster",
+            "failed": 2,
+            "lastAsked": 1705333670.5028837,
+            "question": "Create a GKE cluster with e2-medium instances in zone us-east1-c named 'lab-cluster'",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "gcloud container clusters delete lab-cluster",
+            "failed": 0,
+            "lastAsked": 1705333512.8182425,
+            "question": "Delete the cluster called 'lab-cluster'",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "gcloud container clusters get-credentials lab-cluster",
+            "failed": 1,
+            "lastAsked": 1705333797.068162,
+            "question": "Get authentication credentials for cluster 'lab-cluster'",
+            "tried": 3
+        },
+        {
+            "alternates": [
+                "gcloud  config set compute/region us-east1"
+            ],
+            "answer": "gcloud config set compute/region us-east1",
+            "failed": 0,
+            "lastAsked": 1705333523.5152426,
+            "question": "Set the default region to use-east1",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "1. Set default region 2. Create GKE cluster 3. Get Credentials 4. Deploy Application",
+                "1. Set default compute zone 2. Create GKE cluster 3. Get credentials 4. Deploy application",
+                "1. Create cluster 2. Get Credentials 3. Deploy Service 4. Expose Service"
+            ],
+            "answer": "1. Set default compute zone 2. Create a GKE cluster 3. Get authentication credentials 4. Deploy application",
+            "failed": 1,
+            "lastAsked": 1705333783.9059124,
+            "question": "What are the steps to deploy a k8s cluster?",
+            "tried": 3
+        }
+    ]
+}

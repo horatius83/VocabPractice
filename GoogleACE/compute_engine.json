@@ -1,0 +1,134 @@
+{
+    "name": ".\\GoogleACE\\compute_engine.json",
+    "vocab": [
+        {
+            "alternates": [
+                "Tau T2A, Tau T2D"
+            ],
+            "answer": "Tau T2D, Tau T2A",
+            "failed": 3,
+            "lastAsked": 1705458524.3748171,
+            "question": "What machine would you use for best per-core performance / cost?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "day-to-day computing at low cost",
+                "day-to-day compute "
+            ],
+            "answer": "Day-to-day compute at lower cost",
+            "failed": 1,
+            "lastAsked": 1705458436.4805706,
+            "question": "What is the E2 class?",
+            "tried": 2
+        },
+        {
+            "alternates": [],
+            "answer": "A3, A2, G2",
+            "failed": 3,
+            "lastAsked": 1705458550.4827285,
+            "question": "What machine would you use for accelerated high performance computing?",
+            "tried": 4
+        },
+        {
+            "alternates": [],
+            "answer": "H3, C2, C2D",
+            "failed": 5,
+            "lastAsked": 1705458572.52462,
+            "question": "What machine would you use for ultra high performance?",
+            "tried": 6
+        },
+        {
+            "alternates": [],
+            "answer": "M3, M2, M1",
+            "failed": 0,
+            "lastAsked": 1705458264.4178739,
+            "question": "What machine would you use for memory intensive workloads?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "N2, N2D, N1",
+            "failed": 3,
+            "lastAsked": 1705458513.4835987,
+            "question": "What machine would you need for balanced price/performance?",
+            "tried": 4
+        },
+        {
+            "alternates": [
+                "best per-core performance / cost"
+            ],
+            "answer": "Best per-core performance / cost",
+            "failed": 1,
+            "lastAsked": 1705458424.159666,
+            "question": "What are the Tau T2D, Tau T2A classes for?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "Accelerated compute intensive workloads"
+            ],
+            "answer": "Accelerated high performance computing",
+            "failed": 0,
+            "lastAsked": 1705458276.6261854,
+            "question": "What are the A3, A2, G2 classes for?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "Good balance of performance to price workloads"
+            ],
+            "answer": "Balanced price/performance",
+            "failed": 0,
+            "lastAsked": 1705458613.5666878,
+            "question": "What are the N2, N2D, and N1 classes for?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "E2",
+            "failed": 1,
+            "lastAsked": 1705458703.4653904,
+            "question": "What machine would you need for day-today compute at lower cost?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "Memory intensive workloads"
+            ],
+            "answer": "Highest memory to compute ratios",
+            "failed": 0,
+            "lastAsked": 1705458582.6072829,
+            "question": "What are the M3, M2, M1 classes for?",
+            "tried": 1
+        },
+        {
+            "alternates": [],
+            "answer": "C3, C3D",
+            "failed": 1,
+            "lastAsked": 1705458700.4537234,
+            "question": "What machine would you use for consistently high performance?",
+            "tried": 2
+        },
+        {
+            "alternates": [
+                "Compute intenstive workloads"
+            ],
+            "answer": "Ultra high performance",
+            "failed": 0,
+            "lastAsked": 1705458625.065688,
+            "question": "What are the H3, C2, C2D classes for?",
+            "tried": 1
+        },
+        {
+            "alternates": [
+                "High performance computing workloads"
+            ],
+            "answer": "Consistently high performance",
+            "failed": 0,
+            "lastAsked": 1705458595.1992702,
+            "question": "What are the C3, C3D classes for?",
+            "tried": 1
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "name": ".\\GoogleACE\\compute_engine.json",
+    "vocab": [
+        {
+            "answer": "Day-to-day compute at lower cost",
+            "failed": 0,
+            "question": "What is the E2 class?",
+            "tried": 0
+        },
+        {
+            "answer": "E2",
+            "failed": 0,
+            "question": "What machine would you need for day-today compute at lower cost?",
+            "tried": 0
+        },
+        {
+            "answer": "Balanced price/performance",
+            "failed": 0,
+            "question": "What are the N2, N2D, and N1 classes for?",
+            "tried": 0
+        },
+        {
+            "answer": "N2, N2D, N1",
+            "failed": 0,
+            "question": "What machine would you need for balanced price/performance?",
+            "tried": 0
+        },
+        {
+            "answer": "Consistently high performance",
+            "failed": 0,
+            "question": "What are the C3, C3D classes for?",
+            "tried": 0
+        },
+        {
+            "answer": "C3, C3D",
+            "failed": 0,
+            "question": "What machine would you use for consistently high performance?",
+            "tried": 0
+        },
+        {
+            "answer": "Best per-core performance / cost",
+            "failed": 0,
+            "question": "What are the Tau T2D, Tau T2A classes for?",
+            "tried": 0
+        },
+        {
+            "answer": "Tau T2D, Tau T2A",
+            "failed": 0,
+            "question": "What machine would you use for best per-core performance / cost?",
+            "tried": 0
+        },
+        {
+            "answer": "Ultra high performance",
+            "failed": 0,
+            "question": "What are the H3, C2, C2D classes for?",
+            "tried": 0
+        },
+        {
+            "answer": "H3, C2, C2D",
+            "failed": 0,
+            "question": "What machine would you use for ultra high performance?",
+            "tried": 0
+        },
+        {
+            "answer": "Highest memory to compute ratios",
+            "failed": 0,
+            "question": "What are the M3, M2, M1 classes for?",
+            "tried": 0
+        },
+        {
+            "answer": "M3, M2, M1",
+            "failed": 0,
+            "question": "What machine would you use for memory intensive workloads?",
+            "tried": 0
+        },
+        {
+            "answer": "Accelerated high performance computing",
+            "failed": 0,
+            "question": "What are the A3, A2, G2 classes for?",
+            "tried": 0
+        },
+        {
+            "answer": "A3, A2, G2",
+            "failed": 0,
+            "question": "What machine would you use for accelerated high performance computing?",
+            "tried": 0
+        }
+    ]
+}

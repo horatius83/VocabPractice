@@ -1,0 +1,71 @@
+{
+    "name": ".\\GoogleACE\\Create and Manage Cloud Resources\\CreateHttpLoadBalancer.json",
+    "vocab": [
+        {
+            "answer": "1. Create load balancer template 2. Create managed instance group 3. Create health-check firewall rule 4. Set global static external IP address 5. Create health-check for load-balancer 6. Create backend service 7. Add instance group to the backend service 8. Create URL map 9. Create target HTTP rpoxy 10. Create global forwarding rule",
+            "failed": 0,
+            "question": "What are the steps to create an HTTP load balancer?",
+            "tried": 0
+        },
+        {
+            "answer": "gcloud compute instance-groups managed create lb-backend-group --template=lb-backend-template --size=2 --zone=us-east1-c",
+            "failed": 0,
+            "question": "How would you create a Managed Instance Group of 2 Vms called lb-backend-group based on a load balancer template called lb-backend-template in zone us-east1-c?",
+            "tried": 0
+        },
+        {
+            "answer": "gcloud compute firewall-rules create fw-allow-health-check --network=default --action=allow --direction=ingress --source-ranges=130.211.0.0/22, 35.191.0.0/16 --target-tags=allow-health-check --rules=tcp:80",
+            "failed": 0,
+            "question": "How would you create a health check firewall rule called fw-allow-health-check with target tags 'allow-health-check' that allows TCP traffic on port 80?",
+            "tried": 0
+        },
+        {
+            "answer": "gcloud compute addresses create lb-ipv4-1 --ip-version=IPV4 --global",
+            "failed": 0,
+            "question": "How would you set up a global static exteral IP address called lb-ipv4-1 on IPv4?",
+            "tried": 0
+        },
+        {
+            "answer": "gcloud compute addresses describe lb-ipv4-1 --format=\"get(address)\" --global",
+            "failed": 0,
+            "question": "How would you view the info of an IP address object called lb-ipv4-1?",
+            "tried": 0
+        },
+        {
+            "answer": "gcloud compute health-checks create http http-basic-check --port 80",
+            "failed": 0,
+            "question": "How would you create a health check called http-basic-check on port 80 for a load balancer?",
+            "tried": 0
+        },
+        {
+            "answer": "gcloud compute backend-services create web-backend-service --protocol=HTTP --port-name=HTTP --health-checks=http-basic-check --global",
+            "failed": 0,
+            "question": "How would you create a backend service called web-backend-service that uses HTTP and health-check 'http-basic-check'?",
+            "tried": 0
+        },
+        {
+            "answer": "gcloud compute backend-services add-backend web-backend-service --instance-group=lb-backend-group --instance-group-zone=us-east1-c --global",
+            "failed": 0,
+            "question": "How would you add an instance group 'lb-backend-group' as a backend to the backend service 'web-backend' in zone us-east1-c?",
+            "tried": 0
+        },
+        {
+            "answer": "gcloud compute url-maps create web-map-http --default-service web-backend-service",
+            "failed": 0,
+            "question": "How would you create a URL map 'web-map-http' to route the incoming requests to the default backend service 'web-backend-service'?",
+            "tried": 0
+        },
+        {
+            "answer": "gcloud compute target-http-proxies create http-lb-proxy --url-map web-map-http",
+            "failed": 0,
+            "question": "How would you create a target HTTP proxy 'http-lb-proxy' to route requests to a URL map 'web-map-http'?",
+            "tried": 0
+        },
+        {
+            "answer": "gcloud compute forwarding-rules create http-content-rule --address=lb-ipv4-1 --global --target-http-proxy=http-lb-proxy --ports=80",
+            "failed": 0,
+            "question": "How would you create a global forwarding rule 'http-content-rule' to route incoming requests to the proxy 'http-lb-proxy' using IP address 'lb-ipv4-1' on port 80?",
+            "tried": 0
+        }
+    ]
+}

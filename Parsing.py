@@ -76,9 +76,23 @@ def generateVocabQuestion(kanji, kana, definition):
 
 def loadVocabularyFile(filename):
     """Load a vocabulary file, and output arrays of tokens"""
+    def split_line(line: str) -> str:
+        if '\t' in line:
+            return [x.strip() for x in line.split('\t')]
+        else:
+            question_type = line[0]
+            tokens = line[1:].split('?')
+            if len(tokens) == 2:
+                return [question_type, tokens[0].strip() + '?', tokens[1].strip()]
+            else:
+                raise ValueError(f"Could not parse line: {line}")
+
     with open(filename,encoding='utf-8') as inData:
         lines = inData.readlines()
-        tokens = (x.split('\t') for x in lines)
+        #tokens = (x.split('\t') for x in lines)
+        (version, *title) = lines[0].split(' ')
+        yield [version, ' '.join(title)]
+        tokens = map(split_line, lines[1:])
         cleanTokens = ([x.strip().replace('\ufeff','').replace(',',', ').replace('  ',' ') for x in y] for y in tokens)
         yield from cleanTokens
 

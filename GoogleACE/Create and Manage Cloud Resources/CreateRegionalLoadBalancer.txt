@@ -1,0 +1,13 @@
+v0.1 Create Regional Load Balancer
+q   What are the steps to create a regional load balancer?  1. Set default region and zone 2. Create web server instances 3. Configure load balancing service
+q   What are the steps to create a web server instance? 1. Create instance  2. Create firewall rule
+q   What are the steps to configure a load balancing service?   1. Create a static external IP address 2. Add legacy HTTP health check 3. Add target pool 4. Add instances to pool 5. Add forwarding rule
+q   How would you set the default zone to us-east1-1?  gcloud config set compute/zone us-east1-1
+q   How would you set the default region to use-east1? gcloud config set compute/region us-east1
+q   How would you create a firewall rule called www-firewall-network-lb with tag network-lb-tag that allows TCP traffic on port 80? gcloud compute firewall-rules create www-firewall-network-lb --target-tags network-lb-tag --alow tcp:80
+q   How would you list compute VM instance? gcloud compute instances list
+q   How would you create a static external IP address for your load balancer called network-lb-ip-1 in region us-east1?    gcloud compute addresses create network-lb-ip-1 --region us-east1
+q   How would you create a legacy HTTP health check resource?   gcloud compute http-health-checks create basic-check
+q   How would you create a target pool called www-pool in region us-east1 with HTTP check basic-check?  gcloud compute target-pools create www-pool --region us-east1 --http-health-check basic-check
+q   How would you add instances [www1, www2, www3] to pool www-pool?    gcloud compute target-pools add-instances www-pool --instances www1,www2,www3
+q   How would you add a forwarding rule called www-rule in region us-east1, on port 80, pointing at extnernal IP network-lb-ip-1 using target-pool www-pool?    gcloud compute forwarding-rules create www-rule --region us-east1 --ports 80 --address network-lb-ip-1 --target-pool www-pool
